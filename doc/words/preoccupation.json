@@ -1,0 +1,48 @@
+{
+  "word": "preoccupation",
+  "created_at": "2026-02-12T00:00:00.000Z",
+  "phonetic": {
+    "uk": "/priˌɒkjʊˈpeɪʃn/",
+    "us": "/priˌɑːkjʊˈpeɪʃn/"
+  },
+  "definitions": [
+    {
+      "translation": "全神贯注；使人全神贯注的事物；成见，先入之见",
+      "partOfSpeech": { "en": "noun", "en_simple": "n.", "ch": "名词" },
+      "usage_note": "可数或不可数。作“全神贯注”时多为不可数；作“所关注的事”时常用复数 preoccupations。常与 with 连用（preoccupation with sth）。",
+      "sentences": [
+        { "en": "His main preoccupation was finding a job.", "zh": "他主要操心的是找一份工作。" },
+        { "en": "She was so lost in preoccupation that she didn't hear the doorbell.", "zh": "她全神贯注，连门铃都没听见。" },
+        { "en": "The government's preoccupation with economic growth has drawn criticism from environmental groups.", "zh": "政府对经济增长的执着受到了环保组织的批评。" }
+      ],
+      "collocations": [
+        { "collocation": "preoccupation with", "translation": "对…的全神贯注；对…的执着", "pattern": "名词+介词", "explain": "后接所关注的对象", "sentences": [{ "en": "Her preoccupation with detail made her a good editor.", "zh": "她对细节的专注使她成为一位好编辑。" }] }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "absorption": { "translation": "专注，全神贯注", "diffs": "absorption 强调完全沉浸；preoccupation 常带“挥之不去”的意味。" },
+        "obsession": { "translation": "痴迷，执念", "diffs": "obsession 程度更强，多带负面色彩；preoccupation 较中性。" }
+      },
+      "antonyms": {
+        "indifference": { "translation": "漠不关心" }
+      },
+      "inflections": { "plural": "preoccupations" }
+    }
+  ],
+  "etymology": {
+    "origin": "来自法语 préoccupation，源自拉丁语 praeoccupatio（先占）。",
+    "root": "occup-（占据）",
+    "affixes": ["pre-（前缀：在…之前）", "-ion（名词后缀）"],
+    "history": "原意“先占据（心思）”，引申为全神贯注、念念不忘的事。"
+  },
+  "related_words": {
+    "preoccupy": { "class": { "en": "verb", "en_s": "v.", "ch": "动词" }, "translation": "使全神贯注；占据（心思）", "rule": "preoccupation 的动词形式", "sentences": [{ "en": "The thought of the exam preoccupied him.", "zh": "考试的念头让他心神不宁。" }] }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    { "wrong": "preoccupation of", "correct": "preoccupation with", "explain": "表示“对…的专注”用 with，不用 of。" }
+  ],
+  "mnemonics": [
+    { "type": "词根记忆", "content": "pre-（先）+ occupation（占据）→ 事先占据心思 → 全神贯注、念念不忘。" }
+  ]
+}
