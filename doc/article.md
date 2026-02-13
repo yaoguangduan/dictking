@@ -47,17 +47,17 @@ CREATE TABLE articles (
 
 ### Query article list
 ```shell
-curl -u "AUTH_USER:AUTH_PASS" "http://{SVR_IP}:3000/api/data/articles?select=id,title,title_cn,tags,difficulty,created_at"
+curl -u "AUTH_USER:AUTH_PASS" "http://{SVR_IP}:3000/api/query/articles?select=id,title,title_cn,tags,difficulty,created_at"
 ```
 
 ### Query article detail
 ```shell
-curl -u "AUTH_USER:AUTH_PASS" "http://{SVR_IP}:3000/api/data/articles?id={ARTICLE_ID}"
+curl -u "AUTH_USER:AUTH_PASS" "http://{SVR_IP}:3000/api/query/articles?id={ARTICLE_ID}"
 ```
 
 ### Import an article
 ```shell
-curl -u "AUTH_USER:AUTH_PASS" -X PUT "http://{SVR_IP}:3000/api/data/articles" \
+curl -u "AUTH_USER:AUTH_PASS" -X PUT "http://{SVR_IP}:3000/api/save/articles" \
   -H "Content-Type: application/json" -d @payload.json
 ```
 Payload:

@@ -1,60 +1,20 @@
 /**
- * DictKing API 层 — 基于 RestBase REST 接口
+ * DictKing API 层 — 基于 @dtdyq/restbase-client 3.0
  *
  * RestBase 统一响应格式：{ code: "OK", data: T, pageNo?, pageSize?, total? }
  * 错误时 code 为非 "OK"（AUTH_ERROR / QUERY_ERROR / ...）
  */
-import RestBase from '@dtdyq/restbase-client';
-import axios, { type AxiosInstance, type AxiosResponse } from 'axios';
+import RestBase, { type ApiResponse, eq, like } from '@dtdyq/restbase-client';
 
-/* ═══════════ Axios 实例 ═══════════ */
+/* ═══════════ RestBase 客户端实例 ═══════════ */
 
-const api: AxiosInstance = axios.create({
-  baseURL: '/api',
-  timeout: 30000,
-  headers: { 'Content-Type': 'application/json' },
-});
+const rb = new RestBase(); // 同源部署，Vite proxy 转发 /api
 
-// 请求拦截器：添加 Bearer token
-api.interceptors.request.use((config) => {
-  const token = localStorage.getItem('auth_token');
-  if (token) {
-    config.headers.Authorization = `Bearer ${token}`;
-  }
-  return config;
-});
-
-// 响应拦截器：RestBase 始终返回 200，需要检查 code 字段
-api.interceptors.response.use((response) => {
-  const body = response.data;
-  // RestBase 业务错误（code !== "OK"）
-  if (body && typeof body === 'object' && body.code && body.code !== 'OK') {
-    // 鉴权错误 → 清除本地状态
-    if (body.code === 'AUTH_ERROR') {
-      const url = response.config.url || '';
-      const isAuthEndpoint = url.includes('/auth/login') || url.includes('/auth/register');
-      if (!isAuthEndpoint) {
-        localStorage.removeItem('auth_token');
-        localStorage.removeItem('user_info');
-        if (window.location.pathname !== '/login') {
-          window.location.href = '/login';
-        }
-      }
-    }
-    const err: any = new Error(body.message || body.code);
-    err.rbCode = body.code;
-    err.response = { data: body };
-    return Promise.reject(err);
-  }
-  return response;
-});
+// 从 localStorage 恢复 token
+const savedToken = localStorage.getItem('auth_token');
+if (savedToken) rb.auth.setToken(savedToken);
 
 /* ═══════════ 工具函数 ═══════════ */
-
-/** 从 RestBase 响应中提取 data 字段 */
-function unwrap<T = any>(res: AxiosResponse): T {
-  return res.data?.data as T;
-}
 
 /** 从 JWT token 解析 payload（不验签，仅解码） */
 function decodeJwt(token: string): { sub: string; uid: number; iat: number; exp: number } {
@@ -62,29 +22,61 @@ function decodeJwt(token: string): { sub: string; uid: number; iat: number; exp:
   return JSON.parse(atob(payload));
 }
 
+/**
+ * 统一错误守卫 — 检查 RestBase 响应码
+ * - code !== "OK" → 抛出错误
+ * - AUTH_ERROR + 非鉴权接口 → 清除本地状态并跳转登录页
+ */
+async function guard<T>(promise: Promise<ApiResponse<T>>, skipAuthRedirect = false): Promise<ApiResponse<T>> {
+  const res = await promise;
+  if (res.code !== 'OK') {
+    if (res.code === 'AUTH_ERROR' && !skipAuthRedirect) {
+      localStorage.removeItem('auth_token');
+      localStorage.removeItem('user_info');
+      if (window.location.pathname !== '/login') {
+        window.location.href = '/login';
+      }
+    }
+    const err: any = new Error(res.message || res.code);
+    err.rbCode = res.code;
+    err.response = { data: res };
+    throw err;
+  }
+  return res;
+}
+
 /* ═══════════ 认证 API ═══════════ */
 
 export const authAPI = {
   /** 注册 → 返回 { token, user } */
   async register(username: string, password: string) {
-    const res = await api.post('/auth/register', { username, password });
-    const token = unwrap<string>(res);
-    // 注册后立即设置 token，再获取 profile
+    const res = await guard(rb.auth.register(username, password), true);
+    const token = res.data;
     localStorage.setItem('auth_token', token);
-    const profileRes = await api.get('/auth/profile');
-    const profile = unwrap<any>(profileRes);
-    const user = { id: decodeJwt(token).uid, username: profile.username, current_dict: profile.current_dict || 'defaults', created_at: profile.created_at };
+    const profileRes = await guard(rb.auth.getProfile());
+    const profile = profileRes.data as any;
+    const user = {
+      id: decodeJwt(token).uid,
+      username: profile.username,
+      current_dict: profile.current_dict || 'defaults',
+      created_at: profile.created_at,
+    };
     return { data: { token, user } };
   },
 
   /** 登录 → 返回 { token, user } */
   async login(username: string, password: string) {
-    const res = await api.post('/auth/login', { username, password });
-    const token = unwrap<string>(res);
+    const res = await guard(rb.auth.login(username, password), true);
+    const token = res.data;
     localStorage.setItem('auth_token', token);
-    const profileRes = await api.get('/auth/profile');
-    const profile = unwrap<any>(profileRes);
-    const user = { id: decodeJwt(token).uid, username: profile.username, current_dict: profile.current_dict || 'defaults', created_at: profile.created_at };
+    const profileRes = await guard(rb.auth.getProfile());
+    const profile = profileRes.data as any;
+    const user = {
+      id: decodeJwt(token).uid,
+      username: profile.username,
+      current_dict: profile.current_dict || 'defaults',
+      created_at: profile.created_at,
+    };
     return { data: { token, user } };
   },
 
@@ -92,15 +84,15 @@ export const authAPI = {
   async getMe() {
     const token = localStorage.getItem('auth_token');
     if (!token) throw new Error('No token');
-    const res = await api.get('/auth/profile');
-    const profile = unwrap<any>(res);
+    const res = await guard(rb.auth.getProfile());
+    const profile = res.data as any;
     const { uid } = decodeJwt(token);
     return { data: { user: { id: uid, ...profile } } };
   },
 
   /** 更新当前词典 */
   async updateCurrentDict(dictId: string) {
-    await api.post('/auth/profile', { current_dict: dictId });
+    await guard(rb.auth.updateProfile({ current_dict: dictId }));
     return { data: { success: true, currentDict: dictId } };
   },
 };
@@ -110,15 +102,14 @@ export const authAPI = {
 export const dictionaryAPI = {
   /** 获取所有词典 */
   async getAll() {
-    const res = await api.get('/data/dictionaries');
-    const dicts = unwrap<any[]>(res);
-    return { data: dicts || [] };
+    const res = await guard(rb.table('dictionaries').query().exec());
+    return { data: res.data || [] };
   },
 
   /** 获取单个词典 */
   async getOne(id: string) {
-    const res = await api.get(`/data/dictionaries/${encodeURIComponent(id)}`);
-    return { data: unwrap<any>(res) };
+    const res = await guard(rb.table('dictionaries').get(id));
+    return { data: res.data };
   },
 };
 
@@ -135,40 +126,31 @@ export const wordAPI = {
     const pageSize = p.pageSize || 20;
     const order = p.order || 'word_asc';
 
-    // 构建 where 条件
-    const where: any[] = [['dictionary_id', dictId]];
+    const q = rb.table('words').query()
+      .select('word', 'brief')
+      .where(eq('dictionary_id', dictId));
+
     if (p.search) {
-      where.push(['word', 'like', `%${p.search}%`]);
+      q.where(like('word', `%${p.search}%`));
     }
 
-    // 构建 order
-    const orderArr: any[] = [];
     switch (order) {
-      case 'word_asc':  orderArr.push({ field: 'word', dir: 'asc' }); break;
-      case 'word_desc': orderArr.push({ field: 'word', dir: 'desc' }); break;
-      case 'time_asc':  orderArr.push({ field: 'created_at', dir: 'asc' }); break;
-      case 'time_desc': orderArr.push({ field: 'created_at', dir: 'desc' }); break;
-      case 'random':    orderArr.push({ field: 'id', dir: 'asc' }); break; // 随机在前端实现
+      case 'word_asc':  q.orderAsc('word'); break;
+      case 'word_desc': q.orderDesc('word'); break;
+      case 'time_asc':  q.orderAsc('created_at'); break;
+      case 'time_desc': q.orderDesc('created_at'); break;
+      case 'random':    q.orderAsc('id'); break;
     }
 
-    const body: any = {
-      select: ['word', 'brief'],
-      where,
-      order: orderArr,
-    };
-
-    // 搜索模式不分页
     if (!p.search) {
-      body.pageNo = pageNo;
-      body.pageSize = pageSize;
+      q.page(pageNo, pageSize);
     } else {
-      body.pageSize = 1000;
+      q.page(1, 1000);
     }
 
-    const res = await api.post('/query/words', body);
-    const resBody = res.data;
-    let rows: any[] = resBody.data || [];
-    const total = resBody.total || rows.length;
+    const res = await guard(q.exec());
+    let rows: any[] = res.data || [];
+    const total = res.total || rows.length;
 
     // 如果是随机排序，前端打乱
     if (order === 'random') {
@@ -194,44 +176,58 @@ export const wordAPI = {
 
   /** 获取单词详情（返回 wordData JSON） */
   async getDetail(dictId: string, word: string) {
-    const res = await api.post('/query/words', {
-      where: [['dictionary_id', dictId], ['word', word]],
-      pageSize: 1,
-    });
-    const rows = res.data?.data || [];
+    const res = await guard(
+      rb.table('words').query()
+        .where(eq('dictionary_id', dictId), eq('word', word))
+        .page(1, 1)
+        .exec()
+    );
+    const rows = res.data || [];
     if (rows.length === 0) {
       throw Object.assign(new Error('Word not found'), { response: { data: { error: 'Word not found' } } });
     }
-    const row = rows[0];
+    const row = rows[0] as any;
     const wordData = typeof row.data === 'string' ? JSON.parse(row.data) : row.data;
     return { data: wordData };
   },
 
   /** 获取随机单词（基于权重） — 在前端实现 */
-  async getRandom(dictId: string) {
-    // 1. 只获取单词名称列表（不查 data，避免全量返回几十 KB 数据）
+  async getRandom(dictId: string, excludeWords: string[] = []) {
+    // 1. 只获取单词名称列表 + 用户权重（并行）
     const [wordsRes, wRes] = await Promise.all([
-      api.post('/query/words', {
-        select: ['word'],
-        where: [['dictionary_id', dictId]],
-        pageSize: 1000,
-      }),
-      api.post('/query/user_word_weights', {
-        where: [['dictionary_id', dictId]],
-        pageSize: 1000,
-      }).catch(() => ({ data: { data: [] } })),  // 无权重数据，使用空数组
+      guard(
+        rb.table('words').query()
+          .select('word')
+          .where(eq('dictionary_id', dictId))
+          .page(1, 1000)
+          .exec()
+      ),
+      guard(
+        rb.table('user_word_weights').query()
+          .where(eq('dictionary_id', dictId))
+          .page(1, 1000)
+          .exec()
+      ).catch(() => ({ code: 'OK' as const, data: [] as any[] })),
     ]);
 
-    const allWords: any[] = wordsRes.data?.data || [];
+    let allWords: any[] = wordsRes.data || [];
     if (allWords.length === 0) {
       throw Object.assign(new Error('No words in dictionary'), { response: { data: { error: '词典中没有单词' } } });
     }
 
-    // 2. 构建权重映射
-    const weights: any[] = wRes.data?.data || [];
+    // 2. 排除最近出现过的单词
+    const excludeSet = new Set(excludeWords);
+    const filteredWords = allWords.filter((w: any) => !excludeSet.has(w.word));
+
+    if (filteredWords.length >= Math.max(5, allWords.length * 0.3)) {
+      allWords = filteredWords;
+    }
+
+    // 3. 构建权重映射
+    const weights: any[] = wRes.data || [];
     const weightMap = new Map<string, number>(weights.map((w: any) => [w.word, w.weight]));
 
-    // 3. 加权随机选择
+    // 4. 加权随机选择
     let totalWeight = 0;
     const wordWeights = allWords.map((w: any) => {
       const weight = weightMap.get(w.word) ?? 100;
@@ -249,21 +245,23 @@ export const wordAPI = {
       random -= item.weight;
     }
 
-    // 4. 根据选中的单词查询完整详情（只查一条）
-    const detailRes = await api.post('/query/words', {
-      where: [['dictionary_id', dictId], ['word', selected.word]],
-      pageSize: 1,
-    });
-    const detailRows = detailRes.data?.data || [];
+    // 5. 根据选中的单词查询完整详情
+    const detailRes = await guard(
+      rb.table('words').query()
+        .where(eq('dictionary_id', dictId), eq('word', selected.word))
+        .page(1, 1)
+        .exec()
+    );
+    const detailRows = detailRes.data || [];
     if (detailRows.length === 0) {
       throw Object.assign(new Error('Word not found'), { response: { data: { error: '单词详情未找到' } } });
     }
 
-    // 5. 记录历史（不阻塞主流程）
-    api.post('/data/user_history', { word: selected.word, dictionary_id: dictId }).catch(() => {});
+    // 6. 记录历史（不阻塞主流程）
+    rb.table('user_history').insert({ word: selected.word, dictionary_id: dictId }).catch(() => {});
 
-    // 6. 返回完整 wordData
-    const row = detailRows[0];
+    // 7. 返回完整 wordData
+    const row = detailRows[0] as any;
     const wordData = typeof row.data === 'string' ? JSON.parse(row.data) : row.data;
     return { data: wordData };
   },
@@ -274,11 +272,13 @@ export const wordAPI = {
 export const sentenceAPI = {
   /** 获取词典的所有例句 */
   async getAll(dictId: string) {
-    const res = await api.post('/query/sentences', {
-      where: [['dictionary_id', dictId]],
-      pageSize: 1000,
-    });
-    const rows: any[] = res.data?.data || [];
+    const res = await guard(
+      rb.table('sentences').query()
+        .where(eq('dictionary_id', dictId))
+        .page(1, 1000)
+        .exec()
+    );
+    const rows: any[] = res.data || [];
     const sentences = rows.map((s: any) => {
       const data = typeof s.data === 'string' ? JSON.parse(s.data) : s.data;
       return { id: s.id, en: data.en, zh: data.zh, keywords: data.keywords };
@@ -288,7 +288,7 @@ export const sentenceAPI = {
 
   /** 删除例句 */
   async delete(id: number) {
-    await api.delete(`/data/sentences/${id}`);
+    await guard(rb.table('sentences').delete(id));
     return { data: { success: true } };
   },
 };
@@ -296,29 +296,40 @@ export const sentenceAPI = {
 /* ═══════════ 权重 API ═══════════ */
 
 export const weightAPI = {
-  /** 获取用户在某词典的权重 → { weights: Record<string, number> } */
+  /** 获取用户在某词典的权重 → { weights: Record<string, { id?, weight }> } */
   async getWeights(dictId: string) {
-    const res = await api.post('/query/user_word_weights', {
-      where: [['dictionary_id', dictId]],
-      pageSize: 1000,
+    const res = await guard(
+      rb.table('user_word_weights').query()
+        .where(eq('dictionary_id', dictId))
+        .page(1, 1000)
+        .exec()
+    );
+    const rows: any[] = res.data || [];
+    const weights: Record<string, { id?: string; weight: number }> = {};
+    rows.forEach((w: any) => {
+      weights[w.word] = { id: w.id, weight: w.weight };
     });
-    const rows: any[] = res.data?.data || [];
-    const weights: Record<string, number> = {};
-    rows.forEach((w: any) => { weights[w.word] = w.weight; });
     return { data: { weights } };
   },
 
   /** 批量更新权重（Upsert） */
-  async updateWeights(dictId: string, weights: Record<string, number>) {
-    const items = Object.entries(weights).map(([word, weight]) => ({
-      dictionary_id: dictId,
-      word,
-      weight,
-    }));
+  async updateWeights(dictId: string, weights: Record<string, { id?: string; weight: number }>) {
+    const items = Object.entries(weights).map(([word, data]) => {
+      const item: any = {
+        dictionary_id: dictId,
+        word,
+        weight: data.weight,
+      };
+      if (data.id) {
+        item.id = data.id;
+      }
+      return item;
+    });
     if (items.length > 0) {
-      await api.put('/data/user_word_weights', items);
+      const res = await guard(rb.table('user_word_weights').upsert(items));
+      return { data: res.data };
     }
-    return { data: { success: true } };
+    return { data: { success: true, data: [] } };
   },
 };
 
@@ -344,25 +355,18 @@ export const articleAPI = {
     const pageNo = p.page || 1;
     const pageSize = p.pageSize || 20;
 
-    const where: any[] = [];
+    const q = rb.table('articles').query()
+      .select('id', 'title', 'title_cn', 'tags', 'difficulty', 'created_at')
+      .orderDesc('created_at')
+      .page(pageNo, pageSize);
+
     if (p.search) {
-      where.push(['title', 'like', `%${p.search}%`]);
+      q.where(like('title', `%${p.search}%`));
     }
 
-    const body: any = {
-      select: ['id', 'title', 'title_cn', 'tags', 'difficulty', 'created_at'],
-      order: [{ field: 'created_at', dir: 'desc' }],
-      pageNo,
-      pageSize,
-    };
-    if (where.length > 0) {
-      body.where = where;
-    }
-
-    const res = await api.post('/query/articles', body);
-    const resBody = res.data;
-    const rows: any[] = resBody.data || [];
-    const total = resBody.total || rows.length;
+    const res = await guard(q.exec());
+    const rows: any[] = res.data || [];
+    const total = res.total || rows.length;
 
     const articles = rows.map((r: any) => ({
       id: r.id,
@@ -386,15 +390,17 @@ export const articleAPI = {
 
   /** 获取文章详情（返回 content JSON） */
   async getDetail(articleId: number | string) {
-    const res = await api.post('/query/articles', {
-      where: [['id', articleId]],
-      pageSize: 1,
-    });
-    const rows = res.data?.data || [];
+    const res = await guard(
+      rb.table('articles').query()
+        .where(eq('id', articleId))
+        .page(1, 1)
+        .exec()
+    );
+    const rows = res.data || [];
     if (rows.length === 0) {
       throw Object.assign(new Error('Article not found'), { response: { data: { error: 'Article not found' } } });
     }
-    const row = rows[0];
+    const row = rows[0] as any;
     const content = typeof row.content === 'string' ? JSON.parse(row.content) : row.content;
     return {
       data: {
@@ -410,4 +416,4 @@ export const articleAPI = {
   },
 };
 
-export default api;
+export default rb;

@@ -21,7 +21,7 @@ const articlesDir = join(import.meta.dirname, 'articles');
 let existingTitles = new Set();
 try {
   const checkResult = execSync(
-    `curl -s -u "${AUTH_USER}:${AUTH_PASS}" "http://${SVR_IP}:3000/api/data/articles?select=title"`,
+    `curl -s -u "${AUTH_USER}:${AUTH_PASS}" "http://${SVR_IP}:3000/api/query/articles?select=title"`,
     { encoding: 'utf-8', timeout: 15000 }
   );
   const parsed = JSON.parse(checkResult);
@@ -74,7 +74,7 @@ for (const file of files) {
 
   try {
     const result = execSync(
-      `curl -s -u "${AUTH_USER}:${AUTH_PASS}" -X PUT "http://${SVR_IP}:3000/api/data/articles" -H "Content-Type: application/json" -d @${tmpFile}`,
+      `curl -s -u "${AUTH_USER}:${AUTH_PASS}" -X PUT "http://${SVR_IP}:3000/api/save/articles" -H "Content-Type: application/json" -d @${tmpFile}`,
       { encoding: 'utf-8', timeout: 30000 }
     );
     const parsed = JSON.parse(result);

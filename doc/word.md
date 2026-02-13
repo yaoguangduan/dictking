@@ -8,7 +8,7 @@ Generated word JSON files go into `doc/words/` directory (no need to delete afte
 
 ### Query words in a dictionary
 ```shell
-curl -u "AUTH_USER:AUTH_PASS" "http://{SVR_IP}:3000/api/data/words?dictionary_id={DICT_ID}&select=word"
+curl -u "AUTH_USER:AUTH_PASS" "http://{SVR_IP}:3000/api/query/words?dictionary_id={DICT_ID}&select=word"
 ```
 Response:
 ```json
@@ -23,7 +23,7 @@ Response:
 
 ### Import a word
 ```shell
-curl -u "AUTH_USER:AUTH_PASS" -X PUT "http://{SVR_IP}:3000/api/data/words" \
+curl -u "AUTH_USER:AUTH_PASS" -X PUT "http://{SVR_IP}:3000/api/save/words" \
   -H "Content-Type: application/json" -d @payload.json
 ```
 Payload:

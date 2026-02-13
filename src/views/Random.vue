@@ -169,7 +169,7 @@ const HIDE_MEANING_KEY = 'random_hide_meaning'
 
 const currentWord = ref(null)
 const history = ref([])
-const weights = ref({})  // 只存储修改过的权重
+const weights = ref({})  // 存储权重数据：{ word: { id, weight } }
 let isFromDetail = false  // 标记是否从详情页返回
 const showWeightDialog = ref(false)
 const showDisplayDialog = ref(false)
@@ -186,8 +186,9 @@ const touchOffset = ref(0)
 const loadWeights = async () => {
   try {
     const response = await weightAPI.getWeights(userCurrentDict.value)
-    // 只存储修改过的权重
+    // 存储权重数据（包含 id 和 weight）
     weights.value = response.data.weights || {}
+    console.log('Loaded weights:', weights.value)
   } catch (error) {
     console.error('Failed to load weights:', error)
   }
@@ -196,7 +197,9 @@ const loadWeights = async () => {
 const loadRandomWord = async () => {
   loading.value = true
   try {
-    const response = await wordAPI.getRandom(userCurrentDict.value)
+    // 提取历史记录中的单词名称，作为排除列表
+    const excludeWords = history.value.map(w => w.word)
+    const response = await wordAPI.getRandom(userCurrentDict.value, excludeWords)
     
     currentWord.value = response.data
     revealWord.value = false
@@ -212,7 +215,8 @@ const loadRandomWord = async () => {
 const openWeightDialog = () => {
   if (currentWord.value) {
     // 设置当前单词的权重（如果没有设置过，默认100）
-    currentWeight.value = weights.value[currentWord.value.word] || 100
+    const weightData = weights.value[currentWord.value.word]
+    currentWeight.value = weightData?.weight || 100
     showWeightDialog.value = true
   }
 }
@@ -222,14 +226,41 @@ const saveCurrentWeight = async () => {
   
   try {
     const wordName = currentWord.value.word
+    const existingData = weights.value[wordName]
     
-    // 更新本地权重
-    weights.value[wordName] = currentWeight.value
+    // 构建要更新的权重数据（保留 id）
+    const weightData = {
+      id: existingData?.id,  // 保留已有的 id，如果是新记录则为 undefined
+      weight: currentWeight.value
+    }
     
-    // 只发送当前单词的权重
-    await weightAPI.updateWeights(userCurrentDict.value, {
-      [wordName]: currentWeight.value
+    console.log('Saving weight for', wordName, ':', weightData)
+    
+    // 发送当前单词的权重
+    const response = await weightAPI.updateWeights(userCurrentDict.value, {
+      [wordName]: weightData
     })
+    
+    console.log('Save response:', response.data)
+    
+    // 从后端响应中获取更新后的数据（包含 id）
+    const updatedRecords = response.data?.data || []
+    if (updatedRecords.length > 0) {
+      // 更新本地权重数据，确保包含后端返回的 id
+      updatedRecords.forEach((record) => {
+        if (record.word === wordName) {
+          weights.value[wordName] = {
+            id: record.id,
+            weight: record.weight
+          }
+          console.log('Updated local weight with id:', record.id)
+        }
+      })
+    } else {
+      // 如果没有返回数据，至少保存我们发送的权重值
+      weights.value[wordName] = weightData
+    }
+    
     showToast('Saved')
     showWeightDialog.value = false
   } catch (error) {
@@ -274,10 +305,12 @@ const showHistory = () => {
 const showNext = async () => {
   if (currentWord.value) {
     history.value.push(currentWord.value)
+    // 保留最近 10 个单词的历史，避免短期内重复
     if (history.value.length > 10) {
       history.value.shift()
     }
   }
+  // 加载随机单词时会自动排除 history 中的单词
   await loadRandomWord()
 }
 

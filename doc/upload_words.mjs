@@ -42,7 +42,7 @@ for (const word of targetWords) {
 
   try {
     const result = execSync(
-      `curl -s -u "${AUTH_USER}:${AUTH_PASS}" -X PUT "http://${SVR_IP}:3000/api/data/words" -H "Content-Type: application/json" -d @${tmpFile}`,
+      `curl -s -u "${AUTH_USER}:${AUTH_PASS}" -X PUT "http://${SVR_IP}:3000/api/save/words" -H "Content-Type: application/json" -d @${tmpFile}`,
       { encoding: 'utf-8', timeout: 30000 }
     );
     const parsed = JSON.parse(result);
