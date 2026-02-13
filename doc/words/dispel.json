@@ -1,0 +1,48 @@
+{
+    "word": "dispel",
+    "created_at": "2026-02-13T03:00:00Z",
+    "phonetic": { "uk": "/dɪˈspel/", "us": "/dɪˈspel/" },
+    "definitions": [
+        {
+            "translation": "驱散；消除",
+            "partOfSpeech": { "en": "verb", "en_simple": "v.", "ch": "动词" },
+            "usage_note": "及物动词。后接 doubts, fears, myths, rumors, clouds, darkness 等宾语。表示驱散疑虑、恐惧、谣言，或驱散云雾、黑暗等。",
+            "sentences": [
+                { "en": "The announcement dispelled any doubts about the company's future.", "zh": "这项公告消除了人们对公司未来的任何疑虑。" },
+                { "en": "Sunrise dispelled the darkness from the valley.", "zh": "日出驱散了山谷中的黑暗。" },
+                { "en": "Her smile dispelled my fears about the interview.", "zh": "她的微笑消除了我对面试的恐惧。" }
+            ],
+            "collocations": [
+                { "collocation": "dispel myths", "translation": "消除谬论/破除迷信", "sentences": [{ "en": "The documentary aims to dispel myths about sharks.", "zh": "这部纪录片旨在破除人们对鲨鱼的谬见。" }] },
+                { "collocation": "dispel doubts", "translation": "消除疑虑", "sentences": [{ "en": "His confident presentation dispelled all doubts among the investors.", "zh": "他自信的展示消除了投资者们的一切疑虑。" }] },
+                { "collocation": "dispel rumors", "translation": "澄清谣言", "sentences": [{ "en": "The CEO held a press conference to dispel rumors of a merger.", "zh": "首席执行官召开新闻发布会以澄清合并的谣言。" }] }
+            ],
+            "phrases": [
+                { "phrase": "dispel the clouds", "translation": "拨云见日；驱散阴云", "sentences": [{ "en": "A gust of wind dispelled the clouds and revealed the mountains.", "zh": "一阵风驱散了云层，露出了山峦。" }] }
+            ],
+            "synonyms": {
+                "banish": { "translation": "驱逐；消除", "diffs": "banish 更正式，常指驱逐人或消除思想；dispel 强调使消散、驱散", "sentences": [{ "en": "She tried to banish all thoughts of him from her mind.", "zh": "她试图把关于他的一切念头从脑海中驱逐出去。" }] },
+                "dismiss": { "translation": "摒弃；驳回", "diffs": "dismiss 侧重不予考虑、驳回；dispel 侧重使消散、驱除", "sentences": [{ "en": "He dismissed the idea as impractical.", "zh": "他以不切实际为由摒弃了这个想法。" }] },
+                "dissipate": { "translation": "驱散；消散", "diffs": "dissipate 可及物可不及物，多指物理上的消散；dispel 多用于抽象事物如疑虑、恐惧", "sentences": [{ "en": "The fog dissipated as the sun rose.", "zh": "太阳升起时，雾消散了。" }] }
+            },
+            "antonyms": {
+                "create": { "translation": "创造；引起", "diffs": "与 dispel（消除）相反，create 指产生新的东西", "sentences": [{ "en": "The scandal created widespread doubt about the government.", "zh": "丑闻引发了对政府的广泛质疑。" }] },
+                "foster": { "translation": "培养；助长", "diffs": "foster 促进某种情绪或想法滋生；dispel 则消除之", "sentences": [{ "en": "Their propaganda fostered mistrust among the population.", "zh": "他们的宣传在民众中助长了不信任。" }] }
+            },
+            "inflections": { "past_tense": "dispelled", "past_participle": "dispelled", "present_participle": "dispelling", "third_person": "dispels" }
+        }
+    ],
+    "etymology": { "origin": "源自拉丁语 dispellere，由 dis-（apart，分离）和 pellere（to drive，驱赶）组成。", "root": "pellere（驱赶）", "affixes": ["dis-（前缀：apart）", "-el（动词词尾）"] },
+    "related_words": {
+        "dispelling": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "驱散；消除（动名词）", "rule": "dispel 的现在分词作名词用", "sentences": [{ "en": "The dispelling of these myths requires education.", "zh": "消除这些谬论需要教育。" }] },
+        "dispeller": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "驱散者；消除者", "rule": "dispel + -er 表施动者", "sentences": [{ "en": "He was known as a dispeller of doubt.", "zh": "他以消除疑虑著称。" }] }
+    },
+    "idioms": [],
+    "common_mistakes": [
+        { "wrong": "dispell", "correct": "dispel", "explain": "动词原形拼写为 dispel（单 l）。双写 l 仅出现在屈折形式中：dispelled, dispelling。" }
+    ],
+    "mnemonics": [
+        { "type": "词根记忆", "content": "dis-（ away）+ pel-（to drive，驱赶）→ 驱赶走 → 驱散、消除。" },
+        { "type": "联想记忆", "content": "dispel 中的 pel 与 propel（推进）同源，都含 \"推动\" 之意；dis- 表 \" away\"，合起来即 \"推开、驱散\"。" }
+    ]
+}

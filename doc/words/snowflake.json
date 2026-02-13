@@ -1,0 +1,289 @@
+{
+    "word": "snowflake",
+    "created_at": "2026-02-13T02:00:00Z",
+    "phonetic": {
+        "uk": "/ˈsnəʊfleɪk/",
+        "us": "/ˈsnoʊfleɪk/"
+    },
+    "definitions": [
+        {
+            "translation": "雪花",
+            "partOfSpeech": {
+                "en": "noun",
+                "en_simple": "n.",
+                "ch": "名词"
+            },
+            "usage_note": "可数名词。指从云中飘落的单片雪结晶，每片雪花都有独特的六角形结构。常用于形容独特、易逝或脆弱之物。",
+            "sentences": [
+                {
+                    "en": "Each snowflake has a unique six-sided crystal structure, no two are exactly alike.",
+                    "zh": "每一片雪花都有独特的六边形晶体结构，没有两片是完全相同的。"
+                },
+                {
+                    "en": "The children caught snowflakes on their tongues as they fell from the sky.",
+                    "zh": "孩子们伸出舌头接住从天上飘落的雪花。"
+                },
+                {
+                    "en": "A single snowflake landed on her window and melted instantly against the warm glass.",
+                    "zh": "一片雪花落在她的窗上，一碰到温暖的玻璃就立刻融化了。"
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "snowflake pattern",
+                    "translation": "雪花图案；雪花纹",
+                    "sentences": [
+                        {
+                            "en": "The scarf was knitted with a delicate snowflake pattern along the edges.",
+                            "zh": "这条围巾的边缘织有精致的雪花图案。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "unique as a snowflake",
+                    "translation": "像雪花般独一无二；独一无二",
+                    "sentences": [
+                        {
+                            "en": "Every child is unique as a snowflake, with their own strengths and qualities.",
+                            "zh": "每个孩子都像雪花般独一无二，各有各的优点和特质。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "delicate snowflake",
+                    "translation": " delicate snowflake",
+                    "sentences": [
+                        {
+                            "en": "The delicate snowflakes drifted gently to the ground in the quiet morning.",
+                            "zh": "在宁静的清晨， delicate snowflake 轻轻飘落到地面上。"
+                        }
+                    ]
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "snowflake in one's hand",
+                    "translation": "掌心雪花；易逝的美好",
+                    "sentences": [
+                        {
+                            "en": "The moment was like a snowflake in one's hand—beautiful but fleeting.",
+                            "zh": "那一刻就像掌心的雪花——美丽却转瞬即逝。"
+                        }
+                    ]
+                }
+            ],
+            "synonyms": {
+                "crystal": {
+                    "translation": "冰晶；晶体",
+                    "diffs": "crystal 泛指各类晶体，范围更广；snowflake 特指雪花结晶。",
+                    "sentences": [
+                        {
+                            "en": "Snowflakes are ice crystals that form in clouds.",
+                            "zh": "雪花是在云层中形成的冰晶。"
+                        }
+                    ]
+                }
+            },
+            "antonyms": {}
+        },
+        {
+            "translation": "玻璃心；过于敏感的人；（ informal/derogatory）易受冒犯的人",
+            "partOfSpeech": {
+                "en": "noun",
+                "en_simple": "n.",
+                "ch": "名词"
+            },
+            "usage_note": "非正式、常带贬义的俚语用法，2010 年代流行。源自「没有两片雪花相同」的概念被讽刺为「自以为独特」。指过分敏感、容易被冒犯或过度要求特殊对待的人。",
+            "sentences": [
+                {
+                    "en": "He called his critics snowflakes because they couldn't handle his controversial jokes.",
+                    "zh": "他把批评者称为玻璃心，因为他们受不了他的争议性玩笑。"
+                },
+                {
+                    "en": "Don't be such a snowflake—a little constructive criticism won't hurt you.",
+                    "zh": "别那么玻璃心——一点建设性的批评伤不到你。"
+                },
+                {
+                    "en": "The term snowflake has become a political insult used to dismiss people seen as overly sensitive.",
+                    "zh": "snowflake 一词已成为政治侮辱语，用来贬低被视为过于敏感的人。"
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "special snowflake",
+                    "translation": "自以为特别的人；自我感觉特殊的人",
+                    "sentences": [
+                        {
+                            "en": "She thinks she's a special snowflake who deserves special treatment everywhere she goes.",
+                            "zh": "她觉得自己是特别的存在，走到哪里都该被特殊对待。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "snowflake generation",
+                    "translation": "玻璃心一代；Z 世代（含贬义）",
+                    "sentences": [
+                        {
+                            "en": "Some older critics dismiss young people as the snowflake generation.",
+                            "zh": "一些年长的批评者把年轻人贬为「玻璃心一代」。"
+                        }
+                    ]
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "triggered snowflake",
+                    "translation": "被触怒的玻璃心；一碰就炸的人",
+                    "sentences": [
+                        {
+                            "en": "He got offended by the joke—what a triggered snowflake.",
+                            "zh": "他被这个笑话惹恼了——真是个一碰就炸的玻璃心。"
+                        }
+                    ]
+                }
+            ],
+            "synonyms": {
+                "sensitive soul": {
+                    "translation": "敏感的人",
+                    "diffs": "sensitive soul 为中性或略带同情；snowflake 为贬义、讽刺。",
+                    "sentences": [
+                        {
+                            "en": "She's a sensitive soul who takes criticism to heart.",
+                            "zh": "她是个敏感的人，很会把批评放在心上。"
+                        }
+                    ]
+                }
+            },
+            "antonyms": {
+                "thick-skinned": {
+                    "translation": "脸皮厚；不易受伤害",
+                    "diffs": "thick-skinned 形容不易被冒犯；与 snowflake 的敏感形成对照。",
+                    "sentences": [
+                        {
+                            "en": "You need to be thick-skinned to work in politics.",
+                            "zh": "搞政治得脸皮厚、扛得住。"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "etymology": {
+        "origin": "复合词，由 snow（雪）+ flake（薄片）构成。snow 源自古英语 snāw（与德语 Schnee 同源）；flake 源自古诺斯语 flak（ flat piece，扁平薄片），原指剥落的薄片。",
+        "root": "古英语 snāw（雪）+ 古诺斯语 flak（扁平薄片）",
+        "affixes": [
+            "snow（雪，名词根）",
+            "flake（薄片、碎片，名词根）"
+        ]
+    },
+    "related_words": {
+        "snow": {
+            "class": {
+                "en": "noun",
+                "en_s": "n.",
+                "ch": "名词"
+            },
+            "translation": "雪",
+            "rule": "snowflake 的第一构成部分",
+            "sentences": [
+                {
+                    "en": "The snow fell gently throughout the night.",
+                    "zh": "雪整夜轻轻飘落。"
+                }
+            ]
+        },
+        "flake": {
+            "class": {
+                "en": "noun",
+                "en_s": "n.",
+                "ch": "名词"
+            },
+            "translation": "薄片；碎片；小片",
+            "rule": "snowflake 的第二构成部分",
+            "sentences": [
+                {
+                    "en": "Flakes of paint were peeling off the old wall.",
+                    "zh": "老墙上的油漆一片片剥落。"
+                }
+            ]
+        },
+        "snowfall": {
+            "class": {
+                "en": "noun",
+                "en_s": "n.",
+                "ch": "名词"
+            },
+            "translation": "降雪； snowfall 量",
+            "rule": "snow + fall，指雪落下或降雪量",
+            "sentences": [
+                {
+                    "en": "We had a heavy snowfall last winter.",
+                    "zh": "去年冬天下了很大的雪。"
+                }
+            ]
+        },
+        "snowstorm": {
+            "class": {
+                "en": "noun",
+                "en_s": "n.",
+                "ch": "名词"
+            },
+            "translation": "暴风雪",
+            "rule": "snow + storm",
+            "sentences": [
+                {
+                    "en": "The snowstorm shut down all the roads.",
+                    "zh": "暴风雪让所有道路都封闭了。"
+                }
+            ]
+        }
+    },
+    "idioms": [
+        {
+            "idiom": "special snowflake",
+            "translation": "自以为特别的人；自我感觉与众不同的人",
+            "usage_note": "常带贬义，讽刺某人自视独特、要求特殊对待。源自「没有两片雪花相同」被过度引申为「每个人都是独一无二的特别存在」。",
+            "sentences": [
+                {
+                    "en": "Stop acting like a special snowflake—you're not entitled to different rules than everyone else.",
+                    "zh": "别自以为是特别的存在——你没资格要求不同于他人的规则。"
+                },
+                {
+                    "en": "The phrase 'special snowflake' is often used to mock those who demand excessive accommodation.",
+                    "zh": "「special snowflake」常用来嘲讽那些过度要求迁就的人。"
+                }
+            ]
+        }
+    ],
+    "common_mistakes": [
+        {
+            "wrong": "snow-flake",
+            "correct": "snowflake",
+            "explain": "现代英语中 snowflake 通常写作一个词，不再使用连字符。"
+        },
+        {
+            "wrong": "snow flake (分开拼写)",
+            "correct": "snowflake",
+            "explain": "作为复合名词应写成一个词 snowflake；snow flake 分开时只表示「雪的薄片」，非标准复合名词形式。"
+        },
+        {
+            "wrong": "将俚语义用于正式场合",
+            "correct": "正式文体使用 literal 义（雪花）",
+            "explain": "snowflake 的俚语义（玻璃心）为 informal/derogatory，正式写作或学术语境应只用 literal 义，或避免该俚语用法。"
+        }
+    ],
+    "mnemonics": [
+        {
+            "type": "词源联想",
+            "content": "snow（雪）+ flake（薄片）→ 雪的薄片 → 雪花。flake 可联想为「剥落的小片」，如 paint flake（油漆剥落）。"
+        },
+        {
+            "type": "形象记忆",
+            "content": "雪花（snowflake）有独特晶体结构 → 联想「独一无二」→ 俚语中讽刺「自以为独一无二的特别存在」→ 玻璃心。"
+        },
+        {
+            "type": "对比记忆",
+            "content": "literal：雪花易融、脆弱 → 比喻易逝之美。slang：如雪花般「特殊」被讽刺为过度敏感 → 玻璃心、一碰就炸。"
+        }
+    ]
+}

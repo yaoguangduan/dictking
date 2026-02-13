@@ -1,0 +1,116 @@
+{
+    "title": "The Future of Work: Not Remote, Not Back in the Office, Only Hybrid",
+    "title_zh": "工作的未来：既非完全远程，也非回归办公室，唯有混合模式",
+    "author": "BBC Storyworks / CNBC",
+    "source": "BBC, CNBC",
+    "created_at": "2025-02-02",
+    "difficulty": "easy",
+    "tags": ["remote work", "hybrid", "workplace", "future of work", "RTO"],
+    "summary": "The pandemic has permanently changed how we work. Experts predict that hybrid work will be the dominant model going forward, with most employees wanting choice over where and how they work. However, some major companies have issued return-to-office mandates, which risk driving away talented employees.",
+    "summary_zh": "疫情永久改变了我们的工作方式。专家预测混合办公将成为未来主流模式，大多数员工希望自主选择工作地点和方式。然而，一些大型企业已发布返岗指令，这可能促使优秀人才流失。",
+    "paragraphs": [
+        {
+            "en": "When it comes to changing the way the entire human race lives, works, learns and plays, there are few parallels in history to the Covid-19 pandemic. Not just companies, but entire countries across the globe have had to embrace change at a scale we have never seen before. Among the changes the pandemic has triggered, the one that is likely to impact future generations is the global rethink of the way we work.",
+            "zh": "在改变全人类生活、工作、学习和娱乐方式方面，历史上很少有可与新冠疫情相提并论的事件。不仅是公司，全球各国都不得不以前所未有的规模拥抱变革。疫情引发的诸多变化中，最可能影响未来几代人的，是对工作方式的全球性反思。",
+            "keywords": ["pandemic", "embrace", "trigger", "rethink", "generations"],
+            "notes": [
+                {"phrase": "there are few parallels in", "explain": "几乎没有可与之相比的事物；parallel 作名词表示 \"类似事物\"，常用于否定句"},
+                {"phrase": "embrace change", "explain": "拥抱变化；embrace 在此表示欣然接受、采纳"}
+            ]
+        },
+        {
+            "en": "According to Cisco's Workforce of the Future study, which surveyed more than 14,000 workers across the Asia-Pacific region, the majority want greater ownership and choice about how and where they work. Their choice is being influenced by a range of benefits that have emerged from a distributed workforce arrangement. Many feel trust has increased among managers and teams as they have continued to deliver results despite working remotely.",
+            "zh": "根据思科对亚太地区超过1.4万名员工的「未来劳动力」调查，大多数人希望对工作方式和地点拥有更多自主权和选择权。他们的选择受到分布式工作安排带来的诸多益处的影响。许多人体会到，尽管远程办公，管理者和团队之间的信任反而增加了，因为大家仍在持续交付成果。",
+            "keywords": ["ownership", "distributed workforce", "deliver results", "trust", "surveyed"],
+            "notes": [
+                {"phrase": "greater ownership", "explain": "更大的自主权；ownership 在此引申为对某事的控制权和责任感"},
+                {"phrase": "deliver results", "explain": "交付成果；deliver 在商业语境中常表示完成、实现（目标）"}
+            ]
+        },
+        {
+            "en": "In recent months, companies like Amazon, AT&T, Boeing, Dell and Walmart have called select staffers into the office five days a week. RTO marching orders reached the White House after President Trump signed an executive order directing federal workers to report to offices full-time. The trend could trigger waves of quitting and disengagement at work, experts warn, especially among high performers.",
+            "zh": "近几个月来，亚马逊、美国电话电报公司、波音、戴尔和沃尔玛等企业要求部分员工每周五天到岗。特朗普总统签署行政令要求联邦雇员全面返岗后，返岗指令也波及白宫。专家警告，这一趋势可能引发离职潮和工作消极情绪，尤其会影响高绩效员工。",
+            "keywords": ["RTO", "executive order", "disengagement", "high performers", "staffers"],
+            "notes": [
+                {"phrase": "RTO marching orders", "explain": "RTO 即 Return to Office（返岗）；marching orders 原意是行军命令，此处比喻强制性的返岗要求"},
+                {"phrase": "trigger waves of", "explain": "引发一连串的……；wave 比喻接踵而至的一波波事件"}
+            ]
+        },
+        {
+            "en": "Nearly half, 46%, of hybrid and remote workers said they would be unlikely to stay in their job if their employer called them back to offices full-time, according to a Pew Research Center survey. The workers most likely to quit after RTO mandates tended to be highly skilled and tenured star employees. Research from the University of Pittsburgh found firms that cut workplace flexibility experienced abnormally high turnover.",
+            "zh": "皮尤研究中心调查显示，近半数（46%）混合和远程工作者表示，若雇主强制全面返岗，他们很可能会离职。在返岗要求下达后最可能辞职的，往往是技术娴熟、资历深厚的明星员工。匹兹堡大学研究发现，减少工作灵活性的企业经历了异常高的人员流失。",
+            "keywords": ["tenured", "turnover", "flexibility", "mandates", "abnormally"],
+            "notes": [
+                {"phrase": "tenured star employees", "explain": "tenured 原指获得终身教职，此处引申为资深、稳定的核心员工"},
+                {"phrase": "abnormally high turnover", "explain": "异常高的人员流动率；turnover 指员工离职和更替"}
+            ]
+        },
+        {
+            "en": "Generally, experts expect some form of hybrid will be dominant, rather than a five-day return-to-office. Of the S&P 500 firms studied in 2024, just 10 announced full-time returns for some staff throughout the year. Most firms have already figured out their hybrid policy by now. Unless something goes wrong, they are unlikely to change that position.",
+            "zh": "总体而言，专家预计某种形式的混合办公将成为主流，而非全面五天到岗。在2024年研究的标普500企业中，全年仅有10家宣布部分员工全面返岗。大多数企业如今已确定 hybrid 政策，除非出现重大问题，否则不太可能改变立场。",
+            "keywords": ["dominant", "figured out", "hybrid policy", "S&P 500", "position"],
+            "notes": [
+                {"phrase": "figured out", "explain": "想清楚、确定；非正式的 \"弄明白\" 表达"},
+                {"phrase": "change that position", "explain": "改变立场；position 在商业/政策语境中指立场、态度"}
+            ]
+        },
+        {
+            "en": "Employees are unlikely to commute to the office to work individually on emails or be on video calls. They will go to the office to get together with their teams and colleagues, for collective work, brainstorming sessions, building connections and other social rituals. The one big realisation companies have had is that work is not a place you go to, but a set of tasks that you do.",
+            "zh": "员工不太可能通勤到办公室只是为了单独处理邮件或参加视频会议。他们会去办公室与团队和同事聚在一起，进行协作工作、头脑风暴、建立人脉以及其他社交活动。企业的一大认识是：工作不是你去的一个地方，而是你要完成的一系列任务。",
+            "keywords": ["commute", "brainstorming", "collective work", "social rituals", "realisation"],
+            "notes": [
+                {"phrase": "social rituals", "explain": "社交仪式；ritual 指常规、仪式性的社交活动"},
+                {"phrase": "a set of tasks", "explain": "一系列任务；set 表示成套、成组的事物"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "hybrid",
+            "phonetic": "/ˈhaɪbrɪd/",
+            "meaning": "混合的；混合体",
+            "partOfSpeech": "adj./n.",
+            "example": "Some form of hybrid will be dominant, rather than a five-day return-to-office."
+        },
+        {
+            "word": "embrace",
+            "phonetic": "/ɪmˈbreɪs/",
+            "meaning": "拥抱；欣然接受",
+            "partOfSpeech": "v.",
+            "example": "Entire countries across the globe have had to embrace change at a scale we have never seen before."
+        },
+        {
+            "word": "mandate",
+            "phonetic": "/ˈmændeɪt/",
+            "meaning": "强制性命令；授权",
+            "partOfSpeech": "n.",
+            "example": "RTO marching orders reached the White House after the executive order."
+        },
+        {
+            "word": "turnover",
+            "phonetic": "/ˈtɜːrnoʊvər/",
+            "meaning": "人员流动率；营业额",
+            "partOfSpeech": "n.",
+            "example": "Firms that cut workplace flexibility experienced abnormally high turnover."
+        },
+        {
+            "word": "disengagement",
+            "phonetic": "/ˌdɪsɪnˈɡeɪdʒmənt/",
+            "meaning": "疏离；消极怠工",
+            "partOfSpeech": "n.",
+            "example": "The trend could trigger waves of quitting and disengagement at work."
+        },
+        {
+            "word": "commute",
+            "phonetic": "/kəˈmjuːt/",
+            "meaning": "通勤（往返于家与工作地点）",
+            "partOfSpeech": "v.",
+            "example": "Employees are unlikely to commute to the office to work individually on emails."
+        }
+    ],
+    "discussion_questions": [
+        {"en": "Do you prefer hybrid work, fully remote, or full-time office? Why?", "zh": "你更喜欢混合办公、完全远程还是全天到岗？为什么？"},
+        {"en": "What are the main benefits and challenges of hybrid work for both employers and employees?", "zh": "混合办公对雇主和员工的主要好处和挑战分别是什么？"},
+        {"en": "How might RTO mandates affect company culture and employee retention in the long run?", "zh": "从长远来看，强制返岗政策会如何影响公司文化和员工留任？"}
+    ]
+}

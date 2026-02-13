@@ -1,0 +1,48 @@
+{
+  "word": "secular",
+  "created_at": "2026-02-13T03:00:00Z",
+  "phonetic": { "uk": "/ˈsekjʊlə/", "us": "/ˈsekjələr/" },
+  "definitions": [
+    {
+      "translation": "世俗的；非宗教的",
+      "partOfSpeech": { "en": "adjective", "en_simple": "adj.", "ch": "形容词" },
+      "usage_note": "形容与宗教无关的、世俗世界的事务。可作定语或表语。",
+      "sentences": [
+        { "en": "In a secular society, religion is a private matter.", "zh": "在世俗社会中，宗教是私事。" },
+        { "en": "The country adopted a secular constitution separating church and state.", "zh": "该国通过了政教分离的世俗宪法。" },
+        { "en": "Secular music flourished during the Renaissance alongside religious works.", "zh": "文艺复兴时期，世俗音乐与宗教作品共同繁荣。" }
+      ],
+      "collocations": [
+        { "collocation": "secular society", "translation": "世俗社会", "sentences": [{ "en": "Modern democracies are typically secular societies.", "zh": "现代民主国家通常是世俗社会。" }] },
+        { "collocation": "secular education", "translation": "世俗教育；非宗教教育", "sentences": [{ "en": "Public schools provide secular education free from religious instruction.", "zh": "公立学校提供不受宗教指导的世俗教育。" }] },
+        { "collocation": "secular state", "translation": "世俗国家", "sentences": [{ "en": "France has been a secular state since 1905.", "zh": "法国自1905年起就是一个世俗国家。" }] },
+        { "collocation": "secular trend", "translation": "长期趋势", "sentences": [{ "en": "Economists distinguish between cyclical fluctuations and secular trends.", "zh": "经济学家区分周期性波动与长期趋势。" }] }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "worldly": { "translation": "世俗的；尘世的", "diffs": "worldly 侧重物质享乐与俗世事物；secular 侧重与宗教相对的非宗教性", "sentences": [{ "en": "He was more interested in worldly success than spiritual growth.", "zh": "他更关心世俗成就而非精神成长。" }] },
+        "temporal": { "translation": "世俗的；暂时的", "diffs": "temporal 常与 spiritual 相对，较正式；secular 更常用于政治、教育语境", "sentences": [{ "en": "The church had both spiritual and temporal power in medieval Europe.", "zh": "中世纪欧洲教会既有精神权力也有世俗权力。" }] },
+        "non-religious": { "translation": "非宗教的", "diffs": "non-religious 直白描述；secular 为正式术语，尤指制度层面", "sentences": [{ "en": "They wanted a non-religious wedding ceremony.", "zh": "他们希望举办非宗教的婚礼仪式。" }] }
+      },
+      "antonyms": {
+        "religious": { "translation": "宗教的", "diffs": "与世俗相对", "sentences": [{ "en": "Religious education is optional in most secular countries.", "zh": "在大多数世俗国家，宗教教育是可选的。" }] },
+        "sacred": { "translation": "神圣的", "diffs": "指与神明相关、不可亵渎", "sentences": [{ "en": "The temple is a sacred place.", "zh": "这座寺庙是神圣之地。" }] }
+      },
+      "inflections": {}
+    }
+  ],
+  "etymology": {
+    "origin": "来自拉丁语 saecularis（一代人的、一个时代的），源自 saeculum（时代、世纪）。",
+    "root": "saecul-（拉丁语：时代、世纪）",
+    "affixes": ["-ar（形容词后缀）"],
+    "history": "最初指“延续一世纪”或“属于一代人的”，后引申为“世俗的、非宗教的”，因世俗事务属于现世（此世）而非永恒。"
+  },
+  "related_words": {
+    "secularism": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "世俗主义；政教分离论", "rule": "secular 的名词形式", "sentences": [{ "en": "Secularism advocates the separation of religion from public life.", "zh": "世俗主义主张宗教与公共生活分离。" }] },
+    "secularize": { "class": { "en": "verb", "en_s": "v.", "ch": "动词" }, "translation": "使世俗化；使脱离宗教", "rule": "secular 的动词形式", "sentences": [{ "en": "The government sought to secularize education.", "zh": "政府试图使教育世俗化。" }] },
+    "secularization": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "世俗化", "rule": "secularize 的名词形式", "sentences": [{ "en": "The secularization of society progressed throughout the twentieth century.", "zh": "社会的世俗化贯穿整个二十世纪。" }] }
+  },
+  "idioms": [],
+  "common_mistakes": [{ "wrong": "sacular", "correct": "secular", "explain": "常见拼写错误。正确拼写为 secular，来自拉丁语 saeculum。" }],
+  "mnemonics": [{ "type": "拼写记忆", "content": "secular 与「世俗」谐音联想；或记 sec（第二）+ ular → 第二世界（现世）→ 世俗的。" }]
+}

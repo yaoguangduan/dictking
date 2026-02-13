@@ -1,0 +1,81 @@
+{
+    "title": "Two New Exoplanets and the Need for New Habitable Zone Definitions",
+    "title_zh": "两颗新系外行星与宜居带/温带区定义更新的必要性",
+    "author": "Evan Gough",
+    "source": "Phys.org / Universe Today",
+    "created_at": "2026-01-15T12:00:00Z",
+    "difficulty": "hard",
+    "tags": ["exoplanets", "habitable zone", "temperate zone", "JWST", "astronomy"],
+    "summary": "New research introduces an expanded \"temperate zone\" definition for exoplanets, distinguishing between a Conservative Habitable Zone and a broader Temperate Zone. Two new exoplanets, TOI-6716 b and TOI-7384 b, orbit fully convective M dwarfs and are classified as temperate, offering opportunities for atmospheric studies with JWST. The findings reflect growing recognition that habitability definitions must account for diverse exoplanet types.",
+    "summary_zh": "新研究为系外行星引入了扩展的\"宜居带\"定义，区分了保守宜居带和更广泛的宜居带。两颗新发现的系外行星TOI-6716 b和TOI-7384 b围绕完全对流型M矮星运行，被归类为宜居行星，为使用韦伯望远镜进行大气研究提供了机会。这些发现反映出人们日益认识到宜居性定义必须考虑多样化的系外行星类型。",
+    "paragraphs": [
+        {
+            "en": "At the beginning of the exoplanet age, the goals were fairly simple. The first was to find as many exoplanets as possible to flesh out our understanding of the exoplanet population. The second was to determine if any were in the habitable zones around their stars. The definition of a habitable zone was necessarily simple: any planet at the right distance from its star to allow liquid surface water was considered habitable.",
+            "zh": "在系外行星时代的开端，目标相当简单。首先是尽可能多地发现系外行星，以充实我们对系外行星群体的理解。其次是确定是否有行星位于其恒星周围的宜居带内。宜居带的定义必然很简单：任何与恒星距离适当、能够维持地表液态水的行星都被认为宜居。",
+            "keywords": ["habitable zone", "flesh out", "liquid water", "exoplanet population"],
+            "notes": [
+                {"phrase": "habitable zone", "explain": "宜居带，行星表面可能存在液态水的轨道区域"},
+                {"phrase": "flesh out", "explain": "充实、完善，使某事物更完整或详细"}
+            ]
+        },
+        {
+            "en": "But now, as astronomers find more and more exoplanets, the definition of habitable has become more nuanced. Scientists often refer to an optimistic habitable zone and a conservative habitable zone. The optimistic zone is wider and considers factors like geothermal heating that could extend its outer limit. The conservative habitable zone is more limited, with its inner edge where a planet might suffer from runaway greenhouse conditions, and a restricted outer limit defined by CO2 condensation.",
+            "zh": "但如今，随着天文学家发现越来越多的系外行星，宜居的定义变得更加细微。科学家常常区分乐观宜居带和保守宜居带。乐观带更宽，考虑地热加热等可能延长其外缘的因素。保守宜居带更为有限，其内缘是行星可能遭受失控温室效应的位置，外缘则由二氧化碳在大气中凝结所限定。",
+            "keywords": ["nuanced", "runaway greenhouse", "condensation", "optimistic"],
+            "notes": [
+                {"phrase": "runaway greenhouse", "explain": "失控温室效应，行星大气变暖导致不可逆升温的过程"},
+                {"phrase": "CO2 condensation", "explain": "二氧化碳凝结，CO2冷却凝结会减少温室效应"}
+            ]
+        },
+        {
+            "en": "New research published in the Monthly Notices of the Royal Astronomical Society adds more nuance by introducing the concept of a \"temperate zone.\" The authors define an expanded temperate zone with instellation fluxes between 0.1 and 5 times Earth's solar constant. Instellation flux describes the amount of solar energy that reaches an exoplanet's surface, measured in watts per square meter. The temperate zone is intentionally broader than the conservative habitable zone, encompassing planets that receive moderate levels of stellar energy.",
+            "zh": "发表在《皇家天文学会月报》上的新研究通过引入\"温带区\"概念增添了更多细微差别。作者定义了一个扩展的温带区，其辐照通量介于地球太阳常数的0.1倍到5倍之间。辐照通量描述到达系外行星表面的太阳能量，以每平方米瓦特计量。温带区有意比保守宜居带更宽，包含接受中等水平恒星能量的行星。",
+            "keywords": ["instellation flux", "solar constant", "temperate", "stellar"],
+            "notes": [
+                {"phrase": "instellation flux", "explain": "辐照通量，行星接收的恒星辐射强度"},
+                {"phrase": "solar constant", "explain": "太阳常数，地球大气顶接收的太阳辐射量，约1361 W/m²"}
+            ]
+        },
+        {
+            "en": "The paper introduces two new temperate exoplanets. TOI-6716 b is an Earth-sized planet between 0.91 and 1.05 Earth radii, most likely rocky. TOI-7384 b is a sub-Neptune measuring about 3.35 to 3.77 Earth radii, with a possible rocky core and thick hydrogen-helium envelope. Both orbit fully convective M dwarfs, or red dwarfs. \"While neither of these planets fall even within the optimistic HZs of their stars, they populate an otherwise sparse region of temperate planet parameter space,\" the authors write.",
+            "zh": "论文介绍了两颗新的宜居系外行星。TOI-6716 b是一颗地球大小的行星，半径在0.91到1.05个地球半径之间，很可能是岩石行星。TOI-7384 b是一颗亚海王星，半径约3.35到3.77个地球半径，可能具有岩石内核和厚厚的氢氦包层。两者都围绕完全对流型M矮星（红矮星）运行。\"尽管这两颗行星甚至都不在其恒星的乐观宜居带内，但它们填补了温带行星参数空间中原本稀疏的区域\"，作者写道。",
+            "keywords": ["sub-Neptune", "convective", "parameter space", "sparse"],
+            "notes": [
+                {"phrase": "sub-Neptune", "explain": "亚海王星，半径介于地球和海王星之间的行星"},
+                {"phrase": "M dwarfs", "explain": "M矮星，小而暗的红矮星，是银河系中最常见的恒星类型"}
+            ]
+        },
+        {
+            "en": "The goal is to identify temperate exoplanets that are good candidates for atmospheric studies with the James Webb Space Telescope. \"We find these planets to have instellation fluxes close to the inner edge of the temperate zone,\" the authors write. \"With a predicted Transmission Spectroscopy Metric similar to the TRAPPIST-1 planets, TOI-6716 b is likely to be a good rocky-world JWST target, should it have retained its atmosphere.\"",
+            "zh": "目标是识别适合用詹姆斯·韦伯太空望远镜进行大气研究的宜居系外行星。\"我们发现这些行星的辐照通量接近温带区的内缘\"，作者写道。\"由于其预测的透射光谱指标与TRAPPIST-1行星相似，如果TOI-6716 b保留了大气层，它可能是韦伯望远镜研究岩石世界的良好目标。\"",
+            "keywords": ["Transmission Spectroscopy", "retained", "atmospheric studies", "JWST target"],
+            "notes": [
+                {"phrase": "Transmission Spectroscopy", "explain": "透射光谱，通过分析穿过行星大气的星光来研究大气成分"},
+                {"phrase": "TRAPPIST-1 planets", "explain": "TRAPPIST-1行星，一颗红矮星周围的七颗地球大小行星系统"}
+            ]
+        },
+        {
+            "en": "\"Together these discoveries show the power of combining TESS with coordinated ground-based efforts to build a catalog of temperate planets around fully convective M dwarfs for atmospheric studies in the coming decade,\" the researchers conclude. A comprehensive catalog published in January 2025 identified 45 rocky worlds in the empirical habitable zone and 24 in a narrower 3D-habitable zone, prioritizing targets for JWST and future observatories.",
+            "zh": "\"总之，这些发现展示了将TESS与协调的地面努力相结合的力量，可以为未来十年的研究建立围绕完全对流型M矮星的宜居行星目录\"，研究人员总结道。2025年1月发表的综合目录确定了45颗在经验宜居带内的岩石世界和24颗在更窄的3D宜居带内的行星，为韦伯望远镜和未来天文台确定了优先观测目标。",
+            "keywords": ["TESS", "catalog", "empirical", "observatories"],
+            "notes": [
+                {"phrase": "TESS", "explain": "凌日系外行星勘测卫星，NASA的系外行星巡天望远镜"},
+                {"phrase": "3D-habitable zone", "explain": "3D宜居带，考虑行星三维特性的更精确宜居性定义"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "nuanced", "phonetic": "/ˈnjuːɑːnst/", "meaning": "细微的；有层次的", "partOfSpeech": "adj.", "example": "The definition of habitability has become more nuanced."},
+        {"word": "instellation", "phonetic": "/ˌɪnstəˈleɪʃən/", "meaning": "辐照；恒星辐射", "partOfSpeech": "n.", "example": "Instellation flux measures stellar energy reaching a planet."},
+        {"word": "temperate", "phonetic": "/ˈtempərət/", "meaning": "温带的；温和的", "partOfSpeech": "adj.", "example": "Temperate exoplanets receive moderate stellar radiation."},
+        {"word": "convective", "phonetic": "/kənˈvektɪv/", "meaning": "对流的", "partOfSpeech": "adj.", "example": "M dwarfs can be fully convective throughout their interior."},
+        {"word": "spectroscopy", "phonetic": "/spekˈtrɒskəpi/", "meaning": "光谱学；光谱分析", "partOfSpeech": "n.", "example": "Transmission spectroscopy reveals atmospheric composition."},
+        {"word": "empirical", "phonetic": "/ɪmˈpɪrɪkəl/", "meaning": "经验的；实证的", "partOfSpeech": "adj.", "example": "The empirical habitable zone is based on observed data."},
+        {"word": "condensation", "phonetic": "/ˌkɒndenˈseɪʃən/", "meaning": "凝结；冷凝", "partOfSpeech": "n.", "example": "CO2 condensation affects the outer edge of the habitable zone."}
+    ],
+    "discussion_questions": [
+        {"en": "Why do scientists need to revise the definition of the habitable zone as more exoplanets are discovered?", "zh": "随着发现更多系外行星，科学家为什么需要修正宜居带的定义？"},
+        {"en": "What makes M dwarf stars particularly suitable for finding temperate exoplanets?", "zh": "什么使M矮星特别适合发现宜居系外行星？"},
+        {"en": "How might the \"temperate zone\" concept expand our search for potentially life-bearing worlds?", "zh": "\"温带区\"概念如何可能扩大我们寻找潜在宜居世界的范围？"}
+    ]
+}

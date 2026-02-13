@@ -1,0 +1,63 @@
+{
+    "title": "The Metropolitan Museum of Art Launches Immersive Virtual Reality Experiences",
+    "title_zh": "大都会艺术博物馆推出沉浸式虚拟现实体验",
+    "author": "The Metropolitan Museum of Art",
+    "source": "The Metropolitan Museum of Art",
+    "created_at": "2025-11-10",
+    "difficulty": "medium",
+    "tags": ["museums", "virtual reality", "digital technology", "art", "accessibility"],
+    "summary": "The Met has launched two VR features—Dendur Decoded and Oceania: A New Horizon—allowing global audiences to explore the Temple of Dendur and Oceanic art in 3D. Created with Atopia, the platform enables museums of all sizes to build immersive exhibitions, making VR more accessible than ever.",
+    "summary_zh": "大都会艺术博物馆推出两项 VR 功能——《丹杜神庙解码》和《大洋洲：时空新视界》——让全球观众能以 3D 形式探索丹杜神庙和大洋洲艺术。与 Atopia 合作创建的平台使各类规模的博物馆都能构建沉浸式展览，使 VR 的可及性前所未有。",
+    "paragraphs": [
+        {
+            "en": "The Metropolitan Museum of Art has launched two new virtual reality features, Dendur Decoded and Oceania: A New Horizon of Space and Time, that explore the Museum's beloved Temple of Dendur and monumental works from the Oceanic art collection. The experiences allow global audiences to view these treasured galleries and works using a personal VR headset or on The Met's website. Designed in collaboration with Atopia, a platform for immersive art and culture, the features introduce a new way for cultural institutions to create and publish their own VR exhibitions.",
+            "zh": "大都会艺术博物馆推出两项新的虚拟现实体验——《丹杜神庙解码》和《大洋洲：时空新视界》——探索馆内广受喜爱的丹杜神庙以及大洋洲艺术收藏中的纪念碑式作品。观众可使用个人 VR 头显或在博物馆网站上欣赏这些珍贵展厅与作品。与沉浸式艺术文化平台 Atopia 合作设计的这些功能，为文化机构提供了一种创建并发布自有 VR 展览的新方式。",
+            "keywords": ["virtual reality", "Temple of Dendur", "Atopia", "immersive", "cultural institutions"],
+            "notes": [{"phrase": "monumental works", "explain": "纪念碑式作品；规模宏大、具有重要意义的作品"}, {"phrase": "in collaboration with", "explain": "与……合作"}]
+        },
+        {
+            "en": "The Met's first VR experiences were developed in close consultation with Met curators. They feature original, innovative storytelling and high-resolution 3D scans created by The Met's Imaging team. This experience allows virtual visitors to delve into artworks through movement, sound, interaction, and play. From stepping inside the Temple of Dendur to bringing the 17-foot bisj poles to eye level, these virtual experiences offer a singular opportunity to explore iconic works.",
+            "zh": "大都会博物馆的首批 VR 体验是在与馆方策展人密切磋商下开发的。它们融合了原创、创新的叙事以及由博物馆影像团队制作的高分辨率 3D 扫描。这一体验让虚拟访客通过移动、声音、互动和游戏深入艺术作品。从步入丹杜神庙内部，到将 17 英尺高的 bisj 柱拉到视线高度，这些虚拟体验为探索标志性作品提供了独一无二的机会。",
+            "keywords": ["curators", "3D scans", "storytelling", "bisj poles", "interaction"],
+            "notes": [{"phrase": "delve into", "explain": "深入探究；潜心研究"}, {"phrase": "singular", "explain": "独特的；独一无二的"}]
+        },
+        {
+            "en": "Dendur Decoded is organised as a vividly detailed adventure in four \"acts.\" It includes over 150 pieces of content, with materials from archives at The Met and UNESCO. Act I introduces the Temple and helps visitors learn to read its decoration; Act II presents a 3D film about the Temple's original location along the Nile and how it was dismantled to protect it from Lake Nasser; Act III invites visitors to virtually rebuild part of the temple; Act IV showcases MetLiveArts performances and contemporary artists inspired by the Temple.",
+            "zh": "《丹杜神庙解码》以四个「幕」的形式组织成一段细节丰富的冒险。它包含逾 150 项内容，材料来自大都会博物馆和联合国教科文组织的档案。第一幕介绍神庙并帮助访客学习解读其装饰；第二幕呈现关于神庙在尼罗河沿岸原址以及如何为避免被纳赛尔湖淹没而拆解的 3D 影片；第三幕邀请访客虚拟重建神庙的一部分；第四幕展示 MetLiveArts 演出以及受神庙启发的当代艺术家作品。",
+            "keywords": ["UNESCO", "dismantled", "rebuild", "MetLiveArts", "contemporary"],
+            "notes": [{"phrase": "dismantled", "explain": "拆卸；拆解"}, {"phrase": "Lake Nasser", "explain": "纳赛尔湖；埃及阿斯旺大坝建成后形成的水库"}]
+        },
+        {
+            "en": "Oceania: A New Horizon of Space and Time celebrates the dazzling Oceanic works in the Museum's newly reopened Michael C. Rockefeller Wing. Fifteen objects are contextualised with sound, story, and a spatial design inspired by an outdoor environment evoking the Pacific Islands. Within the space, these objects are accompanied by immersive original audio, archival imagery, 360-degree video, and high-resolution 3D models. The Ceremonial House Ceiling includes a game where visitors discover motifs across 270 painted panels.",
+            "zh": "《大洋洲：时空新视界》呈现博物馆新近重开的迈克尔·C·洛克菲勒翼中令人目眩的大洋洲作品。十五件藏品通过声音、故事以及受太平洋岛屿户外环境启发的空间设计得到情境化呈现。在这一空间中，这些作品配有沉浸式原创音频、档案影像、360 度视频和高分辨率 3D 模型。仪式厅天花板体验中包含一款游戏，访客可在 270 块彩绘嵌板中发现各类母题。",
+            "keywords": ["Oceanic", "contextualised", "360-degree", "motifs", "Ceremonial House"],
+            "notes": [{"phrase": "contextualised", "explain": "情境化；置于语境中"}, {"phrase": "motifs", "explain": "母题；反复出现的图案或主题"}]
+        },
+        {
+            "en": "Annabell Vacano, founder of Atopia, said, \"Until now, immersive exhibitions were bespoke and expensive. We created Atopia so museums of all sizes could design, publish, and scale interactive storytelling so their collections can be accessed from anywhere in the world.\" Through a \"no-code\" editor, museum curators and designers can drag and drop images, 3D scans, and didactic information into virtual spaces, then launch them on the platform.",
+            "zh": "Atopia 创始人安娜贝尔·瓦卡诺说：「此前，沉浸式展览是定制且昂贵的。我们创建 Atopia，是为了让各类规模的博物馆都能设计、发布并扩展互动叙事，使藏品能从世界任何地方访问。」通过「无代码」编辑器，博物馆策展人和设计师可以将图像、3D 扫描和教学信息拖放到虚拟空间中，然后在平台上发布。",
+            "keywords": ["bespoke", "no-code", "scale", "didactic", "drag and drop"],
+            "notes": [{"phrase": "bespoke", "explain": "定制的；专门打造的"}, {"phrase": "didactic", "explain": "教学的；教育性的"}]
+        },
+        {
+            "en": "A 2025 survey revealed significant public demand for virtual reality museum experiences. The number of immersive venues worldwide grew from over 100 in early 2024 to more than 350 by the end of that year, driven by advances in LED screens, projection technology, and spatial audio. \"The Met collection is enjoyed by millions of visitors a year,\" said Max Hollein, The Met's Director. \"By exploring the vast possibilities of virtual spaces, we can offer unparalleled cultural experiences to audiences no matter where they are located.\"",
+            "zh": "2025 年的一项调查显示，公众对虚拟现实博物馆体验的需求显著。受 LED 屏幕、投影技术和空间音频进步推动，全球沉浸式场馆数量从 2024 年初的 100 多家增至当年底的逾 350 家。大都会博物馆馆长马克斯·霍莱因说：「大都会的藏品每年吸引数百万访客。通过探索虚拟空间的无限可能，我们能为无论身在何处的观众提供无与伦比的文化体验。」",
+            "keywords": ["survey", "immersive venues", "spatial audio", "unparalleled", "accessibility"],
+            "notes": [{"phrase": "unparalleled", "explain": "无与伦比的；无可比拟的"}, {"phrase": "spatial audio", "explain": "空间音频；3D 立体声效"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "immersive", "phonetic": "/ɪˈmɜːsɪv/", "meaning": "沉浸式的；身临其境的", "partOfSpeech": "adj.", "example": "The Met offers immersive VR experiences of its collection."},
+        {"word": "curator", "phonetic": "/kjʊˈreɪtər/", "meaning": "策展人；馆长", "partOfSpeech": "n.", "example": "Met curators collaborated on the VR experiences."},
+        {"word": "bespoke", "phonetic": "/bɪˈspəʊk/", "meaning": "定制的；专门打造的", "partOfSpeech": "adj.", "example": "Immersive exhibitions were once bespoke and expensive."},
+        {"word": "contextualise", "phonetic": "/kənˈtekstjʊəlaɪz/", "meaning": "使情境化；置于语境中", "partOfSpeech": "v.", "example": "Objects are contextualised with sound and story."},
+        {"word": "dismantle", "phonetic": "/dɪsˈmæntl/", "meaning": "拆卸；拆解", "partOfSpeech": "v.", "example": "The Temple was dismantled to protect it from the reservoir."},
+        {"word": "unparalleled", "phonetic": "/ʌnˈpærəleld/", "meaning": "无与伦比的", "partOfSpeech": "adj.", "example": "VR offers unparalleled cultural experiences globally."},
+        {"word": "scale", "phonetic": "/skeɪl/", "meaning": "扩展；规模化", "partOfSpeech": "v.", "example": "Museums can now scale interactive storytelling worldwide."}
+    ],
+    "discussion_questions": [
+        {"en": "Can virtual reality experiences ever replace or adequately replicate the experience of visiting a museum in person?", "zh": "虚拟现实体验能否取代或充分复制亲临博物馆的体验？"},
+        {"en": "How might VR and digital tools change who has access to world-class art and culture?", "zh": "VR 与数字工具可能如何改变谁能够接触世界级艺术与文化？"},
+        {"en": "What challenges might smaller museums face when adopting platforms like Atopia, and how could they overcome them?", "zh": "小型博物馆在采用 Atopia 等平台时可能面临哪些挑战？如何克服？"}
+    ]
+}

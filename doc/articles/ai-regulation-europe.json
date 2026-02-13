@@ -1,0 +1,89 @@
+{
+    "title": "MEPs Approve World's First Comprehensive AI Law",
+    "title_zh": "欧洲议会通过世界首部综合性人工智能法规",
+    "author": "Shiona McCallum, Liv McMahon & Tom Singleton",
+    "source": "BBC",
+    "created_at": "2024-03-13",
+    "difficulty": "medium",
+    "tags": ["AI", "regulation", "European Union", "technology policy"],
+    "summary": "The European Parliament has approved the world's first comprehensive framework for constraining the risks of artificial intelligence. The AI Act classifies products by risk level and places the EU at the forefront of global attempts to address AI dangers.",
+    "summary_zh": "欧洲议会已通过世界上第一部全面约束人工智能风险的法规框架。该人工智能法案根据风险等级对产品进行分类，使欧盟走在全球应对人工智能危险的前列。",
+    "paragraphs": [
+        {
+            "en": "The European Parliament has approved the world's first comprehensive framework for constraining the risks of artificial intelligence (AI). The sector has seen explosive growth driving huge profits but also stoking fears about bias, privacy and even the future of humanity.",
+            "zh": "欧洲议会已批准了世界上第一部全面约束人工智能（AI）风险的法规框架。该行业经历了爆炸性增长，带来了巨大利润，但也引发了人们对偏见、隐私甚至人类未来的担忧。",
+            "keywords": ["European Parliament", "framework", "artificial intelligence", "explosive growth", "privacy"],
+            "notes": [
+                {"phrase": "constraining the risks", "explain": "约束风险；constrain 表示限制、约束"},
+                {"phrase": "stoking fears", "explain": "加剧担忧；stoke 原意是添柴火，引申为煽动、加剧"}
+            ]
+        },
+        {
+            "en": "The AI Act works by classifying products according to risk and adjusting scrutiny accordingly. The law's creators said it would make the tech more \"human-centric.\" \"The AI act is not the end of the journey but the starting point for new governance built around technology,\" MEP Dragos Tudorache added.",
+            "zh": "该人工智能法案通过根据风险对产品进行分类并相应调整监管力度来运作。法案制定者表示，这将使技术更加\"以人为本\"。欧洲议会议员德拉戈什·图多拉凯补充说：\"人工智能法案不是旅程的终点，而是围绕技术建立新治理的起点。\"",
+            "keywords": ["classifying", "risk", "human-centric", "governance", "technology"],
+            "notes": [
+                {"phrase": "adjusting scrutiny accordingly", "explain": "相应地调整监管；scrutiny 指仔细审查"},
+                {"phrase": "human-centric", "explain": "以人为本的；以人类为中心的"}
+            ]
+        },
+        {
+            "en": "China has already introduced a patchwork of AI laws. In October 2023, US President Joe Biden announced an executive order requiring AI developers to share data with the government. But the EU has now gone further. \"The adoption of the AI Act marks the beginning of a new AI era and its importance cannot be overstated,\" said Enza Iannopollo, principal analyst at Forrester.",
+            "zh": "中国已经出台了一系列人工智能法规。2023年10月，美国总统拜登宣布了一项行政命令，要求人工智能开发者向政府分享数据。但欧盟现在走得更远。弗雷斯特公司的首席分析师恩扎·伊安诺波罗表示：\"人工智能法案的通过标志着新人工智能时代的开始，其重要性怎么强调都不为过。\"",
+            "keywords": ["patchwork", "executive order", "adoption", "overstated", "Forrester"],
+            "notes": [
+                {"phrase": "cannot be overstated", "explain": "怎么强调都不为过；表示极其重要"},
+                {"phrase": "play catch-up", "explain": "追赶；弥补落后"}
+            ]
+        },
+        {
+            "en": "The main idea of the law is to regulate AI based on its capacity to cause harm to society. The higher the risk, the stricter the rules. AI applications that pose a \"clear risk to fundamental rights\" will be banned, for example some of those that involve the processing of biometric data.",
+            "zh": "该法律的主要思想是根据人工智能对社会造成危害的能力对其进行监管。风险越高，规则越严格。对\"基本权利构成明显风险\"的人工智能应用将被禁止，例如涉及生物特征数据处理的一些应用。",
+            "keywords": ["capacity", "fundamental rights", "banned", "biometric data", "harm"],
+            "notes": [
+                {"phrase": "pose a risk", "explain": "构成风险；pose 表示造成、构成"},
+                {"phrase": "fundamental rights", "explain": "基本权利；人权中的核心权利"}
+            ]
+        },
+        {
+            "en": "AI systems considered \"high-risk\", such as those used in critical infrastructure, education, healthcare, law enforcement, border management or elections, will have to comply with strict requirements. Low-risk services, such as spam filters, will face the lightest regulation. The EU expects most services to fall into this category.",
+            "zh": "被视为\"高风险\"的人工智能系统，如用于关键基础设施、教育、医疗保健、执法、边境管理或选举的系统，将必须遵守严格要求。低风险服务，如垃圾邮件过滤器，将面临最宽松的监管。欧盟预计大多数服务将属于此类。",
+            "keywords": ["high-risk", "critical infrastructure", "comply", "spam filters", "category"],
+            "notes": [
+                {"phrase": "comply with", "explain": "遵守、符合；常用搭配"},
+                {"phrase": "fall into", "explain": "归入、属于（某类别）"}
+            ]
+        },
+        {
+            "en": "The Act also creates provisions to tackle risks posed by the systems underpinning generative AI tools and chatbots such as OpenAI's ChatGPT. These would require producers of some so-called general-purpose AI systems to be transparent about the material used to train their models and to comply with EU copyright law.",
+            "zh": "该法案还制定了条款，以应对支撑生成式人工智能工具和聊天机器人（如OpenAI的ChatGPT）的系统所带来的风险。这将要求一些所谓的通用人工智能系统的生产者对其用于训练模型的材料保持透明，并遵守欧盟版权法。",
+            "keywords": ["provisions", "generative AI", "chatbots", "transparent", "copyright"],
+            "notes": [
+                {"phrase": "underpinning", "explain": "支撑、支持；underpin 的现在分词形式"},
+                {"phrase": "general-purpose", "explain": "通用型的；多用途的"}
+            ]
+        },
+        {
+            "en": "In the meantime, businesses will be working out how to comply with the legislation. Kirsten Rulf, a former advisor to the German government and now a partner at Boston Consulting Group, says more than 300 firms have been in touch with her company so far. \"They want to know how to scale the tech, and get value from AI,\" she told the BBC. \"Businesses need and want the legal certainty.\"",
+            "zh": "与此同时，企业将研究如何遵守该立法。曾任德国政府顾问、现为波士顿咨询集团合伙人的克尔斯滕·鲁尔夫表示，迄今为止已有300多家公司与她的公司取得联系。她告诉BBC：\"他们想了解如何扩大技术规模，并从人工智能中获取价值。\"\"企业需要并且希望获得法律上的确定性。\"",
+            "keywords": ["legislation", "comply", "scale", "legal certainty", "consulting"],
+            "notes": [
+                {"phrase": "work out", "explain": "想出、解决；这里指研究如何遵守"},
+                {"phrase": "legal certainty", "explain": "法律确定性；指规则明确、可预期"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "framework", "phonetic": "/ˈfreɪmwɜːrk/", "meaning": "框架；体制", "partOfSpeech": "n.", "example": "The EU has approved the world's first comprehensive framework for AI regulation."},
+        {"word": "constrain", "phonetic": "/kənˈstreɪn/", "meaning": "约束；限制", "partOfSpeech": "v.", "example": "The law aims to constrain the risks of artificial intelligence."},
+        {"word": "scrutiny", "phonetic": "/ˈskruːtəni/", "meaning": "仔细审查；密切监督", "partOfSpeech": "n.", "example": "High-risk AI systems face stricter scrutiny."},
+        {"word": "provision", "phonetic": "/prəˈvɪʒn/", "meaning": "条款；规定", "partOfSpeech": "n.", "example": "The Act creates provisions to tackle generative AI risks."},
+        {"word": "biometric", "phonetic": "/ˌbaɪəʊˈmetrɪk/", "meaning": "生物识别的", "partOfSpeech": "adj.", "example": "Processing of biometric data may be banned under the AI Act."},
+        {"word": "underpin", "phonetic": "/ˌʌndərˈpɪn/", "meaning": "支撑；巩固", "partOfSpeech": "v.", "example": "Systems underpinning generative AI must comply with the law."}
+    ],
+    "discussion_questions": [
+        {"en": "Should other countries adopt similar AI regulations to the EU's approach?", "zh": "其他国家是否应该采用类似欧盟的人工智能监管方式？"},
+        {"en": "How might the AI Act affect innovation in the technology sector?", "zh": "人工智能法案可能如何影响科技领域的创新？"},
+        {"en": "What balance should lawmakers strike between AI safety and technological progress?", "zh": "立法者应该在人工智能安全和技术进步之间取得怎样的平衡？"}
+    ]
+}

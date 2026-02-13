@@ -1,0 +1,229 @@
+{
+    "word": "grasshopper",
+    "created_at": "2026-02-13T02:00:00Z",
+    "phonetic": {
+        "uk": "/ˈɡrɑːsˌhɒpə/",
+        "us": "/ˈɡræsˌhɑːpər/"
+    },
+    "definitions": [
+        {
+            "translation": "蚱蜢；蝗虫",
+            "partOfSpeech": {
+                "en": "noun",
+                "en_simple": "n.",
+                "ch": "名词"
+            },
+            "usage_note": "可数名词。指直翅目昆虫，后腿长而发达，善跳跃，以植物为食。复数形式：grasshoppers。",
+            "sentences": [
+                {
+                    "en": "A green grasshopper landed on my arm and stayed there for a moment before hopping away.",
+                    "zh": "一只绿色的蚱蜢落在我手臂上，停留了片刻后跳走了。"
+                },
+                {
+                    "en": "Grasshoppers can jump up to twenty times the length of their bodies.",
+                    "zh": "蚱蜢能跳出相当于自身体长二十倍的距离。"
+                },
+                {
+                    "en": "The field was alive with grasshoppers, their chirping filling the summer air.",
+                    "zh": "田野里蚱蜢成群，它们的鸣叫声充斥着夏日空气。"
+                },
+                {
+                    "en": "We caught several grasshoppers in a jar to observe them for our biology project.",
+                    "zh": "我们在罐子里捉了几只蚱蜢，用来做生物课的观察实验。"
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "grasshopper mind",
+                    "translation": "注意力不集中；心思跳跃不定",
+                    "sentences": [
+                        {
+                            "en": "She has a grasshopper mind—always jumping from one topic to another.",
+                            "zh": "她心思跳跃不定，总是从一个话题跳到另一个。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "swarm of grasshoppers",
+                    "translation": "一群蚱蜢；蝗虫群",
+                    "sentences": [
+                        {
+                            "en": "A swarm of grasshoppers descended on the crops and devastated the harvest.",
+                            "zh": "一群蝗虫袭击了庄稼，毁掉了收成。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "young grasshopper",
+                    "translation": "年轻学徒；初出茅庐者",
+                    "sentences": [
+                        {
+                            "en": "Patience, young grasshopper—you'll master this skill in time.",
+                            "zh": "耐心点，年轻人——你终会掌握这项技艺的。"
+                        }
+                    ]
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "patience, young grasshopper",
+                    "translation": "耐心点，年轻人（源自 1970 年代电视剧《功夫》，师傅对徒弟的称呼）",
+                    "sentences": [
+                        {
+                            "en": "\"Patience, young grasshopper,\" the sensei said. \"Mastery takes years.\"",
+                            "zh": "「耐心点，年轻人，」师傅说道。「精通需要数年之功。」"
+                        }
+                    ]
+                },
+                {
+                    "phrase": "grasshopper in the grass",
+                    "translation": "草中之蚱蜢；善于跳跃之物",
+                    "sentences": [
+                        {
+                            "en": "The children chased the grasshopper in the grass until it disappeared.",
+                            "zh": "孩子们在草丛里追着那只蚱蜢，直到它不见了踪影。"
+                        }
+                    ]
+                }
+            ],
+            "synonyms": {
+                "locust": {
+                    "translation": "蝗虫",
+                    "diffs": "locust 指进入群聚期的蚱蜢，通常大规模迁移并造成农业灾害；grasshopper 为泛指，可指任何蚱蜢，包括非群聚型。",
+                    "sentences": [
+                        {
+                            "en": "Locusts are grasshoppers that have entered a swarming phase.",
+                            "zh": "蝗虫是进入群聚期的蚱蜢。"
+                        }
+                    ]
+                },
+                "cricket": {
+                    "translation": "蟋蟀",
+                    "diffs": "cricket 为蟋蟀科昆虫，与 grasshopper 同属直翅目但不同科；蟋蟀体型多较粗壮、触角长，多在夜间活动；蚱蜢白天活动、后腿更长善跳。",
+                    "sentences": [
+                        {
+                            "en": "Unlike grasshoppers, crickets are most active at night and have longer antennae.",
+                            "zh": "与蚱蜢不同，蟋蟀主要在夜间活动，触角更长。"
+                        }
+                    ]
+                }
+            },
+            "antonyms": {}
+        },
+        {
+            "translation": "心思不定的人；初出茅庐的新手",
+            "partOfSpeech": {
+                "en": "noun",
+                "en_simple": "n.",
+                "ch": "名词"
+            },
+            "usage_note": "可数名词，喻指用法。指注意力涣散、心思跳跃的人，或指缺乏经验的新手（源自《功夫》中师傅对徒弟的称呼）。复数：grasshoppers。",
+            "sentences": [
+                {
+                    "en": "He's a bit of a grasshopper—never sticks with one project for long.",
+                    "zh": "他有些心思不定，从未在一个项目上坚持太久。"
+                },
+                {
+                    "en": "The master addressed his young disciple as 'grasshopper' in the TV series.",
+                    "zh": "在那部电视剧里，师傅称呼年轻的徒弟为「蚱蜢」。"
+                },
+                {
+                    "en": "Don't be such a grasshopper; focus on finishing what you've started.",
+                    "zh": "别这么三心二意，专心把已经开始的事做完。"
+                }
+            ],
+            "collocations": [],
+            "phrases": [],
+            "synonyms": {},
+            "antonyms": {}
+        }
+    ],
+    "etymology": {
+        "origin": "中古英语时期由 gras（草）+ hopper（跳跃者）组成的复合词，字面义为「在草中跳跃之物」。hopper 来自 hop（跳）+ -er（表施动者），描述该昆虫在草地上跳跃的特征。",
+        "root": "古英语 græs（草）+ 古英语 hoppian（跳）",
+        "affixes": ["grass (草)", "hopper (-er 表「做…的人/物」)"]
+    },
+    "related_words": {
+        "locust": {
+            "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+            "translation": "蝗虫",
+            "rule": "grasshopper 在群聚期的形态；locust 特指会大规模迁徙、造成灾害的蝗虫",
+            "sentences": [
+                {
+                    "en": "When grasshoppers swarm, they are called locusts.",
+                    "zh": "蚱蜢成群迁徙时被称为蝗虫。"
+                }
+            ]
+        },
+        "cricket": {
+            "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+            "translation": "蟋蟀",
+            "rule": "同属直翅目的另一科昆虫，与蚱蜢外形相似但多夜间活动",
+            "sentences": [
+                {
+                    "en": "Crickets and grasshoppers are both orthopterans with powerful hind legs.",
+                    "zh": "蟋蟀和蚱蜢都属于直翅目，都有强壮的后腿。"
+                }
+            ]
+        },
+        "orthopteran": {
+            "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+            "translation": "直翅目昆虫",
+            "rule": "grasshopper 的生物学分类上位词，包括蚱蜢、蟋蟀、螽斯等",
+            "sentences": [
+                {
+                    "en": "Grasshoppers belong to the order Orthoptera.",
+                    "zh": "蚱蜢属于直翅目。"
+                }
+            ]
+        }
+    },
+    "idioms": [
+        {
+            "phrase": "knee-high to a grasshopper",
+            "translation": "非常年幼；个头很小",
+            "origin": "美国俚语，以蚱蜢体型之小喻人幼小",
+            "sentences": [
+                {
+                    "en": "I've known him since he was knee-high to a grasshopper.",
+                    "zh": "我从小就认识他。"
+                },
+                {
+                    "en": "Back when I was knee-high to a grasshopper, this town looked very different.",
+                    "zh": "当年我还很小的时候，这座小镇看起来可大不一样。"
+                }
+            ]
+        }
+    ],
+    "common_mistakes": [
+        {
+            "wrong": "grasshopper 与 locust 混用",
+            "correct": "grasshopper 是泛指；locust 特指进入群聚期、会大规模迁徙的蚱蜢",
+            "explain": "并非所有 grasshopper 都是 locust。只有某些种类的蚱蜢在特定条件下会转化为群聚型，此时才称为 locust。日常泛指跳动的蚱蜢用 grasshopper。"
+        },
+        {
+            "wrong": "grasshopter / grasshoper",
+            "correct": "grasshopper",
+            "explain": "正确拼写为 grasshopper，含双 p，源自 grass + hop + -er。"
+        },
+        {
+            "wrong": "grasshopper 与 cricket 混淆",
+            "correct": "grasshopper 蚱蜢（白天活动）；cricket 蟋蟀（多夜间活动）",
+            "explain": "二者同属直翅目但不同科。蚱蜢体型较纤细、触角短、白天活动；蟋蟀体型较粗、触角长、多为夜间鸣叫。"
+        }
+    ],
+    "mnemonics": [
+        {
+            "type": "词源联想",
+            "content": "grass（草）+ hopper（跳跃者）→ 在草里跳跃的虫子 → 蚱蜢。hopper 来自 hop（跳），可联想蚱蜢善跳的特点。"
+        },
+        {
+            "type": "形象记忆",
+            "content": "grasshopper 中有 grass 和 hop → 在草（grass）上跳（hop）的虫子 → 蚱蜢。"
+        },
+        {
+            "type": "文化联想",
+            "content": "《功夫》中师傅称徒弟为「young grasshopper」→ 初出茅庐的年轻人、需要耐心的学徒 → 联想到蚱蜢需要多次跳跃才能到达目的地，修行也需循序渐进。"
+        }
+    ]
+}

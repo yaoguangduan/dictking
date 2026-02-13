@@ -1,0 +1,47 @@
+{
+  "word": "dignify",
+  "created_at": "2026-02-13T03:00:00Z",
+  "phonetic": { "uk": "/ˈdɪɡnɪfaɪ/", "us": "/ˈdɪɡnɪfaɪ/" },
+  "definitions": [
+    {
+      "translation": "使有尊严；使高贵；抬举",
+      "partOfSpeech": { "en": "verb", "en_simple": "v.", "ch": "动词" },
+      "usage_note": "及物动词。常用于否定句，如“I won't dignify that with a response”表示拒绝认真回应荒谬的说法。",
+      "sentences": [
+        { "en": "I won't dignify that accusation with a response.", "zh": "我不会对这种指控作出回应（以示其不值得认真对待）。" },
+        { "en": "The ceremony was dignified by the presence of the president.", "zh": "总统的出席使仪式更加庄重。" },
+        { "en": "She refused to dignify his rude comments with a reply.", "zh": "她拒绝回应他的粗鲁言论，认为不值得理会。" }
+      ],
+      "collocations": [
+        { "collocation": "dignify with a response", "translation": "以回应抬举（常否定）", "sentences": [{ "en": "Don't dignify his insults with a response.", "zh": "别理他的侮辱，不值得回应。" }] },
+        { "collocation": "dignify the occasion", "translation": "使场合增辉；使场合庄重", "sentences": [{ "en": "Your presence will dignify the occasion.", "zh": "您的出席将使这一场合更加庄重。" }] },
+        { "collocation": "dignify with a reply", "translation": "以回复抬举", "sentences": [{ "en": "Such baseless claims hardly deserve to be dignified with a reply.", "zh": "这种毫无根据的说法根本不值得回应。" }] }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "honor": { "translation": "使荣耀；尊敬", "diffs": "honor 强调给予荣誉；dignify 强调赋予尊严或使其值得重视", "sentences": [{ "en": "We are honored by your visit.", "zh": "您的来访是我们的荣幸。" }] },
+        "elevate": { "translation": "提升；使崇高", "diffs": "elevate 可指地位、水平的提升；dignify 多指赋予尊严感", "sentences": [{ "en": "Music can elevate the spirit.", "zh": "音乐能升华精神。" }] },
+        "ennoble": { "translation": "使高贵；使崇高", "diffs": "ennoble 较正式，多用于文学；dignify 更常用于日常否定句", "sentences": [{ "en": "Suffering had ennobled his character.", "zh": "苦难使他的品格变得高贵。" }] }
+      },
+      "antonyms": {
+        "demean": { "translation": "贬低；降低身份", "diffs": "与 dignify 相对", "sentences": [{ "en": "He would not demean himself by begging.", "zh": "他不愿卑躬屈膝地乞求。" }] },
+        "degrade": { "translation": "使降级；贬低", "diffs": "剥夺尊严", "sentences": [{ "en": "Such treatment degrades human dignity.", "zh": "这种待遇有辱人格。" }] }
+      },
+      "inflections": { "past": "dignified", "past_participle": "dignified", "present_participle": "dignifying", "third_person": "dignifies" }
+    }
+  ],
+  "etymology": {
+    "origin": "来自拉丁语 dignificare，由 dignus（值得的、有尊严的）+ facere（做、使）组成。",
+    "root": "dign-（拉丁语：值得、尊严）",
+    "affixes": ["-ify（动词后缀：使…化）"],
+    "history": "dignus 表“值得的”，通过古法语 dignifier 进入英语，意为“使具有尊严、使值得尊重”。"
+  },
+  "related_words": {
+    "dignified": { "class": { "en": "adjective", "en_s": "adj.", "ch": "形容词" }, "translation": "庄重的；有尊严的", "rule": "dignify 的过去分词作形容词", "sentences": [{ "en": "She maintained a dignified silence.", "zh": "她保持庄重的沉默。" }] },
+    "dignity": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "尊严；庄重", "rule": "dignify 的词根名词", "sentences": [{ "en": "All people deserve to be treated with dignity.", "zh": "所有人都应受到尊严的对待。" }] },
+    "dignitary": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "显要人物；达官贵人", "rule": "与 dignity 同根", "sentences": [{ "en": "Many dignitaries attended the funeral.", "zh": "许多显要人物参加了葬礼。" }] }
+  },
+  "idioms": [],
+  "common_mistakes": [{ "wrong": "I won't dignify that by a response", "correct": "I won't dignify that with a response", "explain": "固定搭配用 with，不用 by。dignify sth with a response 表示“以回应来抬举某事物”。" }],
+  "mnemonics": [{ "type": "词根记忆", "content": "dign-（尊严）+ -ify（使…化）→ 使有尊严。dignity（尊严）的动词形式。" }]
+}

@@ -1,0 +1,95 @@
+{
+  "word": "similar",
+  "created_at": "2026-02-12T08:00:00.000Z",
+  "phonetic": {
+    "uk": "/ˈsɪmɪlə(r)/",
+    "us": "/ˈsɪmɪlər/"
+  },
+  "definitions": [
+    {
+      "translation": "相似的；类似的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "形容事物之间具有共同点但不完全相同。常与 to 连用表示“与…相似”。",
+      "sentences": [
+        {"en": "The two paintings are very similar.", "zh": "这两幅画非常相似。"},
+        {"en": "His writing style is similar to that of Hemingway.", "zh": "他的写作风格与海明威相似。"},
+        {"en": "We faced similar challenges in both projects.", "zh": "我们在两个项目中都面临类似的挑战。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "similar to",
+          "translation": "与…相似",
+          "pattern": "形容词+介词",
+          "explain": "最常用搭配",
+          "sentences": [{"en": "The climate here is similar to that of southern France.", "zh": "这里的气候与法国南部相似。"}]
+        },
+        {
+          "collocation": "in a similar way",
+          "translation": "以类似的方式",
+          "pattern": "介词+冠词+形容词+名词",
+          "explain": "方式状语常用",
+          "sentences": [{"en": "Both countries dealt with the crisis in a similar way.", "zh": "两国以类似的方式处理了这场危机。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "alike": {
+          "translation": "相似的",
+          "diffs": "alike 多作表语；similar 可作定语或表语，且常与 to 连用",
+          "sentences": [{"en": "The brothers look very alike.", "zh": "这两兄弟长得很像。"}]
+        },
+        "comparable": {
+          "translation": "可比较的；相当的",
+          "diffs": "comparable 强调可拿来比较；similar 强调外表或性质相似",
+          "sentences": [{"en": "The two offers are comparable in value.", "zh": "这两份报价价值相当。"}]
+        }
+      },
+      "antonyms": {
+        "different": {"translation": "不同的", "diffs": "指有差异"},
+        "dissimilar": {"translation": "不相似的", "diffs": "similar 的反义词"}
+      },
+      "inflections": {
+        "comparative": "more similar",
+        "superlative": "most similar"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自法语 similaire，源自拉丁语 similis（相似的）。",
+    "root": "simil-（相同、相似，来自拉丁语 similis）",
+    "affixes": ["-ar（形容词后缀，表“与…有关的”）"],
+    "history": "拉丁语 similis 表“像、相似”，与 simul（同时）同根。法语借入后成 similaire，英语再借入。"
+  },
+  "related_words": {
+    "similarity": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "相似性；类似之处",
+      "rule": "similar 的名词形式",
+      "sentences": [{"en": "There are striking similarities between the two cases.", "zh": "这两个案子之间有惊人的相似之处。"}]
+    },
+    "similarly": {
+      "class": {"en": "adverb", "en_s": "adv.", "ch": "副词"},
+      "translation": "相似地；同样地",
+      "rule": "similar 的副词形式",
+      "sentences": [{"en": "Similarly, the second experiment yielded the same result.", "zh": "同样，第二次实验得出了相同的结果。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "similar with",
+      "correct": "similar to",
+      "explain": "表示“与…相似”时用 similar to，不用 similar with。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "simil-（相同）+ -ar（形容词后缀）→ 相同的、像的 → 相似的。同根词：simulate（模拟）、simultaneous（同时的）。"
+    }
+  ]
+}

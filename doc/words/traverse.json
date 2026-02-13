@@ -1,0 +1,60 @@
+{
+  "word": "traverse",
+  "created_at": "2026-02-13T03:00:00Z",
+  "phonetic": { "uk": "/trəˈvɜːs/", "us": "/trəˈvɜːrs/" },
+  "definitions": [
+    {
+      "translation": "穿越；横跨；横越",
+      "partOfSpeech": { "en": "verb", "en_simple": "v.", "ch": "动词" },
+      "usage_note": "及物动词。指从一端穿过或横越某区域到达另一端。",
+      "sentences": [
+        { "en": "The explorers traversed the desert on camels.", "zh": "探险者骑着骆驼穿越沙漠。" },
+        { "en": "It took them three days to traverse the mountain range.", "zh": "他们花了三天时间穿越山脉。" },
+        { "en": "The bridge traverses the river at its narrowest point.", "zh": "这座桥在河流最窄处横跨两岸。" }
+      ],
+      "collocations": [
+        { "collocation": "traverse the terrain", "translation": "穿越地形", "sentences": [{ "en": "The soldiers had to traverse difficult terrain under cover of darkness.", "zh": "士兵们不得不在夜幕掩护下穿越险峻地形。" }] },
+        { "collocation": "traverse a distance", "translation": "跨越一段距离", "sentences": [{ "en": "Migratory birds traverse vast distances each year.", "zh": "候鸟每年跨越辽阔的距离。" }] },
+        { "collocation": "traverse the country", "translation": "穿越全国", "sentences": [{ "en": "They traversed the country by train.", "zh": "他们乘火车穿越全国。" }] }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "cross": { "translation": "穿过；横渡", "diffs": "cross 较日常；traverse 较正式，多指艰难或大范围的穿越", "sentences": [{ "en": "We crossed the street at the pedestrian crossing.", "zh": "我们在人行横道过马路。" }] },
+        "span": { "translation": "横跨；跨越", "diffs": "span 多指桥梁、时间等跨越；traverse 强调穿过、穿越", "sentences": [{ "en": "The bridge spans the gorge.", "zh": "这座桥横跨峡谷。" }] },
+        "navigate": { "translation": "航行；穿越", "diffs": "navigate 强调找到路径；traverse 强调完成穿越", "sentences": [{ "en": "They navigated through the storm.", "zh": "他们在风暴中航行。" }] }
+      },
+      "antonyms": {
+        "retreat": { "translation": "撤退；后退", "diffs": "与穿越方向相反", "sentences": [{ "en": "The army was forced to retreat.", "zh": "军队被迫撤退。" }] }
+      },
+      "inflections": { "past": "traversed", "past_participle": "traversed", "present_participle": "traversing", "third_person": "traverses" }
+    },
+    {
+      "translation": "横穿；穿越；横越的路线",
+      "partOfSpeech": { "en": "noun", "en_simple": "n.", "ch": "名词" },
+      "usage_note": "可数名词。指穿越的行为或横越的路线。",
+      "sentences": [
+        { "en": "The traverse of the glacier took six hours.", "zh": "穿越冰川花了六个小时。" },
+        { "en": "They planned a traverse of the continental divide.", "zh": "他们计划横穿大陆分水岭。" },
+        { "en": "The ski traverse across the backcountry was challenging.", "zh": "穿越野外的滑雪路线颇具挑战性。" }
+      ],
+      "collocations": [],
+      "phrases": [],
+      "synonyms": {},
+      "antonyms": {},
+      "inflections": { "plural": "traverses" }
+    }
+  ],
+  "etymology": {
+    "origin": "来自拉丁语 transversare（横穿），源自 trans-（横过）+ vertere（转、转向）。",
+    "root": "vertere（拉丁语：转）",
+    "affixes": ["trans-（横过、穿过）", "-are（动词后缀）"],
+    "history": "trans- 表“横过”，vertere 表“转”，合起来指“转向横过”即“横穿”。"
+  },
+  "related_words": {
+    "traversal": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "遍历；横穿", "rule": "traverse 的名词形式", "sentences": [{ "en": "Tree traversal is a fundamental algorithm.", "zh": "树的遍历是基本算法。" }] },
+    "traversable": { "class": { "en": "adjective", "en_s": "adj.", "ch": "形容词" }, "translation": "可穿越的", "rule": "traverse 的形容词形式", "sentences": [{ "en": "The path is traversable in summer.", "zh": "这条路夏季可以穿越。" }] }
+  },
+  "idioms": [],
+  "common_mistakes": [{ "wrong": "traverse through", "correct": "traverse (without through)", "explain": "traverse 本身已含“穿过”之意，不再需要 through。应说 traverse the desert，不说 traverse through the desert。" }],
+  "mnemonics": [{ "type": "词根记忆", "content": "trans-（横过）+ verse（转）→ 转向横过 → 穿越。与 transverse（横向的）同源。" }]
+}

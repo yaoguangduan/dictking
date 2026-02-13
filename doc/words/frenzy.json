@@ -1,0 +1,84 @@
+{
+  "word": "frenzy",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈfrenzi/",
+    "us": "/ˈfrenzi/"
+  },
+  "definitions": [
+    {
+      "translation": "狂热；疯狂",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数或不可数名词。指极度的激动、狂乱状态，常用于描述群体或个人的失控行为。",
+      "sentences": [
+        {"en": "The crowd worked itself into a frenzy as the band took the stage.", "zh": "乐队登台时，人群陷入狂热。"},
+        {"en": "In a frenzy of activity, they packed everything in an hour.", "zh": "在一阵疯狂的忙碌中，他们一小时内把一切打包完毕。"},
+        {"en": "The market was in a buying frenzy before the deadline.", "zh": "截止日期前，市场陷入抢购狂潮。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "in a frenzy",
+          "translation": "处于狂热/疯狂中",
+          "pattern": "介词+名词",
+          "explain": "描述狂热状态",
+          "sentences": [{"en": "The fans were in a frenzy when the star appeared.", "zh": "明星出现时，粉丝们陷入狂热。"}]
+        },
+        {
+          "collocation": "feeding frenzy",
+          "translation": "抢食狂潮；争相抢夺",
+          "pattern": "名词+名词",
+          "explain": "原指鱼类抢食，喻指众人争相抢夺",
+          "sentences": [{"en": "The media went into a feeding frenzy over the scandal.", "zh": "媒体对这桩丑闻进行了疯狂炒作。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "mania": {"translation": "狂热，躁狂", "diffs": "mania 可指精神病学上的躁狂；frenzy 多指短暂、激烈的亢奋"},
+        "hysteria": {"translation": "歇斯底里，狂热", "diffs": "hysteria 强调失控、情绪化；frenzy 可含“狂热投入”之意"}
+      },
+      "antonyms": {
+        "calm": {"translation": "平静", "diffs": "与 frenzy 的激动、狂乱相对"},
+        "composure": {"translation": "镇静，沉着", "diffs": "指保持冷静、自控"}
+      },
+      "inflections": {"plural": "frenzies"}
+    }
+  ],
+  "etymology": {
+    "origin": "源自希腊语 phrenitis（脑炎，谵妄），来自 phrēn（心，心智）。经拉丁语 phrenesis 传入古法语 frenesie，再进入中古英语为 frenesie，后演变为 frenzy。",
+    "root": "希腊语 phrēn（心，心智）",
+    "affixes": [],
+    "history": "phrenitis 本指“心智的炎症”，即谵妄、精神错乱；frenzy 承袭“心智失控、狂乱”之义，后泛指任何极度的狂热状态。"
+  },
+  "related_words": {
+    "frenetic": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "狂热的",
+      "rule": "frenzy 的形容词形式，描述 frenetic 的活动",
+      "sentences": [{"en": "The frenetic pace of city life exhausted her.", "zh": "城市生活的狂热节奏让她精疲力竭。"}]
+    },
+    "frantic": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "疯狂的",
+      "rule": "与 frenzy 同源（拉丁语 phreneticus），形容极度着急或 frenetic",
+      "sentences": [{"en": "She was frantic with worry when her child went missing.", "zh": "孩子走失时，她担心得快要发狂。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "in frenzy",
+      "correct": "in a frenzy",
+      "explain": "frenzy 在此用法中通常带不定冠词 a，即 in a frenzy。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根联想",
+      "content": "frenzy 与 frantic、frenetic 同源，均与“心智失控”有关 → 三者都含“ 狂热”之意 → frenzy 即狂热、疯狂。"
+    }
+  ]
+}

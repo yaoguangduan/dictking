@@ -1,0 +1,94 @@
+{
+  "word": "admirer",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ədˈmaɪərə(r)/",
+    "us": "/ədˈmaɪərər/"
+  },
+  "definitions": [
+    {
+      "translation": "钦佩者；仰慕者；爱慕者",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。指钦佩、仰慕或爱慕某人的人，尤指暗恋者或追求者。",
+      "sentences": [
+        {"en": "She has many admirers at school.", "zh": "她在学校里有很多仰慕者。"},
+        {"en": "The artist gained admirers worldwide for his innovative style.", "zh": "这位艺术家因其创新风格赢得了全球的钦佩者。"},
+        {"en": "An anonymous admirer sent her flowers every week.", "zh": "一位匿名爱慕者每周给她送花。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "secret admirer",
+          "translation": "秘密爱慕者；暗恋者",
+          "pattern": "形容词+名词",
+          "explain": "不透露身份的爱慕者",
+          "sentences": [{"en": "She received a love letter from a secret admirer.", "zh": "她收到了一封来自秘密爱慕者的情书。"}]
+        },
+        {
+          "collocation": "have many admirers",
+          "translation": "有很多仰慕者",
+          "pattern": "动词+形容词+名词",
+          "explain": "常见搭配",
+          "sentences": [{"en": "The talented singer has many admirers.", "zh": "这位才华横溢的歌手有许多仰慕者。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "fan": {
+          "translation": "粉丝；迷",
+          "diffs": "fan 多指对名人、球队等的狂热喜爱；admirer 可指一般钦佩或爱慕",
+          "sentences": [{"en": "He is a devoted fan of the band.", "zh": "他是该乐队的忠实粉丝。"}]
+        },
+        "devotee": {
+          "translation": "狂热爱好者；信徒",
+          "diffs": "devotee 强调极度热爱；admirer 语气较轻",
+          "sentences": [{"en": "She is a devotee of classical music.", "zh": "她是古典音乐的狂热爱好者。"}]
+        }
+      },
+      "antonyms": {
+        "critic": {"translation": "批评者", "diffs": "持否定态度的人"},
+        "detractor": {"translation": "贬低者；诋毁者", "diffs": "admirer 的反面"}
+      },
+      "inflections": {
+        "plural": "admirers"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自 admire（钦佩）+ -er（表示人的后缀），意为“钦佩的人”。",
+    "root": "ad-（朝向）+ mirari（拉丁语：惊讶、惊叹）",
+    "affixes": ["ad-（前缀：朝向）", "-er（后缀：表示人）"],
+    "history": " admire 源自拉丁语 admirari（对…感到惊奇），admirer 即“对…感到钦佩的人”。"
+  },
+  "related_words": {
+    "admire": {
+      "class": {"en": "verb", "en_s": "v.", "ch": "动词"},
+      "translation": "钦佩；赞赏；仰慕",
+      "rule": "admirer 的动词形式",
+      "sentences": [{"en": "I admire her courage and determination.", "zh": "我钦佩她的勇气和决心。"}]
+    },
+    "admiration": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "钦佩；赞赏",
+      "rule": "admire 的名词形式",
+      "sentences": [{"en": "She looked at him with admiration.", "zh": "她满怀钦佩地看着他。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "He is my admirer of her.",
+      "correct": "He is an admirer of hers.",
+      "explain": "表示“她的仰慕者”用 an admirer of hers，不用 admirer of her。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "ad-（朝向）+ mir-（惊奇）+ -er（人）→ 对…感到惊奇的人 → 钦佩者、仰慕者。"
+    }
+  ]
+}

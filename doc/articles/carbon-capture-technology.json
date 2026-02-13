@@ -1,0 +1,63 @@
+{
+    "title": "Carbon Capture Technology Scales Up as Policy Support and Investment Surge",
+    "title_zh": "政策支持与投资激增推动碳捕集技术规模扩大",
+    "author": "U.S. Department of Energy",
+    "source": "DOE Carbon Management / EIA / NETL",
+    "created_at": "2025-01-20T00:00:00Z",
+    "difficulty": "hard",
+    "tags": ["carbon capture", "CCUS", "climate technology", "decarbonization", "45Q"],
+    "summary": "The United States leads the world with over 20 million tonnes per annum of carbon capture capacity, but reaching energy transition goals will require 400 to 1,800 million tonnes by 2050. The Inflation Reduction Act's expanded 45Q tax credits and approximately $12 billion in federal funding have made large-scale projects financially attractive. Current technologies include point-source capture and emerging direct air capture.",
+    "summary_zh": "美国以超过2000万吨/年的碳捕集能力位居世界前列，但实现能源转型目标到2050年需要4亿至18亿吨。《通货膨胀削减法案》扩大的45Q税收抵免和约120亿美元的联邦资助使大型项目在经济上具有吸引力。当前技术包括点源捕集和新兴的直接空气捕集。",
+    "paragraphs": [
+        {
+            "en": "The United States currently has over 20 million tonnes per annum of carbon capture capacity, representing world leadership in carbon management. However, modeling studies suggest reaching U.S. energy transition goals will require capturing and storing 400 to 1,800 million tonnes of CO2 annually by 2050—representing a massive gap requiring significant scaling. The Carbon Capture, Allocation, Transportation and Sequestration module, introduced into federal modeling for 2025 projections, reflects the emerging carbon market's growing importance.",
+            "zh": "美国目前拥有超过2000万吨/年的碳捕集能力，在碳管理领域居世界领先地位。然而，建模研究表明，实现美国能源转型目标到2050年每年需要捕集和封存4亿至18亿吨二氧化碳——这意味着需要大规模扩展的巨大差距。纳入2025年联邦预测的碳捕集、分配、运输和封存模块反映了新兴碳市场日益增长的重要性。",
+            "keywords": ["tonnes per annum", "sequestration", "modeling", "scaling"],
+            "notes": [{"phrase": "tonnes per annum", "explain": "每年吨数，annum 为拉丁语表示\"年\""}, {"phrase": "energy transition", "explain": "能源转型，指从化石燃料向清洁能源的转变"}]
+        },
+        {
+            "en": "The Inflation Reduction Act has strengthened incentives through expanded 45Q tax credits, offering $85 per metric ton for permanently stored CO2 and $60 per metric ton for CO2 used in enhanced oil recovery. Projects must begin construction by 2033 to qualify for these 12-year credits. This enhanced support has made many large-scale projects financially attractive today, with investors raising billions to capitalize on these opportunities. Recent climate and infrastructure legislation has provided approximately $12 billion in funding to support U.S. carbon management projects.",
+            "zh": "《通货膨胀削减法案》通过扩大45Q税收抵免加强了激励，对永久封存的二氧化碳每公吨提供85美元，对用于提高石油采收率的二氧化碳每公吨提供60美元。项目必须在2033年前开工才能获得这些12年的抵免资格。这种加强的支持使许多大型项目如今在经济上具有吸引力，投资者已筹集数十亿美元以利用这些机会。近期气候和基础设施立法已提供约120亿美元资金支持美国碳管理项目。",
+            "keywords": ["45Q", "enhanced oil recovery", "metric ton", "capitalize"],
+            "notes": [{"phrase": "enhanced oil recovery (EOR)", "explain": "提高石油采收率，注入二氧化碳以提取更多石油"}, {"phrase": "capitalize on", "explain": "利用，指从中获利或把握机会"}]
+        },
+        {
+            "en": "Investment opportunities in carbon management could reach $100 billion by 2030 and $600 billion by 2050, according to U.S. Department of Energy projections. Current operations are concentrated in three geographic regions: the Gulf Coast, Permian Basin, and Rocky Mountains and Great Plains, with local CO2 pipeline networks under development. Addressing environmental justice considerations requires commitment from policymakers and industry to build trust with communities considering carbon management projects.",
+            "zh": "根据美国能源部预测，碳管理的投资机会到2030年可能达到1000亿美元，2050年达到6000亿美元。当前运营集中在三个地理区域：墨西哥湾沿岸、二叠纪盆地以及落基山脉和大平原，当地二氧化碳管道网络正在开发中。解决环境正义问题需要政策制定者和行业承诺与考虑碳管理项目的社区建立信任。",
+            "keywords": ["Permian Basin", "pipeline", "environmental justice", "commitment"],
+            "notes": [{"phrase": "environmental justice", "explain": "环境正义，指公平分配环境负担和利益"}, {"phrase": "under development", "explain": "正在开发中，指项目处于建设或规划阶段"}]
+        },
+        {
+            "en": "Current carbon capture approaches include point-source capture from industrial sources such as hydrogen production, natural gas processing, ethanol plants, cement kilns and power plants. Emerging direct air capture technologies aim to remove CO2 directly from the atmosphere. Established methods include absorption, in which solvents chemically bind CO2; adsorption, using solid materials that attract and hold the gas; and membrane-based separation, which filters CO2 through specialised materials.",
+            "zh": "当前碳捕集方法包括从氢气生产、天然气加工、乙醇工厂、水泥窑和发电厂等工业源进行点源捕集。新兴的直接空气捕集技术旨在直接从大气中去除二氧化碳。成熟方法包括吸收法——溶剂与二氧化碳发生化学结合；吸附法——使用吸引并吸附气体的固体材料；以及膜分离法——通过专用材料过滤二氧化碳。",
+            "keywords": ["point-source", "direct air capture", "absorption", "adsorption"],
+            "notes": [{"phrase": "point-source capture", "explain": "点源捕集，从单一排放源（如烟囱）捕集"}, {"phrase": "direct air capture (DAC)", "explain": "直接空气捕集，从大气中直接去除CO2的技术"}]
+        },
+        {
+            "en": "Emerging technologies under development include calcium looping, which uses calcium oxide to capture CO2 in a reversible process, and cryogenic separation, which cools gas mixtures to separate CO2 by liquefaction. Developers must anticipate, listen to and address stakeholder concerns through early, substantive and transparent engagement on the benefits and risks of these projects. The DOE has launched a domestic engagement framework outlining its vision for successful community engagement.",
+            "zh": "正在开发的新兴技术包括钙循环——使用氧化钙在可逆过程中捕集二氧化碳，以及低温分离——冷却气体混合物通过液化分离二氧化碳。开发者必须通过早期、实质性和透明的利益与风险交流，预见、倾听和解决利益相关者的关切。能源部已启动国内参与框架，概述其成功社区参与的愿景。",
+            "keywords": ["calcium looping", "cryogenic", "stakeholder", "substantive"],
+            "notes": [{"phrase": "calcium looping", "explain": "钙循环，利用氧化钙/碳酸钙循环捕集CO2"}, {"phrase": "substantive engagement", "explain": "实质性参与，指有实际内容的对话而非表面形式"}]
+        },
+        {
+            "en": "Despite progress, carbon capture remains controversial. Critics argue it may extend the life of fossil fuel infrastructure and that storage sites could leak. Proponents counter that heavy industries like cement and steel have few alternatives for decarbonization, and that geological storage has been proven secure over decades. The technology's role in the energy transition will depend on whether it complements or delays the shift to renewable energy—a question that policymakers and the public must continue to grapple with.",
+            "zh": "尽管取得进展，碳捕集仍存在争议。批评者认为它可能延长化石燃料基础设施的寿命，储存点可能泄漏。支持者反驳称，水泥和钢铁等重工业在脱碳方面几乎没有替代方案，地质封存在数十年来已被证明是安全的。该技术在能源转型中的作用将取决于它是补充还是推迟向可再生能源的转变——这是政策制定者和公众必须继续努力解决的问题。",
+            "keywords": ["controversial", "decarbonization", "geological storage", "grapple"],
+            "notes": [{"phrase": "extend the life of", "explain": "延长...的寿命，指使某事物存在更久"}, {"phrase": "grapple with", "explain": "努力解决，grapple 原意为扭打、搏斗"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "sequestration", "phonetic": "/ˌsiːkwəˈstreɪʃn/", "meaning": "封存；隔离", "partOfSpeech": "n.", "example": "The project involves carbon capture and sequestration."},
+        {"word": "metric ton", "phonetic": "/ˈmetrɪk tʌn/", "meaning": "公吨（1000公斤）", "partOfSpeech": "n.", "example": "Credits offer $85 per metric ton for permanently stored CO2."},
+        {"word": "absorption", "phonetic": "/əbˈzɔːrpʃn/", "meaning": "吸收", "partOfSpeech": "n.", "example": "Absorption uses solvents to chemically bind CO2."},
+        {"word": "adsorption", "phonetic": "/ædˈsɔːrpʃn/", "meaning": "吸附", "partOfSpeech": "n.", "example": "Adsorption uses solid materials that attract and hold the gas."},
+        {"word": "cryogenic", "phonetic": "/ˌkraɪəˈdʒenɪk/", "meaning": "低温的", "partOfSpeech": "adj.", "example": "Cryogenic separation cools gas mixtures to separate CO2."},
+        {"word": "decarbonization", "phonetic": "/diːˌkɑːbənaɪˈzeɪʃn/", "meaning": "脱碳", "partOfSpeech": "n.", "example": "Heavy industries have few alternatives for decarbonization."},
+        {"word": "grapple", "phonetic": "/ˈɡræpl/", "meaning": "努力应对", "partOfSpeech": "v.", "example": "Policymakers must grapple with this question."}
+    ],
+    "discussion_questions": [
+        {"en": "Carbon capture capacity needs to scale from 20 million to 400-1,800 million tonnes by 2050. What are the biggest barriers to achieving this scale-up?", "zh": "碳捕集能力到2050年需要从2000万吨扩大到4-18亿吨。实现这一扩规模的最大障碍是什么？"},
+        {"en": "Critics say carbon capture may extend fossil fuel infrastructure. Supporters say it is essential for heavy industry. How might both views be partially correct?", "zh": "批评者称碳捕集可能延长化石燃料基础设施。支持者称它对重工业至关重要。两种观点如何可能都部分正确？"},
+        {"en": "The DOE emphasizes community engagement and environmental justice for carbon projects. Why might local communities have concerns about CO2 pipelines or storage sites?", "zh": "能源部强调碳项目的社区参与和环境正义。当地社区为什么可能对二氧化碳管道或储存点有顾虑？"}
+    ]
+}

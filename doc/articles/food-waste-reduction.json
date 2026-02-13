@@ -1,0 +1,69 @@
+{
+    "title": "Using Smart Technologies and AI in Food Packaging to Reduce Food Waste",
+    "title_zh": "用智能技术和人工智能减少食物浪费",
+    "author": "Tohid Didar",
+    "source": "The Conversation",
+    "created_at": "2025-02-09T00:00:00Z",
+    "difficulty": "medium",
+    "tags": ["food", "technology", "sustainability", "food waste", "smart packaging"],
+    "summary": "More than 30% of the world's food is wasted each year, driven by inefficiencies and outdated labelling. Smart food-packaging innovations use sensors and AI to measure spoilage indicators in real time, allowing dynamic tracking of freshness. Despite scientific promise, adoption faces corporate resistance due to costs. The economic argument is compelling: food waste costs hundreds of billions annually. Policymakers can incentivise adoption through tax benefits and regulatory boldness, as California did by eliminating \"sell by\" dates.",
+    "summary_zh": "全球每年有超过30%的食物被浪费，原因是效率低下和过时的标签。智能食品包装创新使用传感器和人工智能实时测量变质指标，实现新鲜度的动态追踪。尽管科学前景广阔，但由于成本问题，企业采用面临阻力。经济论据令人信服：食物浪费每年造成数千亿美元损失。政策制定者可以通过税收优惠和监管大胆举措来激励采用，正如加州通过取消「保质期」标签所做的那样。",
+    "paragraphs": [
+        {
+            "en": "Food insecurity is one of humanity's most pressing challenges, impacting more than two billion people worldwide. Paradoxically, as so many suffer from lack of access to food, more than 30% of the world's food is wasted each year, driven by inefficiencies in production, distribution and consumption. Outdated, imprecise and often incorrect labelling systems such as printed expiry dates contribute to these huge problems, leading to unnecessary disposal of safe, healthy food, increased greenhouse gas emissions and financial losses.",
+            "zh": "粮食不安全是人类最紧迫的挑战之一，影响全球超过20亿人。矛盾的是，尽管许多人因无法获得食物而受苦，全球每年仍有超过30%的食物被浪费，这是由于生产、分销和消费的低效造成的。过时、不精确且往往不正确的标签系统（如印刷的保质期）加剧了这些严重问题，导致安全健康食物被不必要地丢弃，温室气体排放增加和经济损失。",
+            "keywords": ["food insecurity", "paradoxically", "inefficiencies", "expiry dates", "disposal"],
+            "notes": [{"phrase": "food insecurity", "explain": "粮食不安全；指缺乏稳定获得足够食物的状态"}, {"phrase": "paradoxically", "explain": "矛盾的是；paradox 的副词形式"}]
+        },
+        {
+            "en": "Addressing these crises requires bold investment in sustainable technologies that are already tested and available. Smart food-packaging innovations provide real-time food quality monitoring in every package. Unlike traditional expiration-date labels that communicate only time, these systems use advanced sensors and artificial intelligence to measure spoilage indicators such as pH balance, bacterial growth and biogenic amines. This allows for dynamic and up-to-the-minute tracking of food freshness.",
+            "zh": "解决这些危机需要对已经过测试且可用的可持续技术进行大胆投资。智能食品包装创新为每件包装提供实时食品质量监测。与仅传达时间的传统保质期标签不同，这些系统使用先进传感器和人工智能测量变质指标，如 pH 平衡、细菌生长和生物胺。这实现了食物新鲜度的动态和即时追踪。",
+            "keywords": ["spoilage", "sensors", "biogenic amines", "dynamic", "real-time"],
+            "notes": [{"phrase": "spoilage indicators", "explain": "变质指标；表示食物腐败程度的信号"}, {"phrase": "biogenic amines", "explain": "生物胺；食物变质时产生的化合物"}]
+        },
+        {
+            "en": "These systems would increase food safety and prevent food fit for consumption from being thrown out. The early and highly specific warnings they provide would also reduce the need for costly and labour-intensive testing when problems occur. Despite the promise of these scientifically proven systems, getting them into the marketplace is a significant challenge. Corporations often resist smart packaging due to higher costs and tight profit margins in the highly competitive food sector.",
+            "zh": "这些系统将提高食品安全，防止仍可食用的食物被扔掉。它们提供的早期和高度具体的警告还将减少在出现问题时进行成本高昂且劳动密集的检测的需求。尽管这些经过科学验证的系统前景广阔，但将其推向市场是一项重大挑战。由于成本较高和食品行业竞争激烈的利润微薄，企业往往抵制智能包装。",
+            "keywords": ["labour-intensive", "profit margins", "marketplace", "resistance", "competitive"],
+            "notes": [{"phrase": "fit for consumption", "explain": "适合食用；fit for 表示适用于"}, {"phrase": "tight profit margins", "explain": "微薄的利润率；利润空间很小"}]
+        },
+        {
+            "en": "However, the wider economic argument for smart packaging is compelling: food waste contributes to hundreds of billions of dollars in global annual losses, and smart solutions can reduce these losses substantially. By quantifying the potential savings such as reduced spoilage, fewer recalls, less food-related illness and lower legal liabilities public and private stakeholders can understand why it is valuable to share the cost of these innovations. These technologies also align with growing consumer demand for sustainability and transparency in food systems.",
+            "zh": "然而，智能包装的广泛经济论据令人信服：食物浪费每年造成全球数千亿美元损失，智能解决方案可以大幅减少这些损失。通过量化潜在节省——如减少变质、减少召回、减少食源性疾病和降低法律责任——公共和私人利益相关者可以理解为何分摊这些创新成本是有价值的。这些技术也与消费者对食品系统可持续性和透明度的日益增长的需求相一致。",
+            "keywords": ["quantifying", "stakeholders", "liabilities", "transparency", "align"],
+            "notes": [{"phrase": "legal liabilities", "explain": "法律责任；企业可能面临的 legal 风险"}, {"phrase": "stakeholders", "explain": "利益相关者；与某事有利害关系的人或组织"}]
+        },
+        {
+            "en": "Policymakers and industry leaders can create an appetite for change by regarding solutions as investments in people and the planet, not just profits. Regulatory bodies must take bold steps, as we have seen in California's elimination of sell-by dates, which motivated producers to rethink their labelling strategies. Governments can further incentivise smart food-packaging adoption through tax benefits, subsidies, or funding for companies to integrate real-time monitoring technologies.",
+            "zh": "政策制定者和行业领袖可以将解决方案视为对人的投资、对地球的投资，而不仅仅是利润，从而创造变革的意愿。监管机构必须采取大胆措施，正如我们看到加州取消保质期标签，这促使生产商重新思考其标签策略。政府可以进一步通过税收优惠、补贴或资助公司整合实时监测技术来激励采用智能食品包装。",
+            "keywords": ["regulatory", "incentivise", "subsidies", "integration", "monitoring"],
+            "notes": [{"phrase": "create an appetite for", "explain": "创造对……的意愿；使人们渴望"}, {"phrase": "sell-by dates", "explain": "保质期；最佳食用日期"}]
+        },
+        {
+            "en": "Smart food packaging would also empower consumers to make informed decisions. Innovations such as AI-enabled apps that predict food freshness from smartphone photos can help households reduce waste by determining the safety of food without needing to open the package. Smart packaging platforms should prioritise universal applications that work across food types, rather than niche, highly customised systems. Collaboration across industry, academia and government is vital to getting these solutions into broad use.",
+            "zh": "智能食品包装还将使消费者能够做出明智的决定。诸如通过智能手机照片预测食物新鲜度的人工智能应用等创新，可以帮助家庭在无需打开包装的情况下判断食物安全性来减少浪费。智能包装平台应优先考虑适用于各种食品类型的通用应用，而非小众的、高度定制的系统。行业、学术界和政府之间的合作对于将这些解决方案广泛推广至关重要。",
+            "keywords": ["empower", "niche", "collaboration", "academia", "universal"],
+            "notes": [{"phrase": "empower consumers", "explain": "使消费者有能力；赋予消费者权力"}, {"phrase": "niche", "explain": "小众的；针对特定市场的"}]
+        },
+        {
+            "en": "Addressing food insecurity demands a holistic, sustainable approach that brings together technological innovation, supportive policies and societal awareness. By investing in smart, scalable solutions, we can transform our food systems to ensure less food is wasted. Reduced food waste translates to lower greenhouse gas emissions, less strain on agricultural systems and significant savings across supply chains. For developing nations disproportionately affected by food insecurity, smart packaging technologies can be transformative.",
+            "zh": "解决粮食不安全需要一种整体的、可持续的方法，将技术创新、支持性政策和社会意识结合起来。通过投资智能、可扩展的解决方案，我们可以转变食品系统，确保更少的食物被浪费。减少食物浪费转化为更低的温室气体排放、减轻农业系统压力以及在供应链上的显著节省。对于不成比例地受粮食不安全影响的发展中国家，智能包装技术可能是变革性的。",
+            "keywords": ["holistic", "scalable", "supply chains", "transformative", "disproportionately"],
+            "notes": [{"phrase": "holistic approach", "explain": "整体方法；全面的、综合的 approach"}, {"phrase": "translates to", "explain": "转化为；意味着"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "spoilage", "phonetic": "/ˈspɔɪlɪdʒ/", "meaning": "变质；腐败", "partOfSpeech": "n.", "example": "Sensors measure spoilage indicators."},
+        {"word": "stakeholder", "phonetic": "/ˈsteɪkhəʊldə/", "meaning": "利益相关者", "partOfSpeech": "n.", "example": "Stakeholders can share the cost of innovations."},
+        {"word": "subsidy", "phonetic": "/ˈsʌbsədi/", "meaning": "补贴；补助", "partOfSpeech": "n.", "example": "Governments offer subsidies for smart packaging."},
+        {"word": "empower", "phonetic": "/ɪmˈpaʊə/", "meaning": "使能够；赋予权力", "partOfSpeech": "v.", "example": "Smart packaging empowers consumers."},
+        {"word": "holistic", "phonetic": "/həʊˈlɪstɪk/", "meaning": "整体的；全面的", "partOfSpeech": "adj.", "example": "A holistic approach is needed."},
+        {"word": "scalable", "phonetic": "/ˈskeɪləbl/", "meaning": "可扩展的", "partOfSpeech": "adj.", "example": "Invest in scalable solutions."},
+        {"word": "liability", "phonetic": "/ˌlaɪəˈbɪləti/", "meaning": "责任；债务", "partOfSpeech": "n.", "example": "Lower legal liabilities for companies."}
+    ],
+    "discussion_questions": [
+        {"en": "Would you trust an AI app to tell you if food is safe to eat? What might make you sceptical?", "zh": "你会相信人工智能应用告诉你食物是否安全可食吗？什么可能会让你怀疑？"},
+        {"en": "The article says corporations resist smart packaging due to costs. Who should bear the cost of reducing food waste?", "zh": "文章说企业因成本而抵制智能包装。谁应该承担减少食物浪费的成本？"},
+        {"en": "How might smart packaging help or change behaviour in your own household?", "zh": "智能包装可能如何帮助或改变你自己家庭的行为？"}
+    ]
+}

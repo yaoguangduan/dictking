@@ -1,0 +1,63 @@
+{
+    "title": "Amazon Fires Drive Unprecedented Global Forest Loss, Though 2025 Shows Signs of Improvement",
+    "title_zh": "亚马逊大火导致全球森林损失创纪录，但2025年出现改善迹象",
+    "author": "Manuela Andreoni, Alexander Villegas",
+    "source": "Reuters / World Resources Institute",
+    "created_at": "2025-05-21T00:00:00Z",
+    "difficulty": "medium",
+    "tags": ["Amazon", "deforestation", "forest fires", "Brazil", "climate"],
+    "summary": "Massive fires fueled by climate change led global forest loss to smash records in 2024, with tropical pristine forests losing 6.7 million hectares—an 80% spike. Brazil's Amazon and Bolivia were hit hardest. However, full-year 2025 data shows deforestation fell 11% in the Amazon, marking the third consecutive year of decline under President Lula.",
+    "summary_zh": "气候变化引发的大规模火灾导致2024年全球森林损失创下纪录，热带原始森林损失670万公顷——增幅达80%。巴西亚马逊和玻利维亚受灾最重。然而，2025年全年数据显示亚马逊森林砍伐下降了11%，标志着卢拉总统任内连续第三年下降。",
+    "paragraphs": [
+        {
+            "en": "Massive fires fueled by climate change led global forest loss to smash records in 2024, according to a report issued by the World Resources Institute and the University of Maryland. Loss of tropical pristine forests alone reached 6.7 million hectares—an 80% spike compared to 2023 and an area roughly the size of Panama—mainly because Brazil, the host of the next global climate summit, struggled to contain fires in the Amazon amid the worst drought ever recorded in the rainforest.",
+            "zh": "根据世界资源研究所和马里兰大学发布的报告，气候变化引发的大规模火灾导致2024年全球森林损失创下纪录。仅热带原始森林的损失就达670万公顷——较2023年激增80%，面积相当于巴拿马——主要原因是巴西在雨林有记录以来最严重干旱中难以控制亚马逊的大火，而巴西是下一届全球气候峰会的主办国。",
+            "keywords": ["pristine", "spike", "contain", "drought"],
+            "notes": [{"phrase": "smash records", "explain": "打破纪录，smash 表示大幅超越"}, {"phrase": "struggled to contain", "explain": "难以控制，struggle to 表示努力但难以做到"}]
+        },
+        {
+            "en": "It was the first time the annual report showed fires as the leading cause of tropical forest loss, a grim milestone for a naturally humid ecosystem that is not supposed to burn. \"The signals in these data are particularly frightening,\" said Matthew Hansen, co-director of a lab at the University of Maryland. \"The fear is that the climate signal is going to overtake our ability to respond effectively.\" Latin America was hit particularly hard, with the Amazon biome hitting its highest level of primary forest loss since 2016.",
+            "zh": "这是该年度报告首次将火灾列为热带森林损失的主要原因，对于一个本不该燃烧的天然潮湿生态系统来说，这是一个严峻的里程碑。「这些数据中的信号尤其令人担忧，」马里兰大学实验室联合主任马修·汉森说。「令人担忧的是，气候信号将超越我们有效应对的能力。」拉丁美洲受灾尤为严重，亚马逊生物群系遭遇了自2016年以来最高的原始森林损失水平。",
+            "keywords": ["grim", "milestone", "biome", "overtake"],
+            "notes": [{"phrase": "grim milestone", "explain": "严峻的里程碑，grim 表示阴郁的、令人沮丧的"}, {"phrase": "climate signal", "explain": "气候信号，指气候变化在数据中显现的影响"}]
+        },
+        {
+            "en": "Brazil, which holds the largest share of the world's tropical forests, lost 2.8 million hectares, the most of any country. It was a reversal of the progress made in 2023 when President Luiz Inacio Lula da Silva took office promising to protect the world's largest rainforest. \"This was unprecedented, which means we have to adapt all our policy to a new reality,\" said Andre Lima, who oversees deforestation control policies for Brazil's Ministry of Environment, adding that fire, which was never among the leading causes of forest loss, is now a top priority for the government.",
+            "zh": "巴西拥有世界上最大份额的热带森林，损失了280万公顷，是所有国家中最多的。这逆转了2023年取得的进展，当时总统路易斯·伊纳西奥·卢拉·达席尔瓦上任时承诺保护世界上最大的雨林。「这是前所未有的，意味着我们必须使所有政策适应新的现实，」巴西环境部负责森林砍伐控制政策的安德烈·利马说，并补充道，火灾以前从未成为森林损失的主要原因，如今已成为政府的首要任务。",
+            "keywords": ["reversal", "unprecedented", "oversees", "priority"],
+            "notes": [{"phrase": "reversal of progress", "explain": "进展逆转，指此前取得的成果被推翻"}, {"phrase": "top priority", "explain": "首要任务，指最重要的关注点"}]
+        },
+        {
+            "en": "Bolivia overtook the Democratic Republic of Congo as the second country with the most tropical forest loss despite having less than half the amount of forest as the African nation. Bolivia's forest loss surged by 200% in 2024, with drought, wildfires and a government-incentivized agricultural expansion as the leading causes. Across Latin America, the report noted similar trends in Mexico, Peru, Nicaragua and Guatemala. Conflicts in Colombia and the Democratic Republic of Congo also boosted deforestation rates, as armed groups depleted natural resources.",
+            "zh": "玻利维亚超过刚果民主共和国，成为热带森林损失第二多的国家，尽管其森林面积不到这个非洲国家的一半。玻利维亚2024年森林损失激增200%，干旱、野火和政府鼓励的农业扩张是主要原因。报告指出，墨西哥、秘鲁、尼加拉瓜和危地马拉也呈现类似趋势。哥伦比亚和刚果民主共和国的冲突也推高了森林砍伐率，武装团体耗尽了自然资源。",
+            "keywords": ["surged", "incentivized", "depleted", "armed groups"],
+            "notes": [{"phrase": "surged by 200%", "explain": "激增200%，surge 表示急剧上升"}, {"phrase": "government-incentivized", "explain": "政府鼓励的，指通过政策激励推动"}]
+        },
+        {
+            "en": "Southeast Asia bucked the global trend with Malaysia, Laos and Indonesia all posting double-digit decreases in primary forest loss, as domestic conservation policy, combined with efforts by communities and the private sector, continued to effectively contain fires and agricultural expansion. Another outlier was the Charagua Iyambae Indigenous territory in southern Bolivia, which was able to keep the country's record fires at bay through land-use policies and early warning systems.",
+            "zh": "东南亚逆全球趋势而行，马来西亚、老挝和印度尼西亚的原始森林损失均出现两位数下降，国内保护政策与社区和私营部门的努力相结合，持续有效遏制了火灾和农业扩张。另一个特例是玻利维亚南部的查拉瓜原住民营地，通过土地用途政策和预警系统，成功抵御了该国创纪录的火灾。",
+            "keywords": ["bucked", "double-digit", "outlier", "at bay"],
+            "notes": [{"phrase": "bucked the trend", "explain": "逆趋势而行，buck 表示反抗、背离"}, {"phrase": "keep at bay", "explain": "使...无法靠近，bay 指海湾，喻指控制住威胁"}]
+        },
+        {
+            "en": "Full-year 2025 data brought some relief: deforestation fell by 11.08% in the Amazon compared to the previous period, reaching 5,796 km²—the third-lowest rate since measurements began in 1988. This marks the third consecutive year of decline under President Lula's administration, achieving a 50% reduction compared to 2022. Fires in the Brazilian Amazon also dropped sharply, with only 9.5 million acres burned in 2025, a 78% reduction from 2024. However, researchers warn that forest degradation from fires and logging remains elevated, and the Amazon may be approaching a tipping point.",
+            "zh": "2025年全年数据带来了一些慰藉：亚马逊森林砍伐较上一周期下降11.08%，至5796平方公里——自1988年开始测量以来的第三低水平。这标志着卢拉政府任内连续第三年下降，与2022年相比实现50%的减排。巴西亚马逊的火灾也大幅下降，2025年仅烧毁950万英亩，较2024年减少78%。然而，研究人员警告称，火灾和采伐造成的森林退化仍然居高不下，亚马逊可能正在接近临界点。",
+            "keywords": ["consecutive", "degradation", "tipping point", "elevated"],
+            "notes": [{"phrase": "tipping point", "explain": "临界点，指系统发生不可逆转变的关键时刻"}, {"phrase": "forest degradation", "explain": "森林退化，指森林质量和功能下降但未完全砍伐"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "pristine", "phonetic": "/ˈprɪstiːn/", "meaning": "原始的；未受破坏的", "partOfSpeech": "adj.", "example": "Loss of tropical pristine forests reached 6.7 million hectares in 2024."},
+        {"word": "deforestation", "phonetic": "/ˌdiːˌfɒrɪˈsteɪʃn/", "meaning": "森林砍伐", "partOfSpeech": "n.", "example": "Deforestation fell by 11% in the Amazon in 2025."},
+        {"word": "biome", "phonetic": "/ˈbaɪəʊm/", "meaning": "生物群系", "partOfSpeech": "n.", "example": "The Amazon biome hit its highest level of primary forest loss since 2016."},
+        {"word": "surge", "phonetic": "/sɜːdʒ/", "meaning": "激增；飙升", "partOfSpeech": "v.", "example": "Bolivia's forest loss surged by 200% in 2024."},
+        {"word": "deplete", "phonetic": "/dɪˈpliːt/", "meaning": "耗尽；使枯竭", "partOfSpeech": "v.", "example": "Armed groups depleted natural resources in conflict regions."},
+        {"word": "tipping point", "phonetic": "/ˈtɪpɪŋ pɔɪnt/", "meaning": "临界点", "partOfSpeech": "n.", "example": "The Amazon may be approaching a tipping point."},
+        {"word": "consecutive", "phonetic": "/kənˈsekjətɪv/", "meaning": "连续的", "partOfSpeech": "adj.", "example": "This marks the third consecutive year of decline."}
+    ],
+    "discussion_questions": [
+        {"en": "Fires became the leading cause of tropical forest loss for the first time in 2024. What does this suggest about the relationship between climate change and forest ecosystems?", "zh": "2024年火灾首次成为热带森林损失的主要原因。这表明气候变化与森林生态系统之间有什么关系？"},
+        {"en": "Southeast Asia reduced forest loss while Latin America saw record losses. What lessons might Latin American countries learn from Southeast Asian approaches?", "zh": "东南亚减少了森林损失，而拉丁美洲却创下损失纪录。拉丁美洲国家可能从东南亚的方法中学到什么？"},
+        {"en": "The report notes that \"there's more money to be paid by chopping forests down than keeping them standing.\" How might economic incentives be redesigned to protect forests?", "zh": "报告指出「砍伐森林比保护森林能获得更多金钱」。如何重新设计经济激励以保护森林？"}
+    ]
+}

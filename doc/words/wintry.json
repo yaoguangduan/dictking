@@ -1,0 +1,335 @@
+{
+  "word": "wintry",
+  "created_at": "2026-02-13T02:00:00Z",
+  "phonetic": {
+    "uk": "/ˈwɪntri/",
+    "us": "/ˈwɪntri/"
+  },
+  "definitions": [
+    {
+      "translation": "冬天的；寒冬的；寒冷的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "形容与冬季有关的天气、气温或景象。 comparative: more wintry; superlative: most wintry",
+      "sentences": [
+        {
+          "en": "The wintry wind bit through our coats as we walked along the harbor.",
+          "zh": "我们沿着港口散步时，凛冽的寒风穿透了外套。"
+        },
+        {
+          "en": "Drivers were warned of wintry conditions on the mountain passes.",
+          "zh": "司机们收到警告，山道上有寒冬天气。"
+        },
+        {
+          "en": "Despite the wintry morning, the garden still had a quiet beauty.",
+          "zh": "尽管早晨寒冷，花园依然有一种静谧的美。"
+        }
+      ],
+      "collocations": [
+        {
+          "collocation": "wintry weather",
+          "translation": "寒冬天气；冷天",
+          "sentences": [
+            {
+              "en": "The forecast predicts wintry weather for the weekend.",
+              "zh": "天气预报周末将有寒冬天气。"
+            }
+          ]
+        },
+        {
+          "collocation": "wintry conditions",
+          "translation": "冬季行车/出行条件；严寒路况",
+          "sentences": [
+            {
+              "en": "Schools closed early due to wintry conditions on the roads.",
+              "zh": "因道路冬季路况，学校提前放学。"
+            }
+          ]
+        },
+        {
+          "collocation": "wintry landscape",
+          "translation": "冬日景象；冰封的风景",
+          "sentences": [
+            {
+              "en": "The painter captured the stark beauty of the wintry landscape.",
+              "zh": "画家捕捉到了冬日景象的苍凉之美。"
+            }
+          ]
+        },
+        {
+          "collocation": "wintry mix",
+          "translation": "雨雪混合（气象术语）",
+          "sentences": [
+            {
+              "en": "A wintry mix of snow and sleet is expected tonight.",
+              "zh": "今晚预计会有雨雪混合天气。"
+            }
+          ]
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "wintry blast",
+          "translation": "一股寒风",
+          "sentences": [
+            {
+              "en": "A wintry blast from the north brought temperatures below zero.",
+              "zh": "一股来自北方的寒风使气温降至零下。"
+            }
+          ]
+        }
+      ],
+      "synonyms": {
+        "cold": {
+          "translation": "寒冷的",
+          "diffs": "cold 最通用；wintry 特指冬天气候，带有季节联想",
+          "sentences": [
+            {
+              "en": "It was a cold day, but the sun made it bearable.",
+              "zh": "那天很冷，但阳光让人觉得还能忍受。"
+            }
+          ]
+        },
+        "frosty": {
+          "translation": "霜冻的；严寒的",
+          "diffs": "frosty 强调有霜或极冷；wintry 侧重冬季整体氛围",
+          "sentences": [
+            {
+              "en": "The frosty air made our breath visible.",
+              "zh": "霜冻的空气让我们的呼吸都清晰可见。"
+            }
+          ]
+        },
+        "chilly": {
+          "translation": "阴冷的；凉飕飕的",
+          "diffs": "chilly 程度较轻；wintry 更冷，更带冬季感",
+          "sentences": [
+            {
+              "en": "It was a chilly evening, so we lit a fire.",
+              "zh": "那是个阴冷的夜晚，所以我们生了火。"
+            }
+          ]
+        },
+        "icy": {
+          "translation": "冰冷的；结冰的",
+          "diffs": "icy 强调冰或极低温；wintry 强调冬季特征",
+          "sentences": [
+            {
+              "en": "The roads were icy after the sleet.",
+              "zh": "雨夹雪过后，路面结冰了。"
+            }
+          ]
+        }
+      },
+      "antonyms": {
+        "summery": {
+          "translation": "夏日般的；像夏天的",
+          "diffs": "summery 形容温暖明亮的夏季感；wintry 相反",
+          "sentences": [
+            {
+              "en": "We enjoyed a summery afternoon in the park.",
+              "zh": "我们在公园享受了一个夏日般的下午。"
+            }
+          ]
+        },
+        "warm": {
+          "translation": "温暖的",
+          "diffs": "warm 与寒冷相对",
+          "sentences": [
+            {
+              "en": "The warm sun melted the morning frost.",
+              "zh": "温暖的阳光融化了晨霜。"
+            }
+          ]
+        },
+        "balmy": {
+          "translation": "温和的；和煦的",
+          "diffs": "balmy 形容舒适温暖的天气；与 wintry 的寒冷相反",
+          "sentences": [
+            {
+              "en": "It was a balmy evening, perfect for a walk.",
+              "zh": "那是个温和的傍晚，很适合散步。"
+            }
+          ]
+        }
+      },
+      "inflections": {
+        "comparative": "more wintry",
+        "superlative": "most wintry"
+      }
+    },
+    {
+      "translation": "冷淡的；冷漠的；不友善的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "用于比喻人的态度、表情或氛围冰冷、缺乏热情。 comparative: more wintry; superlative: most wintry",
+      "sentences": [
+        {
+          "en": "She gave him a wintry smile and turned away.",
+          "zh": "她对他冷冷一笑，然后转身离开了。"
+        },
+        {
+          "en": "The reception we received was distinctly wintry.",
+          "zh": "我们受到的接待明显很冷淡。"
+        },
+        {
+          "en": "His wintry demeanor made it hard to approach him.",
+          "zh": "他冷淡的态度让人难以接近。"
+        }
+      ],
+      "collocations": [
+        {
+          "collocation": "wintry smile",
+          "translation": "冷淡的微笑；皮笑肉不笑",
+          "sentences": [
+            {
+              "en": "Her wintry smile did not reach her eyes.",
+              "zh": "她冷淡的微笑并未到达眼底。"
+            }
+          ]
+        },
+        {
+          "collocation": "wintry stare",
+          "translation": "冰冷的注视",
+          "sentences": [
+            {
+              "en": "He fixed her with a wintry stare.",
+              "zh": "他用冰冷的眼神盯着她。"
+            }
+          ]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "frosty": {
+          "translation": "冷淡的；冷冰冰的",
+          "diffs": "frosty 和 wintry 在比喻义上可互换，均比喻人冷淡",
+          "sentences": [
+            {
+              "en": "She received a frosty reception from her in-laws.",
+              "zh": "她受到了公婆的冷淡接待。"
+            }
+          ]
+        },
+        "cold": {
+          "translation": "冷淡的；冷漠的",
+          "diffs": "cold 较直接；wintry 更有文学色彩",
+          "sentences": [
+            {
+              "en": "His cold response hurt her feelings.",
+              "zh": "他冷淡的回应伤了她的心。"
+            }
+          ]
+        },
+        "icy": {
+          "translation": "冰冷的；冷若冰霜的",
+          "diffs": "icy 程度更重，强调极度的冷淡",
+          "sentences": [
+            {
+              "en": "She gave him an icy glare.",
+              "zh": "她给了他一个冷若冰霜的眼神。"
+            }
+          ]
+        }
+      },
+      "antonyms": {
+        "warm": {
+          "translation": "热情的；温和的",
+          "diffs": "warm 形容热情友好；与 wintry 的冷淡相反",
+          "sentences": [
+            {
+              "en": "She has a warm personality that puts people at ease.",
+              "zh": "她性格热情，让人感到放松。"
+            }
+          ]
+        },
+        "friendly": {
+          "translation": "友善的；友好的",
+          "diffs": "friendly 与冷淡相反",
+          "sentences": [
+            {
+              "en": "The host gave us a friendly welcome.",
+              "zh": "主人热情地欢迎了我们。"
+            }
+          ]
+        }
+      },
+      "inflections": {
+        "comparative": "more wintry",
+        "superlative": "most wintry"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "源自古英语 wintrig，由 winter（冬天）+ -ig（形容词后缀，现代英语为 -y）构成。",
+    "root": "winter-（冬天，来自古英语 winter，可能与 wet 同源，指湿冷季节）",
+    "affixes": [
+      "-y / -ig（形容词后缀，表示“具有…性质的；像…的”）"
+    ],
+    "history": "古英语 wintrig 意为“属于冬天的、冬天的”，-ig 为常见形容词后缀（如 windy, sunny），后拼写演变为 -y。wintery 为 wintry 的变体拼写，较少使用；wintry 为标准拼写。"
+  },
+  "related_words": {
+    "winter": {
+      "class": { "en": "noun", "en_s": "n.", "ch": "名词" },
+      "translation": "冬天；冬季",
+      "rule": "wintry 的源词",
+      "sentences": [
+        {
+          "en": "Winter comes early in the mountains.",
+          "zh": "山里的冬天来得早。"
+        }
+      ]
+    },
+    "winterize": {
+      "class": { "en": "verb", "en_s": "v.", "ch": "动词" },
+      "translation": "使适于过冬；做好冬季防护",
+      "rule": "winter + -ize；使… winter-ready",
+      "sentences": [
+        {
+          "en": "We need to winterize the boat before storing it.",
+          "zh": "储存前我们需要让船做好过冬准备。"
+        }
+      ]
+    },
+    "wintriness": {
+      "class": { "en": "noun", "en_s": "n.", "ch": "名词" },
+      "translation": "冬寒；冷淡",
+      "rule": "wintry 的名词形式（wintry + -ness）",
+      "sentences": [
+        {
+          "en": "The wintriness of the weather kept people indoors.",
+          "zh": "天气的寒冷让人们待在室内。"
+        }
+      ]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "wintery (when aiming for standard spelling)",
+      "correct": "wintry",
+      "explain": "wintery 与 wintry 均为可接受拼写，但 wintry 是标准拼写，使用更广泛。正式书写和考试中建议用 wintry。"
+    },
+    {
+      "wrong": "wintrily",
+      "correct": "in a wintry way / in a wintry manner",
+      "explain": "wintrily 作为副词已极少使用；表示“冷淡地、寒冬般地”时，常用 in a wintry way 或 in a wintry manner。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "winter（冬天）+ -y（形容词后缀，表“像…的”）→ 像冬天的 → 冬天的、寒冷的；引申为“冷淡的”。"
+    },
+    {
+      "type": "联想记忆",
+      "content": "wintry 与 winter 只差一个 r 和 y：冬天（winter）到了，加 -y 变成形容词，形容寒冬或冷冰冰的态度。"
+    }
+  ]
+}

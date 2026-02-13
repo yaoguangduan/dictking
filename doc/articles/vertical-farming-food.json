@@ -1,0 +1,70 @@
+{
+    "title": "Vertical Farming Having a Growth Spurt",
+    "title_zh": "垂直农业迎来增长加速",
+    "author": "Donna Eastlake",
+    "source": "Food Navigator",
+    "created_at": "2025-02-12",
+    "difficulty": "medium",
+    "tags": ["vertical farming", "sustainability", "food production", "agriculture", "innovation"],
+    "summary": "Despite years of struggle and high energy costs, the vertical farming sector is growing. The market has reached $5.6 billion with a projected 19.7% annual growth. Success comes from those incorporating renewable energy, achieving scale, and embedding circularity at their core.",
+    "summary_zh": "尽管多年挣扎与高能源成本，垂直农业行业正在增长。市场已达56亿美元，预计年增长率19.7%。成功来自那些采用可再生能源、实现规模化并在核心中嵌入循环经济原则的企业。",
+    "paragraphs": [
+        {
+            "en": "Vertical farming is as divisive as it is groundbreaking. While supporters promote its ability to produce large quantities of food from a small area of land, its critics condemn its high energy usage. Added to this, the sector faces significant challenges which have suppressed growth in recent years. The biggest challenge is, without doubt, running costs. This has led many companies—including Agricool and Glowfarms—to shutter.",
+            "zh": "垂直农业既有开创性，也存在争议。支持者宣扬其能从小块土地上生产大量粮食的能力，批评者则谴责其高能耗。此外，该行业面临重大挑战，近年来抑制了增长。最大的挑战无疑是运营成本。这导致包括 Agricool 和 Glowfarms 在内的许多公司关闭。",
+            "keywords": ["divisive", "groundbreaking", "running costs", "shutter", "challenges"],
+            "notes": [{"phrase": "as divisive as it is groundbreaking", "explain": "既有开创性又有争议；褒贬不一"}, {"phrase": "to shutter", "explain": "关闭；停业"}]
+        },
+        {
+            "en": "One of the most commonly spoken about challenges has been highly volatile energy costs. This has been most acute in Europe, where kWh prices remain double what they were before the war in Ukraine. Electricity price volatility is projected to remain a challenge for several years to come. This has led the industry to struggle in its attempts to grow, as financial backing has decreased. Price volatility has had a marked impact on the willingness of the investment market to back vertical farming projects, with appetites for perceived risk being reduced.",
+            "zh": "最常被提及的挑战之一是能源成本高度波动。这在欧洲最为突出，电价仍是乌克兰战争前的两倍。电力价格波动预计在未来几年仍将是挑战。这导致行业在增长尝试中挣扎，因为资金支持减少了。价格波动对投资市场支持垂直农业项目的意愿产生了显著影响，对感知风险的兴趣降低了。",
+            "keywords": ["volatile", "kWh", "investment", "backing", "risk"],
+            "notes": [{"phrase": "volatile energy costs", "explain": "波动的能源成本；价格不稳定的电费"}, {"phrase": "marked impact", "explain": "显著影响；明显的效果"}]
+        },
+        {
+            "en": "The industry has also seen projects falter or stall due to their inability to scale. Small-scale operations, even those growing premium or specialty crops, have struggled to deliver returns or meet commercial demand, leaving businesses struggling in a competitive market. However, despite these challenges, the vertical farming industry is starting to make growth a reality. It has already achieved a global market value of $5.6 billion and is projected to grow at a CAGR of 19.7% over the next four years.",
+            "zh": "该行业也因无法实现规模化而使项目停滞或搁浅。小规模运营——即便是种植高端或特色作物的——也难以实现回报或满足商业需求，使企业在竞争激烈的市场中挣扎。然而，尽管面临这些挑战，垂直农业行业正开始将增长变为现实。它已实现56亿美元的全球市场规模，预计未来四年以19.7%的年复合增长率增长。",
+            "keywords": ["scale", "premium", "CAGR", "returns", "demand"],
+            "notes": [{"phrase": "CAGR", "explain": "年复合增长率；Compound Annual Growth Rate 的缩写"}, {"phrase": "deliver returns", "explain": "实现回报；产生利润"}]
+        },
+        {
+            "en": "The key driver pushing growth is factors in the food production system: high population density, scarce and declining arable land, climate change, and environmental degradation. Despite closures in recent years, success has also occurred. Those positive stories have come from vertical farms which have mitigated the biggest challenges through innovation. Those that have considered sites holistically, incorporating local or on-site renewable energy generation to mitigate the risk of price fluctuations, have proven successful.",
+            "zh": "推动增长的关键驱动因素是粮食生产系统中的因素：高人口密度、稀缺且不断减少的耕地、气候变化和环境退化。尽管近年有关闭，但也有成功案例。那些积极的故事来自通过创新缓解了最大挑战的垂直农场。那些整体考虑场地、采用本地或现场可再生能源以降低价格波动风险的企业已被证明取得成功。",
+            "keywords": ["arable land", "degradation", "renewable", "holistically", "mitigate"],
+            "notes": [{"phrase": "arable land", "explain": "耕地；适合种植作物的土地"}, {"phrase": "holistically", "explain": "整体地；全面考虑地"}]
+        },
+        {
+            "en": "Many successful projects have principles of circularity firmly embedded at their core. This circular approach to site design is helping to restore investor confidence in the sector. Scale is a very important factor. For vertical farming to step beyond the novel technology category and truly deliver a step-change to the way we tackle global food security, it needs to be done at scale. They are demonstrating resilience and an ability to deliver returns.",
+            "zh": "许多成功项目将循环经济原则牢固嵌入核心。这种场地设计的循环方法正在帮助恢复投资者对该行业的信心。规模是非常重要的因素。垂直农业要超越新颖技术类别，真正为应对全球粮食安全的方式带来变革，就需要规模化运营。它们正在展示韧性和实现回报的能力。",
+            "keywords": ["circularity", "resilience", "scale", "food security", "investor"],
+            "notes": [{"phrase": "principles of circularity", "explain": "循环经济原则；减少浪费、循环利用资源的理念"}, {"phrase": "step-change", "explain": "重大变革；质的飞跃"}]
+        },
+        {
+            "en": "Artificial Intelligence is proving an important tool for the food industry, and the possibilities for vertical farming are considerable. AI could streamline practices and efficiencies, provide more resilient supply chains, diversified revenue streams, and increased productivity. Industry leaders want more government support—whether through green energy tariffs, subsidies, or tax relief for growers looking to diversify systems. Public education is also required to help consumers better understand the benefits of vertical farming. Wider adoption is reliant on consumers driving demand.",
+            "zh": "人工智能正被证明是食品行业的重要工具，对垂直农业的可能性相当可观。AI 可简化实践、提高效率，提供更具韧性的供应链、多元化的收入来源和更高的生产力。行业领袖希望获得更多政府支持——无论是通过绿色能源电价、补贴，还是为寻求系统多元化的种植者提供税收减免。还需要公众教育，帮助消费者更好地了解垂直农业的益处。更广泛采用依赖消费者推动需求。",
+            "keywords": ["AI", "productivity", "subsidies", "diversify", "adoption"],
+            "notes": [{"phrase": "diversified revenue streams", "explain": "多元化收入来源；不只依赖一种收入"}, {"phrase": "tax relief", "explain": "税收减免；减税优惠"}]
+        },
+        {
+            "en": "Despite its challenges, the vertical farming sector remains confident in its future success. The sector has gone through a testing time, and many challenges—perhaps most notably volatile electricity pricing—show little sign of abating. However, important lessons have been learned by a sector that is still very young, and it is coming out the other side stronger and more resilient. Vertical farming is the practice of growing crops vertically in stacked layers within a controlled environment, allowing optimisation of water, light, nutrients, and warmth.",
+            "zh": "尽管面临挑战，垂直农业行业对其未来成功仍充满信心。该行业经历了严峻考验，许多挑战——或许最显著的是波动不定的电价——几乎没有消退迹象。然而，这个仍非常年轻的行业已吸取重要教训，正从困境中走得更强、更具韧性。垂直农业是在受控环境中在层层堆叠中垂直种植作物的做法，可优化水、光、养分和温度。",
+            "keywords": ["abating", "resilient", "optimisation", "controlled environment", "stacked"],
+            "notes": [{"phrase": "testing time", "explain": "严峻考验；困难时期"}, {"phrase": "coming out the other side", "explain": "走出困境；熬过难关"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "volatile", "phonetic": "/ˈvɒlətaɪl/", "meaning": "易波动的；不稳定的", "partOfSpeech": "adj.", "example": "Energy costs have been highly volatile in Europe."},
+        {"word": "arable", "phonetic": "/ˈærəbl/", "meaning": "可耕种的；适于耕种的", "partOfSpeech": "adj.", "example": "Arable land is scarce and declining globally."},
+        {"word": "circularity", "phonetic": "/ˌsɜːkjʊˈlærəti/", "meaning": "循环性；循环经济", "partOfSpeech": "n.", "example": "Principles of circularity are embedded at the core."},
+        {"word": "resilience", "phonetic": "/rɪˈzɪliəns/", "meaning": "韧性；恢复力", "partOfSpeech": "n.", "example": "Successful farms demonstrate resilience and delivery of returns."},
+        {"word": "mitigate", "phonetic": "/ˈmɪtɪɡeɪt/", "meaning": "缓解；减轻", "partOfSpeech": "v.", "example": "Renewable energy helps mitigate price fluctuation risk."},
+        {"word": "CAGR", "phonetic": "/siː eɪ dʒiː ɑːr/", "meaning": "年复合增长率", "partOfSpeech": "n.", "example": "The market is projected to grow at a CAGR of 19.7%."},
+        {"word": "abate", "phonetic": "/əˈbeɪt/", "meaning": "减退；减弱", "partOfSpeech": "v.", "example": "Electricity price volatility shows little sign of abating."},
+        {"word": "holistic", "phonetic": "/həʊˈlɪstɪk/", "meaning": "整体的；全面的", "partOfSpeech": "adj.", "example": "Holistic site design incorporates renewable energy."}
+    ],
+    "discussion_questions": [
+        {"en": "Why has energy cost volatility been the biggest challenge for vertical farming, and how are successful farms addressing it?", "zh": "为何能源成本波动一直是垂直农业的最大挑战？成功的农场如何应对？"},
+        {"en": "How might AI transform vertical farming operations and economics?", "zh": "人工智能可能如何改变垂直农业的运营和经济？"},
+        {"en": "What role should governments play in supporting the vertical farming sector?", "zh": "政府在支持垂直农业行业方面应扮演什么角色？"}
+    ]
+}

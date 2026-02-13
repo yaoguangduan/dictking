@@ -1,0 +1,100 @@
+{
+    "title": "Technological Breakthroughs in mRNA Vaccines: New Applications Beyond COVID-19",
+    "title_zh": "mRNA疫苗技术突破：COVID-19以外的新应用",
+    "author": "Zhimeng Wei, Shuai Zhang, Xingya Wang, et al.",
+    "source": "Frontiers in Immunology",
+    "created_at": "2025-03-04T00:00:00Z",
+    "difficulty": "hard",
+    "tags": ["vaccines", "mRNA", "biotechnology", "cancer", "infectious diseases"],
+    "summary": "mRNA vaccine technology, proven during the COVID-19 pandemic, is expanding into cancer immunotherapy, bacterial and parasitic disease prevention, and protein replacement therapy. Unlike traditional vaccines, mRNA platforms offer simple manufacturing, rapid development cycles, flexibility in antigen design, and the ability to personalise cancer vaccines. Current challenges include storage requirements, optimisation of delivery systems, and managing immune responses.",
+    "summary_zh": "在COVID-19疫情期间得到验证的mRNA疫苗技术正在扩展到癌症免疫治疗、细菌和寄生虫病预防以及蛋白质替代疗法。与传统疫苗不同，mRNA平台具有生产工艺简单、开发周期短、抗原设计灵活以及能够个性化癌症疫苗等优势。当前挑战包括储存要求、递送系统优化和管理免疫反应。",
+    "paragraphs": [
+        {
+            "en": "mRNA vaccines utilise single-stranded linear DNA as a template for in vitro transcription. The mRNA is introduced into the cytoplasm via the corresponding delivery system to express the target protein, which then performs its relevant biological function. mRNA vaccines are beneficial in various fields, including cancer vaccines, infectious disease vaccines, protein replacement therapy, and treatment of rare diseases. They offer advantages such as a simple manufacturing process, a quick development cycle, and ease of industrialisation.",
+            "zh": "mRNA疫苗利用单链线性DNA作为体外转录的模板。mRNA通过相应的递送系统进入细胞质，表达靶蛋白，然后发挥其相关的生物学功能。mRNA疫苗在多个领域有益，包括癌症疫苗、传染病疫苗、蛋白质替代疗法和罕见病治疗。它们具有生产工艺简单、开发周期短和易于工业化等优势。",
+            "keywords": ["cytoplasm", "transcription", "template", "industrialisation", "biological"],
+            "notes": [
+                {"phrase": "in vitro", "explain": "体外的，拉丁语，指在实验室器皿中进行的"},
+                {"phrase": "ease of", "explain": "……的便利性，表示做某事的容易程度"}
+            ]
+        },
+        {
+            "en": "Additionally, mRNA vaccines afford flexibility in adjusting antigen designs and combining sequences of multiple variants, thereby addressing the issue of frequent mutations in pathogenic microorganisms. Amid the coronavirus disease 2019 pandemic, BNT162b2 (Pfizer-BioNTech) and mRNA-1273 (Moderna) were introduced and received US FDA approval, marking the successful clinical application of mRNA vaccines. The humoral and cellular immunity stimulated by these mRNA vaccines were significantly higher than traditional vaccines, with over 90% protection efficiency against infection by SARS-CoV-2.",
+            "zh": "此外，mRNA疫苗在调整抗原设计和组合多种变体的序列方面具有灵活性，从而解决了致病微生物频繁突变的问题。在2019冠状病毒病大流行期间，BNT162b2（辉瑞-BioNTech）和mRNA-1273（Moderna）获得美国FDA批准上市，标志着mRNA疫苗的成功临床应用。这些mRNA疫苗激发的体液和细胞免疫明显高于传统疫苗，对SARS-CoV-2感染的保护效力超过90%。",
+            "keywords": ["antigen", "mutations", "humoral", "cellular immunity", "pathogenic"],
+            "notes": [
+                {"phrase": "afford flexibility", "explain": "提供灵活性，正式用语"},
+                {"phrase": "amid", "explain": "在……期间，表示在某种情况下"}
+            ]
+        },
+        {
+            "en": "mRNA vaccines do not pose any risk of infection and offer several advantages compared to other types of vaccines. They provide stronger safety guarantees as the translation of mRNAs occurs in the cytoplasm without entering the nucleus, thereby eliminating concerns about mRNA integration into the host genome. They have an enhanced ability to address the unsolved problems of traditional vaccines. Inactivated vaccines and recombinant protein vaccines have poor immunogenicity and need to be co-delivered with adjuvants to induce sufficient immune responses.",
+            "zh": "mRNA疫苗不构成任何感染风险，与其他类型疫苗相比具有多项优势。由于mRNA的翻译在细胞质中进行而不进入细胞核，因此消除了对mRNA整合入宿主基因组担忧，从而提供更强的安全保障。它们更有能力解决传统疫苗未能解决的问题。灭活疫苗和重组蛋白疫苗免疫原性差，需要与佐剂共同递送才能诱导足够的免疫反应。",
+            "keywords": ["nucleus", "genome", "immunogenicity", "adjuvants", "recombinant"],
+            "notes": [
+                {"phrase": "eliminating concerns about", "explain": "消除对……的担忧"},
+                {"phrase": "co-delivered", "explain": "共同递送，指同时使用两种成分"}
+            ]
+        },
+        {
+            "en": "The antigens translated in situ by mRNA vaccines closely resemble the authentic viral antigens. Because after mRNA vaccination, the process of using raw materials within cells to produce target antigens is akin to the production of antigens expressed by viruses that invade the organism. Therefore, both exhibit a high degree of consistency in spatial conformation and modification, eliciting robust humoral and cellular immune responses. mRNA vaccine technology is a promising platform with rapid, scalable features, highlighting significant therapeutic potential for the treatment of various diseases.",
+            "zh": "mRNA疫苗在体内翻译的抗原与真实病毒抗原非常相似。因为接种mRNA疫苗后，利用细胞内原料产生靶抗原的过程类似于入侵机体的病毒表达抗原的过程。因此，两者在空间构象和修饰方面表现出高度一致性，能引发强烈的体液和细胞免疫反应。mRNA疫苗技术是一个具有快速、可扩展特点的有前景平台，突显了治疗多种疾病的重大治疗潜力。",
+            "keywords": ["in situ", "conformation", "eliciting", "scalable", "therapeutic"],
+            "notes": [
+                {"phrase": "akin to", "explain": "类似于，与……相似"},
+                {"phrase": "degree of consistency", "explain": "一致程度，表示相似度"}
+            ]
+        },
+        {
+            "en": "mRNA vaccines are largely categorised into four types: non-replicating mRNA vaccines, self-amplifying RNA vaccines, trans-amplifying RNA vaccines, and circular RNA vaccines. Non-replicating mRNA vaccines deliver genetic information encoding a specific antigen but do not self-replicate. Self-amplifying RNA vaccines offer key advantages such as lower dosage requirements and activation of the host immune system. Circular RNA offers higher stability compared to linear mRNA and can continue to express in cells for 5 to 7 days.",
+            "zh": "mRNA疫苗大致分为四种类型：非复制型mRNA疫苗、自扩增RNA疫苗、反式扩增RNA疫苗和环状RNA疫苗。非复制型mRNA疫苗递送编码特定抗原的遗传信息但不自我复制。自扩增RNA疫苗具有剂量要求更低和激活宿主免疫系统等关键优势。与线性mRNA相比，环状RNA具有更高的稳定性，可在细胞内持续表达5至7天。",
+            "keywords": ["replicating", "self-amplifying", "circular", "dosage", "encoding"],
+            "notes": [
+                {"phrase": "largely categorised into", "explain": "大致分为，表示分类的概括性"},
+                {"phrase": "dosage requirements", "explain": "剂量要求，指所需用药量"}
+            ]
+        },
+        {
+            "en": "The delivery system for mRNA vaccines includes lipid nanoparticles, which is currently considered the most advanced mRNA vaccine delivery system. The function of the delivery system includes protection of the mRNA to reach the target site, assistance for the mRNA to enter the cells effectively, and release of the mRNA into the cytoplasm before reaching the lysosome. mRNA vaccines for infectious diseases are making significant progress: mRNA vaccine candidates against tuberculosis have entered clinical trials, and Moderna's mRNA-1345 vaccine against respiratory syncytial virus demonstrated 83.7% efficacy in Phase 3 trials.",
+            "zh": "mRNA疫苗的递送系统包括脂质纳米颗粒，目前被认为是最先进的mRNA疫苗递送系统。递送系统的功能包括保护mRNA到达靶部位、协助mRNA有效进入细胞、以及在到达溶酶体之前将mRNA释放到细胞质中。传染病mRNA疫苗取得重大进展：针对结核病的mRNA疫苗候选物已进入临床试验，Moderna针对呼吸道合胞病毒的mRNA-1345疫苗在3期试验中显示出83.7%的效力。",
+            "keywords": ["nanoparticles", "lysosome", "tuberculosis", "syncytial", "efficacy"],
+            "notes": [
+                {"phrase": "lipid nanoparticles", "explain": "脂质纳米颗粒，mRNA疫苗的常见递送载体"},
+                {"phrase": "Phase 3 trials", "explain": "3期试验，药物临床研究的后期阶段"}
+            ]
+        },
+        {
+            "en": "mRNA has emerged as a promising platform for cancer treatments. Cancer vaccines require careful consideration of several key factors, including selection of suitable antigens given significant antigen variability between individuals. The mRNA-4157 vaccine, encoding 34 tumour-specific antigen genes, reduced post-operative recurrence and mortality rate by 44% when combined with pembrolizumab compared to pembrolizumab alone. mRNA therapies also hold promise for delivering immunomodulators or gene-editing components to provoke anti-tumour immune responses or rectify genetic defects.",
+            "zh": "mRNA已成为有前景的癌症治疗平台。癌症疫苗需要仔细考虑几个关键因素，包括鉴于个体间抗原存在显著变异而选择合适的抗原。编码34个肿瘤特异性抗原基因的mRNA-4157疫苗与派姆单抗联合使用时，与单用派姆单抗相比，将术后复发和死亡率降低了44%。mRNA疗法还有望递送免疫调节剂或基因编辑成分，以引发抗肿瘤免疫反应或纠正遗传缺陷。",
+            "keywords": ["immunomodulators", "recurrence", "pembrolizumab", "antigen", "genetic"],
+            "notes": [
+                {"phrase": "hold promise for", "explain": "对……有希望，表示潜在应用"},
+                {"phrase": "rectify genetic defects", "explain": "纠正遗传缺陷"}
+            ]
+        },
+        {
+            "en": "Despite the success of BNT162b2 and mRNA-1273, many areas still need improvement. mRNA vaccines require cold chain transportation and frozen storage, imposing an economic burden especially in remote areas. Optimising the composition of nanocarriers and modifying mRNA molecules are essential steps in preventing adverse reactions while enhancing transfection efficiency and stability. Future research will focus on developing mRNA vaccines that can be stored at room temperature and optimising construct design to improve immunogenicity.",
+            "zh": "尽管BNT162b2和mRNA-1273取得成功，许多领域仍需改进。mRNA疫苗需要冷链运输和冷冻储存，在偏远地区尤其造成经济负担。优化纳米载体组成和修饰mRNA分子是预防不良反应、同时提高转染效率和稳定性的关键步骤。未来的研究将着眼于开发可在室温储存的mRNA疫苗，并优化构建设计以提高免疫原性。",
+            "keywords": ["nanocarriers", "transfection", "immunogenicity", "cold chain", "adverse"],
+            "notes": [
+                {"phrase": "imposing an economic burden", "explain": "造成经济负担"},
+                {"phrase": "construct design", "explain": "构建设计，指疫苗的分子结构设计"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "cytoplasm", "phonetic": "/ˈsaɪtəʊplæzəm/", "meaning": "细胞质", "partOfSpeech": "n.", "example": "mRNA is introduced into the cytoplasm via the delivery system."},
+        {"word": "immunogenicity", "phonetic": "/ɪˌmjuːnəʊdʒəˈnɪsəti/", "meaning": "免疫原性", "partOfSpeech": "n.", "example": "Inactivated vaccines have poor immunogenicity."},
+        {"word": "adjuvant", "phonetic": "/ˈædʒuvənt/", "meaning": "佐剂", "partOfSpeech": "n.", "example": "Vaccines may need adjuvants to induce sufficient immune responses."},
+        {"word": "nanoparticle", "phonetic": "/ˈnænəʊˌpɑːtɪkl/", "meaning": "纳米颗粒", "partOfSpeech": "n.", "example": "Lipid nanoparticles are the most advanced delivery system."},
+        {"word": "transfection", "phonetic": "/trænsˈfekʃn/", "meaning": "转染", "partOfSpeech": "n.", "example": "Enhancing transfection efficiency improves vaccine efficacy."},
+        {"word": "immunomodulator", "phonetic": "/ˌɪmjʊnəʊˈmɒdjʊleɪtə/", "meaning": "免疫调节剂", "partOfSpeech": "n.", "example": "mRNA can deliver immunomodulators for cancer treatment."},
+        {"word": "efficacy", "phonetic": "/ˈefɪkəsi/", "meaning": "效力；功效", "partOfSpeech": "n.", "example": "The vaccine demonstrated 83.7% efficacy in Phase 3 trials."},
+        {"word": "pathogenic", "phonetic": "/ˌpæθəˈdʒenɪk/", "meaning": "致病的", "partOfSpeech": "adj.", "example": "Pathogenic microorganisms frequently mutate."}
+    ],
+    "discussion_questions": [
+        {"en": "What do you think are the most promising non-COVID applications of mRNA vaccine technology?", "zh": "你认为mRNA疫苗技术最有前景的非COVID应用是什么？"},
+        {"en": "The article mentions cold chain requirements as a challenge. How might this limit access to mRNA vaccines in developing countries?", "zh": "文章提到冷链要求是一项挑战。这可能如何限制发展中国家获得mRNA疫苗？"},
+        {"en": "How might personalised cancer vaccines change the future of cancer treatment?", "zh": "个性化癌症疫苗如何可能改变癌症治疗的未来？"}
+    ]
+}

@@ -1,0 +1,131 @@
+{
+  "word": "sweat",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/swet/",
+    "us": "/swet/"
+  },
+  "definitions": [
+    {
+      "translation": "汗；汗水",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "通常作不可数名词。指皮肤排出的液体，可喻指努力、辛苦。",
+      "sentences": [
+        {"en": "She wiped the sweat from her brow after the run.", "zh": "跑步后她擦去了额头上的汗。"},
+        {"en": "The room was hot and everyone was covered in sweat.", "zh": "房间里很热，每个人都大汗淋漓。"},
+        {"en": "This project took blood, sweat, and tears to complete.", "zh": "这个项目付出了血汗和泪水才得以完成。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "break out in a sweat",
+          "translation": "出一身汗；突然出汗",
+          "pattern": "动词+介词+名词",
+          "explain": "因热、紧张或恐惧而sudden sweating",
+          "sentences": [{"en": "He broke out in a sweat when he heard the news.", "zh": "他听到消息时出了一身汗。"}]
+        },
+        {
+          "collocation": "sweat off",
+          "translation": "通过出汗减掉",
+          "pattern": "动词+副词",
+          "explain": "锻炼语境",
+          "sentences": [{"en": "She tried to sweat off the extra pounds at the gym.", "zh": "她试图在健身房通过出汗减掉多余体重。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "perspiration": {
+          "translation": "汗水",
+          "diffs": "perspiration 较正式；sweat 更口语",
+          "sentences": [{"en": "Perspiration helps regulate body temperature.", "zh": "出汗有助于调节体温。"}]
+        }
+      },
+      "antonyms": {},
+      "inflections": {
+        "plural": "sweat"
+      }
+    },
+    {
+      "translation": "出汗；流汗；（使）渗出",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "可及物或不及物。指身体出汗，或物体表面渗出水分；口语中可指努力工作、担心。",
+      "sentences": [
+        {"en": "He was sweating heavily after the workout.", "zh": "锻炼后他大汗淋漓。"},
+        {"en": "The cheese was sweating in the warm room.", "zh": "奶酪在温暖的房间里渗出了水分。"},
+        {"en": "We sweated over the exam preparation for weeks.", "zh": "我们为备考苦干了数周。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "sweat it out",
+          "translation": "硬撑；熬过去",
+          "pattern": "动词+副词",
+          "explain": "口语，指坚持度过困难",
+          "sentences": [{"en": "We just have to sweat it out until the results come.", "zh": "我们只能硬撑到结果出来。"}]
+        },
+        {
+          "collocation": "sweat over",
+          "translation": "为...费尽心力",
+          "pattern": "动词+介词",
+          "explain": "喻指努力",
+          "sentences": [{"en": "He sweated over the report all night.", "zh": "他整晚都在为这份报告费劲。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "perspire": {
+          "translation": "出汗",
+          "diffs": "perspire 较正式；sweat 更常用",
+          "sentences": [{"en": "She was perspiring lightly after yoga.", "zh": "瑜伽后她微微出汗。"}]
+        }
+      },
+      "antonyms": {},
+      "inflections": {
+        "past_tense": "sweat",
+        "past_participle": "sweat",
+        "present_participle": "sweating",
+        "third_person": "sweats"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "源自古英语 swāt，与古高地德语 sweiz、拉丁语 sūdor（汗）同源。",
+    "root": "swāt-/sūd-（汗）",
+    "affixes": [],
+    "history": "日耳曼语词根，原指体液或汗，经古英语保留至今。"
+  },
+  "related_words": {
+    "sweaty": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "出汗的；汗湿的",
+      "rule": "sweat 的形容词形式",
+      "sentences": [{"en": "His hands were sweaty from nervousness.", "zh": "他因紧张而双手冒汗。"}]
+    },
+    "sweatshirt": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "运动衫；卫衣",
+      "rule": "sweat + shirt，原指运动时穿的上衣",
+      "sentences": [{"en": "She pulled on a sweatshirt before going out.", "zh": "她出门前套上了一件卫衣。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "sweat and sweet",
+      "correct": "sweat（汗）与 sweet（甜的）区分",
+      "explain": "sweat 与 sweet 拼写相近易混淆。sweat 为名词/动词“汗；出汗”；sweet 为形容词“甜的”。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "联想记忆",
+      "content": "sweat 与 sweet（甜的）形近，出汗是“咸的”（salty），别搞混。"
+    }
+  ]
+}

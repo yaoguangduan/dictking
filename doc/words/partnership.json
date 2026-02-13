@@ -1,0 +1,93 @@
+{
+  "word": "partnership",
+  "created_at": "2026-02-12T08:00:00.000Z",
+  "phonetic": {
+    "uk": "/ˈpɑːtnəʃɪp/",
+    "us": "/ˈpɑːrtnərʃɪp/"
+  },
+  "definitions": [
+    {
+      "translation": "合伙；合作关系；伙伴关系",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数或不可数。指两人或多方之间的合作关系，可用于商业、政府、国际等语境。",
+      "sentences": [
+        {"en": "The two companies formed a strategic partnership.", "zh": "两家公司建立了战略合作伙伴关系。"},
+        {"en": "Our partnership with the local university has been very successful.", "zh": "我们与当地大学的合作非常成功。"},
+        {"en": "She went into partnership with her brother to start the business.", "zh": "她和哥哥合伙创办了这家公司。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "enter into partnership",
+          "translation": "建立合伙关系",
+          "pattern": "动词+介词+名词",
+          "explain": "正式用法",
+          "sentences": [{"en": "The firm entered into partnership with a Japanese company.", "zh": "该公司与一家日本公司建立了合伙关系。"}]
+        },
+        {
+          "collocation": "public-private partnership",
+          "translation": "公私合营；公私合作伙伴关系",
+          "pattern": "形容词+形容词+名词",
+          "explain": "经济与政策常用",
+          "sentences": [{"en": "The project was funded through a public-private partnership.", "zh": "该项目通过公私合营方式获得资金。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "alliance": {
+          "translation": "联盟；同盟",
+          "diffs": "alliance 多指政治或军事联盟；partnership 侧重商业或协作关系",
+          "sentences": [{"en": "The two countries formed a military alliance.", "zh": "两国建立了军事同盟。"}]
+        },
+        "collaboration": {
+          "translation": "合作；协作",
+          "diffs": "collaboration 强调共同工作；partnership 强调正式、长期的伙伴关系",
+          "sentences": [{"en": "The collaboration between the two departments was fruitful.", "zh": "两个部门之间的合作成果丰硕。"}]
+        }
+      },
+      "antonyms": {
+        "rivalry": {"translation": "竞争；对抗", "diffs": "指竞争对手关系"}
+      },
+      "inflections": {
+        "plural": "partnerships"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自 partner（合伙人）+ -ship（名词后缀），意为“合伙人的身份或关系”。",
+    "root": "part-（部分，来自拉丁语 pars）",
+    "affixes": ["-ship（名词后缀：身份、关系、技能）"],
+    "history": "partner 源自 part（部分），合伙人即“共同分有一部分的人”；-ship 表关系或状态。"
+  },
+  "related_words": {
+    "partner": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "合伙人；伙伴",
+      "rule": "partnership 去掉后缀 -ship 即得",
+      "sentences": [{"en": "He is my business partner.", "zh": "他是我的商业合伙人。"}]
+    },
+    "partnership agreement": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "合伙协议",
+      "rule": "partnership 的常用搭配",
+      "sentences": [{"en": "They signed a partnership agreement last month.", "zh": "他们上个月签署了合伙协议。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "in partnership with each other",
+      "correct": "in partnership with one another / in partnership",
+      "explain": "partnership 本身已含“双方/多方”之意，in partnership with each other 略显冗余；可说 in partnership 或 in partnership with [具体对象]。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "partner（合伙人）+ -ship（关系）→ 合伙人之间的关系 → 合伙；合作关系。"
+    }
+  ]
+}

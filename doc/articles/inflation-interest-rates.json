@@ -1,0 +1,123 @@
+{
+    "title": "Economic Outlook 2025-2035: Inflation, Interest Rates, and Growth",
+    "title_zh": "2025-2035年经济展望：通胀、利率与增长",
+    "author": "Congressional Budget Office",
+    "source": "CBO (Congressional Budget Office)",
+    "created_at": "2025-01-17",
+    "difficulty": "hard",
+    "tags": ["inflation", "interest rates", "Federal Reserve", "GDP", "economy"],
+    "summary": "The Congressional Budget Office projects that inflation will continue to ease, reaching the Federal Reserve's 2% target by 2027. The Fed will continue lowering the federal funds rate in 2025 and 2026. Economic growth is expected to cool to 1.9% in 2025 and 1.8% in 2026.",
+    "summary_zh": "美国国会预算办公室预测，通胀将继续放缓，到2027年达到美联储2%的目标。美联储将在2025和2026年继续下调联邦基金利率。预计经济增长将在2025年降至1.9%，2026年降至1.8%。",
+    "paragraphs": [
+        {
+            "en": "In CBO's economic projections for the 2025-2035 period, economic growth cools in calendar years 2025 and 2026 and then averages roughly 1.8 percent a year from 2027 to 2035. Inflation continues to ease over the next two years, reaching the Federal Reserve's target rate of 2 percent by 2027 and stabilizing thereafter. In response to falling inflation, slower job growth, and a rising unemployment rate, the Federal Reserve continues to lower the federal funds rate in 2025 and 2026.",
+            "zh": "在国会预算办公室对2025-2035年的经济预测中，2025和2026日历年经济增长将放缓，之后在2027至2035年间平均每年约为1.8%。通胀在未来两年继续放缓，到2027年达到美联储2%的目标利率并在此后趋于稳定。面对通胀下降、就业增长放缓以及失业率上升，美联储将在2025和2026年继续下调联邦基金利率。",
+            "keywords": ["federal funds rate", "projections", "stabilizing", "unemployment rate", "ease"],
+            "notes": [
+                {"phrase": "ease over", "explain": "在……期间放缓；ease 作动词表示减轻、缓和"},
+                {"phrase": "target rate", "explain": "目标利率；央行设定的通胀或利率目标值"}
+            ]
+        },
+        {
+            "en": "The rate at which overall prices rise each year is expected to have declined during 2024 and is projected to slow further in 2025, to a rate close to the Federal Reserve's long-run goal of 2 percent. In CBO's projections, inflation as measured by the price index for personal consumption expenditures (PCE)—the Federal Reserve's preferred measure—falls from 2.5 percent in 2024 to 2.2 percent in 2025, reflecting softer demand for labor and slower increases in the cost of housing.",
+            "zh": "整体物价年涨幅预计在2024年已有所下降，并将在2025年进一步放缓，接近美联储2%的长期目标。国会预算办公室预测，以个人消费支出（PCE）价格指数衡量的通胀——美联储偏好的指标——将从2024年的2.5%降至2025年的2.2%，反映出劳动力需求趋弱以及住房成本增速放缓。",
+            "keywords": ["PCE", "personal consumption expenditures", "long-run goal", "housing costs", "softer demand"],
+            "notes": [
+                {"phrase": "preferred measure", "explain": "偏好的指标；preferred 表示更受青睐、优先采用的"},
+                {"phrase": "softer demand", "explain": "需求趋弱；soft 在经济学中表示疲软、放缓"}
+            ]
+        },
+        {
+            "en": "Interest rates decline through 2026 and remain roughly steady thereafter. In CBO's projections, the Federal Reserve continues lowering the federal funds rate to 3.7 percent in the fourth quarter of 2025 and to 3.4 percent in the fourth quarter of 2026, and then keeps the rate roughly steady in later years. The interest rate on 10-year Treasury notes, which was 4.3 percent in the fourth quarter of 2024, is projected to fall to 4.0 percent in the fourth quarter of 2025 and to 3.9 percent in the fourth quarter of 2026.",
+            "zh": "利率将在2026年前持续下降，此后大致保持稳定。国会预算办公室预测，美联储将继续下调联邦基金利率，到2025年第四季度降至3.7%，到2026年第四季度降至3.4%，之后数年大致保持稳定。10年期美国国债利率在2024年第四季度为4.3%，预计到2025年第四季度将降至4.0%，到2026年第四季度降至3.9%。",
+            "keywords": ["federal funds rate", "Treasury notes", "fourth quarter", "steady", "projected"],
+            "notes": [
+                {"phrase": "roughly steady", "explain": "大致稳定；roughly 表示近似、大约"},
+                {"phrase": "Treasury notes", "explain": "国债；美国财政部发行的中长期政府债券"}
+            ]
+        },
+        {
+            "en": "Economic output, as measured by the nation's gross domestic product (GDP), grew by an estimated 2.3 percent in 2024 in real terms. In CBO's projections, the growth of real GDP moderates to 1.9 percent in 2025 and 1.8 percent in 2026. The growth of real GDP slows in 2025 because of a slowdown in spending by consumers and governments. At the end of 2025, the expiration of some provisions of the 2017 tax act will further slow consumer spending.",
+            "zh": "以实际国内生产总值（GDP）衡量的经济产出，2024年估计增长2.3%。国会预算办公室预测，实际GDP增速将在2025年放缓至1.9%，2026年放缓至1.8%。2025年实际GDP增长放缓源于消费者和政府支出增速下降。2025年底，2017年税法的部分条款到期，将进一步拖累消费者支出。",
+            "keywords": ["real GDP", "moderates", "expiration", "provisions", "slowdown"],
+            "notes": [
+                {"phrase": "in real terms", "explain": "按实际值；即剔除通胀因素后的实际增长"},
+                {"phrase": "provisions expire", "explain": "条款到期；provision 指法律或政策中的具体规定"}
+            ]
+        },
+        {
+            "en": "Although inflation slowed significantly in 2024, it remained higher than the Federal Reserve's long-run goal of 2 percent. Some factors that had fueled inflation in prior years, such as pressures on supply chains and steep increases in home prices, eased during 2024. In the second half of 2024, PCE inflation declined to an average annual rate of 2.0 percent as prices for most services began to grow more slowly and prices for goods continued to decline.",
+            "zh": "尽管2024年通胀显著放缓，但仍高于美联储2%的长期目标。此前推高通胀的若干因素——如供应链压力和房价大幅上涨——在2024年有所缓解。2024年下半年，随着多数服务价格增速放缓、商品价格继续下降，PCE通胀降至年均2.0%左右。",
+            "keywords": ["fueled", "supply chains", "steep increases", "services", "goods"],
+            "notes": [
+                {"phrase": "fueled inflation", "explain": "推高通胀；fuel 作动词表示助长、推动"},
+                {"phrase": "steep increases", "explain": "大幅上涨；steep 表示陡峭的、剧烈的"}
+            ]
+        },
+        {
+            "en": "CBO's economic projections are subject to a large amount of uncertainty, both in the short run and beyond. Areas of uncertainty include economic growth, the strength of the labor market, increases in prices and wages, and productivity growth. If inflation ended up being higher than CBO projects, the Federal Reserve would probably slow or even pause its interest rate cuts. Alternatively, weaker economic growth could reduce inflationary pressures more rapidly than projected.",
+            "zh": "国会预算办公室的经济预测无论在短期还是更长期都面临大量不确定性。不确定领域包括经济增长、劳动力市场强弱、物价与工资涨幅以及生产率增长。若通胀最终高于预测，美联储可能会放缓甚至暂停降息。反之，若经济增长弱于预期，通胀压力可能以快于预测的速度下降。",
+            "keywords": ["uncertainty", "productivity", "projected", "pause", "alternative"],
+            "notes": [
+                {"phrase": "subject to uncertainty", "explain": "面临不确定性；subject to 表示受……影响、易受"},
+                {"phrase": "pause its cuts", "explain": "暂停降息；pause 表示暂时停止"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "inflation",
+            "phonetic": "/ɪnˈfleɪʃn/",
+            "meaning": "通货膨胀",
+            "partOfSpeech": "n.",
+            "example": "Inflation continues to ease over the next two years."
+        },
+        {
+            "word": "federal funds rate",
+            "phonetic": "/ˈfedərəl fʌndz reɪt/",
+            "meaning": "联邦基金利率（银行间同业拆借利率）",
+            "partOfSpeech": "n.",
+            "example": "The Federal Reserve continues to lower the federal funds rate in 2025."
+        },
+        {
+            "word": "GDP",
+            "phonetic": "/ˌdʒiː diː ˈpiː/",
+            "meaning": "国内生产总值",
+            "partOfSpeech": "n.",
+            "example": "The growth of real GDP moderates to 1.9 percent in 2025."
+        },
+        {
+            "word": "moderate",
+            "phonetic": "/ˈmɒdərət/",
+            "meaning": "使缓和；适度的",
+            "partOfSpeech": "v./adj.",
+            "example": "The growth of real GDP moderates to 1.9 percent."
+        },
+        {
+            "word": "projection",
+            "phonetic": "/prəˈdʒekʃn/",
+            "meaning": "预测；推测",
+            "partOfSpeech": "n.",
+            "example": "In CBO's economic projections, inflation reaches 2 percent by 2027."
+        },
+        {
+            "word": "provision",
+            "phonetic": "/prəˈvɪʒn/",
+            "meaning": "条款；规定",
+            "partOfSpeech": "n.",
+            "example": "The expiration of some provisions of the 2017 tax act will slow spending."
+        },
+        {
+            "word": "Treasury",
+            "phonetic": "/ˈtreʒəri/",
+            "meaning": "财政部；国债",
+            "partOfSpeech": "n.",
+            "example": "The interest rate on 10-year Treasury notes is projected to fall."
+        }
+    ],
+    "discussion_questions": [
+        {"en": "Why does the Federal Reserve aim for 2% inflation, and what happens if inflation overshoots or undershoots this target?", "zh": "美联储为何以2%通胀为目标？若通胀超过或低于该目标会怎样？"},
+        {"en": "How do interest rate changes by the Fed affect consumers, businesses, and the broader economy?", "zh": "美联储的利率调整如何影响消费者、企业和整体经济？"},
+        {"en": "What are the main sources of uncertainty in economic forecasting, and how should policymakers respond?", "zh": "经济预测的主要不确定性来源是什么？政策制定者应如何应对？"}
+    ]
+}

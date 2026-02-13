@@ -1,0 +1,97 @@
+{
+  "word": "liberate",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈlɪbəreɪt/",
+    "us": "/ˈlɪbəreɪt/"
+  },
+  "definitions": [
+    {
+      "translation": "解放；释放；使自由",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "及物动词。指从束缚、压迫、监禁或困难中使人或事物获得自由，常用于政治、军事、社会解放等语境。",
+      "sentences": [
+        {"en": "The army liberated the city from enemy occupation.", "zh": "军队从敌人占领下解放了这座城市。"},
+        {"en": "Education can liberate people from ignorance and poverty.", "zh": "教育能使人们摆脱无知和贫困。"},
+        {"en": "The prisoners were liberated when the prison was stormed.", "zh": "监狱被攻占时，囚犯们获得了释放。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "liberate from",
+          "translation": "从...中解放",
+          "pattern": "动词+介词",
+          "explain": "常用搭配，后接束缚或压迫的来源",
+          "sentences": [{"en": "They fought to liberate their country from colonial rule.", "zh": "他们为从殖民统治下解放国家而战斗。"}]
+        },
+        {
+          "collocation": "liberate a city",
+          "translation": "解放一座城市",
+          "pattern": "动词+名词",
+          "explain": "军事常用",
+          "sentences": [{"en": "Allied forces liberated Paris in August 1944.", "zh": "盟军于1944年8月解放了巴黎。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "free": {
+          "translation": "释放，使自由",
+          "diffs": "free 更日常；liberate 常带政治或重大意义",
+          "sentences": [{"en": "The activists worked to free political prisoners.", "zh": "活动人士致力于释放政治犯。"}]
+        },
+        "release": {
+          "translation": "释放",
+          "diffs": "release 侧重松开、放走；liberate 侧重从压迫中解放",
+          "sentences": [{"en": "The hostages were released after negotiations.", "zh": "人质在谈判后被释放。"}]
+        }
+      },
+      "antonyms": {
+        "enslave": {"translation": "奴役", "diffs": "使受奴役"},
+        "imprison": {"translation": "监禁", "diffs": "关押，剥夺自由"}
+      },
+      "inflections": {
+        "past_tense": "liberated",
+        "past_participle": "liberated",
+        "present_participle": "liberating",
+        "third_person": "liberates"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "源自拉丁语 liberāre（使自由），来自 liber（自由的）。",
+    "root": "liber-（自由）",
+    "affixes": ["-ate（动词后缀：使...）"],
+    "history": "liber 意为“自由”，liberāre 意为“使自由”，经法语进入英语。"
+  },
+  "related_words": {
+    "liberty": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "自由；自由权",
+      "rule": "liberate 的同源名词",
+      "sentences": [{"en": "Freedom of speech is a fundamental liberty.", "zh": "言论自由是一项基本自由权。"}]
+    },
+    "liberation": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "解放",
+      "rule": "liberate 的名词形式",
+      "sentences": [{"en": "The liberation of the country was celebrated nationwide.", "zh": "全国的解放受到举国欢庆。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "liberate someone of their chains",
+      "correct": "liberate someone from their chains",
+      "explain": "liberate 后接 from，表示“从...中解放”，不用 of。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "liber-（自由）+ -ate（使...）→ 使自由 → 解放、释放。"
+    }
+  ]
+}

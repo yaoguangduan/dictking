@@ -1,0 +1,41 @@
+{
+  "word": "amino",
+  "created_at": "2026-02-13T03:00:00Z",
+  "phonetic": { "uk": "/əˈmiːnəʊ/", "us": "/əˈmiːnoʊ/" },
+  "definitions": [
+    {
+      "translation": "氨基的；含氨基的",
+      "partOfSpeech": { "en": "adjective", "en_simple": "adj.", "ch": "形容词" },
+      "usage_note": "化学、生物学术语。多用于复合词 amino acid（氨基酸）。单独使用较少。",
+      "sentences": [
+        { "en": "Amino acids are the building blocks of proteins.", "zh": "氨基酸是蛋白质的组成部分。" },
+        { "en": "The amino group (-NH2) is a key functional group in organic chemistry.", "zh": "氨基（-NH2）是有机化学中的关键官能团。" },
+        { "en": "Essential amino acids cannot be synthesized by the human body.", "zh": "人体无法合成必需氨基酸。" }
+      ],
+      "collocations": [
+        { "collocation": "amino acid", "translation": "氨基酸", "sentences": [{ "en": "There are twenty standard amino acids in proteins.", "zh": "蛋白质中有二十种标准氨基酸。" }] },
+        { "collocation": "amino group", "translation": "氨基", "sentences": [{ "en": "The amino group gives the molecule its basic properties.", "zh": "氨基使该分子具有碱性。" }] },
+        { "collocation": "essential amino acid", "translation": "必需氨基酸", "sentences": [{ "en": "Meat and eggs provide all essential amino acids.", "zh": "肉类和蛋类提供全部必需氨基酸。" }] },
+        { "collocation": "amino acid sequence", "translation": "氨基酸序列", "sentences": [{ "en": "The amino acid sequence determines the protein's structure.", "zh": "氨基酸序列决定蛋白质的结构。" }] }
+      ],
+      "phrases": [],
+      "synonyms": {},
+      "antonyms": {},
+      "inflections": {}
+    }
+  ],
+  "etymology": {
+    "origin": "源自 amine（胺，含氮有机化合物），amine 来自 ammonia（氨）。",
+    "root": "ammon-（氨，来自拉丁语 sal ammoniacum）",
+    "affixes": ["-o（连接元音，用于复合词）"],
+    "history": "amine 指含 -NH2 的有机化合物，amino 为其形容词形式，用于 amino acid 等复合词。"
+  },
+  "related_words": {
+    "amine": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "胺", "rule": "amino 的词根，指含氮有机化合物", "sentences": [{ "en": "Amines are derivatives of ammonia.", "zh": "胺是氨的衍生物。" }] },
+    "amino acid": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "氨基酸", "rule": "amino 最常用复合词", "sentences": [{ "en": "Proteins are made of amino acids linked together.", "zh": "蛋白质由连接在一起的氨基酸组成。" }] },
+    "ammonia": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "氨", "rule": "amine 的词源", "sentences": [{ "en": "Ammonia has a pungent smell.", "zh": "氨具有刺激性气味。" }] }
+  },
+  "idioms": [],
+  "common_mistakes": [{ "wrong": "amino used as standalone noun", "correct": "amino acid (氨基酸)", "explain": "amino 通常不单独作名词使用，表示“氨基酸”时需用完整形式 amino acid。" }],
+  "mnemonics": [{ "type": "联想记忆", "content": "amino 来自 amine（胺）+ o → 用于 amino acid。与 “a mean O”（一个重要的 O，指氧在分子中的作用）联想，或记“氨基”的拼音 ānjī 与 amino 谐音。" }]
+}

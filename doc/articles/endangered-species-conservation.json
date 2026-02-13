@@ -1,0 +1,125 @@
+{
+    "title": "Conservation Efforts Are Bringing Species Back from the Brink",
+    "title_zh": "保护努力正在将物种从灭绝边缘拯救回来",
+    "author": "Ashley Simkins",
+    "source": "Phys.org / University of Cambridge",
+    "created_at": "2025-03-18T12:00:00Z",
+    "difficulty": "easy",
+    "tags": ["conservation", "biodiversity", "endangered species", "ecology", "IUCN"],
+    "summary": "A major review of over 67,000 animal species finds that targeted conservation efforts are helping bring many species back from the brink of extinction. The Iberian lynx, European bison, and kākāpō parrot are among the success stories, though six times more species are declining than improving globally.",
+    "summary_zh": "对超过67000种动物物种的重大审查发现，有针对性的保护努力正在帮助许多物种从灭绝边缘恢复。伊比利亚猞猁、欧洲野牛和鸮鹦鹉是成功案例之一，尽管全球物种衰退的数量是改善的六倍。",
+    "paragraphs": [
+        {
+            "en": "A major review of over 67,000 animal species has found that while the natural world continues to face a biodiversity crisis, targeted conservation efforts are helping bring many species back from the brink of extinction. The study draws on data from the IUCN Red List, the world's largest database of species conservation status. The researchers say their results, reported in the journal PLOS Biology, highlight both the successes and the need for urgent action.",
+            "zh": "对超过67000种动物物种的重大审查发现，尽管自然界继续面临生物多样性危机，有针对性的保护努力正在帮助许多物种从灭绝边缘恢复。这项研究利用了世界最大的物种保护状况数据库——世界自然保护联盟红色名录的数据。研究人员表示，发表在《PLOS生物学》期刊上的结果显示既取得了成功，也迫切需要采取行动。",
+            "keywords": ["biodiversity", "IUCN Red List", "brink", "targeted"],
+            "notes": [
+                {"phrase": "draw on", "explain": "利用；借鉴，指从某来源获取信息或资料"},
+                {"phrase": "the brink of extinction", "explain": "灭绝边缘，brink 表示临界点、边缘"}
+            ]
+        },
+        {
+            "en": "The world is facing a global biodiversity crisis, with 28% of more than 160,000 assessed species threatened with extinction, and an estimated one million species facing this fate due to human activities. However, conservation measures can be successful if there is concrete evidence about what works. \"We found that almost all the species that have moved from a more threatened category to a less threatened category have benefited from some sort of conservation measures,\" said lead author Ashley Simkins. \"It's a strong signal that conservation works.\"",
+            "zh": "世界正面临全球生物多样性危机，在超过16万种已评估物种中有28%面临灭绝威胁，估计有100万种物种因人类活动而面临此命运。然而，如果有关于什么方法有效的具体证据，保护措施是可以成功的。「我们发现，几乎所有从更高威胁类别转入较低威胁类别的物种都受益于某种保护措施」，主要作者阿什利·辛金斯说。「这是一个强烈的信号，表明保护是有效的。」",
+            "keywords": ["assessed", "concrete", "benefited", "signal"],
+            "notes": [
+                {"phrase": "concrete evidence", "explain": "具体证据，concrete 表示确凿的、具体的"},
+                {"phrase": "a strong signal", "explain": "强烈的信号，表示明确的迹象或证据"}
+            ]
+        },
+        {
+            "en": "While there is no one size fits all solution, the researchers observed some connections between conservation success stories. Many of these species live in isolated areas, such as islands, where intensive conservation efforts—such as habitat protection, captive breeding and reintroductions—can be fully implemented. \"While biodiversity loss is a genuine crisis, it's vital that we celebrate the success stories wherever and whenever we can,\" said Simkins.",
+            "zh": "虽然没有一刀切的解决方案，但研究人员在保护成功案例之间观察到了一些联系。这些物种中有许多生活在偏远地区，例如岛屿，在那里可以全面实施密集的保护工作——如栖息地保护、圈养繁殖和重新引入。「虽然生物多样性丧失是一场真正的危机，但我们必须随时随地庆祝成功案例，这一点至关重要」，辛金斯说。",
+            "keywords": ["one size fits all", "captive breeding", "reintroductions", "vital"],
+            "notes": [
+                {"phrase": "one size fits all", "explain": "一刀切；适用所有人的单一方案，字面意为「一个尺码适合所有人」"},
+                {"phrase": "captive breeding", "explain": "圈养繁殖，指在受控环境中繁殖濒危物种"}
+            ]
+        },
+        {
+            "en": "The Iberian lynx, once the world's most endangered cat, has rebounded from just a few hundred individuals to a few thousand. Likewise, the kākāpō, a flightless parrot from New Zealand, has benefited from dedicated recovery programs. And the European bison, which was hunted to extinction in the wild in the early 20th century, now roams parts of Eastern Europe thanks to sustained conservation efforts over decades. Marine species have also seen dramatic recoveries: humpback and blue whales have made a comeback after an international moratorium on whaling.",
+            "zh": "伊比利亚猞猁曾是世界上最具灭绝风险的猫科动物，已从仅几百只反弹到数千只。同样，新西兰的无翼鹦鹉鸮鹦鹉也受益于专门的恢复计划。欧洲野牛在20世纪初曾被猎杀至野外灭绝，如今经过数十年的持续保护努力，已在东欧部分地区漫游。海洋物种也出现了显著恢复：在国际捕鲸禁令之后，座头鲸和蓝鲸已经卷土重来。",
+            "keywords": ["rebounded", "kākāpō", "moratorium", "comeback"],
+            "notes": [
+                {"phrase": "rebounded from", "explain": "从...反弹恢复，指数量或状况从低谷回升"},
+                {"phrase": "moratorium on", "explain": "对...的暂停/禁令，正式暂停某种活动"}
+            ]
+        },
+        {
+            "en": "Despite these success stories, the study found that six times more species are declining than improving. The researchers say that, like human health care, preventative measures in conservation are preferable and more cost-effective than emergency interventions. \"Humans have gotten pretty good at what could be considered 'A&E' conservation—focusing on species at very high risk of extinction,\" said Simkins. \"What we're less good at is preventing species from becoming threatened in the first place.\"",
+            "zh": "尽管有这些成功案例，研究发现物种衰退的数量是改善的六倍。研究人员表示，就像人类医疗保健一样，保护中的预防措施比紧急干预更可取且更具成本效益。「人类在可以说是「急诊」保护方面已经相当擅长——专注于灭绝风险极高的物种」，辛金斯说。「我们不太擅长的是从一开始就防止物种受到威胁。」",
+            "keywords": ["preventative", "cost-effective", "A&E", "interventions"],
+            "notes": [
+                {"phrase": "A&E conservation", "explain": "A&E = Accident and Emergency，急诊保护，喻指危机干预式的抢救性保护"},
+                {"phrase": "in the first place", "explain": "从一开始；首先，强调事情发生前的阶段"}
+            ]
+        },
+        {
+            "en": "The researchers emphasize the need for collaborative, locally driven conservation. In Papua New Guinea, for example, conservationists worked with local communities to replace tree kangaroo hunting with sustainable forms of animal protein, including farming of chickens and fishing—an approach that benefitted both people and wildlife. \"It's vital that we as conservationists are working with stakeholders, rather than dictating to them,\" said Simkins. \"Conservation doesn't have to be a zero-sum game—there are compromises that can benefit both the natural world and human society.\"",
+            "zh": "研究人员强调需要协作的、由当地推动的保护工作。例如，在巴布亚新几内亚，保护主义者与当地社区合作，用可持续的动物蛋白质形式——包括养鸡和捕鱼——取代树袋鼠狩猎，这种方法使人类和野生动物都受益。「作为保护主义者，我们必须与利益相关者合作，而不是向他们发号施令，这一点至关重要」，辛金斯说。「保护不一定是零和游戏——有可以让自然界和人类社会都受益的折中方案。」",
+            "keywords": ["collaborative", "stakeholders", "zero-sum game", "compromises"],
+            "notes": [
+                {"phrase": "zero-sum game", "explain": "零和游戏，指一方得益必导致另一方等量损失的博弈"},
+                {"phrase": "dictating to", "explain": "向...发号施令，指单方面强加决定"}
+            ]
+        },
+        {
+            "en": "\"In this climate of constant stories about wildlife declines and insufficient political action to protect nature, it's important to realize that there are also many success stories and that conservation efforts are making a real, demonstrable impact on the world,\" said co-senior author Dr. Silviu Petrovan. Governments need to turn their words into actions and rapidly scale up efforts to save species from extinction. As Simkins noted, \"Almost everyone will have their own favorite example of a conservation success story. We need joint action to ensure these positive stories aren't the exception—they're the norm.\"",
+            "zh": "「在这种不断有野生动物衰退报道和政治行动不足以保护自然的环境中，重要的是要认识到也有很多成功案例，保护工作正在对世界产生真实、可证明的影响」，共同资深作者西尔维乌·彼得罗万博士说。政府需要将承诺转化为行动，迅速扩大拯救物种免于灭绝的努力。正如辛金斯所指出的：「几乎每个人都会有自己最喜欢的保护成功案例。我们需要联合行动，确保这些积极的故事不是例外——而是常态。」",
+            "keywords": ["demonstrable", "scale up", "joint action", "norm"],
+            "notes": [
+                {"phrase": "turn words into actions", "explain": "将承诺转化为行动，指兑现诺言、付诸实践"},
+                {"phrase": "scale up", "explain": "扩大规模，指增加范围或力度"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "biodiversity",
+            "phonetic": "/ˌbaɪəʊdaɪˈvɜːsɪti/",
+            "meaning": "生物多样性",
+            "partOfSpeech": "n.",
+            "example": "The natural world continues to face a biodiversity crisis."
+        },
+        {
+            "word": "brink",
+            "phonetic": "/brɪŋk/",
+            "meaning": "边缘；临界点",
+            "partOfSpeech": "n.",
+            "example": "Conservation efforts are helping bring many species back from the brink of extinction."
+        },
+        {
+            "word": "moratorium",
+            "phonetic": "/ˌmɔːrəˈtɔːriəm/",
+            "meaning": "暂停；禁令",
+            "partOfSpeech": "n.",
+            "example": "Humpback and blue whales have made a comeback after an international moratorium on whaling."
+        },
+        {
+            "word": "reintroduction",
+            "phonetic": "/ˌriːɪntrəˈdʌkʃn/",
+            "meaning": "重新引入；野化放归",
+            "partOfSpeech": "n.",
+            "example": "Intensive efforts include habitat protection, captive breeding and reintroductions."
+        },
+        {
+            "word": "stakeholder",
+            "phonetic": "/ˈsteɪkhəʊldə/",
+            "meaning": "利益相关者",
+            "partOfSpeech": "n.",
+            "example": "Conservationists must work with stakeholders rather than dictating to them."
+        },
+        {
+            "word": "demonstrable",
+            "phonetic": "/ˈdemənstrəbl/",
+            "meaning": "可证明的；明显的",
+            "partOfSpeech": "adj.",
+            "example": "Conservation efforts are making a real, demonstrable impact on the world."
+        }
+    ],
+    "discussion_questions": [
+        {"en": "The study found six times more species declining than improving. Why might preventative conservation be more challenging than emergency intervention?", "zh": "研究发现物种衰退的数量是改善的六倍。为什么预防性保护可能比紧急干预更具挑战性？"},
+        {"en": "The Papua New Guinea example shows conservation working with local communities. What might happen if conservationists try to impose solutions without local buy-in?", "zh": "巴布亚新几内亚的例子展示了与当地社区合作保护。如果保护主义者在没有当地支持的情况下试图强加解决方案，可能会发生什么？"},
+        {"en": "Do you have a favorite conservation success story from your country or region? What made it work?", "zh": "你有来自你的国家或地区最喜欢的保护成功案例吗？是什么让它成功的？"}
+    ]
+}

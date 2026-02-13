@@ -1,0 +1,116 @@
+{
+    "title": "2025's Supply Chain Challenge: Confronting Complexity and Disruption in Global Trade",
+    "title_zh": "2025年供应链挑战：应对全球贸易的复杂性与中断",
+    "author": "Thomson Reuters Tax & Accounting",
+    "source": "Thomson Reuters",
+    "created_at": "2025-02-23",
+    "difficulty": "medium",
+    "tags": ["supply chain", "global trade", "tariffs", "disruption", "compliance"],
+    "summary": "Complexity and disruption define global trade and supply chain management in 2025. Supply chain disruption is the primary concern, followed by regulations and international politics. Companies are turning to AI, blockchain and automation to address talent shortages and mounting regulatory demands.",
+    "summary_zh": "复杂性与中断定义了2025年的全球贸易与供应链管理。供应链中断是首要关切，其次是法规与国际政治。企业正借助人工智能、区块链和自动化应对人才短缺与日益增长的合规要求。",
+    "paragraphs": [
+        {
+            "en": "Complexity and disruption are the keywords when describing global trade and supply chain management in 2025, according to the Thomson Reuters 2024 Global Trade Survey Report. The report is based on responses from upper-level trade professionals in North America, the European Union, the United Kingdom, Latin America, and Asia Pacific. Each of the survey's top themes is related to complexity and disruption in some way, with disruption in the supply chain being the primary concern for respondents.",
+            "zh": "根据汤森路透2024年全球贸易调查报告，\"复杂性\"和\"中断\"是描述2025年全球贸易与供应链管理时最常出现的关键词。该报告基于北美、欧盟、英国、拉美及亚太地区高级贸易专业人士的反馈。调查中排名靠前的主题都不同程度地与复杂性和中断有关，其中供应链中断是受访者的首要关切。",
+            "keywords": ["disruption", "complexity", "survey", "respondents", "upper-level"],
+            "notes": [
+                {"phrase": "the keywords when describing", "explain": "描述……时的关键词；keyword 在此指概括性的核心概念"},
+                {"phrase": "primary concern", "explain": "首要关切；primary 表示最主要的"}
+            ]
+        },
+        {
+            "en": "Politically related disruptions are an ongoing reality in global trade, and events this year have certainly borne that out. One example of this disruption is the tariffs that the U.S. president has threatened other countries with. Affected companies will retaliate with their own tariffs, which will also impact trade and supply chains. Another example involves proposed regulations on low-value shipments that would drastically limit or eliminate certain shipments from using administrative exemptions.",
+            "zh": "与政治相关的中断是全球贸易中持续存在的现实，今年的局势无疑印证了这一点。这类中断的一个例证是美国总统对他国威胁实施的关税。受影响的企业可能以报复性关税回应，这也会波及贸易与供应链。另一例是拟议法规针对低价值货件，将大幅限制或取消部分货件享受的行政豁免。",
+            "keywords": ["retaliate", "tariffs", "administrative exemptions", "drastically", "borne that out"],
+            "notes": [
+                {"phrase": "borne that out", "explain": "证实了这一点；bear out 表示验证、证明"},
+                {"phrase": "administrative exemptions", "explain": "行政豁免；指在法规下可免于适用某类要求的特殊情况"}
+            ]
+        },
+        {
+            "en": "For years, companies have been dealing with shortages and skill gaps in managing global trade compliance. As the regulatory landscape continues to get more complex, the skills needed for ensuring compliance are more essential than ever, and are also evolving. Addressing this requires increased education and awareness along with investment in automation and emerging technological solutions. Many companies are turning to service providers and consultants to bridge the gaps.",
+            "zh": "多年来，企业在全球贸易合规管理上一直面临人才短缺和技能缺口。随着监管环境日益复杂，保障合规所需的技能比以往更加关键，且不断演变。应对这一点需要加强教育、提高意识，并投资于自动化和新兴技术方案。许多企业正通过服务商和顾问来弥补缺口。",
+            "keywords": ["compliance", "skill gaps", "regulatory landscape", "automation", "bridge the gaps"],
+            "notes": [
+                {"phrase": "regulatory landscape", "explain": "监管环境；landscape 比喻某一领域的整体形势"},
+                {"phrase": "bridge the gaps", "explain": "填补缺口；bridge 作动词表示连接、弥合差距"}
+            ]
+        },
+        {
+            "en": "ESG is about making sure that the supply chain is ethical and resilient to ensure that companies are avoiding the reputational, financial, and operational risk that attends noncompliance. To do that requires diversifying supply chains. The knee-jerk reaction for many companies is to move out of China into Southeast Asia, but that region is filling up with capacity.",
+            "zh": "ESG 旨在确保供应链合乎道德且具备韧性，以帮助公司规避不合规带来的声誉、财务与运营风险。为此需要实现供应链多元化。许多企业的本能反应是从中国迁往东南亚，但该地区产能已趋于饱和。",
+            "keywords": ["ESG", "resilient", "reputational risk", "diversifying", "knee-jerk reaction"],
+            "notes": [
+                {"phrase": "knee-jerk reaction", "explain": "本能反应；knee-jerk 原指膝跳反射，喻指不经思考的自动反应"},
+                {"phrase": "filling up with capacity", "explain": "产能趋于饱和；fill up 表示被填满、达到上限"}
+            ]
+        },
+        {
+            "en": "The sheer number of regulations and mountains of data means the days of relying on manual tools are long gone. As a result, we are seeing a rise in interest in emerging technologies and an increased focus on automation to meet those challenges. Technologies such as machine learning, artificial intelligence, and blockchain can help create visibility and efficiencies that bridge staffing shortages.",
+            "zh": "法规数量之多、数据规模之大，意味着依赖人工工具的时代早已过去。因此，人们对新兴技术的兴趣上升，对自动化的关注也日益增强，以应对这些挑战。机器学习、人工智能和区块链等技术有助于提升透明度与效率，弥补人手不足。",
+            "keywords": ["manual tools", "visibility", "blockchain", "efficiencies", "staffing shortages"],
+            "notes": [
+                {"phrase": "the sheer number of", "explain": "sheer 表示纯粹的、仅仅的，强调数量或程度之大"},
+                {"phrase": "create visibility", "explain": "创造可见性；指让原本不透明的流程变得可追踪、可监督"}
+            ]
+        },
+        {
+            "en": "But technologies that solve complex problems are themselves complex. Many companies are using service providers and specialized consultants to buy, set up, keep, and sometimes even run the solutions. This is likely to continue as companies deal with labor shortages. Trade professionals are thirsty for regulatory clarity as uncertainty around national and international politics persists.",
+            "zh": "然而，能解决复杂问题的技术本身也很复杂。许多企业正借助服务商和专业顾问来采购、部署、维护，有时甚至代为运营这些解决方案。在企业应对劳动力短缺的情况下，这一趋势很可能延续。由于国内外政治的不确定性持续存在，贸易专业人士渴求监管上的清晰度。",
+            "keywords": ["specialized consultants", "regulatory clarity", "labor shortages", "persists", "thirsty for"],
+            "notes": [
+                {"phrase": "thirsty for", "explain": "渴望……；thirsty 原指口渴，此处比喻强烈需求"},
+                {"phrase": "regulatory clarity", "explain": "监管清晰度；指规则明确、可预期、易理解"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "disruption",
+            "phonetic": "/dɪsˈrʌpʃn/",
+            "meaning": "中断；混乱",
+            "partOfSpeech": "n.",
+            "example": "Supply chain disruption is the primary concern for respondents."
+        },
+        {
+            "word": "retaliate",
+            "phonetic": "/rɪˈtælieɪt/",
+            "meaning": "报复；反击",
+            "partOfSpeech": "v.",
+            "example": "Affected companies will retaliate with their own tariffs."
+        },
+        {
+            "word": "compliance",
+            "phonetic": "/kəmˈplaɪəns/",
+            "meaning": "合规；遵守",
+            "partOfSpeech": "n.",
+            "example": "The skills needed for ensuring compliance are more essential than ever."
+        },
+        {
+            "word": "resilient",
+            "phonetic": "/rɪˈzɪliənt/",
+            "meaning": "有韧性的；能恢复的",
+            "partOfSpeech": "adj.",
+            "example": "The supply chain must be ethical and resilient."
+        },
+        {
+            "word": "diversify",
+            "phonetic": "/daɪˈvɜːrsɪfaɪ/",
+            "meaning": "使多元化；分散",
+            "partOfSpeech": "v.",
+            "example": "Diversifying supply chains requires assessing sourcing vis-a-vis consumer markets."
+        },
+        {
+            "word": "visibility",
+            "phonetic": "/ˌvɪzəˈbɪləti/",
+            "meaning": "可见性；透明度",
+            "partOfSpeech": "n.",
+            "example": "Blockchain can help create visibility and efficiencies in supply chains."
+        }
+    ],
+    "discussion_questions": [
+        {"en": "What are the main causes of supply chain disruption in 2025, and how can companies mitigate them?", "zh": "2025年供应链中断的主要成因是什么？企业可以如何缓解？"},
+        {"en": "How can technology like AI and blockchain help solve supply chain challenges while creating new complexity?", "zh": "人工智能和区块链等技术如何在解决供应链挑战的同时带来新的复杂性？"},
+        {"en": "Why is diversifying supply chains important for ESG, and what challenges does it create?", "zh": "供应链多元化对 ESG 为何重要？它会带来哪些新挑战？"}
+    ]
+}

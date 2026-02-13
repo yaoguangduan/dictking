@@ -1,0 +1,80 @@
+{
+    "title": "James Webb Space Telescope Finds Most Distant Galaxy Ever Detected",
+    "title_zh": "詹姆斯·韦伯太空望远镜发现迄今最遥远的星系",
+    "author": "Sharmila Kuthunur",
+    "source": "Space.com",
+    "created_at": "2026-02-04T12:00:00Z",
+    "difficulty": "medium",
+    "tags": ["James Webb", "astronomy", "galaxies", "cosmic dawn", "NASA"],
+    "summary": "NASA announced that the James Webb Space Telescope has spotted the most distant galaxy yet detected, named MoM-z14, allowing astronomers to peer closer than ever before to the era when the first stars and galaxies formed. The galaxy offers a rare glimpse into the universe just 280 million years after the Big Bang, and its surprising features challenge existing theories about early galaxy formation.",
+    "summary_zh": "NASA宣布詹姆斯·韦伯太空望远镜发现了迄今为止最遥远的星系MoM-z14，让天文学家比以往任何时候都更接近首批恒星和星系形成的时代。该星系提供了宇宙大爆炸后仅2.8亿年的罕见一瞥，其令人惊讶的特征挑战了关于早期星系形成的现有理论。",
+    "paragraphs": [
+        {
+            "en": "The James Webb Space Telescope has spotted the most distant galaxy yet detected, NASA announced in late January 2026, allowing astronomers to peer closer than ever before to the era when the first stars and galaxies formed, known as cosmic dawn. The galaxy, named MoM-z14, offers a rare glimpse into the universe just 280 million years after the Big Bang. Its light has traveled for about 13.5 billion years to reach Earth, making it the farthest and one of the earliest known galaxies ever observed.",
+            "zh": "NASA于2026年1月底宣布，詹姆斯·韦伯太空望远镜发现了迄今为止最遥远的星系，使天文学家比以往任何时候都更接近首批恒星和星系形成的时代——即宇宙黎明。这颗名为MoM-z14的星系提供了宇宙大爆炸后仅2.8亿年的罕见一瞥。它的光线传播了约135亿年才到达地球，使其成为有史以来观测到的最遥远、最早的已知星系之一。",
+            "keywords": ["cosmic dawn", "Big Bang", "glimpse", "detected"],
+            "notes": [
+                {"phrase": "cosmic dawn", "explain": "宇宙黎明，指宇宙中第一批恒星和星系形成的时期"},
+                {"phrase": "peer closer", "explain": "窥视得更近，比喻观察得更深入、更接近"}
+            ]
+        },
+        {
+            "en": "\"With Webb, we are able to see farther than humans ever have before, and it looks nothing like what we predicted, which is both challenging and exciting,\" study lead author Rohan Naidu at the MIT Kavli Institute for Astrophysics and Space Research said in a statement. The discovery adds MoM-z14 to a growing list of unexpectedly luminous young galaxies that challenge existing theories about how quickly stars and galaxies formed after the universe began.",
+            "zh": "\"借助韦伯望远镜，我们能够比人类以往看得更远，而它所呈现的与我们预测的完全不同，这既充满挑战又令人兴奋\"，研究第一作者、麻省理工学院卡弗里天体物理与空间研究所的罗汉·奈杜在声明中表示。这一发现将MoM-z14加入了一个不断扩大的意外明亮年轻星系名单，这些星系挑战了关于宇宙诞生后恒星和星系形成速度的现有理论。",
+            "keywords": ["luminous", "challenge", "theories", "predicted"],
+            "notes": [
+                {"phrase": "it looks nothing like what we predicted", "explain": "它看起来与我们的预测完全不同，强调意外的发现"}
+            ]
+        },
+        {
+            "en": "According to NASA, MoM-z14 is \"brighter, more compact, and more chemically enriched\" than astronomers anticipated for such an early era. Among its most surprising features are elevated levels of nitrogen, which suggest that massive stars may have formed and evolved more rapidly in the dense early universe than current models predict. The galaxy also appears to have cleared its surrounding region of primordial hydrogen gas, an unexpected finding given that the early universe was filled with neutral hydrogen.",
+            "zh": "据NASA称，MoM-z14比天文学家对如此早期时代预期的\"更亮、更致密、化学上更丰富\"。其最令人惊讶的特征之一是氮含量升高，这表明大质量恒星可能在早期宇宙的稠密环境中比当前模型预测的形成和演化得更快。该星系似乎还清除了其周围区域的原始氢气体，考虑到早期宇宙充满了中性氢，这是一个意想不到的发现。",
+            "keywords": ["chemically enriched", "primordial", "neutral hydrogen", "evolved"],
+            "notes": [
+                {"phrase": "chemically enriched", "explain": "化学富集，指比预期含有更多重元素"},
+                {"phrase": "primordial hydrogen gas", "explain": "原始氢气体，大爆炸后宇宙中遗留的最原始气体"}
+            ]
+        },
+        {
+            "en": "There is a growing chasm between theory and observation related to the early universe, which presents compelling questions to be explored going forward,\" study co-author Xuejian Shen, a postdoctoral researcher at MIT, said. Before JWST's launch, theoretical models suggested that detecting bright galaxies beyond a redshift of 10 would be extraordinarily difficult. Those models assumed early galaxies would be small, faint, and rare.",
+            "zh": "\"关于早期宇宙的理论与观测之间日益扩大的鸿沟，为我们今后探索提出了引人注目的问题\"，研究共同作者、麻省理工学院博士后研究员沈学剑表示。在韦伯望远镜发射之前，理论模型表明，探测红移超过10的明亮星系将极其困难。这些模型假设早期星系会很小、暗淡且罕见。",
+            "keywords": ["chasm", "redshift", "compelling", "assumed"],
+            "notes": [
+                {"phrase": "redshift of 10", "explain": "红移10，表示星系非常遥远，对应宇宙极早期"},
+                {"phrase": "chasm between theory and observation", "explain": "理论与观测之间的鸿沟，指两者不一致"}
+            ]
+        },
+        {
+            "en": "Instead, JWST has routinely exceeded expectations, its powerful infrared eye capturing light from tens of young galaxies that existed just a few hundred million years after the Big Bang. \"While we were hoping for some very early objects, I don't think any of us expected to break the redshift record!\" study co-author Pieter van Dokkum, a professor of astronomy and physics at Yale University, told Space.com.",
+            "zh": "相反，韦伯望远镜 routinely超出了预期，其强大的红外眼捕获了数十个仅在大爆炸后几亿年存在的年轻星系的光线。\"虽然我们希望发现一些非常早期的天体，但我想我们中没有一个人料到会打破红移记录！\"研究共同作者、耶鲁大学天文学和物理学教授彼得·范多库姆告诉《太空》网站。",
+            "keywords": ["exceeded expectations", "infrared", "routinely", "break the record"],
+            "notes": [
+                {"phrase": "exceeded expectations", "explain": "超出预期，比预期做得更好"},
+                {"phrase": "break the redshift record", "explain": "打破红移记录，指发现了最遥远的星系"}
+            ]
+        },
+        {
+            "en": "That the telescope continues to break its own records suggests that even more record-breaking discoveries lie ahead, astronomers say. \"It's an incredibly exciting time,\" study co-author Yijia Li of the Pennsylvania State University said, \"with Webb revealing the early universe like never before and showing us how much there still is to discover.\"",
+            "zh": "天文学家说，望远镜不断打破自己的记录表明，未来还会有更多破纪录的发现。\"这是一个令人难以置信的激动人心的时刻\"，研究共同作者、宾夕法尼亚州立大学的李宜嘉说，\"韦伯以前所未有的方式揭示了早期宇宙，并向我们展示了还有多少有待发现。\"",
+            "keywords": ["record-breaking", "revealing", "incredibly", "discover"],
+            "notes": [
+                {"phrase": "record-breaking", "explain": "破纪录的，创造新纪录的"},
+                {"phrase": "lie ahead", "explain": "在前方等待着，指未来将要发生"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "cosmic", "phonetic": "/ˈkɒzmɪk/", "meaning": "宇宙的；巨大的", "partOfSpeech": "adj.", "example": "The cosmic dawn marks when the first stars formed."},
+        {"word": "luminous", "phonetic": "/ˈluːmɪnəs/", "meaning": "发光的；明亮的", "partOfSpeech": "adj.", "example": "These luminous young galaxies emit intense light."},
+        {"word": "primordial", "phonetic": "/praɪˈmɔːdiəl/", "meaning": "原始的；最初的", "partOfSpeech": "adj.", "example": "Primordial hydrogen filled the early universe."},
+        {"word": "chasm", "phonetic": "/ˈkæzəm/", "meaning": "鸿沟；巨大分歧", "partOfSpeech": "n.", "example": "A growing chasm exists between theory and observation."},
+        {"word": "redshift", "phonetic": "/ˈredʃɪft/", "meaning": "红移（光波波长变长）", "partOfSpeech": "n.", "example": "Higher redshift indicates greater distance."},
+        {"word": "spectroscopic", "phonetic": "/ˌspektrəˈskɒpɪk/", "meaning": "光谱的；光谱学的", "partOfSpeech": "adj.", "example": "Spectroscopic observations confirm the galaxy's distance."},
+        {"word": "compelling", "phonetic": "/kəmˈpelɪŋ/", "meaning": "引人注目的；令人信服的", "partOfSpeech": "adj.", "example": "These findings raise compelling questions for astronomers."}
+    ],
+    "discussion_questions": [
+        {"en": "Why does the discovery of MoM-z14 challenge existing theories about early galaxy formation?", "zh": "为什么MoM-z14的发现挑战了关于早期星系形成的现有理论？"},
+        {"en": "How might the James Webb Space Telescope change our understanding of the cosmic dawn in the coming years?", "zh": "詹姆斯·韦伯太空望远镜未来几年可能如何改变我们对宇宙黎明的理解？"},
+        {"en": "What does \"a growing chasm between theory and observation\" mean for the field of astronomy?", "zh": "\"理论与观测之间日益扩大的鸿沟\"对天文学领域意味着什么？"}
+    ]
+}

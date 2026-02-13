@@ -1,0 +1,90 @@
+{
+    "title": "What's Next for EV Batteries in 2026",
+    "title_zh": "2026年电动汽车电池的发展前景",
+    "author": "Casey Crownhart",
+    "source": "MIT Technology Review",
+    "created_at": "2026-02-02",
+    "difficulty": "medium",
+    "tags": ["electric vehicles", "batteries", "solid-state", "sodium-ion", "technology"],
+    "summary": "As EVs make up over a quarter of global new vehicle sales, the battery industry is evolving with sodium-ion cells gaining traction, solid-state batteries approaching commercialization, and a shifting global patchwork of policies and supply chains.",
+    "summary_zh": "随着电动汽车占全球新车销售的四分之一以上，电池行业正在演变：钠离子电池日益普及，固态电池接近商业化，全球政策和供应链格局也在发生变化。",
+    "paragraphs": [
+        {
+            "en": "Demand for electric vehicles and the batteries that power them has never been hotter. In 2025, EVs made up over a quarter of new vehicle sales globally, up from less than 5% in 2020. Some regions are seeing even higher uptake: In China, more than 50% of new vehicle sales last year were battery electric or plug-in hybrids.",
+            "zh": "对电动汽车及其动力电池的需求从未如此高涨。2025年，电动汽车占全球新车销量的四分之一以上，高于2020年的不到5%。一些地区的采用率更高：去年在中国，超过50%的新车销售是纯电动或插电式混合动力汽车。",
+            "keywords": ["demand", "uptake", "plug-in hybrids", "globally", "sales"],
+            "notes": [
+                {"phrase": "has never been hotter", "explain": "从未如此火热；表示需求达到顶峰"},
+                {"phrase": "uptake", "explain": "采用率；接受程度"}
+            ]
+        },
+        {
+            "en": "Lithium-ion batteries are the default chemistry used in EVs, personal devices, and even stationary storage systems on the grid today. But in a tough environment in some markets like the US, there's a growing interest in cheaper alternatives. Automakers right now largely care just about batteries' cost, regardless of performance improvements.",
+            "zh": "锂离子电池是当今电动汽车、个人设备乃至电网固定储能系统使用的默认化学配方。但在美国等一些市场的不利环境中，人们对更便宜的替代方案越来越感兴趣。目前汽车制造商主要关注的只是电池成本，而非性能提升。",
+            "keywords": ["lithium-ion", "stationary storage", "alternatives", "automakers", "cost"],
+            "notes": [
+                {"phrase": "default chemistry", "explain": "默认的化学配方；主流技术选择"},
+                {"phrase": "tough environment", "explain": "不利环境；艰难的市场状况"}
+            ]
+        },
+        {
+            "en": "Sodium-ion cells have long been held up as a potentially less expensive alternative to lithium. The batteries are limited in their energy density, so they deliver a shorter range than lithium-ion. But sodium is also more abundant, so they could be cheaper. Sodium-ion batteries currently cost about $59 per kilowatt-hour on average—less expensive than the average lithium-ion battery.",
+            "zh": "钠离子电池长期以来被视为锂的潜在更便宜的替代品。这些电池的能量密度有限，因此续航里程比锂离子电池短。但钠的储量也更丰富，所以可能更便宜。钠离子电池目前平均成本约为每千瓦时59美元——比普通锂离子电池更便宜。",
+            "keywords": ["sodium-ion", "energy density", "abundant", "kilowatt-hour", "alternative"],
+            "notes": [
+                {"phrase": "held up as", "explain": "被视为；被当作...提出"},
+                {"phrase": "energy density", "explain": "能量密度；单位体积或质量储存的能量"}
+            ]
+        },
+        {
+            "en": "Stellantis announced the successful validation of U.S. startup Factorial Energy's automotive-sized solid-state battery cells. Unlike traditional lithium-ion batteries, solid-state batteries offer higher energy density and faster charging, allowing a charge from 15% to over 90% in just 18 minutes at room temperature.",
+            "zh": "斯特兰蒂斯宣布成功验证了美国初创公司Factorial Energy的汽车级固态电池单体。与传统锂离子电池不同，固态电池具有更高的能量密度和更快的充电速度，在室温下仅需18分钟即可从15%充至90%以上。",
+            "keywords": ["Stellantis", "validation", "solid-state", "charging", "Factorial"],
+            "notes": [
+                {"phrase": "validation", "explain": "验证；确认符合标准"},
+                {"phrase": "at room temperature", "explain": "在室温下；不需要特殊加热或冷却"}
+            ]
+        },
+        {
+            "en": "As we enter the second half of this decade, many eyes in the battery world are on big promises and claims about solid-state batteries. These batteries could pack more energy into a smaller package by removing the liquid electrolyte. Toyota says it's now on track to launch the new cells in cars in 2027 or 2028.",
+            "zh": "随着我们进入本十年下半叶，电池行业的许多人都在关注固态电池的重大承诺和声明。这些电池通过去除液态电解质，可以在更小的体积内储存更多能量。丰田表示，目前有望在2027年或2028年将新型电池用于汽车。",
+            "keywords": ["solid-state", "electrolyte", "Toyota", "track", "launch"],
+            "notes": [
+                {"phrase": "pack more energy", "explain": "装更多能量；pack 表示装入、打包"},
+                {"phrase": "on track", "explain": "按计划进行；有望实现目标"}
+            ]
+        },
+        {
+            "en": "The picture for the near future of the EV industry looks drastically different depending on where you're standing. China overtook Japan as the country with the most global auto sales. More than one in three EVs made in 2025 had a CATL battery in it. Simply put, China is dominating the global battery industry.",
+            "zh": "电动汽车行业的近期前景因你所在的位置而有天壤之别。中国超越日本成为全球汽车销量第一的国家。2025年制造的电动汽车中，超过三分之一安装了宁德时代的电池。简而言之，中国正在主导全球电池行业。",
+            "keywords": [" drastically", "overtook", "dominating", "CATL", "industry"],
+            "notes": [
+                {"phrase": "depending on where you're standing", "explain": "取决于你的立场；因视角不同而异"},
+                {"phrase": "simply put", "explain": "简而言之；简单来说"}
+            ]
+        },
+        {
+            "en": "On the flip side, EVs are facing a real test in 2026 in the US, as this will be the first calendar year after the sunset of federal tax credits. With those credits gone, growth in sales is expected to continue lagging. By 2030, 40% of new vehicles sold around the world are projected to be electric.",
+            "zh": "另一方面，电动汽车2026年在美国面临真正的考验，因为这将是联邦税收抵免取消后的第一个日历年。随着这些抵免的消失，销售量增长预计将继续滞后。到2030年，全球销售的新车中预计有40%将是电动汽车。",
+            "keywords": ["flip side", "sunset", "tax credits", "lagging", "projected"],
+            "notes": [
+                {"phrase": "on the flip side", "explain": "另一方面；反之"},
+                {"phrase": "sunset", "explain": "日落；这里指政策到期、终止"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "uptake", "phonetic": "/ˈʌpteɪk/", "meaning": "采用；吸收", "partOfSpeech": "n.", "example": "EV uptake is highest in China and Europe."},
+        {"word": "density", "phonetic": "/ˈdensəti/", "meaning": "密度", "partOfSpeech": "n.", "example": "Solid-state batteries offer higher energy density."},
+        {"word": "validation", "phonetic": "/ˌvælɪˈdeɪʃn/", "meaning": "验证；确认", "partOfSpeech": "n.", "example": "Stellantis announced the validation of solid-state battery cells."},
+        {"word": "electrolyte", "phonetic": "/ɪˈlektroʊlaɪt/", "meaning": "电解质", "partOfSpeech": "n.", "example": "Solid-state batteries remove the liquid electrolyte."},
+        {"word": "lag", "phonetic": "/læɡ/", "meaning": "落后；滞后", "partOfSpeech": "v.", "example": "EV sales growth is expected to continue lagging in the US."},
+        {"word": "project", "phonetic": "/prəˈdʒekt/", "meaning": "预测；预计", "partOfSpeech": "v.", "example": "40% of new vehicles are projected to be electric by 2030."},
+        {"word": "sunset", "phonetic": "/ˈsʌnset/", "meaning": "到期；终止", "partOfSpeech": "n.", "example": "This is the first year after the sunset of tax credits."}
+    ],
+    "discussion_questions": [
+        {"en": "How might sodium-ion batteries change the EV market in cost-sensitive regions?", "zh": "钠离子电池可能如何改变对成本敏感地区的电动汽车市场？"},
+        {"en": "What challenges do manufacturers face in commercializing solid-state batteries?", "zh": "制造商在将固态电池商业化方面面临哪些挑战？"},
+        {"en": "How is the global distribution of EV battery production likely to evolve?", "zh": "全球电动汽车电池生产的分布可能如何演变？"}
+    ]
+}

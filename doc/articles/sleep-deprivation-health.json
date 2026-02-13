@@ -1,0 +1,91 @@
+{
+    "title": "How Sleep Deprivation Can Harm Your Health",
+    "title_zh": "睡眠不足如何损害健康",
+    "author": "Lawrence Epstein, MD",
+    "source": "Harvard Health Publishing",
+    "created_at": "2025-07-22T00:00:00Z",
+    "difficulty": "easy",
+    "tags": ["health", "sleep", "wellness", "mental health", "chronic disease"],
+    "summary": "Chronic sleep deprivation damages nearly every system in the body, increasing risks for diabetes, heart disease, mental illness, dementia, and weight gain. Research shows that insufficient sleep disrupts critical hormonal and metabolic processes essential for health. Practicing good sleep hygiene can help restore the restorative rest your body needs.",
+    "summary_zh": "慢性睡眠不足会损害身体的几乎每一个系统，增加患糖尿病、心脏病、精神疾病、痴呆和体重增加的风险。研究表明，睡眠不足会扰乱维持健康所需的关键激素和代谢过程。养成良好的睡眠卫生习惯有助于恢复身体所需的恢复性休息。",
+    "paragraphs": [
+        {
+            "en": "We all have trouble sleeping from time to time, but when insomnia persists day after day it can become a real problem. Insomnia becomes chronic when it happens at least three nights per week for three months or more, and may be caused by a medical or psychiatric problem. Sleep is essential for the mind and body, which is why chronic sleep deprivation does more than leave you groggy — it can damage nearly every system in your body.",
+            "zh": "我们每个人都有睡眠困难的时候，但当失眠日复一日地持续下去时，就会成为真正的问题。当失眠每周至少发生三个晚上、持续三个月或更长时间时，就变成慢性失眠，可能是由医疗或精神问题引起。睡眠对身心都至关重要，这就是为什么慢性睡眠不足不仅仅是让你昏昏欲睡——它会损害身体的几乎每一个系统。",
+            "keywords": ["insomnia", "chronic", "deprivation", "groggy", "persists"],
+            "notes": [
+                {"phrase": "from time to time", "explain": "时不时地，偶尔；表示频率的不确定"},
+                {"phrase": "day after day", "explain": "日复一日，强调持续性"}
+            ]
+        },
+        {
+            "en": "From diabetes and high blood pressure to heart disease, mental illness, dementia, and weight gain, insufficient sleep disrupts critical hormonal and metabolic processes that keep you healthy. Diabetes is one major risk: sleeping just five to six hours a day doubles the risk of being diagnosed with prediabetes and type 2 diabetes compared to sleeping seven to eight hours a day, according to a 2021 review in the Journal of Endocrinology. The underlying cause is thought to involve a disruption of the body's normal hormonal regulation.",
+            "zh": "从糖尿病和高血压到心脏病、精神疾病、痴呆和体重增加，睡眠不足会扰乱维持健康所需的关键激素和代谢过程。糖尿病是主要风险之一：根据2021年发表在《内分泌学杂志》上的一项综述，每天只睡五到六小时会使患糖尿病前期和2型糖尿病的风险增加一倍，而每天睡七到八小时的人风险较低。根本原因被认为与身体正常激素调节的紊乱有关。",
+            "keywords": ["diabetes", "hormonal", "metabolic", "prediabetes", "regulation"],
+            "notes": [
+                {"phrase": "compared to", "explain": "与……相比，常用于比较两个群体的研究结论"},
+                {"phrase": "underlying cause", "explain": "根本原因，指隐藏在表面现象背后的原因"}
+            ]
+        },
+        {
+            "en": "Sleeping less than seven hours a night raises the risk of high blood pressure, according to an analysis of data from over 700,000 people in two national health surveys. The association was especially strong among women and younger adults. People with very short sleep times (four or fewer hours per night) were twice as likely to have high blood pressure compared with those who slept seven hours nightly. Chronic sleep deprivation is also linked to many risk factors for heart disease, including unhealthy levels of cholesterol and triglycerides as well as high blood pressure.",
+            "zh": "根据对两个全国健康调查中超过70万人数据的分析，每晚睡眠不足七小时会增加患高血压的风险。这种关联在女性和年轻成年人中尤为明显。与每晚睡七小时的人相比，睡眠时间极短（每晚四小时或更少）的人患高血压的可能性是其两倍。慢性睡眠不足还与心脏病的许多风险因素有关，包括不健康的胆固醇和甘油三酯水平以及高血压。",
+            "keywords": ["blood pressure", "cholesterol", "triglycerides", "cardiovascular", "surveys"],
+            "notes": [
+                {"phrase": "twice as likely", "explain": "可能性是……的两倍，表示风险加倍"},
+                {"phrase": "risk factors", "explain": "风险因素，医学上指增加患病概率的条件"}
+            ]
+        },
+        {
+            "en": "People who do not get sufficient sleep also have higher blood levels of stress hormones and substances that indicate inflammation, a key player in cardiovascular disease. A 2022 study in Scientific Reports found that middle-aged people with a combination of sleep issues, including sleeping less than six hours per night, may have nearly three times the risk of heart disease. Sleep apnea, one common cause of poor sleep, also raises heart disease risk. People with moderate to severe sleep apnea have three times the risk of stroke compared with people who do not have the condition.",
+            "zh": "睡眠不足的人的血液中应激激素和表明炎症的物质水平也更高，而炎症是心血管疾病的关键因素。2022年发表在《科学报告》上的一项研究发现，有多种睡眠问题（包括每晚睡眠少于六小时）的中年人患心脏病的风险可能高出近三倍。睡眠呼吸暂停是睡眠质量差的常见原因之一，也会增加心脏病风险。与没有该病症的人相比，中度至重度睡眠呼吸暂停患者的中风风险高出三倍。",
+            "keywords": ["inflammation", "sleep apnea", "stroke", "cardiovascular", "hormones"],
+            "notes": [
+                {"phrase": "key player", "explain": "关键因素/参与者，比喻性表达"},
+                {"phrase": "a combination of", "explain": "多种……的结合，强调叠加效应"}
+            ]
+        },
+        {
+            "en": "A study of about 1,000 adults ages 21 to 30 found that, compared with normal sleepers, people who reported a history of insomnia were four times as likely to develop major depression within the next three years. Two studies in young people found that lack of sleep often preceded a diagnosis of major depression and anxiety. Sleep problems in teenagers preceded depression 69% of the time and anxiety disorders 27% of the time. Research increasingly links sleep disturbances to increased risk of developing dementia. A review of 18 studies found a link between lack of sleep and a higher risk of dementia. Experts believe that sleep helps clear the brain of amyloid, the protein thought to damage nerve cells in Alzheimer's.",
+            "zh": "一项对约1000名21至30岁成年人的研究发现，与正常睡眠者相比，有失眠史的年轻人在未来三年内罹患重度抑郁症的可能性高出四倍。两项针对年轻人的研究发现，睡眠不足往往先于重度抑郁症和焦虑症的诊断。青少年中的睡眠问题有69%先于抑郁出现，27%先于焦虑障碍。研究日益将睡眠障碍与罹患痴呆风险增加联系起来。一项对18项研究的综述发现了睡眠不足与痴呆风险更高之间的关联。专家认为，睡眠有助于清除大脑中的淀粉样蛋白，这种蛋白被认为会损害阿尔茨海默病患者的神经细胞。",
+            "keywords": ["depression", "insomnia", "dementia", "amyloid", "anxiety"],
+            "notes": [
+                {"phrase": "four times as likely", "explain": "可能性是……的四倍，强调风险大幅增加"},
+                {"phrase": "increasingly links", "explain": "日益将……联系起来，表示研究证据的积累"}
+            ]
+        },
+        {
+            "en": "Numerous studies have linked inadequate sleep with obesity. A 2020 study in JAMA Internal Medicine analyzed two years of activity monitor data from more than 120,000 people and found that shorter sleep duration was associated with higher body mass index. Lack of sufficient sleep disrupts hormones that control hunger and appetite. Excess weight, in turn, increases the risk of a number of health problems, including some of those listed above. Getting enough sleep is one of the most important steps you can take to protect your health.",
+            "zh": "许多研究将睡眠不足与肥胖联系起来。2020年发表在《美国医学会内科学杂志》上的一项研究分析了超过12万人两年的活动监测数据，发现睡眠时间较短与较高的体重指数相关。睡眠不足会扰乱控制饥饿和食欲的激素。反过来，超重会增加多种健康问题的风险，包括上述的一些疾病。获得足够的睡眠是保护健康可以采取的最重要步骤之一。",
+            "keywords": ["obesity", "appetite", "body mass index", "hormones", "duration"],
+            "notes": [
+                {"phrase": "in turn", "explain": "反过来，表示连锁反应或因果链条"},
+                {"phrase": "numerous studies", "explain": "诸多研究，学术写作中表示证据充分"}
+            ]
+        },
+        {
+            "en": "The good news is that it is never too late to start improving your sleep habits. Practicing good sleep hygiene, such as keeping a consistent bedtime, limiting screen time before bed, and creating a calm sleep environment, can make it easier to get the restorative rest your body needs. These simple practices help your body establish healthy sleep patterns and recover from the day's stresses.",
+            "zh": "好消息是，开始改善睡眠习惯永远不会太晚。 实践良好的睡眠卫生，例如保持固定的就寝时间、睡前限制屏幕使用时间以及营造安静的睡眠环境，可以更容易获得身体所需的恢复性休息。这些简单的做法有助于身体建立健康的睡眠模式，并从一天的压力中恢复过来。",
+            "keywords": ["hygiene", "restorative", "bedtime", "consistent", "environment"],
+            "notes": [
+                {"phrase": "it is never too late", "explain": "永远不嫌晚，鼓励性表达"},
+                {"phrase": "sleep hygiene", "explain": "睡眠卫生，指促进健康睡眠的行为习惯"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "insomnia", "phonetic": "/ɪnˈsɒmniə/", "meaning": "失眠症", "partOfSpeech": "n.", "example": "Insomnia becomes chronic when it happens at least three nights per week."},
+        {"word": "deprivation", "phonetic": "/ˌdeprɪˈveɪʃn/", "meaning": "剥夺；缺乏", "partOfSpeech": "n.", "example": "Chronic sleep deprivation damages nearly every system in your body."},
+        {"word": "groggy", "phonetic": "/ˈɡrɒɡi/", "meaning": "昏昏欲睡的；头昏眼花的", "partOfSpeech": "adj.", "example": "Sleep deprivation does more than leave you groggy."},
+        {"word": "prediabetes", "phonetic": "/ˌpriːdaɪəˈbiːtiːz/", "meaning": "糖尿病前期", "partOfSpeech": "n.", "example": "Sleeping five to six hours doubles the risk of prediabetes."},
+        {"word": "apnea", "phonetic": "/æpˈniːə/", "meaning": "呼吸暂停", "partOfSpeech": "n.", "example": "Sleep apnea is one common cause of poor sleep."},
+        {"word": "amyloid", "phonetic": "/ˈæmɪlɔɪd/", "meaning": "淀粉样蛋白", "partOfSpeech": "n.", "example": "Sleep helps clear the brain of amyloid, a protein in Alzheimer's."},
+        {"word": "restorative", "phonetic": "/rɪˈstɔːrətɪv/", "meaning": "恢复性的；有助于恢复的", "partOfSpeech": "adj.", "example": "Good sleep hygiene helps you get restorative rest."},
+        {"word": "triglyceride", "phonetic": "/traɪˈɡlɪsəraɪd/", "meaning": "甘油三酯", "partOfSpeech": "n.", "example": "Sleep deprivation is linked to unhealthy triglyceride levels."}
+    ],
+    "discussion_questions": [
+        {"en": "How many hours of sleep do you typically get per night? Do you notice any effects when you sleep less?", "zh": "你通常每晚睡多少小时？当你睡得少时，你是否注意到任何影响？"},
+        {"en": "Which sleep hygiene practices mentioned in the article do you already follow? Which would you like to try?", "zh": "文章中提到的哪些睡眠卫生习惯你已经遵循？你想尝试哪些？"},
+        {"en": "Why do you think modern life makes it harder for people to get enough sleep? What could society do to address this?", "zh": "你认为为什么现代生活让人们更难获得足够的睡眠？社会可以采取什么措施来解决这个问题？"}
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "vibration",
+    "created_at": "2026-02-13T03:00:00Z",
+    "phonetic": { "uk": "/vaɪˈbreɪʃn/", "us": "/vaɪˈbreɪʃn/" },
+    "definitions": [
+        {
+            "translation": "振动；震动；颤动",
+            "partOfSpeech": { "en": "noun", "en_simple": "n.", "ch": "名词" },
+            "usage_note": "可数与不可数均可。指物体快速往返运动产生的振动，或由此产生的触感、声音。",
+            "sentences": [
+                { "en": "The vibration of the engine could be felt through the steering wheel.", "zh": "发动机的震动通过方向盘能感受到。" },
+                { "en": "Earthquakes produce strong ground vibrations that can damage buildings.", "zh": "地震产生强烈的地面震动，可能损坏建筑物。" },
+                { "en": "The guitar string's vibration creates the sound we hear.", "zh": "琴弦的振动产生了我们听到的声音。" }
+            ],
+            "collocations": [
+                { "collocation": "mechanical vibration", "translation": "机械振动", "sentences": [{ "en": "Mechanical vibration can cause wear on machine parts over time.", "zh": "机械振动会逐渐磨损机器部件。" }, { "en": "Engineers dampen mechanical vibration to reduce noise.", "zh": "工程师通过减振来降低噪音。" }] },
+                { "collocation": "vibration frequency", "translation": "振动频率", "sentences": [{ "en": "The vibration frequency of the bridge matched the wind, causing resonance.", "zh": "桥梁的振动频率与风匹配，引发了共振。" }] },
+                { "collocation": "good vibrations", "translation": "好氛围；好感觉（口语）", "sentences": [{ "en": "I get good vibrations from this place — it feels welcoming.", "zh": "我对这地方有好感——感觉很亲切。" }] },
+                { "collocation": "feel the vibration", "translation": "感受到振动", "sentences": [{ "en": "You can feel the vibration of the subway through the platform.", "zh": "你能通过站台感受到地铁的振动。" }] }
+            ],
+            "phrases": [],
+            "synonyms": {
+                "oscillation": { "translation": "振动；摆动", "diffs": "oscillation 更 technical，强调周期性往复；vibration 更日常，可泛指震动感。", "sentences": [{ "en": "The pendulum's oscillation gradually slowed down.", "zh": "摆锤的摆动逐渐减慢。" }] },
+                "tremor": { "translation": "颤动；微震", "diffs": "tremor 常指轻微、不由自主的颤动（如手抖、地震微震）；vibration 多指机械或物理振动。", "sentences": [{ "en": "A slight tremor ran through the building as the train passed.", "zh": "火车经过时，建筑物微微颤动。" }] },
+                "resonance": { "translation": "共振；共鸣", "diffs": "resonance 指特定频率下的放大振动或情感共鸣；vibration 为一般性振动。", "sentences": [{ "en": "The resonance of the drum filled the hall.", "zh": "鼓的共鸣充满整个大厅。" }] },
+                "shaking": { "translation": "摇动；震动", "diffs": "shaking 为日常用语，动作性更强；vibration 更偏名词，指振动现象本身。", "sentences": [{ "en": "The shaking of the building terrified the occupants.", "zh": "建筑物的晃动让居民惊恐万分。" }] }
+            },
+            "antonyms": {
+                "stillness": { "translation": "静止；宁静", "diffs": "stillness 指无运动、无振动；vibration 指有振动。", "sentences": [{ "en": "The stillness of the night was broken by a distant howl.", "zh": "夜晚的宁静被远处的嚎叫打破。" }] }
+            },
+            "inflections": { "plural": "vibrations" }
+        }
+    ],
+    "etymology": { "origin": "源自拉丁语 vibrāre（摇动、振动）+ -tion（名词后缀）。", "root": "vibr-（摇动、震颤）", "affixes": ["-ation（名词后缀，表动作或状态）"] },
+    "related_words": {
+        "vibrate": { "class": { "en": "verb", "en_s": "v.", "ch": "动词" }, "translation": "振动；颤动", "rule": "vibration 的动词形式", "sentences": [{ "en": "The phone vibrated on the table.", "zh": "手机在桌上振动。" }] },
+        "vibrant": { "class": { "en": "adjective", "en_s": "adj.", "ch": "形容词" }, "translation": "充满活力的；鲜明生动的", "rule": "vibr- + -ant，引申为“生机勃勃”", "sentences": [{ "en": "The city has a vibrant nightlife.", "zh": "这座城市夜生活丰富多彩。" }] },
+        "vibrational": { "class": { "en": "adjective", "en_s": "adj.", "ch": "形容词" }, "translation": "振动的", "rule": "vibration + -al", "sentences": [{ "en": "Vibrational energy affects molecular structure.", "zh": "振动能影响分子结构。" }] },
+        "vibrator": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "振动器；振荡器", "rule": "vibrate + -or（施动者或工具）", "sentences": [{ "en": "The vibrator in the phone alerts you to incoming calls.", "zh": "手机里的振动器用于来电提醒。" }] }
+    },
+    "idioms": [],
+    "common_mistakes": [
+        { "wrong": "vibration of sound", "correct": "sound vibration / vibration of the sound", "explain": "“声音的振动”通常说 sound vibration 或 vibrations of sound；若用 of，the 通常需加上。" }
+    ],
+    "mnemonics": [
+        { "type": "词根联想", "content": "vibr-（摇、颤）+ -ation → 摇动的状态 → 振动；震动。" }
+    ]
+}

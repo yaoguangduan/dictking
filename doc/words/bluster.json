@@ -1,0 +1,62 @@
+{
+  "word": "bluster",
+  "created_at": "2026-02-13T03:00:00Z",
+  "phonetic": { "uk": "/ˈblʌstə/", "us": "/ˈblʌstər/" },
+  "definitions": [
+    {
+      "translation": "咆哮；怒喝；虚张声势地说话",
+      "partOfSpeech": { "en": "verb", "en_simple": "v.", "ch": "动词" },
+      "usage_note": "1. 指风猛烈吹 2. 指人气势汹汹地说大话、吹嘘，常含缺乏实质之意。",
+      "sentences": [
+        { "en": "The wind blustered around the corners of the building.", "zh": "风在建筑物拐角处呼啸。" },
+        { "en": "He blustered about his connections but couldn't deliver.", "zh": "他大肆吹嘘自己的人脉，却拿不出实际行动。" },
+        { "en": "The dictator blustered threats but took no military action.", "zh": "独裁者虚张声势地发出威胁，却未采取军事行动。" }
+      ],
+      "collocations": [
+        { "collocation": "bluster and bluff", "translation": "虚张声势与唬人", "sentences": [{ "en": "His tactics were all bluster and bluff with no substance.", "zh": "他的策略全是虚张声势，毫无实质内容。" }] },
+        { "collocation": "blustery wind", "translation": "呼啸的大风", "sentences": [{ "en": "We set out despite the blustery wind.", "zh": "尽管狂风呼啸，我们还是出发了。" }] },
+        { "collocation": "full of bluster", "translation": "满口大话；虚张声势", "sentences": [{ "en": "He was full of bluster but short on action.", "zh": "他满口大话却缺乏行动。" }] }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "rant": { "translation": "咆哮；怒吼", "diffs": "rant 强调情绪激动、长篇大论；bluster 强调虚张声势、威吓", "sentences": [{ "en": "He ranted about the injustice for an hour.", "zh": "他就这种不公咆哮了一个小时。" }] },
+        "brag": { "translation": "吹嘘", "diffs": "brag 侧重夸耀自己；bluster 侧重气势汹汹地威胁或炫耀", "sentences": [{ "en": "He bragged about his promotion.", "zh": "他吹嘘自己升职了。" }] }
+      },
+      "antonyms": {
+        "whisper": { "translation": "低语", "diffs": "与咆哮相对", "sentences": [{ "en": "She whispered the secret in his ear.", "zh": "她在他耳边低语了秘密。" }] },
+        "calm": { "translation": "平静", "diffs": "形容风或人平静", "sentences": [{ "en": "The sea was calm that morning.", "zh": "那天早晨海面平静。" }] }
+      },
+      "inflections": { "past": "blustered", "past_participle": "blustered", "present_participle": "blustering", "third_person": "blusters" }
+    },
+    {
+      "translation": "大话；虚张声势；狂风",
+      "partOfSpeech": { "en": "noun", "en_simple": "n.", "ch": "名词" },
+      "usage_note": "不可数名词。指夸张、咄咄逼人的言语，或猛烈的风。",
+      "sentences": [
+        { "en": "His threats were mostly bluster.", "zh": "他的威胁多半是虚张声势。" },
+        { "en": "Don't be intimidated by his bluster—he won't actually do anything.", "zh": "别被他的大话吓到，他不会真干什么的。" },
+        { "en": "The bluster of the storm kept us indoors.", "zh": "暴风雨的狂风使我们无法外出。" }
+      ],
+      "collocations": [
+        { "collocation": "full of bluster", "translation": "满口大话", "sentences": [{ "en": "Politicians are often full of bluster during campaigns.", "zh": "政客在竞选期间往往满口大话。" }] }
+      ],
+      "phrases": [],
+      "synonyms": {},
+      "antonyms": {},
+      "inflections": {}
+    }
+  ],
+  "etymology": {
+    "origin": "可能来自中古低地德语 blusteren（猛烈吹动），拟声词，模仿风或暴力的声音。",
+    "root": "拟声词根 blust-",
+    "affixes": ["-er（动词后缀，表反复动作）"],
+    "history": "原指风猛烈吹动的声音，后引申指人像风一样气势汹汹地说话。"
+  },
+  "related_words": {
+    "blustery": { "class": { "en": "adjective", "en_s": "adj.", "ch": "形容词" }, "translation": "大风的；狂风大作的", "rule": "bluster 的形容词形式", "sentences": [{ "en": "It was a blustery December day.", "zh": "那是十二月里一个狂风大作的日子。" }] },
+    "blusterer": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "虚张声势的人；说大话的人", "rule": "bluster 加 -er 表施动者", "sentences": [{ "en": "He was known as a blusterer who never followed through.", "zh": "他以说大话从不兑现而闻名。" }] }
+  },
+  "idioms": [],
+  "common_mistakes": [{ "wrong": "bluster someone", "correct": "bluster at/about someone or bluster (intransitive)", "explain": "bluster 多作不及物动词，说 bluster about sth 或 bluster at sb；不直接接宾语作“恐吓某人”之意。" }],
+  "mnemonics": [{ "type": "联想记忆", "content": "bluster 发音像“不拉死他”——虚张声势却“不拉”（不真正动手）。或联想 blustery wind（狂风）与 bluster（咆哮）同样喧闹。" }]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "visualize",
+    "created_at": "2026-02-13T03:00:00Z",
+    "phonetic": { "uk": "/ˈvɪʒuəlaɪz/", "us": "/ˈvɪʒuəlaɪz/" },
+    "definitions": [
+        {
+            "translation": "想象；在脑中形成图像",
+            "partOfSpeech": { "en": "verb (transitive)", "en_simple": "v.t.", "ch": "及物动词" },
+            "usage_note": "及物动词。指在脑海中形成某事物的心理图像或画面。常用于目标设定、冥想、创意等语境。英式拼写为 visualise。",
+            "sentences": [
+                { "en": "Close your eyes and visualize yourself on a peaceful beach.", "zh": "闭上眼睛，想象自己置身于宁静的海滩。" },
+                { "en": "Athletes often visualize success before a competition.", "zh": "运动员常在比赛前在脑中预演成功的情景。" },
+                { "en": "It's hard to visualize how the finished product will look.", "zh": "很难想象成品会是什么样子。" }
+            ],
+            "collocations": [
+                { "collocation": "visualize success", "translation": "想象成功", "sentences": [{ "en": "Coaches encourage players to visualize success before each game.", "zh": "教练鼓励球员在每场比赛前想象成功的场景。" }] },
+                { "collocation": "visualize data", "translation": "使数据可视化", "sentences": [{ "en": "Charts help us visualize complex data more easily.", "zh": "图表帮助我们更直观地呈现复杂数据。" }] },
+                { "collocation": "hard to visualize", "translation": "难以想象", "sentences": [{ "en": "The scale of the universe is hard to visualize.", "zh": "宇宙的规模令人难以想象。" }] }
+            ],
+            "phrases": [],
+            "synonyms": {
+                "imagine": { "translation": "想象", "diffs": "imagine 更日常；visualize 强调在脑中形成具体视觉图像", "sentences": [{ "en": "Imagine a world without war.", "zh": "想象一个没有战争的世界。" }] },
+                "envision": { "translation": "预想；设想", "diffs": "envision 偏未来规划；visualize 偏具体画面感", "sentences": [{ "en": "She envisioned a career in medicine.", "zh": "她设想过从事医学工作。" }] },
+                "picture": { "translation": "想象；描绘", "diffs": "picture 口语化；visualize 稍正式，多用于心理学、体育等", "sentences": [{ "en": "Picture yourself relaxing by the lake.", "zh": "想象自己在湖边放松的情景。" }] },
+                "conceive": { "translation": "设想；构想", "diffs": "conceive 偏抽象构想；visualize 偏视觉化想象", "sentences": [{ "en": "It's hard to conceive of life without the internet.", "zh": "没有互联网的生活难以设想。" }] }
+            },
+            "antonyms": {},
+            "inflections": { "past_tense": "visualized", "past_participle": "visualized", "present_participle": "visualizing", "third_person": "visualizes", "british_spelling": "visualise" }
+        },
+        {
+            "translation": "使可视化；将…以图形/图表呈现",
+            "partOfSpeech": { "en": "verb (transitive)", "en_simple": "v.t.", "ch": "及物动词" },
+            "usage_note": "及物动词。指将数据、信息等以图表、图形等视觉形式呈现。常用于数据分析、编程、设计等领域。",
+            "sentences": [
+                { "en": "The software can visualize trends in sales data.", "zh": "该软件可将销售数据趋势可视化。" },
+                { "en": "We need to visualize the network topology for the presentation.", "zh": "我们需要为演示将网络拓扑结构可视化。" },
+                { "en": "Scientists use heat maps to visualize temperature changes.", "zh": "科学家用热力图来呈现温度变化。" }
+            ],
+            "collocations": [
+                { "collocation": "visualize data", "translation": "数据可视化", "sentences": [{ "en": "Data visualization tools help analysts visualize large datasets.", "zh": "数据可视化工具帮助分析师呈现大型数据集。" }] },
+                { "collocation": "visualize information", "translation": "将信息可视化", "sentences": [{ "en": "Infographics visualize information in an easy-to-understand format.", "zh": "信息图以易于理解的形式将信息呈现出来。" }] }
+            ],
+            "phrases": [],
+            "synonyms": {
+                "display": { "translation": "显示", "diffs": "display 通用；visualize 强调以图形/视觉方式呈现抽象数据", "sentences": [{ "en": "The screen displays the results.", "zh": "屏幕显示结果。" }] },
+                "render": { "translation": "渲染；呈现", "diffs": "render 多用于图形、3D 等；visualize 可用于各类数据呈现", "sentences": [{ "en": "The program renders 3D models.", "zh": "该程序可渲染 3D 模型。" }] }
+            },
+            "antonyms": {},
+            "inflections": {}
+        }
+    ],
+    "etymology": { "origin": "来自 visual（视觉的）+ -ize（动词后缀），visual 源自拉丁语 visualis，与 videre（看）同源。", "root": "videre（拉丁语：看）", "affixes": ["visual（形容词：视觉的）", "-ize（动词后缀：使…化）"] },
+    "related_words": {
+        "visualization": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "可视化；想象；视觉化", "rule": "visualize 的名词形式", "sentences": [{ "en": "Data visualization makes complex information accessible.", "zh": "数据可视化使复杂信息变得易懂。" }] },
+        "visual": { "class": { "en": "adjective / noun", "en_s": "adj./n.", "ch": "形容词/名词" }, "translation": "视觉的；看得见的；视觉材料", "rule": "visualize 的词根", "sentences": [{ "en": "The movie has striking visual effects.", "zh": "这部电影有出色的视觉效果。" }] },
+        "visually": { "class": { "en": "adverb", "en_s": "adv.", "ch": "副词" }, "translation": "视觉上；外表上", "rule": "visual 的副词形式", "sentences": [{ "en": "The two designs are visually similar.", "zh": "这两种设计在外观上很相似。" }] }
+    },
+    "idioms": [],
+    "common_mistakes": [{ "wrong": "visualize about", "correct": "visualize", "explain": "visualize 为及物动词，直接接宾语，无需 about。正确用法：visualize sth。" }],
+    "mnemonics": [{ "type": "词根记忆", "content": "visual（视觉的）+ -ize（使…化）→ 使成为可见的 → 想象；使可视化。" }]
+}

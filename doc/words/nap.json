@@ -1,0 +1,138 @@
+{
+  "word": "nap",
+  "created_at": "2026-02-12T08:00:00.000Z",
+  "phonetic": {
+    "uk": "/næp/",
+    "us": "/næp/"
+  },
+  "definitions": [
+    {
+      "translation": "小睡；打盹",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。指短时间的睡眠，通常指白天短暂的休息，区别于夜间睡眠。",
+      "sentences": [
+        {"en": "I usually take a nap after lunch.", "zh": "我通常在午饭后小睡一会儿。"},
+        {"en": "The baby had a short nap in the afternoon.", "zh": "婴儿下午打了个短盹。"},
+        {"en": "A quick 20-minute nap can boost your energy.", "zh": "20分钟的短暂小睡可以提升精力。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "take a nap",
+          "translation": "小睡一会儿",
+          "pattern": "动词+冠词+名词",
+          "explain": "最常用搭配",
+          "sentences": [{"en": "She took a nap before the evening meeting.", "zh": "她在晚间会议前小睡了一会儿。"}]
+        },
+        {
+          "collocation": "have a nap",
+          "translation": "打个盹",
+          "pattern": "动词+冠词+名词",
+          "explain": "与 take a nap 同义，英式用法较多",
+          "sentences": [{"en": "I'm going to have a nap. I'm exhausted.", "zh": "我要打个盹，我累坏了。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "catnap": {
+          "translation": "瞌睡；打盹",
+          "diffs": "catnap 更短、更随意；nap 可指稍长一点的小睡",
+          "sentences": [{"en": "He had a quick catnap at his desk.", "zh": "他在办公桌前打了个瞌睡。"}]
+        },
+        "siesta": {
+          "translation": "午睡",
+          "diffs": "siesta 特指午后休息，源自西班牙语；nap 泛指短睡",
+          "sentences": [{"en": "In Spain, many shops close for siesta.", "zh": "在西班牙，许多商店午休时关门。"}]
+        }
+      },
+      "antonyms": {
+        "wakefulness": {"translation": "清醒", "diffs": "指保持清醒状态"}
+      },
+      "inflections": {
+        "plural": "naps"
+      }
+    },
+    {
+      "translation": "小睡；打盹",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "不及物动词。指进行短暂睡眠。",
+      "sentences": [
+        {"en": "The cat napped in the sun.", "zh": "猫在阳光下打盹。"},
+        {"en": "I often nap for 15 minutes during my break.", "zh": "我常在休息时睡15分钟。"},
+        {"en": "She napped on the sofa while waiting for the call.", "zh": "她等电话时在沙发上小睡了一会儿。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "nap in the afternoon",
+          "translation": "下午小睡",
+          "pattern": "动词+介词短语",
+          "explain": "常见时间表达",
+          "sentences": [{"en": "He naps in the afternoon to stay alert at night.", "zh": "他下午小睡以保持夜间清醒。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "doze": {
+          "translation": "打瞌睡",
+          "diffs": "doze 强调半睡半醒；nap 指真正的短睡",
+          "sentences": [{"en": "She was dozing in her chair.", "zh": "她在椅子上打瞌睡。"}]
+        }
+      },
+      "antonyms": {},
+      "inflections": {
+        "past": "napped",
+        "past_participle": "napped",
+        "present_participle": "napping",
+        "third_person": "naps"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自中古英语 nap, nappen，源自古英语 hnappian（打盹、打瞌睡），可能与古英语 hneppan（打盹）有关。",
+    "root": "日耳曼语根，可能与“点头、垂下”相关",
+    "affixes": [],
+    "history": "14世纪起指短暂睡眠。与“打盹时点头”的动作意象有关。"
+  },
+  "related_words": {
+    "napkin": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "餐巾纸",
+      "rule": "同源词，来自古法语 nappe（桌布），不同词义",
+      "sentences": [{"en": "Please pass me a napkin.", "zh": "请递给我一张餐巾纸。"}]
+    },
+    "catnap": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "瞌睡；短睡",
+      "rule": "nap 的合成词，指极短的小睡",
+      "sentences": [{"en": "I'll just have a catnap to refresh myself.", "zh": "我就打个瞌睡提提神。"}]
+    }
+  },
+  "idioms": [
+    {
+      "idiom": "catch someone napping",
+      "translation": "乘某人不备；出其不意",
+      "explain": "字面指“抓住某人打盹时”，喻指趁对方疏忽时行动",
+      "sentences": [{"en": "The rival company caught them napping with a surprise product launch.", "zh": "竞争对手出其不意地推出了新产品，打了他们一个措手不及。"}]
+    }
+  ],
+  "common_mistakes": [
+    {
+      "wrong": "have nap",
+      "correct": "have a nap / take a nap",
+      "explain": "nap 作名词时通常需要冠词，说 have a nap 或 take a nap。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "联想记忆",
+      "content": "nap 与“打盹时点头（nod）小睡一会”联想：n-ap 像“午睡”的简写，nap = noon + asleep 的缩写感。"
+    }
+  ]
+}

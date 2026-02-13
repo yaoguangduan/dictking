@@ -1,0 +1,89 @@
+{
+  "word": "verbalize",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈvɜːbəlaɪz/",
+    "us": "/ˈvɜːrbəlaɪz/"
+  },
+  "definitions": [
+    {
+      "translation": "用言语表达；使…变成动词",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "及物动词和不及物动词。主要指将思想、感受等用语言表达出来；语法学术语指将词变为动词形式。",
+      "sentences": [
+        {"en": "She found it difficult to verbalize her feelings.", "zh": "她发现很难用语言表达自己的感受。"},
+        {"en": "Children often struggle to verbalize their emotions.", "zh": "儿童往往难以用言语表达自己的情绪。"},
+        {"en": "He could not verbalize what was troubling him.", "zh": "他无法说出困扰自己的是什么。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "verbalize one's thoughts",
+          "translation": "用语言表达想法",
+          "pattern": "动词+名词",
+          "explain": "将内心想法说出来",
+          "sentences": [{"en": "It helps to verbalize your thoughts when you're making a decision.", "zh": "做决定时把想法说出来会有帮助。"}]
+        },
+        {
+          "collocation": "verbalize feelings",
+          "translation": "用言语表达感受",
+          "pattern": "动词+名词",
+          "explain": "将情感用语言表述",
+          "sentences": [{"en": "Therapy can help patients verbalize feelings they've suppressed.", "zh": "治疗可以帮助患者用语言表达他们压抑已久的感受。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "articulate": {
+          "translation": "清晰表达",
+          "diffs": "articulate 强调表达清晰、有条理；verbalize 侧重\"用语言说出\"这一行为",
+          "sentences": [{"en": "She articulated her ideas clearly in the meeting.", "zh": "她在会议上清晰地表达了她的想法。"}]
+        }
+      },
+      "antonyms": {},
+      "inflections": {
+        "past_tense": "verbalized",
+        "past_participle": "verbalized",
+        "present_participle": "verbalizing",
+        "third_person": "verbalizes"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自 verbal（词语的、口头的）+ -ize（动词后缀），意为\"使成为词语\"、\"用言语表达\"。",
+    "root": "verb-（词，言语）",
+    "affixes": ["verbal（形容词）", "-ize（动词后缀：使…化）"],
+    "history": "拉丁语 verbum（词、动词），verbal 表\"与词语相关的\"，-ize 表\"使…化\"，合为\"使成为言语\"。"
+  },
+  "related_words": {
+    "verbal": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "口头的；词语的；动词的",
+      "rule": "verbalize 的形容词形式",
+      "sentences": [{"en": "They reached a verbal agreement.", "zh": "他们达成了口头协议。"}]
+    },
+    "verb": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "动词",
+      "rule": "verbalize 的词根，-ize 去掉即得",
+      "sentences": [{"en": "Run is both a verb and a noun.", "zh": "run 既是动词也是名词。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "verbalize out",
+      "correct": "verbalize",
+      "explain": "verbalize 已含\"说出\"之意，无需加 out。verbalize 可直接接宾语。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "verb-（词、言语）+ -al（形容词）+ -ize（使…化）→ 使变成言语 → 用言语表达。"
+    }
+  ]
+}

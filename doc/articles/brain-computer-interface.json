@@ -1,0 +1,70 @@
+{
+    "title": "What to Expect from Neuralink in 2025",
+    "title_zh": "2025年 Neuralink 会有何进展",
+    "author": "Antonio Regalado",
+    "source": "MIT Technology Review",
+    "created_at": "2025-01-16",
+    "difficulty": "hard",
+    "tags": ["brain-computer interface", "Neuralink", "BCI", "implant", "neuroscience"],
+    "summary": "Neuralink has implanted its brain-computer interface in three people, enabling them to control computers with their thoughts. The company expects to implant 20-30 more patients in 2025, but commercialization remains years away. Key developments include improved software, robotic arm control, and a vision-restoring device called Blindsight.",
+    "summary_zh": "Neuralink 已将其脑机接口植入三人体内，使他们能用思维控制电脑。公司预计2025年再植入20-30名患者，但商业化仍需数年。关键进展包括改进的软件、机械臂控制和名为 Blindsight 的视力恢复设备。",
+    "paragraphs": [
+        {
+            "en": "In November, a young man named Noland Arbaugh announced he would be livestreaming from his home for three days straight. His broadcast was in some ways typical fare: a backyard tour, video games, meet mom. The difference is that Arbaugh, who is paralyzed, has thin electrode-studded wires installed in his brain. He used them to move a computer mouse on a screen, click menus, and play chess. The implant, called N1, was installed by neurosurgeons working with Neuralink, Elon Musk's brain-interface company.",
+            "zh": "11月，一位名叫诺兰·阿博的年轻人宣布将连续三天在家进行直播。他的直播内容在某种程度上很寻常：后院导览、电子游戏、见妈妈。不同之处在于，瘫痪的阿博脑中植入了布满电极的细导线。他用这些导线在屏幕上移动鼠标、点击菜单、下国际象棋。这款名为N1的植入体由与 Neuralink——埃隆·马斯克的脑机接口公司——合作的神经外科医生植入。",
+            "keywords": ["electrode", "implant", "paralyzed", "Neuralink", "livestream"],
+            "notes": [{"phrase": "electrode-studded", "explain": "布满电极的；镶嵌多个电极的"}, {"phrase": "typical fare", "explain": "寻常内容；普通节目"}]
+        },
+        {
+            "en": "The possibility of listening to neurons and using their signals to move a computer cursor was first demonstrated more than 20 years ago in a lab setting. Arbaugh's livestream is an indicator that Neuralink is a whole lot closer to creating a plug-and-play experience that restores people's daily ability to roam the web and play games—what the company has called digital freedom. But this is not yet a commercial product. The current studies are small-scale experiments exploring how the device works and how it can be improved.",
+            "zh": "倾听神经元并用其信号移动电脑光标的可能性二十多年前首次在实验室中得以证明。阿博的直播表明 Neuralink 已非常接近创造一种即插即用体验，恢复人们浏览网页和玩游戏等日常能力——公司称之为数字自由。但这尚非商业产品。当前研究是小规模实验，探索设备如何工作以及如何改进。",
+            "keywords": ["neurons", "plug-and-play", "digital freedom", "commercial", "experiments"],
+            "notes": [{"phrase": "plug-and-play", "explain": "即插即用；开箱即用、无需复杂配置"}, {"phrase": "digital freedom", "explain": "数字自由；无障碍使用数字设备的能力"}]
+        },
+        {
+            "en": "At some point last year, more than half the electrode-studded threads inserted into Arbaugh's brain retracted, and his control over the device worsened. Neuralink rushed to implement fixes so he could use his remaining electrodes to move the mouse. Elon Musk keeps predicting huge numbers—hundreds of people with Neuralinks within a few years, maybe tens of thousands within five years. In reality, the actual pace is slower. In a study of a novel device, it is typical for the first patients to be staged months apart to allow time to monitor for problems.",
+            "zh": "去年某个时候，植入阿博脑中的电极导线有一半以上发生了回缩，他对设备的控制变差。Neuralink 急忙实施修复，使他能用剩余电极移动鼠标。埃隆·马斯克不断预测巨大数字——几年内数百人、五年内可能数万人植入 Neuralink。现实中，实际进度较慢。对于新型设备的临床研究，首批患者通常相隔数月植入，以便有时间监测问题。",
+            "keywords": ["threads", "retracted", "electrodes", "pace", "novel device"],
+            "notes": [{"phrase": "retract", "explain": "回缩；缩回；导线可能从脑组织中移出"}, {"phrase": "staged months apart", "explain": "分阶段相隔数月；分批进行、间隔数月"}]
+        },
+        {
+            "en": "As of January 2025, Neuralink has publicly announced three people with implants: Arbaugh, Alex, and a third person. Musk said the company expects to implant 20 or 30 patients during 2025. Neuralink updated its US trial listing to include space for five volunteers and opened a trial in Canada with room for six. Improving the software between the brain and the mouse is a major focus. Arbaugh's mapping degrades over hours and days, and recalibration can take as long as 45 minutes. The goal is to cut recalibration time to a few minutes.",
+            "zh": "截至2025年1月，Neuralink 已公开宣布三人植入了设备：阿博、亚历克斯和第三人。马斯克表示公司预计2025年植入20或30名患者。Neuralink 更新了美国试验登记，将志愿者名额增至五人，并在加拿大开设了可容纳六人的试验。改进大脑与鼠标之间的软件是主要重点。阿博的映射会随时间衰减，重新校准可能需要长达45分钟。目标是将重新校准时间缩短至几分钟。",
+            "keywords": ["recalibration", "mapping", "software", "volunteers", "trials"],
+            "notes": [{"phrase": "recalibration", "explain": "重新校准；调整脑信号与控制的对应关系"}, {"phrase": "mapping degrades", "explain": "映射衰减；脑信号与输出之间的对应关系随时间变差"}]
+        },
+        {
+            "en": "Neuralink is still tweaking its implant in significant ways—increasing the number of electrodes or extending battery life. The company is also developing the surgical robot R1, which threads electrode wires into people's brains like a sewing machine. Improving the R1 and making the implant process entirely automatic is a major goal. Neuralink president Dongjin Seo said they want to get to the point where it is one click. Before seeking approval to sell its brain interface, Neuralink will have to lock in a final device design for a pivotal trial involving 20 to 40 patients—a study that could take a year or two and has not yet been announced.",
+            "zh": "Neuralink 仍在以重大方式调整其植入体——增加电极数量或延长电池寿命。公司还在开发外科机器人R1，它像缝纫机一样将电极导线穿入人脑。改进R1并使植入过程完全自动化是主要目标。Neuralink 总裁徐东真表示他们希望达到一键操作的程度。在申请销售其脑机接口的批准之前，Neuralink 必须锁定最终设备设计，用于涉及20至40名患者的关键试验——这类研究可能需要一两年，尚未宣布。",
+            "keywords": ["R1", "pivotal trial", "electrodes", "automation", "approval"],
+            "notes": [{"phrase": "pivotal trial", "explain": "关键试验；用于支持监管审批的核心临床试验"}, {"phrase": "lock in", "explain": "锁定；确定；固定下来"}]
+        },
+        {
+            "en": "Late last year, Neuralink opened a companion study through which some implant volunteers will try using their brain activity to control not only a computer mouse but an assistive robotic arm. During Arbaugh's livestream he frequently asked other people to do simple things for him, like brush his hair or put on his hat. Using brains to control robots is possible—in 2012, a paralyzed woman at the University of Pittsburgh used a different brain implant to control a robot arm to stack blocks. Practical obstacles remain: developing a safe and useful robot, and the onerous calibration steps to maintain control over an arm that can make 3D movements and grasp objects.",
+            "zh": "去年年底，Neuralink 开设了一项配套研究，部分植入志愿者将尝试用脑活动控制不仅是电脑鼠标，还有辅助机械臂。在阿博的直播中，他经常请别人帮他做简单的事，比如梳头或戴帽子。用大脑控制机器人是可行的——2012年，匹兹堡大学一名瘫痪女性使用不同的脑植入体控制机械臂堆叠积木。实际障碍依然存在：开发安全实用的机器人，以及维持对能进行三维运动和抓取物体的机械臂控制所需的繁琐校准步骤。",
+            "keywords": ["robotic arm", "assistive", "calibration", "grasp", "3D movements"],
+            "notes": [{"phrase": "assistive robotic arm", "explain": "辅助机械臂；帮助残障人士完成日常任务的机械臂"}, {"phrase": "onerous", "explain": "繁重的；费力的"}]
+        },
+        {
+            "en": "In September, Neuralink said it had received breakthrough device designation from the FDA for Blindsight, a version of its implant that could restore limited vision to blind people. The system would send electrical impulses into the visual cortex, producing spots of light called phosphenes. If there are enough spots, they could form a simple, pixelated form of vision. Don't forget that Neuralink is not the only company—Synchron inserts its device through a blood vessel, and Paradromics, Precision Neuroscience, and BlackRock Neurotech are also developing advanced brain-computer interfaces. The race to merge mind and machine is on.",
+            "zh": "9月，Neuralink 表示其 Blindsight——一种可为盲人恢复有限视力的植入体版本——已获得 FDA 突破性设备认定。该系统将向视觉皮层发送电脉冲，产生称为光幻视的光点。若有足够多的光点，可形成简单的像素化视觉。别忘了 Neuralink 并非唯一——Synchron 通过血管植入其设备，Paradromics、Precision Neuroscience 和 BlackRock Neurotech 也在开发先进的脑机接口。心智与机器融合的竞赛已拉开序幕。",
+            "keywords": ["Blindsight", "phosphenes", "visual cortex", "breakthrough", "FDA"],
+            "notes": [{"phrase": "breakthrough device designation", "explain": "突破性设备认定；FDA 对显著创新医疗设备的加速审批通道"}, {"phrase": "phosphenes", "explain": "光幻视；电刺激产生的主观光感"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "electrode", "phonetic": "/ɪˈlektroʊd/", "meaning": "电极", "partOfSpeech": "n.", "example": "The implant contains electrode-studded threads."},
+        {"word": "neuron", "phonetic": "/ˈnjʊərɒn/", "meaning": "神经元", "partOfSpeech": "n.", "example": "The device listens to neurons and translates their signals."},
+        {"word": "recalibration", "phonetic": "/ˌriːkælɪˈbreɪʃn/", "meaning": "重新校准", "partOfSpeech": "n.", "example": "Recalibration can take as long as 45 minutes."},
+        {"word": "phosphene", "phonetic": "/ˈfɒsfiːn/", "meaning": "光幻视", "partOfSpeech": "n.", "example": "Electrical impulses produce phosphenes in the visual cortex."},
+        {"word": "cortex", "phonetic": "/ˈkɔːrteks/", "meaning": "皮层；皮质", "partOfSpeech": "n.", "example": "Blindsight targets the visual cortex."},
+        {"word": "pivotal", "phonetic": "/ˈpɪvətl/", "meaning": "关键的；枢纽性的", "partOfSpeech": "adj.", "example": "A pivotal trial involving 20-40 patients is required."},
+        {"word": "implant", "phonetic": "/ɪmˈplɑːnt/", "meaning": "植入物；植入体", "partOfSpeech": "n.", "example": "Three people have received the Neuralink implant."},
+        {"word": "onerous", "phonetic": "/ˈoʊnərəs/", "meaning": "繁重的；艰巨的", "partOfSpeech": "adj.", "example": "The calibration steps are onerous and time-consuming."}
+    ],
+    "discussion_questions": [
+        {"en": "What technical and ethical challenges must Neuralink overcome before its brain implant becomes a commercial product?", "zh": "Neuralink 在脑植入体成为商业产品之前必须克服哪些技术与伦理挑战？"},
+        {"en": "How might brain-computer interfaces change the definition of disability and human capability?", "zh": "脑机接口可能如何改变残疾与人类能力的定义？"},
+        {"en": "Why might non-invasive approaches like Synchron's blood-vessel implant compete with Neuralink's direct brain insertion?", "zh": "为何像 Synchron 血管植入这样的非侵入性方法可能与 Neuralink 的直接脑部植入竞争？"}
+    ]
+}

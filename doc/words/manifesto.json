@@ -1,0 +1,249 @@
+{
+    "word": "manifesto",
+    "created_at": "2026-02-13T02:00:00Z",
+    "phonetic": {
+        "uk": "/ˌmænɪˈfestəʊ/",
+        "us": "/ˌmænɪˈfestoʊ/"
+    },
+    "definitions": [
+        {
+            "translation": "宣言；声明；纲领",
+            "partOfSpeech": {
+                "en": "noun",
+                "en_simple": "n.",
+                "ch": "名词"
+            },
+            "usage_note": "可数名词。指公开宣布政策、目标或动机的正式文件，尤用于政治或组织语境。复数形式：manifestos 或 manifestoes（两种拼写均可接受，manifestos 在现代英语中更常见）。",
+            "sentences": [
+                {
+                    "en": "The party published its election manifesto last week.",
+                    "zh": "该政党上周公布了其竞选宣言。"
+                },
+                {
+                    "en": "The Communist Manifesto, written by Marx and Engels, was first published in 1848.",
+                    "zh": "马克思和恩格斯所著的《共产党宣言》于1848年首次出版。"
+                },
+                {
+                    "en": "The Agile Manifesto outlines twelve principles for software development.",
+                    "zh": "敏捷宣言概述了软件开发的十二条原则。"
+                },
+                {
+                    "en": "She issued a manifesto calling for educational reform.",
+                    "zh": "她发表了一份呼吁教育改革的声明。"
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "election manifesto",
+                    "translation": "竞选宣言；选举纲领",
+                    "sentences": [
+                        {
+                            "en": "The Labour Party's election manifesto promised tax cuts for low-income families.",
+                            "zh": "工党的竞选宣言承诺为低收入家庭减税。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "party manifesto",
+                    "translation": "政党纲领；政党宣言",
+                    "sentences": [
+                        {
+                            "en": "The party manifesto reflects its stance on climate policy.",
+                            "zh": "该政党纲领体现了其对气候政策的态度。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "communist manifesto",
+                    "translation": "共产党宣言",
+                    "sentences": [
+                        {
+                            "en": "The Communist Manifesto is one of the most influential political documents in history.",
+                            "zh": "《共产党宣言》是历史上最具影响力的政治文献之一。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "issue a manifesto",
+                    "translation": "发表宣言",
+                    "sentences": [
+                        {
+                            "en": "The rebels issued a manifesto demanding independence.",
+                            "zh": "起义者发表宣言要求独立。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "publish a manifesto",
+                    "translation": "公布宣言；发布纲领",
+                    "sentences": [
+                        {
+                            "en": "The artist published a manifesto on the purpose of modern art.",
+                            "zh": "这位艺术家发表了一份阐述现代艺术宗旨的宣言。"
+                        }
+                    ]
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "in the manifesto",
+                    "translation": "在宣言中",
+                    "sentences": [
+                        {
+                            "en": "In the manifesto, they pledged to eliminate poverty within a decade.",
+                            "zh": "他们在宣言中承诺十年内消除贫困。"
+                        }
+                    ]
+                },
+                {
+                    "phrase": "according to the manifesto",
+                    "translation": "根据宣言",
+                    "sentences": [
+                        {
+                            "en": "According to the manifesto, the party aims to double renewable energy capacity.",
+                            "zh": "根据该宣言，该党旨在将可再生能源产能翻倍。"
+                        }
+                    ]
+                }
+            ],
+            "synonyms": {
+                "declaration": {
+                    "translation": "宣言；声明",
+                    "diffs": "declaration 较通用，可指任何正式声明；manifesto 通常指阐明政策、纲领或立场的政治性文件",
+                    "sentences": [
+                        {
+                            "en": "The Declaration of Independence established the principles of the new nation.",
+                            "zh": "《独立宣言》确立了新国家的原则。"
+                        }
+                    ]
+                },
+                "proclamation": {
+                    "translation": "公告；宣告",
+                    "diffs": "proclamation 强调权威性的公开宣布；manifesto 更强调阐述主张、政策或纲领的书面文件",
+                    "sentences": [
+                        {
+                            "en": "The emperor issued a proclamation of war.",
+                            "zh": "皇帝发布了宣战公告。"
+                        }
+                    ]
+                },
+                "statement": {
+                    "translation": "声明；陈述",
+                    "diffs": "statement 较中性、简短；manifesto 通常较长，系统阐述立场或纲领",
+                    "sentences": [
+                        {
+                            "en": "The company released a statement regarding the incident.",
+                            "zh": "该公司就此次事件发布了声明。"
+                        }
+                    ]
+                },
+                "platform": {
+                    "translation": "纲领；政纲",
+                    "diffs": "platform 多指政党的竞选纲领；manifesto 可用于政党、团体、运动等多种语境",
+                    "sentences": [
+                        {
+                            "en": "Tax reform was a key plank of their electoral platform.",
+                            "zh": "税制改革是他们选举纲领的关键要点。"
+                        }
+                    ]
+                }
+            },
+            "antonyms": {},
+            "inflections": {
+                "plural": "manifestos / manifestoes"
+            }
+        }
+    ],
+    "etymology": {
+        "origin": "源自意大利语 manifesto（公告；檄文），来自拉丁语 manifestus（被当场抓住的；明显的），由 manus（手）+ festus（被击中的；被抓住的）构成。festus 与拉丁语 offendere（冒犯）同源，原指“被手抓住”，引申为“显而易见的”。",
+        "root": "manus（拉丁语：手）+ festus（拉丁语：被抓住的）",
+        "affixes": [
+            "manus（拉丁语：手）",
+            "festus（拉丁语：被击中的、被抓住的）",
+            "-o（意大利语名词后缀）"
+        ]
+    },
+    "related_words": {
+        "manifest": {
+            "class": {
+                "en": "adjective / verb",
+                "en_s": "adj. / v.",
+                "ch": "形容词 / 动词"
+            },
+            "translation": "明显的；显而易见的 / 表明；显示；使显现",
+            "rule": "同源词。manifest 作形容词意为“明显的”，作动词意为“表明、显示”",
+            "sentences": [
+                {
+                    "en": "His relief was manifest in his face.",
+                    "zh": "他的解脱明显写在脸上。"
+                },
+                {
+                    "en": "The data manifests a clear trend toward digitalization.",
+                    "zh": "数据显示出明确的数字化趋势。"
+                }
+            ]
+        },
+        "manifestation": {
+            "class": {
+                "en": "noun",
+                "en_s": "n.",
+                "ch": "名词"
+            },
+            "translation": "表现；体现；显现",
+            "rule": "manifest 的名词形式",
+            "sentences": [
+                {
+                    "en": "The protest was a manifestation of public discontent.",
+                    "zh": "这次抗议是公众不满的表现。"
+                }
+            ]
+        },
+        "manifestly": {
+            "class": {
+                "en": "adverb",
+                "en_s": "adv.",
+                "ch": "副词"
+            },
+            "translation": "明显地；显而易见地",
+            "rule": "manifest 的副词形式",
+            "sentences": [
+                {
+                    "en": "The policy was manifestly unfair to minority groups.",
+                    "zh": "该政策对少数群体明显不公平。"
+                }
+            ]
+        }
+    },
+    "idioms": [],
+    "common_mistakes": [
+        {
+            "wrong": "manifesto vs manifest",
+            "correct": "manifesto (n.) = 宣言/纲领；manifest (adj./v.) = 明显的/表明",
+            "explain": "manifesto 是可数名词，指正式的宣言或纲领文件；manifest 作形容词意为“明显的”，作动词意为“表明、显示”。二者词性不同，不可混用。"
+        },
+        {
+            "wrong": "a manifesto",
+            "correct": "a manifesto / manifestos (or manifestoes)",
+            "explain": "manifesto 是可数名词，单数用 a manifesto；复数为 manifestos 或 manifestoes，两种拼写均为正确。"
+        },
+        {
+            "wrong": "manifesto (stress on first syllable)",
+            "correct": "manifesto /ˌmænɪˈfestəʊ/ (stress on third syllable)",
+            "explain": "重音在第三个音节 fest 上，不是第一个音节。注意与 manifest 的发音区别：manifest 重音在第一个音节 /ˈmænɪfest/。"
+        }
+    ],
+    "mnemonics": [
+        {
+            "type": "词源记忆",
+            "content": "manus（手）+ festus（被抓住）→ 原指“被手抓住、显而易见” → 意大利语中指“公开宣告” → 宣言、纲领。manifest 和 manifesto 同源：manifest 是“明显的”，manifesto 是“把立场公之于众的文件”。"
+        },
+        {
+            "type": "联想记忆",
+            "content": "Manifesto 与 manifest 同源：manifest 是“表明”（动词）或“明显的”（形容词），manifesto 就是“表明立场的文件” → 宣言、纲领。"
+        },
+        {
+            "type": "名作联想",
+            "content": "《共产党宣言》= The Communist Manifesto；《敏捷宣言》= The Agile Manifesto。记这两个著名例子可帮助区分 manifesto（宣言文件）与 manifest（表明/明显的）。"
+        }
+    ]
+}

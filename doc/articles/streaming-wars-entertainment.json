@@ -1,0 +1,63 @@
+{
+    "title": "Disney Finally Admits That Netflix Won the Streaming Wars",
+    "title_zh": "迪士尼终于承认奈飞赢得了流媒体大战",
+    "author": "Nitish Pahwa",
+    "source": "Slate",
+    "created_at": "2025-08-07",
+    "difficulty": "easy",
+    "tags": ["streaming", "Netflix", "Disney", "entertainment", "Hulu"],
+    "summary": "Disney is phasing out Hulu's individual app and fully integrating it into Disney+, centralizing both services. The move signals that Disney, like the rest of the entertainment world, has resigned itself to chasing after Netflix as the undisputed streaming king.",
+    "summary_zh": "迪士尼正在逐步淘汰 Hulu 的独立应用，并将其完全整合进 Disney+，实现两大服务的统一。这一举动表明，迪士尼与娱乐行业其他公司一样，已接受奈飞作为无可争议的流媒体霸主、自己只能追赶的现实。",
+    "paragraphs": [
+        {
+            "en": "Approximately two months ago, Disney closed a deal with Comcast that sealed Hulu's fate. The House of Mouse had been itching for full control over the app for years. By June, the two corporate giants had finally ironed out an agreement whereby Disney bought out NBCUniversal's remaining stake in Hulu. But the more pressing goal behind that transaction became clear this week, when Disney CEO Bob Iger announced that his company will phase out Hulu's individual app and \"fully integrate\" it into the Disney+ platform.",
+            "zh": "大约两个月前，迪士尼与康卡斯特达成的协议决定了 Hulu 的命运。米老鼠帝国多年来一直渴望完全掌控这一应用。到六月，两大企业巨头终于达成协议，迪士尼收购了 NBC环球在 Hulu 的剩余股份。但本周，这笔交易背后更紧迫的目标变得清晰：迪士尼 CEO 鲍勃·艾格宣布，公司将逐步淘汰 Hulu 的独立应用，并将其「完全整合」进 Disney+ 平台。",
+            "keywords": ["Comcast", "Hulu", "integrate", "phase out", "stake"],
+            "notes": [{"phrase": "House of Mouse", "explain": "米老鼠帝国；迪士尼的昵称"}, {"phrase": "iron out", "explain": "解决；敲定"}]
+        },
+        {
+            "en": "Hulu is getting buried, but it's not dead yet. Going into next year, viewers will retain the choice of picking only a Hulu subscription or a Disney+ subscription—although, no matter what, they will have to access one or the other through Disney+ itself. The plan to merge Hulu With Live TV with Fubo, the once indie live-sports streamer now majority owned by Disney, is still in the works. In other words: Disney is putting its property into the streaming game for the long haul.",
+            "zh": "Hulu 正在被边缘化，但尚未消亡。进入明年，观众仍可选择仅订阅 Hulu 或 Disney+——但无论如何，他们都必须通过 Disney+ 本身访问其中一项。将 Hulu With Live TV 与 Fubo 合并的计划仍在进行中，Fubo 曾是独立体育直播流媒体，现由迪士尼控股。换言之：迪士尼正将其资产投入流媒体这场持久战。",
+            "keywords": ["subscription", "Fubo", "merge", "long haul", "streaming"],
+            "notes": [{"phrase": "long haul", "explain": "长期；持久战"}, {"phrase": "in the works", "explain": "进行中；筹备中"}]
+        },
+        {
+            "en": "Disney is clearly impatient to ensure that its subsidiary brands are, to consumers, automatically synonymous with Mickey Mouse. Already, Disney+ users could access many Hulu exclusives through the parent-company-branded app, but Hulu die-hards could not see anything from Disney+ in return. The House of Mouse owns enough of Fubo that it can use it as a testing ground for the greater Hulu phasedown. More pertinent to Disney is that Fubo is a part of its portfolio at all.",
+            "zh": "迪士尼显然急于确保其子品牌在消费者心中自动与米老鼠等同。Disney+ 用户已经可以通过母公司品牌的应用观看许多 Hulu 独家内容，而 Hulu 铁粉却无法反过来观看 Disney+ 的任何内容。米老鼠帝国对 Fubo 的持股足以将其用作 Hulu 更大规模收缩的试验场。对迪士尼而言，更相关的是 Fubo 已完全纳入其资产组合。",
+            "keywords": ["subsidiary", "synonymous", "exclusives", "portfolio", "phasedown"],
+            "notes": [{"phrase": "die-hards", "explain": "铁粉；忠实拥护者"}, {"phrase": "phasedown", "explain": "逐步缩减；分阶段收缩"}]
+        },
+        {
+            "en": "Just one day before Disney's earnings call, ESPN announced that it would be more closely intertwined with the NFL than ever before. America's dominant athletic league would get a 10 percent stake in ESPN, and the iconic channel would acquire broadcasting rights to RedZone, ownership of the NFL Network, and more. Iger also confirmed that ESPN's official streaming app will launch in two weeks, bringing all the network's offerings into a $29.99-a-month subscription.",
+            "zh": "就在迪士尼财报电话会议前一天，ESPN 宣布将与 NFL 建立史上最紧密的合作。美国主导的体育联盟将获得 ESPN 10% 的股份，这家标志性频道将获得 RedZone 的转播权、NFL Network 的所有权等。艾格还确认 ESPN 官方流媒体应用将在两周内上线，将旗下所有内容纳入每月 29.99 美元的订阅中。",
+            "keywords": ["ESPN", "NFL", "broadcasting rights", "subscription", "streaming app"],
+            "notes": [{"phrase": "intertwined", "explain": "紧密交织；相互缠绕"}, {"phrase": "earnings call", "explain": "财报电话会议；公司向投资者汇报业绩"}]
+        },
+        {
+            "en": "There was a broader message from all the added and centralized goodies: The House of Mouse, like the rest of the entertainment world, has resigned itself to chasing after Netflix as the competition remains far behind. It is not a coincidence that Iger also mentioned that his company would stop publicly reporting subscription numbers for Disney+, Hulu, and ESPN+ from here on out—just like Netflix stopped doing this year.",
+            "zh": "所有新增和整合的内容传递出更广泛的信息：米老鼠帝国与娱乐行业其他公司一样，已接受追赶奈飞的现实，因为竞争对手远远落后。艾格还提到公司将从此不再公开报告 Disney+、Hulu 和 ESPN+ 的订阅人数——正如奈飞今年所做——这并非巧合。",
+            "keywords": ["resigned", "chasing", "subscription numbers", "competition", "Netflix"],
+            "notes": [{"phrase": "resigned itself to", "explain": "接受；认命于"}, {"phrase": "from here on out", "explain": "从此以后；从今往后"}]
+        },
+        {
+            "en": "There was once a time when entertainment giants shared their valuable shows and movies with one another. What we are seeing now is something more territorial, more bloodthirsty: pivots to streaming that are no longer interoperable, brand synergy that insists upon keeping the parent-company logo in view at all times. Netflix, having been first to the party, is still the king. It is the only service that can operate like a free-for-all hoarder, gobbling up whatever it wants.",
+            "zh": "曾几何时，娱乐巨头会彼此共享宝贵的剧集和电影。现在我们看到的是更具割据性、更嗜血的局面：转向流媒体的策略不再互通，品牌协同坚持让母公司 logo 随时可见。奈飞作为先行者，仍是王者。它是唯一能像无所不囤的囤积者一样运作的服务，吞下它想要的一切。",
+            "keywords": ["territorial", "interoperable", "brand synergy", "hoarder", "pioneer"],
+            "notes": [{"phrase": "first to the party", "explain": "先行者；最先入场的人"}, {"phrase": "gobble up", "explain": "吞并；大量收购"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "phase out", "phonetic": "/feɪz aʊt/", "meaning": "逐步淘汰；分阶段取消", "partOfSpeech": "phr. v.", "example": "Disney will phase out Hulu's individual app."},
+        {"word": "integrate", "phonetic": "/ˈɪntɪɡreɪt/", "meaning": "整合；合并", "partOfSpeech": "v.", "example": "Hulu will be fully integrated into Disney+."},
+        {"word": "stake", "phonetic": "/steɪk/", "meaning": "股份；利害关系", "partOfSpeech": "n.", "example": "Disney bought out Comcast's remaining stake in Hulu."},
+        {"word": "subsidiary", "phonetic": "/səbˈsɪdiəri/", "meaning": "子公司；附属的", "partOfSpeech": "n.", "example": "Hulu is a subsidiary brand of Disney."},
+        {"word": "resign", "phonetic": "/rɪˈzaɪn/", "meaning": "认命；接受（resigned to）", "partOfSpeech": "v.", "example": "Disney has resigned itself to chasing Netflix."},
+        {"word": "interoperable", "phonetic": "/ˌɪntərˈɒpərəbl/", "meaning": "可互操作的；可兼容的", "partOfSpeech": "adj.", "example": "Streaming services are no longer interoperable."},
+        {"word": "hoarder", "phonetic": "/ˈhɔːrdər/", "meaning": "囤积者；大量收购者", "partOfSpeech": "n.", "example": "Netflix operates like a free-for-all hoarder of content."}
+    ],
+    "discussion_questions": [
+        {"en": "Is it good or bad for consumers when streaming services consolidate and bundle content together?", "zh": "流媒体服务整合并打包内容对消费者是好是坏？"},
+        {"en": "Why has Netflix remained dominant while other major studios struggled in the streaming space?", "zh": "为何奈飞保持领先，而其他大型制片厂在流媒体领域举步维艰？"},
+        {"en": "How might the end of subscriber-count reporting affect how we understand the streaming industry?", "zh": "停止报告订阅人数可能如何影响我们对流媒体行业的理解？"}
+    ]
+}

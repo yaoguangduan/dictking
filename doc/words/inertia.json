@@ -1,0 +1,90 @@
+{
+    "word": "inertia",
+    "created_at": "2026-02-13T02:00:00Z",
+    "phonetic": { "uk": "/ɪˈnɜːʃə/", "us": "/ɪˈnɜːrʃə/" },
+    "definitions": [
+        {
+            "translation": "惯性；（物体的）惰性",
+            "partOfSpeech": { "en": "noun", "en_simple": "n.", "ch": "名词" },
+            "usage_note": "物理学术语，指物体保持原有运动状态的性质，即静止的物体倾向于保持静止，运动的物体倾向于保持匀速直线运动，除非受到外力作用。不可数名词。",
+            "sentences": [
+                { "en": "The inertia of the heavy truck made it difficult to stop suddenly.", "zh": "重型卡车的惯性使其难以突然停下。" },
+                { "en": "An object at rest stays at rest due to inertia until a force acts upon it.", "zh": "由于惯性，静止的物体会保持静止，直到受到外力作用。" },
+                { "en": "The law of inertia is one of Newton's fundamental principles of motion.", "zh": "惯性定律是牛顿运动学的基本原理之一。" }
+            ],
+            "collocations": [
+                { "collocation": "moment of inertia", "translation": "转动惯量", "sentences": [{ "en": "The moment of inertia determines how easily an object can be rotated.", "zh": "转动惯量决定了物体被旋转的难易程度。" }] },
+                { "collocation": "law of inertia", "translation": "惯性定律", "sentences": [{ "en": "The law of inertia states that objects resist changes in motion.", "zh": "惯性定律表明物体会抵制运动状态的变化。" }] }
+            ],
+            "phrases": [
+                { "phrase": "inertia force", "translation": "惯性力", "sentences": [{ "en": "When the bus brakes suddenly, passengers feel an inertia force pushing them forward.", "zh": "当公交车突然刹车时，乘客会感到一种惯性力将他们向前推。" }] }
+            ],
+            "synonyms": {
+                "inactivity": { "translation": "不活动；静止", "diffs": "inactivity 指缺乏活动；inertia 在物理上特指物体抵抗运动变化的性质", "sentences": [{ "en": "The inertia of the system prevents quick changes.", "zh": "系统的惯性阻碍了快速变化。" }] }
+            },
+            "antonyms": {
+                "momentum": { "translation": "动量", "diffs": "momentum 强调运动中的物体继续运动的趋势；inertia 强调抵抗变化（静止或运动）", "sentences": [{ "en": "The car's momentum carried it through the intersection.", "zh": "汽车的动量使其冲过了十字路口。" }] }
+            }
+        },
+        {
+            "translation": "惰性；不愿改变；懒散",
+            "partOfSpeech": { "en": "noun", "en_simple": "n.", "ch": "名词" },
+            "usage_note": "比喻用法，指人或组织不愿采取行动、抗拒改变、维持现状的倾向。常用于描述官僚作风、心理停滞或习惯性不作为。不可数名词。",
+            "sentences": [
+                { "en": "Bureaucratic inertia has stalled the reform process for years.", "zh": "官僚惰性多年来一直阻碍着改革进程。" },
+                { "en": "She couldn't overcome her inertia and stayed in the same job for twenty years.", "zh": "她无法克服自己的惰性，在同一份工作上干了二十年。" },
+                { "en": "The company's inertia in adapting to new technology led to its decline.", "zh": "该公司在适应新技术上的惰性导致了其衰落。" }
+            ],
+            "collocations": [
+                { "collocation": "overcome inertia", "translation": "克服惰性", "sentences": [{ "en": "It takes effort to overcome inertia and start exercising again.", "zh": "克服惰性并重新开始锻炼需要付出努力。" }] },
+                { "collocation": "bureaucratic inertia", "translation": "官僚惰性", "sentences": [{ "en": "Bureaucratic inertia often prevents urgent changes from being implemented.", "zh": "官僚惰性往往阻碍紧急变革的实施。" }] }
+            ],
+            "phrases": [
+                { "phrase": "inertia of habit", "translation": "习惯惰性", "sentences": [{ "en": "The inertia of habit kept him from trying new approaches.", "zh": "习惯惰性使他无法尝试新方法。" }] }
+            ],
+            "synonyms": {
+                "indolence": { "translation": "懒惰；怠惰", "diffs": "indolence 强调不愿劳作；inertia 强调不愿改变、抗拒行动", "sentences": [{ "en": "His indolence prevented him from finishing the project.", "zh": "他的懒惰使他无法完成项目。" }] },
+                "torpor": { "translation": "迟钝；麻木；蛰伏", "diffs": "torpor 偏重生理或心理上的迟钝；inertia 偏重对变化的抗拒", "sentences": [{ "en": "After the holiday, he struggled to emerge from his torpor.", "zh": "假期过后，他努力从迟钝状态中恢复过来。" }] }
+            },
+            "antonyms": {
+                "initiative": { "translation": "主动性；进取心", "diffs": "initiative 指主动采取行动；inertia 指被动、不愿行动", "sentences": [{ "en": "She took the initiative to propose a solution.", "zh": "她主动提出了解决方案。" }] },
+                "dynamism": { "translation": "活力；进取精神", "diffs": "dynamism 强调积极主动、有活力；inertia 与之相反", "sentences": [{ "en": "The team's dynamism drove the project forward.", "zh": "团队的活力推动了项目的进展。" }] }
+            }
+        }
+    ],
+    "etymology": {
+        "origin": "源自拉丁语 iners（ idle，sluggish；无技能的），由 in-（不）+ ars（技能，艺术）构成。17世纪经科学拉丁语 inertia 进入英语。",
+        "root": "iners-（拉丁语： idle，无技能）",
+        "affixes": ["in-（拉丁语前缀：不、无）", "-ia（拉丁语名词后缀：表状态、性质）"]
+    },
+    "related_words": {
+        "inert": {
+            "class": { "en": "adjective", "en_s": "adj.", "ch": "形容词" },
+            "translation": "惰性的；无活动力的；迟钝的",
+            "rule": "去掉 -ia 名词后缀，词根即为 inert； inert 形容缺乏活力或化学反应性",
+            "sentences": [{ "en": "Helium is an inert gas that does not readily react.", "zh": "氦是一种惰性气体，不易发生反应。" }]
+        },
+        "inertial": {
+            "class": { "en": "adjective", "en_s": "adj.", "ch": "形容词" },
+            "translation": "惯性的",
+            "rule": "inertia 的形容词形式，加 -al 后缀；常用于物理术语",
+            "sentences": [{ "en": "The inertial navigation system uses accelerometers to track position.", "zh": "惯性导航系统使用加速度计来跟踪位置。" }]
+        }
+    },
+    "idioms": [
+        {
+            "idiom": "the force of inertia",
+            "translation": "惯性力；（比喻）维持现状的力量",
+            "sentences": [{ "en": "The force of inertia kept the old policies in place despite calls for change.", "zh": "尽管有人呼吁变革，惯性力仍使旧政策得以维持。" }]
+        }
+    ],
+    "common_mistakes": [
+        { "wrong": "inertia to do something", "correct": "inertia in doing something / inability to overcome inertia", "explain": "inertia 不与不定式搭配；表达“无法克服惰性去做某事”时，用 inability to overcome inertia 或 inertia in + doing。" },
+        { "wrong": "an inertia", "correct": "inertia (uncountable)", "explain": "inertia 为不可数名词，前不加 a/an；不可说 an inertia。" }
+    ],
+    "mnemonics": [
+        { "type": "词根记忆", "content": "in-（不）+ ert（来自 ars，技能）→ 无技能、不活动 → 惯性；惰性。" },
+        { "type": "物理联想", "content": "坐在突然刹车的公交车上，你向前倾——身体因惯性（inertia）保持原速，但车子停了。" },
+        { "type": "谐音联想", "content": "inertia 可联想“一呢啥”——物体“一呢”（一惯性）就保持“啥”（原状）不变。" }
+    ]
+}

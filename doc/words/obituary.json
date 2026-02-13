@@ -1,0 +1,38 @@
+{
+    "word": "obituary",
+    "created_at": "2026-02-13T03:00:00Z",
+    "phonetic": { "uk": "/əˈbɪtʃuəri/", "us": "/oʊˈbɪtʃueri/" },
+    "definitions": [
+        {
+            "translation": "讣告；讣闻",
+            "partOfSpeech": { "en": "noun (countable)", "en_simple": "n.", "ch": "可数名词" },
+            "usage_note": "可数名词，复数为 obituaries。指报纸、网站等刊登的关于某人去世及生平简介的公告。常见于正式出版物。",
+            "sentences": [
+                { "en": "The newspaper published an obituary for the late senator.", "zh": "报纸刊登了那位已故参议员的讣告。" },
+                { "en": "She wrote a touching obituary for her grandfather.", "zh": "她为祖父写了一篇感人的讣告。" },
+                { "en": "Obituaries often appear in the back pages of the paper.", "zh": "讣告通常刊登在报纸的后几版。" }
+            ],
+            "collocations": [
+                { "collocation": "write an obituary", "translation": "撰写讣告", "sentences": [{ "en": "The family asked a close friend to write an obituary.", "zh": "家人请一位密友撰写讣告。" }] },
+                { "collocation": "publish an obituary", "translation": "刊登讣告", "sentences": [{ "en": "The local paper published an obituary within two days.", "zh": "当地报纸两天内刊登了讣告。" }] },
+                { "collocation": "obituary column", "translation": "讣告栏", "sentences": [{ "en": "She found the notice in the obituary column.", "zh": "她在讣告栏找到了这则公告。" }] },
+                { "collocation": "read an obituary", "translation": "阅读讣告", "sentences": [{ "en": "He read her obituary in the morning paper.", "zh": "他在早报上读到她的讣告。" }] }
+            ],
+            "phrases": [],
+            "synonyms": {
+                "death notice": { "translation": "死亡公告；讣告", "diffs": "death notice 较简短；obituary 通常更详细，包含生平简介", "sentences": [{ "en": "A death notice was placed in the classifieds.", "zh": "分类广告中刊登了一则死亡公告。" }] },
+                "necrology": { "translation": "死亡名单；讣告", "diffs": "necrology 较正式、学术；obituary 日常更常用", "sentences": [{ "en": "The necrology listed those who had passed in the past year.", "zh": "死亡名单列出了过去一年去世的人。" }] },
+                "eulogy": { "translation": "悼词", "diffs": "eulogy 是在葬礼上宣读的口头悼文；obituary 是书面刊登的讣告", "sentences": [{ "en": "His son delivered a heartfelt eulogy at the funeral.", "zh": "他的儿子在葬礼上宣读了感人的悼词。" }] }
+            },
+            "antonyms": {},
+            "inflections": { "plural": "obituaries" }
+        }
+    ],
+    "etymology": { "origin": "源自拉丁语 obituarius，与 obitus（死亡）相关，obitus 来自 obire（去见、去世），由 ob-（朝向）+ ire（去）构成。", "root": "obire（拉丁语：去见；去世）", "affixes": ["ob-（toward）", "ire（to go）", "-arius（形容词/名词后缀）"] },
+    "related_words": {
+        "obit": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "讣告（非正式缩写）", "rule": "obituary 的非正式缩写形式", "sentences": [{ "en": "Did you see the obit for Professor Smith?", "zh": "你看到史密斯教授的讣告了吗？" }] }
+    },
+    "idioms": [],
+    "common_mistakes": [{ "wrong": "obitury", "correct": "obituary", "explain": "正确拼写为 obituary，注意 -tuary 而非 -tury。" }],
+    "mnemonics": [{ "type": "词源记忆", "content": "ob-（朝向）+ ire（去）→ 去往（彼岸）→ 去世 → obituary 与死亡相关，指讣告。" }]
+}

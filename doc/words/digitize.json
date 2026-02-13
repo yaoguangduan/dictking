@@ -1,0 +1,89 @@
+{
+  "word": "digitize",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈdɪdʒɪtaɪz/",
+    "us": "/ˈdɪdʒɪtaɪz/"
+  },
+  "definitions": [
+    {
+      "translation": "数字化；将…转为数字形式",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "及物动词。指将模拟信号、纸质文档、图像等转换为数字（二进制）格式，便于计算机存储和处理。",
+      "sentences": [
+        {"en": "The library is digitizing its entire archive of newspapers.", "zh": "图书馆正在将其全部报纸档案数字化。"},
+        {"en": "We need to digitize these old photographs before they deteriorate.", "zh": "我们得在这些老照片损坏之前将它们数字化。"},
+        {"en": "Many businesses have digitized their records to improve efficiency.", "zh": "许多企业已将记录数字化以提高效率。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "digitize records",
+          "translation": "将记录数字化",
+          "pattern": "动词+名词",
+          "explain": "把纸质或模拟记录转为数字格式",
+          "sentences": [{"en": "Hospitals are under pressure to digitize patient records.", "zh": "医院面临将患者记录数字化的压力。"}]
+        },
+        {
+          "collocation": "digitize content",
+          "translation": "将内容数字化",
+          "pattern": "动词+名词",
+          "explain": "将各类内容转为数字形式",
+          "sentences": [{"en": "Publishers continue to digitize content for e-readers.", "zh": "出版商持续将内容数字化供电子阅读器使用。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "digitalize": {
+          "translation": "数字化",
+          "diffs": "digitalize 与 digitize 在多数语境下可互换，digitize 更常用",
+          "sentences": [{"en": "The company plans to digitalize its workflow.", "zh": "公司计划将工作流程数字化。"}]
+        }
+      },
+      "antonyms": {},
+      "inflections": {
+        "past_tense": "digitized",
+        "past_participle": "digitized",
+        "present_participle": "digitizing",
+        "third_person": "digitizes"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自 digit（数字、手指）+ -ize（动词后缀），意为\"使成为数字\"。",
+    "root": "digit-（手指；数字）",
+    "affixes": ["-ize（动词后缀：使…化）"],
+    "history": "拉丁语 digitus 意为\"手指\"，古人用手指计数，故 digit 引申为\"数字\"；-ize 表\"使…化\"，合为\"数字化\"。"
+  },
+  "related_words": {
+    "digit": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "数字；手指；趾",
+      "rule": "digitize 的词根",
+      "sentences": [{"en": "Phone numbers can have up to 11 digits.", "zh": "电话号码最多可有11位数字。"}]
+    },
+    "digital": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "数字的；数码的",
+      "rule": "digit 的形容词形式，digitize 的去动词化形式",
+      "sentences": [{"en": "We live in a digital age.", "zh": "我们生活在数字时代。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "convert to digitize",
+      "correct": "digitize / convert to digital format",
+      "explain": "digitize 本身即表示转换，不必说 convert to digitize；应直接说 digitize 或 convert to digital format。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "digit（数字）+ -ize（使…化）→ 使变成数字 → 数字化。"
+    }
+  ]
+}

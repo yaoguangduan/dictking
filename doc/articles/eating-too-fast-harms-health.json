@@ -1,0 +1,250 @@
+{
+    "title": "Why Eating Too Fast Can Harm Your Health — And How to Slow Down",
+    "title_zh": "吃饭太快损害健康——以及如何放慢速度",
+    "author": "TIME / Washington Post",
+    "source": "Health & Wellness Report",
+    "created_at": "2026-02-13T04:00:00Z",
+    "difficulty": "medium",
+    "tags": ["health", "nutrition", "lifestyle", "diet"],
+    "summary": "Eating too quickly can lead to digestive issues, blood sugar spikes, and overeating. Medical experts explain the science behind why speed-eating is harmful and offer five practical tips for slowing down at the table.",
+    "summary_zh": "吃得太快可能导致消化问题、血糖飙升和过量进食。医学专家解释了快速进食有害的科学原理，并提供了五个实用的放慢进食速度的建议。",
+    "paragraphs": [
+        {
+            "en": "People eat quickly for all kinds of reasons. Some have developed the habit because of modern-day time constraints. Others grew up in big families where you needed to eat quickly if you wanted seconds. Many people are just so distracted by their screens and scrolling they nosh at a faster pace. But eating quickly isn't always a harmless habit; it can potentially lead to digestive issues, blood sugar spikes, and overeating. Here's why eating too fast can harm your health — and how to slow down.",
+            "zh": "人们出于各种原因吃得很快。一些人因现代生活的时间限制而养成了这种习惯。其他人则成长于大家庭中，若想添第二碗饭就得吃得快些。很多人只顾盯着屏幕刷手机，不知不觉就加快了进食速度。但快速进食并非总是无害的习惯，它可能导致消化问题、血糖飙升和过量进食。这就是吃得太快会损害健康的原因——以及如何放慢速度的方法。",
+            "keywords": ["constraints", "distracted", "nosh", "digestive", "overeating"],
+            "notes": [
+                {
+                    "phrase": "time constraints",
+                    "explain": "时间限制/约束，constraint 常用于表示各种条件限制，如 budget constraints（预算限制）"
+                },
+                {
+                    "phrase": "nosh at a faster pace",
+                    "explain": "nosh 是非正式用语，意为「吃零食」或「快速吃东西」；at a ... pace 表示「以...的速度」"
+                }
+            ]
+        },
+        {
+            "en": "\"Eating too quickly can have negative effects on our GI system,\" says Dr. Justin Field, a gastroenterologist and assistant professor of medicine at the University of California, San Francisco. When someone eats too quickly, he says, they tend to not chew their food as much, leading to larger food particles entering the stomach. People also tend to swallow more air when they eat quickly.",
+            "zh": "「吃得太快会对我们的胃肠系统产生负面影响」，加州大学旧金山分校的胃肠病学专家兼医学助理教授贾斯汀·菲尔德博士表示。当一个人吃得太快时，他说道，他们往往会减少咀嚼次数，导致较大的食物颗粒进入胃部。人们快速进食时也容易吞入更多空气。",
+            "keywords": ["gastroenterologist", "particles", "swallow"],
+            "notes": [
+                {
+                    "phrase": "GI system",
+                    "explain": "GI = gastrointestinal，即胃肠道系统，医学文章中常用缩写"
+                },
+                {
+                    "phrase": "tend to (not) do sth",
+                    "explain": "倾向于（不）做某事，表示一种普遍趋势"
+                }
+            ]
+        },
+        {
+            "en": "\"The combination of those two can lead to bloating, feeling discomfort after a meal, more acid reflux symptoms, and then overeating potentially.\" A meta-analysis published in the International Journal of Obesity in 2015 found a link between eating quickly and obesity, and a 2021 study published in Frontiers in Nutrition tied eating fast to a greater risk of obesity, high blood pressure, elevated triglycerides, and metabolic syndrome, which can increase someone's risk of developing heart disease and Type 2 diabetes. One 2024 study published in Nature found that frequently eating fast was associated with an increased risk of nonalcoholic fatty liver disease.",
+            "zh": "「这两者结合可能导致腹胀、餐后不适、更多胃酸反流症状，进而可能引发暴饮暴食。」2015年发表在《国际肥胖杂志》上的一项荟萃分析发现，进食速度快与肥胖之间存在关联。2021年发表在《营养前沿》上的一项研究则指出，快速进食会加大肥胖、高血压、高甘油三酯和代谢综合征的风险，这些都可能增加患心脏病和2型糖尿病的概率。2024年发表在《自然》杂志上的一项研究发现，经常吃快餐与非酒精性脂肪肝风险增加有关。",
+            "keywords": ["bloating", "acid reflux", "meta-analysis", "triglycerides", "metabolic syndrome"],
+            "notes": [
+                {
+                    "phrase": "tied A to B",
+                    "explain": "将 A 与 B 联系起来，常用于科学研究结论中，表示发现二者之间的关联"
+                },
+                {
+                    "phrase": "be associated with",
+                    "explain": "与……相关联，学术论文中描述统计关联的标准表达"
+                }
+            ]
+        },
+        {
+            "en": "Fast eating doesn't directly cause weight gain, but it does increase the likelihood someone will overeat and experience blood sugar spikes after meals, which can contribute to weight gain over time, says Dr. Jaime Almandoz, a professor of medicine and medical director of the Weight Wellness Program at UT Southwestern Medical Center in Dallas. When people eat quickly, they often don't allow enough time for their brain to register that their stomach is full. \"Slower eating allows the gut-brain signals to register fullness,\" Almandoz says.",
+            "zh": "达拉斯德克萨斯大学西南医学中心体重健康计划医学主任、医学教授海梅·阿尔曼多兹博士指出，快速进食虽不会直接导致体重增加，但会提高暴饮暴食的可能性并引发餐后血糖骤升，长期积累将助长体重增长。当人们吃得很快时，他们通常没有给大脑足够的时间来意识到胃已经饱了。「吃得慢一些可以让肠胃和大脑之间的信号传递感知到饱腹感」，阿尔曼多兹说道。",
+            "keywords": ["likelihood", "blood sugar spikes", "register", "fullness"],
+            "notes": [
+                {
+                    "phrase": "contribute to sth over time",
+                    "explain": "随着时间推移促成/导致某事，强调渐进性的因果关系"
+                },
+                {
+                    "phrase": "gut-brain signals",
+                    "explain": "肠-脑信号，指消化系统与大脑之间的神经通信，近年来的热门医学研究领域"
+                }
+            ]
+        },
+        {
+            "en": "\"It reduces the glucose spikes we see with meals, and it aligns our food intake with physiologic hunger, rather than speed, efficiency, or stress. Over time, this can help support healthier weight regulation and better metabolic health.\" Here are five expert-backed tips for slowing down.",
+            "zh": "「它减少了餐后血糖的急剧上升，并使我们的食物摄入与生理饥饿感保持一致，而非速度、效率或压力。久而久之，这有助于维持更健康的体重调节和改善代谢健康。」以下是五个专家支持的放慢进食速度的建议。",
+            "keywords": ["glucose", "physiologic", "regulation", "metabolic"],
+            "notes": [
+                {
+                    "phrase": "align A with B",
+                    "explain": "使 A 与 B 保持一致/协调，常用于描述目标或行为的匹配"
+                }
+            ]
+        },
+        {
+            "en": "Select foods that take more time to chew. \"Digestion really starts in the mouth,\" Field says. \"The easiest way to slow down eating is to choose foods that require more chewing.\" Pick foods that take more time to break down, like legumes, nuts, seeds, fruits, and vegetables. When it comes to protein, opt for steak over ground beef or grilled chicken breast over deli meat. \"The foods that are harder to eat are also the foods that tend to be better for us and more nutritious,\" Field says.",
+            "zh": "选择需要更多时间咀嚼的食物。菲尔德说：「消化确实是从口腔开始的。减慢进食速度最简单的方法是选择需要更多咀嚼的食物。」选择那些需要更长时间消化的食物，比如豆类、坚果、种子、水果和蔬菜。说到蛋白质，选择牛排而非碎牛肉，或选择烤鸡胸肉而非熟食肉。「更难吃的食物往往也是对我们更有益、更营养的食物」，菲尔德说。",
+            "keywords": ["chew", "legumes", "nutritious", "opt for"],
+            "notes": [
+                {
+                    "phrase": "opt for A over B",
+                    "explain": "选择 A 而非 B，opt for 比 choose 更正式，常用于建议或偏好的语境"
+                },
+                {
+                    "phrase": "when it comes to",
+                    "explain": "当涉及到/说到……时，常用的过渡短语"
+                }
+            ]
+        },
+        {
+            "en": "Avoid ultra-processed foods and fast food. Ultra-processed foods are engineered to taste good, feel good in your mouth, and be eaten quickly, Field says. They're also more calorie dense, Almandoz adds, which means you can \"consume calories more quickly without putting in as much work.\" Small changes can make a big difference. Opt for pistachios instead of potato chips or rice and beans instead of tortilla chips.",
+            "zh": "避免超加工食品和快餐。菲尔德表示，超加工食品经过精心设计，口感好、入口舒适且能快速食用。阿尔曼多兹补充道，它们的卡路里密度也更高，这意味着你可以「更快地摄入热量，而不需要付出那么多努力」。微小的改变也能带来巨大的不同。选择开心果而非薯片，或者选择米饭和豆类而非玉米片。",
+            "keywords": ["ultra-processed", "engineered", "calorie dense", "pistachios"],
+            "notes": [
+                {
+                    "phrase": "be engineered to do sth",
+                    "explain": "被（精心）设计/制造来做某事，暗示刻意为之的人工加工"
+                },
+                {
+                    "phrase": "put in work",
+                    "explain": "付出努力，这里指咀嚼和消化所需的「功夫」"
+                }
+            ]
+        },
+        {
+            "en": "Be more mindful during meals. Engaging in mindfulness at the table can help you not only slow down, but also enjoy your food more. Almandoz recommends pausing halfway through a meal and putting utensils down between bites. \"Slowing down can really help restore the timing between eating and the signals that regulate fullness,\" he says. Almandoz also recommends minimizing screen time and distractions during meals. One 2021 study published in Public Health Nutrition found that more than half of adults ate while watching TV at least once in the previous week. Turning off the TV and setting your phone down can help you consume your food more intentionally.",
+            "zh": "吃饭时多留心。在餐桌上保持专注不仅能帮你放慢节奏，还能让你更享受食物。阿尔曼多兹建议在用餐中途暂停一下，并在每口之间放下餐具。他说：「放慢速度确实有助于恢复进食与调节饱腹感的信号之间的时间关系。」阿尔曼多兹还建议在用餐时尽量减少屏幕时间和干扰。2021年发表在《公共卫生营养》上的一项研究发现，超过一半的成年人前一周至少有一次边看电视边吃东西。关掉电视放下手机能帮助你更专注地享用食物。",
+            "keywords": ["mindfulness", "utensils", "intentionally", "distractions"],
+            "notes": [
+                {
+                    "phrase": "not only ... but also ...",
+                    "explain": "不仅……而且……，经典的并列递进句式"
+                },
+                {
+                    "phrase": "putting utensils down between bites",
+                    "explain": "在每口之间放下餐具，mindful eating 的具体实践技巧"
+                }
+            ]
+        },
+        {
+            "en": "Eat for your stomach, not your mouth. When you're eating, the primary sensations you feel in your mouth are related to pleasure and enjoyment, says Dr. Wajahat Mehal, a professor in digestive diseases at the Yale School of Medicine and director of the Yale Metabolic Health and Weight Loss Program. If it tastes good, you'll want more — even when your stomach is telling you you're full. \"The sensations in our stomach are obviously not as bright as the sensations from our mouth, but they're there if we pay attention to them,\" he says. \"We need to pay attention to what our stomach is feeling as much as we pay attention to what our mouth is feeling.\"",
+            "zh": "为胃而食，非为口而食。耶鲁医学院消化疾病教授兼耶鲁代谢健康与减重项目主任瓦贾哈特·梅哈尔博士指出，进食时口腔感受到的主要是愉悦与享受的感官体验。如果味道好，你会想要更多——即使你的胃已经在告诉你已经饱了。他说：「胃部的感觉显然不如口腔的感觉那么鲜明，但只要我们留心观察就能察觉到。我们需要关注胃的感受，就像关注嘴巴的感受一样。」",
+            "keywords": ["sensations", "pleasure", "digestive", "pay attention to"],
+            "notes": [
+                {
+                    "phrase": "not as ... as ...",
+                    "explain": "不如……那么……，比较句式，这里形象地对比了口腔和胃部的感知强度"
+                },
+                {
+                    "phrase": "eat for your stomach, not your mouth",
+                    "explain": "为胃而食，非为口而食——文章的核心建议之一，简洁有力的对比表达"
+                }
+            ]
+        },
+        {
+            "en": "Enjoy the company of others. A survey from the 2025 World Happiness Report found that 26% of adults in the U.S. had eaten every single meal alone in the previous day. \"When we eat in company and we're chatting with somebody and then stopping and listening to them, that tends to slow us down,\" Mehal says. \"It's easy to see that if we're just eating by ourselves, then we'll eat faster.\" Some people prefer to eat alone as a way to ground themselves during a particularly busy or social day.",
+            "zh": "享受与他人相伴的时光。2025年《世界幸福报告》调查显示，美国26%的成年人在前一天的所有餐食都是独自进食的。「当我们与他人共餐时，一边聊天一边停下来倾听对方，这种互动往往会让我们放慢进食速度」，梅哈尔说道。「很容易看出，如果我们只是独自吃饭，就会吃得更快。」有些人喜欢独自用餐，以此在特别忙碌或社交频繁的日子里让自己平静下来。",
+            "keywords": ["company", "ground themselves"],
+            "notes": [
+                {
+                    "phrase": "eat in company",
+                    "explain": "与人共餐，in company 表示「有人陪伴」，与 alone 相对"
+                },
+                {
+                    "phrase": "ground oneself",
+                    "explain": "使自己平静/脚踏实地，心理学用语，指在忙碌中找到内心的安稳"
+                }
+            ]
+        },
+        {
+            "en": "You don't have to eat every meal with others, but consider doing it more frequently; ask a coworker to lunch once a week, or make sure your whole family spends each weeknight at the dinner table together. While eating more slowly can be better for health and help you enjoy your meal more, Mehal says it's important not to add more stress to your plate by trying to achieve the perfect eating speed. Above all, remember that food — eaten at any pace — nourishes the body. \"Food is positive. Food is good. Food is nutrition,\" he says. \"Let's not make it into a negative thing in our lives.\"",
+            "zh": "你不必每顿饭都与他人共进，但可以考虑更频繁地这样做；每周邀请一位同事共进午餐，或确保全家每个工作日晚餐时都围坐在餐桌旁。虽然吃得慢一些对健康更有益，也能让你更好地享受美食，但梅哈尔指出，不要为了追求完美的进食速度而给自己增添压力，这一点很重要。最重要的是，记住食物——无论以何种速度进食——都能滋养身体。「食物是积极的。食物不错。食物就是营养」，他说。「我们别让它成为生活中的负面因素。」",
+            "keywords": ["nourishes", "stress", "frequently"],
+            "notes": [
+                {
+                    "phrase": "add more stress to your plate",
+                    "explain": "给自己增添压力，plate 一语双关：既指餐盘，也指日常负担（have a lot on one's plate）"
+                },
+                {
+                    "phrase": "above all",
+                    "explain": "最重要的是，用于引出最关键的观点或总结"
+                }
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "nosh",
+            "phonetic": "/nɒʃ/",
+            "meaning": "吃零食；快速吃东西（非正式）",
+            "partOfSpeech": "v.",
+            "example": "Many people are just so distracted by their screens and scrolling they nosh at a faster pace."
+        },
+        {
+            "word": "gastroenterologist",
+            "phonetic": "/ˌɡæstrəʊˌentəˈrɒlədʒɪst/",
+            "meaning": "胃肠病学专家",
+            "partOfSpeech": "n.",
+            "example": "Dr. Justin Field, a gastroenterologist and assistant professor of medicine at UCSF."
+        },
+        {
+            "word": "bloating",
+            "phonetic": "/ˈbləʊtɪŋ/",
+            "meaning": "腹胀",
+            "partOfSpeech": "n.",
+            "example": "The combination of those two can lead to bloating, feeling discomfort after a meal."
+        },
+        {
+            "word": "triglycerides",
+            "phonetic": "/traɪˈɡlɪsəraɪdz/",
+            "meaning": "甘油三酯",
+            "partOfSpeech": "n.",
+            "example": "A 2021 study tied eating fast to a greater risk of obesity, high blood pressure, elevated triglycerides."
+        },
+        {
+            "word": "mindfulness",
+            "phonetic": "/ˈmaɪndfʊlnəs/",
+            "meaning": "正念；专注",
+            "partOfSpeech": "n.",
+            "example": "Engaging in mindfulness at the table can help you not only slow down, but also enjoy your food more."
+        },
+        {
+            "word": "utensils",
+            "phonetic": "/juːˈtensɪlz/",
+            "meaning": "餐具；器皿",
+            "partOfSpeech": "n.",
+            "example": "Almandoz recommends pausing halfway through a meal and putting utensils down between bites."
+        },
+        {
+            "word": "ultra-processed",
+            "phonetic": "/ˌʌltrə ˈprəʊsest/",
+            "meaning": "超加工的",
+            "partOfSpeech": "adj.",
+            "example": "Ultra-processed foods are engineered to taste good, feel good in your mouth, and be eaten quickly."
+        },
+        {
+            "word": "nourish",
+            "phonetic": "/ˈnʌrɪʃ/",
+            "meaning": "滋养；养育",
+            "partOfSpeech": "v.",
+            "example": "Remember that food — eaten at any pace — nourishes the body."
+        }
+    ],
+    "discussion_questions": [
+        {
+            "en": "Do you consider yourself a fast eater? What factors contribute to your eating speed?",
+            "zh": "你认为自己是一个吃得快的人吗？哪些因素影响了你的进食速度？"
+        },
+        {
+            "en": "Which of the five expert tips do you think would be most effective for you personally, and why?",
+            "zh": "你觉得五个专家建议中哪一个对你个人最有效？为什么？"
+        },
+        {
+            "en": "The article mentions eating alone versus eating with others. What are the pros and cons of each in your experience?",
+            "zh": "文章提到了独自进食与和他人共餐的区别。根据你的经验，各有哪些优缺点？"
+        },
+        {
+            "en": "How has technology (phones, TV, social media) changed the way people eat? Is this a global trend or more specific to certain cultures?",
+            "zh": "科技（手机、电视、社交媒体）如何改变了人们的进食方式？这是一个全球趋势还是特定文化现象？"
+        }
+    ]
+}

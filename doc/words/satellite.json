@@ -1,0 +1,118 @@
+{
+  "word": "satellite",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈsætəlaɪt/",
+    "us": "/ˈsætəlˌaɪt/"
+  },
+  "definitions": [
+    {
+      "translation": "卫星",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。指围绕行星运行的天体，或人为发射绕地球或其他天体运行的航天器。",
+      "sentences": [
+        {"en": "The Moon is Earth's natural satellite.", "zh": "月球是地球的天然卫星。"},
+        {"en": "Weather satellites provide vital data for forecasting.", "zh": "气象卫星为预报提供重要数据。"},
+        {"en": "Communication satellites orbit 22,000 miles above the Earth.", "zh": "通信卫星在距地球 22,000 英里处轨道运行。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "satellite dish",
+          "translation": "卫星天线，锅形天线",
+          "pattern": "名词+名词",
+          "explain": "接收卫星信号的设备",
+          "sentences": [{"en": "They installed a satellite dish on the roof.", "zh": "他们在屋顶安装了卫星天线。"}]
+        },
+        {
+          "collocation": "launch a satellite",
+          "translation": "发射卫星",
+          "pattern": "动词+名词",
+          "explain": "航天常用搭配",
+          "sentences": [{"en": "The country plans to launch a satellite next month.", "zh": "该国计划下月发射一颗卫星。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "moon": {"translation": "卫星；月球", "diffs": "moon 可泛指天然卫星，或特指地球的卫星月球；satellite 更通用"},
+        "orbiter": {"translation": "轨道飞行器", "diffs": "orbiter 特指绕某天体运行的航天器"}
+      },
+      "antonyms": {},
+      "inflections": {"plural": "satellites"}
+    },
+    {
+      "translation": "附属物；附庸；卫星城",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。喻指依赖或从属于更大实体的组织、国家或地区。",
+      "sentences": [
+        {"en": "The country was once a satellite of the Soviet Union.", "zh": "该国曾是苏联的附庸国。"},
+        {"en": "Several satellite offices were opened in the suburbs.", "zh": "在郊区开设了几家附属办事处。"},
+        {"en": "The satellite town provides housing for city workers.", "zh": "这座卫星城为城市上班族提供住房。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "satellite state",
+          "translation": "附庸国",
+          "pattern": "名词+名词",
+          "explain": "政治术语",
+          "sentences": [{"en": "Eastern European countries became satellite states of the USSR.", "zh": "东欧国家成为苏联的附庸国。"}]
+        },
+        {
+          "collocation": "satellite city/town",
+          "translation": "卫星城",
+          "pattern": "名词+名词",
+          "explain": "城市规划术语",
+          "sentences": [{"en": "Many workers commute from satellite towns to the capital.", "zh": "许多工人从卫星城通勤到首都。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "dependency": {"translation": "附属地，从属", "diffs": "dependency 强调依赖关系；satellite 强调围绕中心、从属地位"},
+        "outpost": {"translation": "前哨，外围据点", "diffs": "outpost 多指军事或商业据点；satellite 范围更广"}
+      },
+      "antonyms": {},
+      "inflections": {"plural": "satellites"}
+    }
+  ],
+  "etymology": {
+    "origin": "源自拉丁语 satelles（ attendants，随从，护卫），经法语 satellite 传入英语。原指“随从、护卫”，后因哥白尼称绕行星运行的天体为 stella satellites（随从之星）而获得“卫星”义。",
+    "root": "拉丁语 satelles（随从）",
+    "affixes": [],
+    "history": "satelles 本指贴身护卫或随从；天文学上借喻“围绕主星运行的天体”，该义沿用至今并成为主要义项。"
+  },
+  "related_words": {
+    "satellite television": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "卫星电视",
+      "rule": "通过卫星传输的电视",
+      "sentences": [{"en": "Satellite television reaches remote areas.", "zh": "卫星电视覆盖偏远地区。"}]
+    },
+    "satelloid": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "拟卫星（近地轨道航天器）",
+      "rule": "satellite + -oid（类似）",
+      "sentences": [{"en": "A satelloid operates in low Earth orbit.", "zh": "拟卫星在近地轨道运行。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "satellite station",
+      "correct": "satellite / ground station / receiving station",
+      "explain": "satellite station 易歧义；地面接收站通常说 ground station 或 receiving station；卫星本身即 satellite。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词源联想",
+      "content": "satellite 来自 satelles（随从）→ 卫星像随从一样“跟随”行星运行 → 卫星；附庸。"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "word": "praise",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/preɪz/",
+    "us": "/preɪz/"
+  },
+  "definitions": [
+    {
+      "translation": "赞扬；赞美",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "不可数名词。表示对某人或某事的认可、欣赏或敬佩的表达。",
+      "sentences": [
+        {"en": "The teacher received praise for her dedication to students.", "zh": "这位老师因对学生的奉献而受到赞扬。"},
+        {"en": "He deserves praise for completing the project ahead of schedule.", "zh": "他提前完成项目，值得赞扬。"},
+        {"en": "Praise from such a distinguished critic meant a great deal to the author.", "zh": "来自如此杰出评论家的赞扬对这位作家意义重大。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "praise for",
+          "translation": "因……而赞扬",
+          "pattern": "名词+介词",
+          "explain": "表示赞扬的原因",
+          "sentences": [{"en": "She won praise for her innovative design.", "zh": "她因创新设计而赢得赞扬。"}]
+        },
+        {
+          "collocation": "sing the praises of",
+          "translation": "高度赞扬；赞不绝口",
+          "pattern": "动词短语",
+          "explain": " idiom 表示极力称赞",
+          "sentences": [{"en": "He was singing the praises of his new assistant.", "zh": "他对新助手赞不绝口。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "compliment": {
+          "translation": "恭维；称赞",
+          "diffs": "compliment 侧重礼貌或客气的赞赏，praise 更正式、程度更强",
+          "sentences": [{"en": "She accepted the compliment with a smile.", "zh": "她微笑着接受了称赞。"}]
+        }
+      },
+      "antonyms": {
+        "criticism": {"translation": "批评", "diffs": "与 praise 相对，表示负面评价"}
+      },
+      "inflections": {}
+    },
+    {
+      "translation": "赞扬；表扬；赞美",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "及物动词。用于表达对某人或某事的认可或欣赏。",
+      "sentences": [
+        {"en": "The manager praised the team for their excellent work.", "zh": "经理赞扬团队工作出色。"},
+        {"en": "Critics praised the film for its powerful storytelling.", "zh": "评论家赞扬这部影片的叙事力度。"},
+        {"en": "We should praise children when they make an effort, not just when they succeed.", "zh": "我们应在孩子努力时给予表扬，而不仅仅在他们成功时。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "praise sb for sth",
+          "translation": "因某事赞扬某人",
+          "pattern": "动词+宾语+介词",
+          "explain": "常用句型",
+          "sentences": [{"en": "They praised him for his courage.", "zh": "他们赞扬他的勇气。"}]
+        },
+        {
+          "collocation": "highly praise",
+          "translation": "高度赞扬",
+          "pattern": "副词+动词",
+          "explain": "强调程度",
+          "sentences": [{"en": "The report highly praised the initiative.", "zh": "该报告高度赞扬了这一举措。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "compliment": {
+          "translation": "恭维",
+          "diffs": "compliment 较随意；praise 更正式、诚恳",
+          "sentences": [{"en": "He complimented her on her cooking.", "zh": "他夸赞她的厨艺。"}]
+        }
+      },
+      "antonyms": {
+        "criticize": {"translation": "批评", "diffs": "与 praise 相对"}
+      },
+      "inflections": {
+        "past_tense": "praised",
+        "past_participle": "praised",
+        "present_participle": "praising",
+        "third_person": "praises"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自古法语 preisier，源自晚期拉丁语 pretiare（估价、珍视），源自拉丁语 pretium（价格、价值）。",
+    "root": "preti-（价格，价值）",
+    "affixes": ["pre-（在前）", "-ise/-ize（动词后缀，古法语形式）"],
+    "history": "原意与“估价、珍视”相关，后引申为对人或事的价值认可，即“赞扬”。"
+  },
+  "related_words": {
+    "praiseworthy": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "值得赞扬的",
+      "rule": "praise + worthy（值得的）",
+      "sentences": [{"en": "His praiseworthy efforts earned him recognition.", "zh": "他值得赞扬的努力为他赢得了认可。"}]
+    },
+    "appraise": {
+      "class": {"en": "verb", "en_s": "v.", "ch": "动词"},
+      "translation": "评估；估价",
+      "rule": "与 praise 同源（ad- + pretiare），均源自“估价”义",
+      "sentences": [{"en": "The expert appraised the painting at $50,000.", "zh": "专家将这幅画估价为五万美元。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "praise to sb",
+      "correct": "praise for sb/sth / praise sb for sth",
+      "explain": "赞扬某人用 praise sb 或 praise sb for sth；praise for 后接被赞扬的对象或原因，不用 praise to。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "praise 与 price、prize 同源，均与“价值”相关；认可某事的价值 → 赞扬。"
+    }
+  ]
+}

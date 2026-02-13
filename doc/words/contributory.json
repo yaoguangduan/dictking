@@ -1,0 +1,92 @@
+{
+  "word": "contributory",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/kənˈtrɪbjətəri/",
+    "us": "/kənˈtrɪbjətɔːri/"
+  },
+  "definitions": [
+    {
+      "translation": "促成…的；起作用的；有贡献的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "正式用词。指对某结果起到促成、参与作用。常与 to 搭配。也用作法律、保险术语（如 contributory negligence）。",
+      "sentences": [
+        {"en": "Stress was a contributory factor in his illness.", "zh": "压力是他生病的一个促成因素。"},
+        {"en": "Poor diet is contributory to many health problems.", "zh": "不良饮食对许多健康问题都有促成作用。"},
+        {"en": "The court ruled that the victim's actions were contributory to the accident.", "zh": "法庭裁定受害者的行为对事故负有促成责任。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "contributory factor",
+          "translation": "促成因素",
+          "pattern": "形容词+名词",
+          "explain": "常用搭配，指导致某结果的因素之一",
+          "sentences": [{"en": "Smoking is a contributory factor in lung cancer.", "zh": "吸烟是肺癌的促成因素之一。"}]
+        },
+        {
+          "collocation": "contributory to",
+          "translation": "促成；对…有贡献",
+          "pattern": "形容词+介词",
+          "explain": "后接结果或现象",
+          "sentences": [{"en": "Lack of sleep is contributory to poor performance.", "zh": "睡眠不足会导致表现不佳。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "contributing": {
+          "translation": "起促成作用的",
+          "diffs": "contributing 更口语；contributory 较正式",
+          "sentences": [{"en": "Several contributing factors led to the crash.", "zh": "多个促成因素导致了这次事故。"}]
+        },
+        "conducive": {
+          "translation": "有助于…的",
+          "diffs": "conducive 侧重有利环境；contributory 侧重作为因素之一",
+          "sentences": [{"en": "A quiet environment is conducive to study.", "zh": "安静的环境有利于学习。"}]
+        }
+      },
+      "antonyms": {},
+      "inflections": {
+        "comparative": "more contributory",
+        "superlative": "most contributory"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "源自拉丁语 contribuere（贡献、添加），由 con-（一起）+ tribuere（分配、给予）组成。",
+    "root": "trib-（给予、分配）",
+    "affixes": ["con-（前缀：一起）", "-ory（形容词后缀）"],
+    "history": "contribuere 意为“一起给予、贡献”，contributory 即“有贡献的、起促成作用的”。"
+  },
+  "related_words": {
+    "contribute": {
+      "class": {"en": "verb", "en_s": "v.", "ch": "动词"},
+      "translation": "贡献；促成",
+      "rule": "contributory 的动词形式",
+      "sentences": [{"en": "Exercise contributes to good health.", "zh": "运动有助于健康。"}]
+    },
+    "contribution": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "贡献",
+      "rule": "contributory 的名词形式",
+      "sentences": [{"en": "Her contribution to the project was significant.", "zh": "她对项目的贡献很大。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "contributory for",
+      "correct": "contributory to",
+      "explain": "contributory 后接 to，表示“对…有促成作用”，不用 for。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "con-（一起）+ trib-（给予）+ -ory → 一起给予的 → 有贡献的、起促成作用的。"
+    }
+  ]
+}

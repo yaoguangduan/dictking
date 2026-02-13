@@ -1,0 +1,62 @@
+{
+    "title": "Global Renewable Energy Capacity Set to Double by 2030, Led by Solar and Wind",
+    "title_zh": "全球可再生能源装机容量到2030年将翻倍，太阳能和风能领涨",
+    "author": "International Energy Agency",
+    "source": "IEA Renewables 2025 Report",
+    "created_at": "2025-01-15T00:00:00Z",
+    "difficulty": "medium",
+    "tags": ["renewable energy", "solar PV", "wind power", "climate", "energy transition"],
+    "summary": "Global renewable power capacity is expected to increase by 4,600 gigawatts between 2025 and 2030, roughly doubling deployment. Solar photovoltaic technology drives nearly 80% of this growth, while wind power faces supply chain and permitting challenges. Policy changes in the United States and China have slightly revised the forecast downward.",
+    "summary_zh": "全球可再生能源装机容量预计在2025年至2030年间增加4600吉瓦，相当于翻倍增长。太阳能光伏技术贡献了近80%的增长，而风能面临供应链和许可审批的挑战。美国和中国政策变化使预测略有下调。",
+    "paragraphs": [
+        {
+            "en": "Global renewable power capacity is expected to double between now and 2030, increasing by 4,600 gigawatts. This is roughly the equivalent of adding China, the European Union and Japan's power generation capacity combined to the global energy mix. Solar PV accounts for almost 80% of the global increase, followed by wind, hydropower, bioenergy and geothermal. In more than 80% of countries worldwide, renewable power capacity is set to grow faster between 2025 and 2030 than it did over the previous five-year period.",
+            "zh": "全球可再生能源装机容量预计在2030年前将翻倍，增加4600吉瓦。这大致相当于将中国、欧盟和日本的发电容量总和加入全球能源结构。太阳能光伏占全球增量的近80%，其次是风能、水电、生物能和地热能。全球超过80%的国家，其可再生能源装机容量在2025年至2030年间的增速将超过前五年。",
+            "keywords": ["gigawatts", "capacity", "bioenergy", "geothermal"],
+            "notes": [{"phrase": "the equivalent of", "explain": "相当于，表示数量或规模等同"}, {"phrase": "is set to", "explain": "预计将，表示确定会发生的事"}]
+        },
+        {
+            "en": "The increase in solar PV capacity is set to more than double over the next five years, dominating the global growth of renewables. Low costs, faster permitting and broad social acceptance continue to drive the accelerating adoption of solar PV. Distributed solar PV applications—including residential, commercial and industrial installations—represent a significant share of overall expansion, driven by higher electricity prices and strong policy support in many markets.",
+            "zh": "太阳能光伏装机增量为期五年内将增加一倍以上，主导全球可再生能源的增长。低成本、更快的审批流程和广泛的公众接受度持续推动太阳能光伏的加速采用。分布式光伏应用——包括住宅、商业和工业安装——占总扩张的相当份额，由更高的电价和许多市场的强有力政策支持所驱动。",
+            "keywords": ["permitting", "distributed", "accelerating", "adoption"],
+            "notes": [{"phrase": "drive the adoption", "explain": "推动采用，drive 在此表示促使、驱动"}, {"phrase": "broad social acceptance", "explain": "广泛的社会认可，指公众对某事物的普遍接受"}]
+        },
+        {
+            "en": "Wind power faces supply chain issues, rising costs and permitting delays—but global capacity is still expected to nearly double to over 2,000 GW by 2030 as major economies like China and the European Union address these challenges. Onshore wind capacity is expected to increase 45% compared to the previous five years. Offshore wind capacity is projected to more than double, although the offshore wind industry faces multiple challenges, with forecast growth revised down by more than 25%.",
+            "zh": "风能面临供应链问题、成本上升和审批延误——但随着中国和欧盟等主要经济体着手解决这些挑战，全球风能装机容量仍有望在2030年前近翻倍，超过2000吉瓦。陆上风电装机预计将比前五年增长45%。海上风电装机预计将翻倍以上，尽管海上风电行业面临多重挑战，增长预测已被下调超过25%。",
+            "keywords": ["onshore", "offshore", "supply chain", "projected"],
+            "notes": [{"phrase": "address these challenges", "explain": "应对这些挑战，address 作动词表示处理、解决"}, {"phrase": "revised down", "explain": "向下修正，指调低预测或估计"}]
+        },
+        {
+            "en": "The forecast for growth in global renewable power capacity is revised down slightly, mainly due to policy changes in the United States and China. The renewable energy growth forecast for the 2025-2030 period is 5% lower compared with last year's report. The forecast for the United States is revised down by almost 50%, reflecting the earlier phase out of federal tax credits, new import restrictions, and the suspension of new offshore wind leasing. China's shift from fixed tariffs to auctions is impacting project economics and lowering growth expectations.",
+            "zh": "全球可再生能源装机增长预测略有下调，主要由于美国和中国政策变化。2025-2030年可再生能源增长预测较去年报告低5%。美国预测下调近50%，反映联邦税收抵免提前退出、新的进口限制以及暂停海上风电新租约。中国从固定电价转向拍卖的转变正在影响项目经济性并降低增长预期。",
+            "keywords": ["phase out", "tariffs", "auctions", "economics"],
+            "notes": [{"phrase": "phase out", "explain": "逐步淘汰、逐步退出，指渐进式结束某项政策"}, {"phrase": "project economics", "explain": "项目经济性，指项目的财务可行性和盈利能力"}]
+        },
+        {
+            "en": "The outlook for renewables is more positive in India, Europe and most emerging and developing economies. India's renewable expansion is driven by higher auction volumes, new support for rooftop solar projects, and faster hydropower permitting. The country is on track to meet its 2030 target and become the second-largest growth market for renewables. In the European Union, the growth forecast has been revised upwards slightly due to higher-than-expected utility-scale solar PV installations.",
+            "zh": "印度、欧洲和大多数新兴及发展中经济体的可再生能源前景更为乐观。印度的可再生能源扩张由更高的拍卖规模、对屋顶太阳能项目的新支持以及更快的水电审批所推动。该国有望实现其2030年目标并成为可再生能源第二大增长市场。在欧盟，由于公用事业规模太阳能光伏安装超出预期，增长预测已略微上调。",
+            "keywords": ["auction", "rooftop", "utility-scale", "on track"],
+            "notes": [{"phrase": "on track to", "explain": "有望实现，表示按计划进展顺利"}, {"phrase": "utility-scale", "explain": "公用事业规模的，指大型集中式发电设施"}]
+        },
+        {
+            "en": "Growing shares of wind and solar PV are transforming electricity markets, increasing integration challenges. By 2030, variable renewables will generate almost 30% of global electricity supply, double today's level. This calls for a rapid increase in power system flexibility and grid investment. The deployment of renewables has already reduced fuel import needs significantly in many countries, saving an estimated $1.3 trillion since 2010 and enhancing energy diversification and security.",
+            "zh": "风能和太阳能光伏份额的增长正在改变电力市场，增加了并网挑战。到2030年，可变可再生能源将供应全球近30%的电力，是现在的两倍。这要求电力系统灵活性和电网投资迅速增加。可再生能源的部署已在许多国家大幅降低了燃料进口需求，自2010年以来累计节省约1.3万亿美元，增强了能源多样化和安全性。",
+            "keywords": ["variable renewables", "flexibility", "grid", "diversification"],
+            "notes": [{"phrase": "variable renewables", "explain": "可变可再生能源，指输出随天气波动的太阳能和风能"}, {"phrase": "calls for", "explain": "要求、呼吁，表示需要采取某项行动"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "gigawatt", "phonetic": "/ˈdʒɪɡəwɒt/", "meaning": "吉瓦（十亿瓦特）", "partOfSpeech": "n.", "example": "Global renewable capacity is expected to increase by 4,600 gigawatts by 2030."},
+        {"word": "permitting", "phonetic": "/pərˈmɪtɪŋ/", "meaning": "许可；审批", "partOfSpeech": "n.", "example": "Faster permitting continues to drive the adoption of solar PV."},
+        {"word": "auction", "phonetic": "/ˈɔːkʃn/", "meaning": "拍卖", "partOfSpeech": "n.", "example": "China's shift from fixed tariffs to auctions is impacting project economics."},
+        {"word": "offshore", "phonetic": "/ˌɒfˈʃɔː/", "meaning": "离岸的；海上的", "partOfSpeech": "adj.", "example": "Offshore wind capacity is projected to more than double by 2030."},
+        {"word": "phase out", "phonetic": "/feɪz aʊt/", "meaning": "逐步淘汰", "partOfSpeech": "phr. v.", "example": "The earlier phase out of federal tax credits revised down the US forecast."},
+        {"word": "diversification", "phonetic": "/daɪˌvɜːsɪfɪˈkeɪʃn/", "meaning": "多样化", "partOfSpeech": "n.", "example": "Renewables have enhanced energy diversification and security."}
+    ],
+    "discussion_questions": [
+        {"en": "Solar PV accounts for almost 80% of renewable growth. What factors might explain why solar is outpacing wind so significantly?", "zh": "太阳能光伏占可再生能源增长的近80%。什么因素可能解释太阳能为何显著超越风能？"},
+        {"en": "Policy changes in the US and China revised the forecast down. How might domestic politics in major economies affect global climate goals?", "zh": "美国和中国政策变化使预测下调。主要经济体的国内政治如何影响全球气候目标？"},
+        {"en": "Variable renewables will supply 30% of global electricity by 2030. What challenges does this pose for power grids and how might they be addressed?", "zh": "到2030年可变可再生能源将供应全球30%的电力。这给电网带来什么挑战？如何应对？"}
+    ]
+}

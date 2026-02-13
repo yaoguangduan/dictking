@@ -1,0 +1,81 @@
+{
+    "title": "International Space Station Prepares for New Commander, Heads into Final Five Years",
+    "title_zh": "国际空间站迎新指挥官，进入计划运营的最后五年",
+    "author": "Will Robinson-Smith",
+    "source": "Spaceflight Now",
+    "created_at": "2025-12-05T12:00:00Z",
+    "difficulty": "medium",
+    "tags": ["ISS", "NASA", "space station", "retirement", "commercial space"],
+    "summary": "After 25 years of continuous human presence, the International Space Station is heading into its final half decade of planned habitation. NASA and its partners plan to deorbit the orbiting laboratory around 2030, with SpaceX building the United States Deorbit Vehicle to guide it to a controlled splashdown in the Pacific. Commercial companies like Axiom Space and Blue Origin are developing privately-owned replacement stations.",
+    "summary_zh": "在连续载人运行25年后，国际空间站正进入其计划居住的最后五年。NASA及其合作伙伴计划在2030年左右使这座轨道实验室脱轨，SpaceX正在建造美国脱轨飞行器将其引导至太平洋的受控溅落。Axiom Space和Blue Origin等商业公司正在开发私营替代空间站。",
+    "paragraphs": [
+        {
+            "en": "After 25 years of continuous human presence, the International Space Station is heading into its final half decade of planned habitation. NASA and its international partners are planning to intentionally deorbit the orbiting laboratory around 2030 or shortly thereafter. SpaceX was contracted for up to $843 million to build the United States Deorbit Vehicle (USDV), which will help guide the space station towards a splashdown in an uninhabited portion of the Pacific Ocean.",
+            "zh": "在连续载人运行25年后，国际空间站正进入其计划居住的最后五年。NASA及其国际合作伙伴计划在2030年左右或其后不久有意使这座轨道实验室脱轨。SpaceX获得了价值高达8.43亿美元的合同，建造美国脱轨飞行器（USDV），它将帮助将空间站引导至太平洋无人居住区域的溅落。",
+            "keywords": ["deorbit", "habitation", "contracted", "splashdown"],
+            "notes": [
+                {"phrase": "deorbit", "explain": "脱轨，使航天器离开轨道并重新进入大气层"},
+                {"phrase": "USDV", "explain": "美国脱轨飞行器，专门用于引导ISS安全脱离轨道的航天器"}
+            ]
+        },
+        {
+            "en": "On Sunday, Dec. 7, NASA astronaut Mike Fincke will assume the role of ISS Commander, taking over from Russian cosmonaut Sergey Ryzhikov. The station's core components, originally designed for a 30-year structural life, will have exceeded their intended lifespan by 2030. With funding from Congress and NASA's commitment to maximize the scientific value of every dollar, the space station will continue to be a bustling hub of science for its final five years.",
+            "zh": "12月7日星期日，NASA宇航员迈克·芬克将接任国际空间站指挥官，接替俄罗斯宇航员谢尔盖·雷日科夫。空间站的核心部件最初设计为30年结构寿命，到2030年将超过其预期寿命。凭借国会拨款和NASA最大限度地发挥每一美元科学价值的承诺，空间站将在最后五年继续成为繁忙的科学中心。",
+            "keywords": ["assume", "lifespan", "bustling", "maximize"],
+            "notes": [
+                {"phrase": "assume the role", "explain": "担任、承担某个角色或职责"},
+                {"phrase": "bustling hub", "explain": "繁忙的中心，形容活动频繁、充满活力的地方"}
+            ]
+        },
+        {
+            "en": "The Center for the Advancement of Science in Space (CASIS) announced an extension of its cooperative agreement with NASA to continue managing the ISS National Laboratory through 2030. This allows CASIS to manage up to 50 percent of the flight allocation on cargo missions and up to 50 percent of U.S. Operating Crew time for science. The ISS National Lab has backed more than 940 payloads launched to the space station during CASIS management since 2011.",
+            "zh": "太空科学促进中心（CASIS）宣布延长与NASA的合作协议，继续通过2030年管理国际空间站国家实验室。这使CASIS能够管理货运任务上最多50%的飞行分配以及美国运营乘组时间中最多50%用于科学实验。自2011年CASIS管理以来，国际空间站国家实验室已支持了940多个载荷发射到空间站。",
+            "keywords": ["allocation", "payloads", "cooperative agreement", "Operating Crew"],
+            "notes": [
+                {"phrase": "flight allocation", "explain": "飞行分配，指分配给某项任务或实验的航天器空间或机会"},
+                {"phrase": "payloads", "explain": "有效载荷，指运载的科学家验设备或货物"}
+            ]
+        },
+        {
+            "en": "In the immediate years before its demise, the station will be slowly lowered using orbital drag and the station's thrusters over the course of two to two-and-a-half years, according to Dana Weigel, ISS Program Manager. \"The Russian segment is prime for doing all of that. So, all of the attitude control, debris avoidance, anything we do with actively lowering is from the Russian segment,\" Weigel said.",
+            "zh": "据国际空间站项目经理达纳·韦格尔称，在空间站结束使命之前的几年里，将使用轨道阻力和空间站的推进器在两年到两年半的时间内缓慢降低轨道。\"俄罗斯舱段负责所有这些工作。因此，所有的姿态控制、碎片规避、以及我们主动降低轨道所做的任何工作都来自俄罗斯舱段\"，韦格尔说。",
+            "keywords": ["orbital drag", "attitude control", "debris avoidance", "thrusters"],
+            "notes": [
+                {"phrase": "orbital drag", "explain": "轨道阻力，大气层对低轨道航天器产生的阻力"},
+                {"phrase": "attitude control", "explain": "姿态控制，维持航天器正确朝向的系统"}
+            ]
+        },
+        {
+            "en": "\"Once we get down to the point of actually deorbiting, our current plan is to have the Russian segment do attitude control and the USDV do actual thrusting and boost,\" Weigel added. \"That gives us additional layers of redundancy.\" The USDV will arrive in mid-2029, with fuel reserves on station expected to reach the right level by early 2028. The lowering process is predicted to begin in mid-2028.",
+            "zh": "\"一旦我们进入到实际脱轨阶段，我们目前的计划是让俄罗斯舱段负责姿态控制，USDV负责实际的推进和加速\"，韦格尔补充说。\"这为我们提供了额外的冗余层。\"USDV将于2029年中期抵达，空间站上的燃料储备预计在2028年初达到适当水平。降低轨道的过程预计将在2028年中期开始。",
+            "keywords": ["redundancy", "thrusting", "fuel reserves", "boost"],
+            "notes": [
+                {"phrase": "layers of redundancy", "explain": "冗余层，备份系统，确保某系统故障时仍有替代方案"},
+                {"phrase": "fuel reserves", "explain": "燃料储备，为脱轨机动储存的推进剂"}
+            ]
+        },
+        {
+            "en": "What comes next? Commercial companies like Axiom Space, Voyager Space, and Blue Origin are developing privately-owned replacement space stations, with NASA providing hundreds of millions in funding and expertise. NASA is transitioning away from operating space stations to focus on deep space exploration, including the Artemis Moon missions and eventual Mars exploration.",
+            "zh": "接下来会怎样？Axiom Space、Voyager Space和Blue Origin等商业公司正在开发私营替代空间站，NASA提供数亿美元的资金和技术支持。NASA正在从运营空间站转向专注于深空探索，包括阿耳忒弥斯登月任务和最终的火星探索。",
+            "keywords": ["transitioning", "privately-owned", "expertise", "deep space"],
+            "notes": [
+                {"phrase": "transitioning away from", "explain": "从...转型，逐渐停止某活动转而进行另一活动"},
+                {"phrase": "deep space exploration", "explain": "深空探索，对月球、火星及更远天体的探索"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "deorbit", "phonetic": "/diːˈɔːrbɪt/", "meaning": "脱轨；使离开轨道", "partOfSpeech": "v.", "example": "The station will be deorbited in 2030."},
+        {"word": "habitation", "phonetic": "/ˌhæbɪˈteɪʃən/", "meaning": "居住；栖息", "partOfSpeech": "n.", "example": "The ISS has had continuous human habitation for 25 years."},
+        {"word": "allocation", "phonetic": "/ˌæləˈkeɪʃən/", "meaning": "分配；配置", "partOfSpeech": "n.", "example": "Flight allocation determines which experiments go to space."},
+        {"word": "redundancy", "phonetic": "/rɪˈdʌndənsi/", "meaning": "冗余；备份", "partOfSpeech": "n.", "example": "Multiple systems provide redundancy for safety."},
+        {"word": "thruster", "phonetic": "/ˈθrʌstər/", "meaning": "推进器；推力器", "partOfSpeech": "n.", "example": "Thrusters are used for attitude control and orbit changes."},
+        {"word": "payload", "phonetic": "/ˈpeɪloʊd/", "meaning": "有效载荷；运载物", "partOfSpeech": "n.", "example": "Over 940 payloads have been launched to the ISS."},
+        {"word": "transition", "phonetic": "/trænˈzɪʃən/", "meaning": "过渡；转变", "partOfSpeech": "n.", "example": "NASA is in transition from ISS to commercial stations."}
+    ],
+    "discussion_questions": [
+        {"en": "Why is a controlled deorbit of the ISS necessary, and what are the risks if it were not controlled?", "zh": "为什么国际空间站需要受控脱轨？如果不加控制会有什么风险？"},
+        {"en": "How might the transition to commercial space stations change the future of low-Earth orbit research?", "zh": "向商业空间站的转型可能如何改变近地轨道研究的未来？"},
+        {"en": "What factors must NASA consider when choosing the final crew for the ISS before deorbit?", "zh": "NASA在脱轨前选择国际空间站最后一批乘组时必须考虑哪些因素？"}
+    ]
+}

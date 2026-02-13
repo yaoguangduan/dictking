@@ -1,0 +1,118 @@
+{
+  "word": "quarry",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈkwɒri/",
+    "us": "/ˈkwɔːri/"
+  },
+  "definitions": [
+    {
+      "translation": "采石场；猎物；追捕目标",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。作\"采石场\"时为具体地点；作\"猎物\"或\"追捕目标\"时多用于比喻，指被追求或追捕的人或物。",
+      "sentences": [
+        {"en": "The old quarry has been abandoned for decades.", "zh": "这座老采石场已被废弃数十年。"},
+        {"en": "The detectives had tracked their quarry to a hideout in the woods.", "zh": "侦探们追踪目标到了树林中的一个藏身处。"},
+        {"en": "The lion stalked its quarry through the tall grass.", "zh": "狮子在高草丛中悄悄接近猎物。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "stone quarry",
+          "translation": "采石场",
+          "pattern": "名词+名词",
+          "explain": "开采石料的地方",
+          "sentences": [{"en": "They worked in a stone quarry for years.", "zh": "他们在采石场工作了许多年。"}]
+        },
+        {
+          "collocation": "hunt one's quarry",
+          "translation": "追捕猎物/目标",
+          "pattern": "动词+名词",
+          "explain": "追捕、追踪目标",
+          "sentences": [{"en": "The journalist hunted her quarry across three countries.", "zh": "这位记者跨越三个国家追查她的目标。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "prey": {
+          "translation": "猎物",
+          "diffs": "prey 专指被猎食的动物；quarry 可指猎物，也可指被追捕的人或抽象目标",
+          "sentences": [{"en": "The eagle swooped down on its prey.", "zh": "老鹰俯冲扑向猎物。"}]
+        }
+      },
+      "antonyms": {},
+      "inflections": {
+        "plural": "quarries"
+      }
+    },
+    {
+      "translation": "采石；挖掘",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "及物动词和不及物动词。指从采石场开采石料。",
+      "sentences": [
+        {"en": "Granite was quarried from these hills for centuries.", "zh": "数百年来，花岗岩一直从这些山中开采。"},
+        {"en": "The ancient Romans quarried marble for their buildings.", "zh": "古罗马人为建造房屋开采大理石。"},
+        {"en": "They quarry limestone for the cement industry.", "zh": "他们开采石灰石供水泥业使用。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "quarry stone",
+          "translation": "开采石头",
+          "pattern": "动词+名词",
+          "explain": "从采石场开采石料",
+          "sentences": [{"en": "Local workers quarry stone for construction.", "zh": "当地工人开采石头用于建筑。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "mine": {
+          "translation": "开采；采矿",
+          "diffs": "mine 多指开采金属、煤炭等；quarry 特指开采石料",
+          "sentences": [{"en": "They mine coal in this region.", "zh": "他们在这个地区开采煤炭。"}]
+        }
+      },
+      "antonyms": {},
+      "inflections": {
+        "past_tense": "quarried",
+        "past_participle": "quarried",
+        "present_participle": "quarrying",
+        "third_person": "quarries"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "名词\"采石场\"来自中世纪拉丁语 quareia（采石场），与 quadrus（方形石块）相关。名词\"猎物\"来自古法语 cuiree（给猎犬的报酬），源于 cuir（皮革），原指猎后分给猎犬的猎物内脏。两义同形异源。",
+    "root": "quadr-（方形）；cuir（皮革）",
+    "affixes": [],
+    "history": "采石场义源于\"方形石块\"；猎物义源于猎后分酬习俗，后引申为\"被追捕的目标\"。"
+  },
+  "related_words": {
+    "quarrier": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "采石工人",
+      "rule": "quarry（动词）+ -er（施动者）",
+      "sentences": [{"en": "The quarriers worked from dawn to dusk.", "zh": "采石工人从黎明工作到黄昏。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "quarry for stone",
+      "correct": "quarry stone / quarry for marble",
+      "explain": "quarry 作动词时可直接接原料作宾语（quarry stone），或用 quarry for + 具体石料。quarry for stone 语法可行但 quarry stone 更自然。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "联想记忆",
+      "content": "quarry 与 square（方形）同根 quadr-；采石场产出方形石块。猎物义可联想：被追的\"猎物\"像采石场里的石头一样被\"挖掘\"出来。"
+    }
+  ]
+}

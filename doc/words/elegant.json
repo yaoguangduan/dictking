@@ -1,0 +1,275 @@
+{
+    "word": "elegant",
+    "created_at": "2026-02-13T02:00:00Z",
+    "phonetic": {
+        "uk": "/ˈelɪɡənt/",
+        "us": "/ˈelɪɡənt/"
+    },
+    "definitions": [
+        {
+            "translation": "优雅的；精致的；简洁巧妙的",
+            "partOfSpeech": {
+                "en": "adjective",
+                "en_simple": "adj.",
+                "ch": "形容词"
+            },
+            "usage_note": "有三个主要义项：1) 形容外表或举止优雅、有风度；2) 形容事物精致、品位高雅；3) 形容解决方案、设计等简洁巧妙、精炼。",
+            "sentences": [
+                {
+                    "en": "She wore an elegant black gown to the gala.",
+                    "zh": "她穿着一袭优雅的黑色礼服出席晚宴。"
+                },
+                {
+                    "en": "The hotel lobby features elegant marble floors and crystal chandeliers.",
+                    "zh": "酒店大堂以精致的大理石地板和水晶吊灯为特色。"
+                },
+                {
+                    "en": "The engineer proposed an elegant solution that reduced the code from 200 lines to just 20.",
+                    "zh": "工程师提出了一个简洁巧妙的解决方案，将代码从200行精简至仅20行。"
+                },
+                {
+                    "en": "His elegant manner and refined taste made him popular at social gatherings.",
+                    "zh": "他优雅的举止和高雅的品味使他在社交场合很受欢迎。"
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "elegant solution",
+                    "translation": "简洁巧妙的解决方案",
+                    "pattern": "形容词+名词",
+                    "explain": "多用于技术、数学、设计等领域，强调方案简洁而有效",
+                    "sentences": [
+                        {
+                            "en": "The algorithm provides an elegant solution to the sorting problem.",
+                            "zh": "该算法为排序问题提供了简洁巧妙的解决方案。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "elegant design",
+                    "translation": "优雅的设计；简洁巧妙的设计",
+                    "pattern": "形容词+名词",
+                    "explain": "可指外观精致，也可指结构精炼",
+                    "sentences": [
+                        {
+                            "en": "The smartphone boasts an elegant design with slim bezels.",
+                            "zh": "这款智能手机采用纤薄边框的优雅设计。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "elegant dress",
+                    "translation": "优雅的服装",
+                    "pattern": "形容词+名词",
+                    "explain": "形容服饰雅致、有品位",
+                    "sentences": [
+                        {
+                            "en": "She chose an elegant dress for the wedding.",
+                            "zh": "她为婚礼挑选了一件优雅的礼服。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "elegant style",
+                    "translation": "优雅的风格",
+                    "pattern": "形容词+名词",
+                    "explain": "形容写作、艺术或生活方式的风格",
+                    "sentences": [
+                        {
+                            "en": "The novel is written in an elegant style that captivates readers.",
+                            "zh": "这部小说以优雅的文风写作，令读者着迷。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "elegant simplicity",
+                    "translation": "简洁优雅；大巧若拙",
+                    "pattern": "形容词+名词",
+                    "explain": "强调以简单达到优雅的效果",
+                    "sentences": [
+                        {
+                            "en": "The room achieves elegant simplicity with minimal furniture.",
+                            "zh": "这间房以极简家具实现了简洁优雅。"
+                        }
+                    ]
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "elegant in appearance",
+                    "translation": "外表优雅",
+                    "sentences": [
+                        {
+                            "en": "The building is elegant in appearance yet highly functional.",
+                            "zh": "这座建筑外表优雅，同时极具实用性。"
+                        }
+                    ]
+                },
+                {
+                    "phrase": "elegant by design",
+                    "translation": "设计精巧",
+                    "sentences": [
+                        {
+                            "en": "The software is elegant by design, avoiding unnecessary complexity.",
+                            "zh": "该软件设计精巧，避免了不必要的复杂。"
+                        }
+                    ]
+                }
+            ],
+            "synonyms": {
+                "graceful": {
+                    "translation": "优雅的；流畅自然的",
+                    "diffs": "graceful 侧重动作、姿态的流畅自然；elegant 更宽泛，可指外表、风格、设计等",
+                    "sentences": [
+                        {
+                            "en": "The dancer moved with graceful precision.",
+                            "zh": "舞者以优雅的精准度起舞。"
+                        }
+                    ]
+                },
+                "refined": {
+                    "translation": "精致的；考究的",
+                    "diffs": "refined 强调经过雕琢、去除粗陋；elegant 强调品位与美感",
+                    "sentences": [
+                        {
+                            "en": "He has refined tastes in wine and cuisine.",
+                            "zh": "他对葡萄酒和美食品味精致。"
+                        }
+                    ]
+                },
+                "sophisticated": {
+                    "translation": "高雅的；世故的",
+                    "diffs": "sophisticated 强调世故、复杂而有品位；elegant 可兼指简洁与高雅",
+                    "sentences": [
+                        {
+                            "en": "The restaurant offers a sophisticated dining experience.",
+                            "zh": "这家餐厅提供高雅的用餐体验。"
+                        }
+                    ]
+                },
+                "stylish": {
+                    "translation": "时尚的；有品位的",
+                    "diffs": "stylish 侧重时尚感、流行品味；elegant 更偏永恒、经典的高雅",
+                    "sentences": [
+                        {
+                            "en": "She always dresses in a stylish yet understated manner.",
+                            "zh": "她总是穿着时尚而含蓄。"
+                        }
+                    ]
+                }
+            },
+            "antonyms": {
+                "clumsy": {
+                    "translation": "笨拙的",
+                    "diffs": "clumsy 指动作或设计笨重、缺乏美感；elegant 的反面",
+                    "sentences": [
+                        {
+                            "en": "The old interface felt clumsy compared to the new design.",
+                            "zh": "与新款设计相比，旧界面显得笨拙。"
+                        }
+                    ]
+                },
+                "crude": {
+                    "translation": "粗糙的；粗陋的",
+                    "diffs": "crude 指粗陋、未加工；elegant 指精致、考究",
+                    "sentences": [
+                        {
+                            "en": "The crude drawing lacked any artistic merit.",
+                            "zh": "这幅粗糙的素描缺乏艺术价值。"
+                        }
+                    ]
+                },
+                "inelegant": {
+                    "translation": "不优雅的；笨拙的",
+                    "diffs": "inelegant 为 elegant 的直系反义词，指缺乏优雅或简洁",
+                    "sentences": [
+                        {
+                            "en": "The solution works but is rather inelegant.",
+                            "zh": "这个方案可行但不够优雅。"
+                        }
+                    ]
+                }
+            },
+            "inflections": {
+                "comparative": "more elegant",
+                "superlative": "most elegant"
+            }
+        }
+    ],
+    "etymology": {
+        "origin": "来自拉丁语 elegans（品味高雅的、精致的），源自 eligere（挑选、选择），由 e-（出）与 legere（选择、阅读）构成。",
+        "root": "e-（出）+ leg-（选择，来自拉丁语 legere）",
+        "affixes": ["e-（前缀：出）", "-ant（形容词后缀，表“具有…特性的”）"],
+        "history": "拉丁语 eligere 本义为“挑选出来”，elegans 即“善于挑选的、有品味的”，后引申为“精致的、优雅的”。16 世纪经法语进入英语。"
+    },
+    "related_words": {
+        "elegance": {
+            "class": {
+                "en": "noun",
+                "en_s": "n.",
+                "ch": "名词"
+            },
+            "translation": "优雅；典雅；简洁",
+            "rule": "elegant 的名词形式",
+            "sentences": [
+                {
+                    "en": "She carried herself with natural elegance.",
+                    "zh": "她举止自然优雅。"
+                }
+            ]
+        },
+        "elegantly": {
+            "class": {
+                "en": "adverb",
+                "en_s": "adv.",
+                "ch": "副词"
+            },
+            "translation": "优雅地；精致地；巧妙地",
+            "rule": "elegant 的副词形式",
+            "sentences": [
+                {
+                    "en": "The problem was elegantly solved with a single line of code.",
+                    "zh": "这个问题用一行代码就巧妙地解决了。"
+                }
+            ]
+        },
+        "inelegant": {
+            "class": {
+                "en": "adjective",
+                "en_s": "adj.",
+                "ch": "形容词"
+            },
+            "translation": "不优雅的；粗糙的；笨拙的",
+            "rule": "elegant 加否定前缀 in- 构成的反义词",
+            "sentences": [
+                {
+                    "en": "The inelegant phrasing made the document hard to read.",
+                    "zh": "生硬的措辞使文档难以阅读。"
+                }
+            ]
+        }
+    },
+    "idioms": [],
+    "common_mistakes": [
+        {
+            "wrong": "He is an elegant speaker.",
+            "correct": "He is an eloquent speaker.",
+            "explain": "elegant 与 eloquent 形近易混淆。eloquent 指“雄辩的、能言善辩的”，形容口才好；elegant 指“优雅的、精致的”，不用于形容口才。若指说话流利有力，用 eloquent。"
+        },
+        {
+            "wrong": "elegent",
+            "correct": "elegant",
+            "explain": "elegant 常被误拼为 elegent；正确拼写为 elegant，注意词根 leg 后接 -ant。"
+        }
+    ],
+    "mnemonics": [
+        {
+            "type": "词源记忆",
+            "content": "elegant 源自 eligere（挑选）→ 善于“挑选”= 有品味 → 优雅、精致。同根词：eligible（有资格的，可被选中的）、select（挑选）。"
+        },
+        {
+            "type": "形近区分",
+            "content": "elegant vs eloquent：elegant 中的 leg 联想“腿”→ 姿态优雅；eloquent 中的 loqu 联想“说”（如 loquacious 多话的）→ 能言善辩。"
+        }
+    ]
+}

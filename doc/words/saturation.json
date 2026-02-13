@@ -1,0 +1,47 @@
+{
+    "word": "saturation",
+    "created_at": "2026-02-13T03:00:00Z",
+    "phonetic": { "uk": "/ˌsætʃəˈreɪʃn/", "us": "/ˌsætʃəˈreɪʃn/" },
+    "definitions": [
+        {
+            "translation": "饱和；浸透；完全充满",
+            "partOfSpeech": { "en": "noun", "en_simple": "n.", "ch": "名词" },
+            "usage_note": "不可数名词。指物质被完全浸泡或充满的状态。",
+            "sentences": [
+                { "en": "The saturation of the sponge with water made it heavy and dripping.", "zh": "海绵吸水饱和后变得沉重并滴着水。" },
+                { "en": "The fabric reached saturation after being left in the dye for several hours.", "zh": "布料在染料中浸泡数小时后达到饱和。" },
+                { "en": "Rainfall led to the saturation of the soil, causing minor flooding.", "zh": "降雨使土壤饱和，导致轻微积水。" }
+            ],
+            "collocations": [
+                { "collocation": "saturation point", "translation": "饱和点", "sentences": [{ "en": "The market has reached saturation point with similar products.", "zh": "市场上同类产品已到达饱和点。" }, { "en": "Water reaches saturation point when it can dissolve no more salt.", "zh": "水无法再溶解更多盐时即达到饱和点。" }] },
+                { "collocation": "market saturation", "translation": "市场饱和", "sentences": [{ "en": "Market saturation in smartphones has slowed industry growth.", "zh": "智能手机市场饱和已减缓行业增长。" }, { "en": "The company expanded overseas to avoid market saturation at home.", "zh": "该公司向海外扩张以避开国内市场的饱和。" }] },
+                { "collocation": "color saturation", "translation": "色彩饱和度", "sentences": [{ "en": "Adjust the color saturation to make the image more vivid.", "zh": "调整色彩饱和度使图片更鲜艳。" }] },
+                { "collocation": "oxygen saturation", "translation": "血氧饱和度", "sentences": [{ "en": "The patient's oxygen saturation dropped below 90%.", "zh": "患者的血氧饱和度降至90%以下。" }] }
+            ],
+            "phrases": [],
+            "synonyms": {
+                "fullness": { "translation": "充满；饱和", "diffs": "fullness 较口语，侧重“满”的感觉；saturation 更 technical，尤指化学或物理上的饱和。", "sentences": [{ "en": "The fullness of the reservoir indicated a wet season.", "zh": "水库的蓄满说明这是一个多雨季节。" }] },
+                "concentration": { "translation": "浓度；集中", "diffs": "concentration 强调溶质含量；saturation 强调已达最大溶解量、不能再增。", "sentences": [{ "en": "High concentration of pollutants was found in the river.", "zh": "河流中发现高浓度污染物。" }] },
+                "intensity": { "translation": "强度；强烈程度", "diffs": "intensity 常用于光、色、情感的强度；saturation 特指色彩饱满程度或市场饱和。", "sentences": [{ "en": "The intensity of the light hurt his eyes.", "zh": "光线的强度刺伤了他的眼睛。" }] }
+            },
+            "antonyms": {
+                "unsaturation": { "translation": "不饱和", "diffs": "化学上指未达最大浓度或化合键未饱和；saturation 与之相反。", "sentences": [{ "en": "Unsaturation in fats is associated with heart health.", "zh": "脂肪的不饱和与心脏健康有关。" }] },
+                "dilution": { "translation": "稀释；冲淡", "diffs": "dilution 指浓度降低；saturation 指浓度已达最高。", "sentences": [{ "en": "Dilution of the acid made it safer to handle.", "zh": "酸的稀释使其更安全易操作。" }] }
+            },
+            "inflections": {}
+        }
+    ],
+    "etymology": { "origin": "源自拉丁语 saturāre（填满、使饱和），经法语 saturation 传入英语。", "root": "satur-（满、饱）", "affixes": ["-ation（名词后缀，表状态或动作结果）"] },
+    "related_words": {
+        "saturate": { "class": { "en": "verb", "en_s": "v.", "ch": "动词" }, "translation": "使饱和；浸透；充斥", "rule": "saturation 的动词形式", "sentences": [{ "en": "Heavy rain saturated the ground overnight.", "zh": "大雨一夜之间浸透了土地。" }] },
+        "saturated": { "class": { "en": "adjective", "en_s": "adj.", "ch": "形容词" }, "translation": "饱和的；浸透的", "rule": "saturate 的过去分词作形容词", "sentences": [{ "en": "Saturated fats are found in butter and cheese.", "zh": "饱和脂肪存在于黄油和奶酪中。" }] },
+        "unsaturated": { "class": { "en": "adjective", "en_s": "adj.", "ch": "形容词" }, "translation": "不饱和的", "rule": "un- + saturated", "sentences": [{ "en": "Olive oil contains unsaturated fatty acids.", "zh": "橄榄油含有不饱和脂肪酸。" }] }
+    },
+    "idioms": [],
+    "common_mistakes": [
+        { "wrong": "saturation of market", "correct": "market saturation / saturation of the market", "explain": "“市场饱和”通常说 market saturation；若用 of 结构，the 不可省略。" }
+    ],
+    "mnemonics": [
+        { "type": "词根联想", "content": "satur-（饱、满）+ -ation → 达到“饱”的状态 → 饱和；浸透。" }
+    ]
+}

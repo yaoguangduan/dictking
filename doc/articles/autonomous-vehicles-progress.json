@@ -1,0 +1,63 @@
+{
+    "title": "Why It's Time to Get Optimistic About Self-Driving Cars",
+    "title_zh": "为何现在该对自动驾驶汽车抱有乐观态度",
+    "author": "Azeem Azhar",
+    "source": "IEEE Spectrum",
+    "created_at": "2024-12-11",
+    "difficulty": "medium",
+    "tags": ["autonomous vehicles", "robotaxi", "self-driving", "Waymo", "transportation"],
+    "summary": "Robotaxis are leading the charge toward autonomous vehicles becoming mainstream. Waymo provides over 250,000 rides per week in California while Baidu's Apollo Go operates in Wuhan. The technology is reaching a tipping point where it is both functional and commercially viable.",
+    "summary_zh": "机器人出租车正引领自动驾驶汽车走向主流。Waymo在加州每周提供超过25万次行程，百度的Apollo Go在武汉运营。技术正接近临界点，既具备功能性又具有商业可行性。",
+    "paragraphs": [
+        {
+            "en": "For years, autonomous vehicles seemed metaphorically miles away from reality. Carmakers promised that fully self-driving cars would be on the road imminently, yet the real-world hurdles took time to navigate. Now the picture has changed. Robotaxis are leading the charge. Far from being a pointless distraction, self-driving cars are nearly ready for prime time. This shift is based on an increasing mountain of evidence pointing to their adoption and evolution—evidence that the industry is making progress on overlapping S-curves of technology improvement and market adoption.",
+            "zh": "多年来，自动驾驶汽车似乎离现实还很遥远。汽车制造商承诺完全自动驾驶汽车即将上路，但现实世界的障碍需要时间克服。如今局面已变。机器人出租车正引领潮流。自动驾驶汽车远非无谓的分散注意力，而是已接近黄金时段。这一转变基于越来越多指向其采用与演进的证据——表明行业在技术改进与市场采用的重叠S曲线上取得进展。",
+            "keywords": ["robotaxi", "S-curves", "adoption", "prime time", "evidence"],
+            "notes": [{"phrase": "prime time", "explain": "黄金时段；最佳时机；正式上市"}, {"phrase": "S-curves", "explain": "S曲线；技术采用的典型增长模式：起步慢、中期加速、后期趋缓"}]
+        },
+        {
+            "en": "In bellwether cities, we are seeing more self-driving vehicles on the road. Wuhan, the capital of China's Hubei province, strives to become the world's first driverless city. Around three in every 100 taxis there are robotaxis developed by Baidu's Apollo Go. In California, Waymo provided approximately 312,000 rides per month in August, doubling its volume from only three months before. Waymo likely offers 8,000 or more rides per day in San Francisco—a 4% or more market share. The tipping point in adoption curves is typically 6%, so Waymo is getting closer.",
+            "zh": "在风向标城市，我们目睹路上有更多自动驾驶汽车。中国湖北省省会武汉正在努力成为世界上首个无人驾驶城市。当地约3%的出租车是百度Apollo Go开发的机器人出租车。在加州，Waymo 8月每月提供约31.2万次行程，仅三个月内就翻了一倍。Waymo在旧金山每天可能提供8,000次以上行程——4%或更高的市场份额。采用曲线的临界点通常在6%，因此Waymo正在接近。",
+            "keywords": ["bellwether", "Wuhan", "Waymo", "tipping point", "market share"],
+            "notes": [{"phrase": "bellwether", "explain": "风向标；领先指标；先行者"}, {"phrase": "tipping point", "explain": "临界点；转折点；引发快速变化的阈值"}]
+        },
+        {
+            "en": "Baidu leads in driving down the cost of robotaxi journeys. A 10-kilometer ride in Wuhan costs between 4 and 16 yuan ($0.60 to $2.30), whereas an equivalent human-driven ride costs 18 to 30 yuan. A robotaxi completes up to 20 rides per day, exceeding the daily average of 13.2 rides for human taxi drivers. The Apollo vehicle costs only $28,000 to build, compared to an estimated $150,000 for a Waymo car. Baidu expects to break even this year and become profitable in 2025. Waymo also has a path to profitability but faces challenges from incumbents like Uber.",
+            "zh": "百度在降低机器人出租车出行成本方面领先。在武汉，10公里行程费用在4至16元（0.60至2.30美元）之间，而同等人类驾驶行程需18至30元。一辆机器人出租车每天可完成多达20次行程，超过人类出租车司机日均13.2次的水平。Apollo车辆制造成本仅2.8万美元，而Waymo汽车估计为15万美元。百度预计今年实现收支平衡，2025年盈利。Waymo也有盈利路径，但面临优步等现有运营商的挑战。",
+            "keywords": ["break even", "profitable", "incumbents", "economics", "cost"],
+            "notes": [{"phrase": "break even", "explain": "收支平衡；不亏不赚"}, {"phrase": "incumbents", "explain": "现有运营商；行业内的既有玩家"}]
+        },
+        {
+            "en": "Waymo is expanding beyond San Francisco and Phoenix. It has launched in Los Angeles and Austin, Texas, and is testing in 25 other major metro areas including Atlanta, Dallas, Houston, Miami, and New York City. The public is becoming more comfortable with the tech too. In Phoenix and San Francisco, respondents who have been exposed to self-driving cars gave a confidence score of 67 in a 2023 survey, while the average American gave 37. Safety remains a concern—a Cruise robotaxi struck and dragged a pedestrian in October 2023, leading to the loss of its California permit—but self-driving cars are getting safer.",
+            "zh": "Waymo正扩张至旧金山和凤凰城之外。它已在洛杉矶和德克萨斯州奥斯汀推出服务，并在亚特兰大、达拉斯、休斯敦、迈阿密和纽约市等25个主要都市区测试。公众对这项技术也越来越适应。2023年一项调查中，接触过自动驾驶汽车的凤凰城和旧金山受访者给出的信心分数为67，而普通美国人的分数为37。安全仍是关切——2023年10月一辆Cruise机器人出租车撞到并拖行一名行人，导致其在加州失去运营许可——但自动驾驶汽车正变得更安全。",
+            "keywords": ["expansion", "confidence", "Cruise", "permit", "pedestrian"],
+            "notes": [{"phrase": "confidence score", "explain": "信心分数；信任度评分"}, {"phrase": "losing its permit", "explain": "失去许可；被吊销运营资格"}]
+        },
+        {
+            "en": "Autonomous vehicle leaders have taken different approaches on three axes: sensors, maps, and intelligence. Waymo and Apollo use cameras, lidar, and radar, plus high-definition custom maps. Tesla uses only cameras and end-to-end deep learning. Competing approaches are a good thing. Data shows falling disengagement rates for Waymo, Wayve, and Apollo. Professor Missy Cummings shared unpublished data showing Waymo cars have a lower crash rate than the average rideshare driver. We are reaching a tipping point where the technology is not just functional but increasingly reliable and commercially viable.",
+            "zh": "自动驾驶领军企业在三个轴上采取了不同策略：传感器、地图和智能。Waymo和Apollo使用摄像头、激光雷达和雷达，外加高清定制地图。特斯拉仅使用摄像头和端到端深度学习。竞争性方法是好事。数据显示Waymo、Wayve和Apollo的脱离率在下降。米西·卡明斯教授分享了未发表数据，显示Waymo汽车的事故率低于普通网约车司机。我们正达到临界点，技术不仅可用，而且日益可靠并具有商业可行性。",
+            "keywords": ["lidar", "disengagement", "crash rate", "viable", "sensors"],
+            "notes": [{"phrase": "end-to-end deep learning", "explain": "端到端深度学习；从原始输入直接输出决策的AI架构"}, {"phrase": "disengagement", "explain": "脱离；人类接管控制的时刻"}]
+        },
+        {
+            "en": "Regulators remain wary of removing the human from the loop. China's ambition is on full display in Wuhan—the government has approved live testing in at least 16 other major cities, and Chinese consumers are twice as likely as Americans to say they trust self-driving vehicles. The China Society of Automotive Engineers foresees that one in five cars sold in China will be fully driverless by the decade's end. In the United States, meaningful consumer adoption may take a couple of decades. History shows technology transitions can occur within 20 years—smartphones replaced feature phones in seven years. Robotaxis have snuck up on us, and they are now politely waiting to offer a ride.",
+            "zh": "监管机构对将人类移出循环仍持谨慎态度。中国的雄心在武汉充分展现——政府已批准至少16个其他主要城市的实路测试，中国消费者表示信任自动驾驶汽车的比例是美国人的两倍。中国汽车工程学会预计，到本十年末中国销售的五分之一汽车将完全无人驾驶。在美国，有意义的消费者采用可能需要几十年。历史表明技术转型可在20年内完成——智能手机在七年内取代了功能手机。机器人出租车悄悄来到了我们身边，它们现在正礼貌地等待载客。",
+            "keywords": ["regulators", "driverless", "transition", "decades", "adoption"],
+            "notes": [{"phrase": "remove the human from the loop", "explain": "将人类移出循环；实现完全自动化、无需人工干预"}, {"phrase": "snuck up on us", "explain": "悄悄来到；出乎意料地出现"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "robotaxi", "phonetic": "/ˈroʊbəʊˌtæksi/", "meaning": "机器人出租车；无人驾驶出租车", "partOfSpeech": "n.", "example": "Waymo operates a robotaxi service in San Francisco."},
+        {"word": "disengagement", "phonetic": "/ˌdɪsɪnˈɡeɪdʒmənt/", "meaning": "脱离；退出", "partOfSpeech": "n.", "example": "Falling disengagement rates indicate improving autonomy."},
+        {"word": "lidar", "phonetic": "/ˈlaɪdɑːr/", "meaning": "激光雷达", "partOfSpeech": "n.", "example": "Waymo's cars use cameras, lidar, and radar."},
+        {"word": "tipping point", "phonetic": "/ˈtɪpɪŋ pɔɪnt/", "meaning": "临界点；转折点", "partOfSpeech": "n.", "example": "Waymo is approaching the 6% tipping point in San Francisco."},
+        {"word": "bellwether", "phonetic": "/ˈbelweðər/", "meaning": "风向标；领先指标", "partOfSpeech": "n.", "example": "San Francisco is a bellwether city for autonomous vehicles."},
+        {"word": "incumbent", "phonetic": "/ɪnˈkʌmbənt/", "meaning": "现有企业；在位者", "partOfSpeech": "n.", "example": "Waymo faces competition from incumbents like Uber."},
+        {"word": "viable", "phonetic": "/ˈvaɪəbl/", "meaning": "可行的；能生存的", "partOfSpeech": "adj.", "example": "Robotaxis are becoming commercially viable."}
+    ],
+    "discussion_questions": [
+        {"en": "Why might robotaxis reach the market before consumer self-driving cars?", "zh": "为何机器人出租车可能比消费级自动驾驶汽车更早进入市场？"},
+        {"en": "How do different sensor strategies (cameras vs. lidar) affect autonomous vehicle development?", "zh": "不同的传感器策略（摄像头 vs 激光雷达）如何影响自动驾驶汽车的发展？"},
+        {"en": "What factors might explain why Chinese consumers trust self-driving vehicles more than Americans?", "zh": "哪些因素可能解释中国消费者比美国消费者更信任自动驾驶汽车？"}
+    ]
+}

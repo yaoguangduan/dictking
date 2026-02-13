@@ -1,0 +1,69 @@
+{
+    "title": "Why Coffee Could Be Good for Your Health",
+    "title_zh": "咖啡为何可能有益健康",
+    "author": "Jessica Brown",
+    "source": "BBC Future",
+    "created_at": "2024-11-06T00:00:00Z",
+    "difficulty": "easy",
+    "tags": ["food", "health", "nutrition", "coffee", "caffeine"],
+    "summary": "Research from the last decade has shifted the view on coffee. Once seen as harmful, coffee may now offer health benefits including lower risk of heart disease, stroke and cancer. A 2017 study of half a million Europeans found those who drank more coffee had lower mortality. However, timing matters: a 2025 study suggests morning coffee drinkers reap stronger cardiovascular benefits than those who sip throughout the day.",
+    "summary_zh": "过去十年的研究改变了人们对咖啡的看法。一度被认为有害的咖啡，如今可能带来健康益处，包括降低心脏病、中风和癌症风险。2017年对50万欧洲人的研究发现，喝更多咖啡的人死亡率更低。然而，时间很重要：2025年的研究表明，早晨喝咖啡的人比整天喝的人获得更强的心血管益处。",
+    "paragraphs": [
+        {
+            "en": "In the past, coffee was associated with increased health risks. But research from the last decade finds that drinking coffee may actually benefit your health. Caffeine is the most popular psychoactive drug in the world. Humans have been drinking coffee for centuries, but there have been mixed messages around its effect on human health for decades. \"Traditionally, coffee has been seen as a bad thing,\" says Marc Gunter, professor of cancer epidemiology at Imperial College London.",
+            "zh": "过去，咖啡与健康风险增加有关。但过去十年的研究发现，喝咖啡可能实际上有益健康。咖啡因是世界上最流行的精神活性物质。人类喝咖啡已有几个世纪，但几十年来关于其对健康影响的说法一直褒贬不一。「传统上，咖啡一直被看作不好的东西，」伦敦帝国理工学院癌症流行病学教授马克·冈特说。",
+            "keywords": ["psychoactive", "epidemiology", "traditionally", "decade", "mixed messages"],
+            "notes": [{"phrase": "mixed messages", "explain": "褒贬不一、相互矛盾的信息"}, {"phrase": "psychoactive drug", "explain": "精神活性物质，指影响大脑功能的物质"}]
+        },
+        {
+            "en": "With more, larger-scale population studies emerging over the last decade, scientists now have data from hundreds of thousands of coffee drinkers. Coffee was once linked to cancer because it contains acrylamide, a substance found in toast and chips. However, the International Agency for Research on Cancer concluded in 2016 that coffee is not carcinogenic, unless drunk very hot above 65°C. A 2023 review found insufficient evidence linking coffee's acrylamide to cancer risk.",
+            "zh": "随着过去十年更多大规模人群研究的出现，科学家现在拥有数十万咖啡饮用者的数据。咖啡曾被认为与癌症有关，因为它含有丙烯酰胺，这种物质也存在于吐司和薯片中。然而，国际癌症研究机构在2016年得出结论，咖啡不会致癌，除非非常热地饮用（超过65°C）。2023年的一篇综述发现，没有充分证据表明咖啡中的丙烯酰胺与癌症风险相关。",
+            "keywords": ["acrylamide", "carcinogenic", "population studies", "concluded", "insufficient"],
+            "notes": [{"phrase": "population studies", "explain": "人群研究，指对大量人群进行观察的研究方法"}, {"phrase": "insufficient evidence", "explain": "证据不足，科学结论中的常用表述"}]
+        },
+        {
+            "en": "More research has found that coffee may actually have a protective effect. In 2017, Gunter published results from a study that looked at the coffee-drinking habits of half a million people across Europe over 16 years. Those who drank more coffee had a lower risk of dying from heart disease, stroke and cancer. Gunter says there is enough consensus across observational studies to confirm that people who drink up to four cups of coffee a day have fewer diseases compared to those who do not drink any.",
+            "zh": "更多研究发现，咖啡实际上可能具有保护作用。2017年，冈特发表了一项研究的成果，该研究追踪了50万欧洲人16年来的咖啡饮用习惯。喝更多咖啡的人死于心脏病、中风和癌症的风险更低。冈特表示，观察性研究已有足够共识，可以确认每天喝四杯咖啡的人比不喝的人患病更少。",
+            "keywords": ["protective effect", "consensus", "observational", "mortality", "cardiovascular"],
+            "notes": [{"phrase": "protective effect", "explain": "保护作用，指降低患病风险的功效"}, {"phrase": "consensus", "explain": "共识；一致意见"}]
+        },
+        {
+            "en": "Both decaffeinated and caffeinated coffee have similar amounts of antioxidants. Decaf coffee has similar amounts of antioxidants as normal coffee, research has found. Gunter has not found differences between the health of people who drank caffeinated versus decaf, which led him to conclude that the health benefits associated with coffee are due to something other than caffeine. A 2025 study added nuance: morning coffee drinkers were 16% less likely to die of any cause and 31% less likely to die from cardiovascular disease, but these benefits vanish for those who drink throughout the day.",
+            "zh": "无咖啡因和含咖啡因的咖啡抗氧化剂含量相似。研究发现，无因咖啡与普通咖啡的抗氧化剂含量相当。冈特没有发现喝含咖啡因与无因咖啡的人健康差异，因此他得出结论，咖啡带来的健康益处来自咖啡因以外的成分。2025年的一项研究增加了细节：早晨喝咖啡的人全因死亡风险降低16%，心血管疾病死亡风险降低31%，但这些益处对于全天喝咖啡的人会消失。",
+            "keywords": ["antioxidants", "decaffeinated", "cardiovascular", "nuance", "benefits"],
+            "notes": [{"phrase": "due to something other than", "explain": "由于……之外的原因"}, {"phrase": "these benefits vanish", "explain": "这些益处消失，vanish表示突然消失"}]
+        },
+        {
+            "en": "However, all of this research was based on population data, which does not confirm cause and effect. People who consume coffee may simply have better underlying health than those who choose not to. Clinical trials looking into coffee are rarer than population studies. One small trial found that participants who drank coffee before a sugary breakfast had a 50% increase in blood sugar. Advice on coffee consumption is particularly confusing in pregnancy, with different authorities giving different limits.",
+            "zh": "然而，所有这些研究都基于人群数据，不能确认因果关系。喝咖啡的人可能只是比不喝的人基础健康状况更好。针对咖啡的临床试验比人群研究更少见。一项小型试验发现，在含糖早餐前喝咖啡的参与者血糖升高了50%。怀孕期间关于咖啡摄入的建议尤其令人困惑，不同机构给出的限制各不相同。",
+            "keywords": ["cause and effect", "clinical trials", "blood sugar", "pregnancy", "confusing"],
+            "notes": [{"phrase": "cause and effect", "explain": "因果关系"}, {"phrase": "underlying health", "explain": "基础健康；underlying 表示潜在的、基础的"}]
+        },
+        {
+            "en": "For regular drinkers, there is news about caffeine and concentration. \"As the body gets used to receiving caffeine on a daily basis, there are physiological changes that adapt the body to live with caffeine,\" says Peter Rogers from the University of Bristol. \"Consuming coffee produces no net benefit to our ability to work efficiently because we become tolerant to that effect.\" The only people who stand to use caffeine to their advantage are those who do not drink it regularly. In most cases, regular drinkers are dependent rather than addicted.",
+            "zh": "对于经常喝咖啡的人，关于咖啡因和专注力有一些消息。布里斯托大学的彼得·罗杰斯说：「当身体习惯每天摄入咖啡因时，会发生生理变化，使身体适应与咖啡因共存。」「喝咖啡对我们高效工作的能力没有净益处，因为我们对那种效果产生了耐受性。」唯一能从咖啡因中获益的是不经常喝的人。在大多数情况下，常喝的人只是依赖而非成瘾。",
+            "keywords": ["physiological", "tolerant", "dependent", "addicted", "concentration"],
+            "notes": [{"phrase": "no net benefit", "explain": "没有净益处；net 表示扣除各种因素后的"}, {"phrase": "stand to use", "explain": "有望利用；stand to 表示可能会"}]
+        },
+        {
+            "en": "The way you brew your coffee does not seem to change the association with better health. Gunter found that various types of coffee were still associated with health benefits across European countries. A 2018 study found that the relationship between coffee and lifespan was stronger for ground coffee than for instant or decaf, possibly because instant coffees have lower amounts of polyphenols. \"It is common sense that if you drink too much of anything it is probably not good for you, but there is no strong evidence that drinking a few cups a day is bad for health,\" says Gunter. \"If anything, it is the opposite.\"",
+            "zh": "你冲泡咖啡的方式似乎不会改变它与健康改善的关联。冈特发现，在欧洲各国，各种类型的咖啡仍与健康益处相关。2018年的一项研究发现，现磨咖啡与寿命的关系比速溶或无因咖啡更强，可能是因为速溶咖啡的多酚含量较低。「喝太多任何东西可能对你不好，这是常识，但没有有力证据表明每天喝几杯咖啡对健康有害，」冈特说。「如果有的话，恰恰相反。」",
+            "keywords": ["brew", "polyphenols", "ground coffee", "instant", "common sense"],
+            "notes": [{"phrase": "if anything", "explain": "如果有的话；用于纠正或补充之前的说法"}, {"phrase": "it is the opposite", "explain": "恰恰相反"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "psychoactive", "phonetic": "/ˌsaɪkəʊˈæktɪv/", "meaning": "影响精神的；精神活性的", "partOfSpeech": "adj.", "example": "Caffeine is a psychoactive drug."},
+        {"word": "acrylamide", "phonetic": "/əˈkrɪləmaɪd/", "meaning": "丙烯酰胺", "partOfSpeech": "n.", "example": "Coffee contains acrylamide like toast does."},
+        {"word": "carcinogenic", "phonetic": "/ˌkɑːsɪnəˈdʒenɪk/", "meaning": "致癌的", "partOfSpeech": "adj.", "example": "Coffee is not carcinogenic when drunk at normal temperatures."},
+        {"word": "antioxidant", "phonetic": "/ˌæntiˈɒksɪdənt/", "meaning": "抗氧化剂", "partOfSpeech": "n.", "example": "Coffee is rich in antioxidants."},
+        {"word": "cardiovascular", "phonetic": "/ˌkɑːdiəʊˈvæskjələ/", "meaning": "心血管的", "partOfSpeech": "adj.", "example": "Coffee may lower cardiovascular disease risk."},
+        {"word": "physiological", "phonetic": "/ˌfɪziəˈlɒdʒɪkl/", "meaning": "生理的", "partOfSpeech": "adj.", "example": "Physiological changes adapt the body to caffeine."},
+        {"word": "polyphenol", "phonetic": "/ˌpɒliˈfiːnɒl/", "meaning": "多酚", "partOfSpeech": "n.", "example": "Ground coffee has more polyphenols than instant."}
+    ],
+    "discussion_questions": [
+        {"en": "Do you prefer morning coffee or drinking it throughout the day? How might timing affect your health?", "zh": "你更喜欢早晨喝咖啡还是全天喝？时间可能如何影响健康？"},
+        {"en": "The article says both caffeinated and decaf coffee have benefits. Why might people choose one over the other?", "zh": "文章说含咖啡因和无因咖啡都有益处。人们为什么会选择其中一种？"},
+        {"en": "How do you balance enjoying coffee with staying informed about health research that keeps changing?", "zh": "你如何在享受咖啡和了解不断变化的健康研究之间取得平衡？"}
+    ]
+}

@@ -1,0 +1,95 @@
+{
+  "word": "momentous",
+  "created_at": "2026-02-12T08:00:00.000Z",
+  "phonetic": {
+    "uk": "/məˈmentəs/",
+    "us": "/moʊˈmentəs/"
+  },
+  "definitions": [
+    {
+      "translation": "重大的；极其重要的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "形容具有重大意义或深远影响的事件、决定、时刻等。常作定语或表语。",
+      "sentences": [
+        {"en": "The signing of the treaty was a momentous occasion.", "zh": "条约的签署是一个具有重大意义的时刻。"},
+        {"en": "She had to make a momentous decision about her career.", "zh": "她不得不就自己的职业做出重大决定。"},
+        {"en": "The fall of the Berlin Wall was a momentous event in history.", "zh": "柏林墙的倒塌是历史上的重大事件。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "momentous decision",
+          "translation": "重大决定",
+          "pattern": "形容词+名词",
+          "explain": "常用搭配",
+          "sentences": [{"en": "Moving abroad was a momentous decision for the family.", "zh": "移居国外对这个家庭来说是一个重大决定。"}]
+        },
+        {
+          "collocation": "momentous occasion",
+          "translation": "重大时刻；重要场合",
+          "pattern": "形容词+名词",
+          "explain": "正式语境常用",
+          "sentences": [{"en": "We are gathered here on this momentous occasion.", "zh": "我们齐聚于此，迎接这一重要时刻。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "significant": {
+          "translation": "重要的；有意义的",
+          "diffs": "significant 程度稍轻；momentous 强调极其重大、影响深远",
+          "sentences": [{"en": "This is a significant step forward.", "zh": "这是向前迈出的重要一步。"}]
+        },
+        "epoch-making": {
+          "translation": "划时代的",
+          "diffs": "epoch-making 强调开创新时代；momentous 强调重要性",
+          "sentences": [{"en": "The invention was epoch-making.", "zh": "这项发明具有划时代意义。"}]
+        }
+      },
+      "antonyms": {
+        "trivial": {"translation": "琐碎的；微不足道的", "diffs": "指不重要、无意义"},
+        "insignificant": {"translation": "不重要的", "diffs": "指意义不大"}
+      },
+      "inflections": {
+        "comparative": "more momentous",
+        "superlative": "most momentous"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自 moment（时刻）+ -ous（形容词后缀），字面意为“具有重大时刻性质的”。",
+    "root": "moment-（来自拉丁语 momentum，运动、时刻）",
+    "affixes": ["-ous（形容词后缀：充满…的，具有…性质的）"],
+    "history": "moment 源自拉丁语 momentum（运动、推动、片刻），-ous 表性质。17世纪起指“具有重大意义的”。"
+  },
+  "related_words": {
+    "moment": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "片刻；时刻；时机",
+      "rule": "momentous 去掉后缀 -ous 即得",
+      "sentences": [{"en": "Wait a moment, please.", "zh": "请稍等片刻。"}]
+    },
+    "momentum": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "势头；动量",
+      "rule": "同根词，来自拉丁语 momentum",
+      "sentences": [{"en": "The campaign is gaining momentum.", "zh": "这场运动势头正劲。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "a very momentous",
+      "correct": "a momentous / a very important",
+      "explain": "momentous 本身已表“极其重要”，通常不再加 very；可说 a momentous event。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "moment（时刻）+ -ous（具有…性质的）→ 具有重大时刻性质的 → 重大的。"
+    }
+  ]
+}

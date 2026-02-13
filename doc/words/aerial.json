@@ -1,0 +1,63 @@
+{
+    "word": "aerial",
+    "created_at": "2026-02-13T03:00:00Z",
+    "phonetic": { "uk": "/ˈeəriəl/", "us": "/ˈeriəl/" },
+    "definitions": [
+        {
+            "translation": "空中的；架空的；由航空的",
+            "partOfSpeech": { "en": "adjective", "en_simple": "adj.", "ch": "形容词" },
+            "usage_note": "指位于空中、来自空中或与航空器有关的。",
+            "sentences": [
+                { "en": "The aerial view of the city revealed its grid-like layout.", "zh": "城市的鸟瞰图展现了其网格状布局。" },
+                { "en": "Aerial roots allow the plant to absorb moisture from the air.", "zh": "气生根使植物能从空气中吸收水分。" },
+                { "en": "The aerial attack destroyed the enemy's supply lines.", "zh": "空袭摧毁了敌人的补给线。" }
+            ],
+            "collocations": [
+                { "collocation": "aerial view", "translation": "鸟瞰图；俯视视角", "sentences": [{ "en": "From the aerial view, the island looked like a crescent.", "zh": "从空中看，这座岛呈新月形。" }, { "en": "Google Earth provides aerial views of nearly every place on Earth.", "zh": "谷歌地球提供地球上几乎每个地方的俯视图。" }] },
+                { "collocation": "aerial photography", "translation": "航空摄影；航拍", "sentences": [{ "en": "Aerial photography has revolutionized cartography and surveying.", "zh": "航空摄影彻底改变了制图和测绘。" }, { "en": "Drones have made aerial photography affordable for hobbyists.", "zh": "无人机使业余爱好者也能负担得起航拍。" }] },
+                { "collocation": "aerial survey", "translation": "航空勘测", "sentences": [{ "en": "The geological team conducted an aerial survey of the region.", "zh": "地质队对该地区进行了航空勘测。" }] }
+            ],
+            "phrases": [],
+            "synonyms": {
+                "airborne": { "translation": "空中的；在飞行中的", "diffs": "airborne 强调“正在空中飞行”；aerial 更泛指“与空中相关的”。", "sentences": [{ "en": "The troops were airborne within minutes of the order.", "zh": "部队在接到命令后几分钟内就升空了。" }] },
+                "overhead": { "translation": "头顶上的；高处的", "diffs": "overhead 指“在上方”；aerial 可指空中视角、航空器等更广含义。", "sentences": [{ "en": "Birds circled overhead in the clear sky.", "zh": "鸟儿在晴朗的天空中盘旋。" }] }
+            },
+            "antonyms": {
+                "ground": { "translation": "地面的", "diffs": "ground 与 aerial 相对，指在地面或与地面相关。", "sentences": [{ "en": "Ground forces advanced after the aerial bombardment.", "zh": "空袭过后，地面部队开始推进。" }] }
+            },
+            "inflections": {}
+        },
+        {
+            "translation": "天线",
+            "partOfSpeech": { "en": "noun", "en_simple": "n.", "ch": "名词" },
+            "usage_note": "可数名词。主要用于英式英语，美式英语多用 antenna。用于接收或发射无线电、电视信号。",
+            "sentences": [
+                { "en": "We need to fix the TV aerial — the signal is very weak.", "zh": "我们得修一下电视天线，信号很弱。" },
+                { "en": "The old aerial on the roof was damaged in the storm.", "zh": "屋顶上的旧天线在暴风雨中损坏了。" },
+                { "en": "He climbed onto the roof to adjust the aerial for better reception.", "zh": "他爬上屋顶调整天线以获得更好的接收效果。" }
+            ],
+            "collocations": [
+                { "collocation": "TV aerial", "translation": "电视天线", "sentences": [{ "en": "The TV aerial needs to be pointed toward the transmitter.", "zh": "电视天线需要对准发射塔方向。" }] },
+                { "collocation": "rooftop aerial", "translation": "屋顶天线", "sentences": [{ "en": "The rooftop aerial was visible from the street below.", "zh": "从下面的街道可以看到屋顶天线。" }] }
+            ],
+            "phrases": [],
+            "synonyms": {
+                "antenna": { "translation": "天线", "diffs": "antenna 为美式用语，也用于昆虫触角；aerial 主要为英式用语。", "sentences": [{ "en": "The antenna on the car improves radio reception.", "zh": "车上的天线改善了收音机接收效果。" }] }
+            },
+            "antonyms": {},
+            "inflections": { "plural": "aerials" }
+        }
+    ],
+    "etymology": { "origin": "源自拉丁语 āērius（空气中的），来自希腊语 āēr（空气）。", "root": "aer-（空气）", "affixes": ["-ial（形容词后缀，表“与…相关的”）"] },
+    "related_words": {
+        "aerialist": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "空中飞人；高空杂技演员", "rule": "aerial + -ist（从事…的人）", "sentences": [{ "en": "The aerialist performed breathtaking acrobatics on the trapeze.", "zh": "空中飞人在秋千上表演了令人屏息的杂技。" }] },
+        "aerially": { "class": { "en": "adverb", "en_s": "adv.", "ch": "副词" }, "translation": "空中地；由航空地", "rule": "aerial 的副词形式", "sentences": [{ "en": "The seeds are dispersed aerially by the wind.", "zh": "种子由风在空中传播。" }] }
+    },
+    "idioms": [],
+    "common_mistakes": [
+        { "wrong": "aerial view from ground", "correct": "aerial view / view from the air", "explain": "aerial view 即“从空中看的视角”，不必再加 from ground；若从地面看则用 ground-level view。" }
+    ],
+    "mnemonics": [
+        { "type": "词根联想", "content": "aer-（空气）+ -ial → 与空气相关的 → 空中的；天线（接收空中电波）。" }
+    ]
+}

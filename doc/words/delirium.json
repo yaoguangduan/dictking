@@ -1,0 +1,83 @@
+{
+  "word": "delirium",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/dɪˈlɪriəm/",
+    "us": "/dɪˈlɪriəm/"
+  },
+  "definitions": [
+    {
+      "translation": "谵妄；精神错乱；极度兴奋",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "不可数名词。医学术语指急性意识障碍、定向力障碍、幻觉等；也可喻指集体狂热或极度兴奋状态。",
+      "sentences": [
+        {"en": "High fever can cause delirium in young children.", "zh": "高烧可能导致幼儿谵妄。"},
+        {"en": "The patient slipped into delirium and began hallucinating.", "zh": "病人陷入谵妄，开始产生幻觉。"},
+        {"en": "The crowd was in delirium when their team scored the winning goal.", "zh": "当球队打入制胜球时，人群陷入狂喜。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "in delirium",
+          "translation": "处于谵妄/狂喜中",
+          "pattern": "介词+名词",
+          "explain": "描述谵妄或狂热状态",
+          "sentences": [{"en": "She was in delirium from the infection.", "zh": "她因感染而处于谵妄状态。"}]
+        },
+        {
+          "collocation": "delirium tremens",
+          "translation": "震颤性谵妄（酒精戒断综合征）",
+          "pattern": "名词+名词",
+          "explain": "医学术语，酒精依赖者戒断时的严重症状",
+          "sentences": [{"en": "Delirium tremens is a serious withdrawal symptom in heavy drinkers.", "zh": "震颤性谵妄是重度饮酒者戒断时的严重症状。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "derangement": {"translation": "精神错乱", "diffs": "derangement 较正式；delirium 更常用于急性、暂时性障碍"},
+        "euphoria": {"translation": "欣快，极度兴奋", "diffs": "euphoria 多指正向亢奋；delirium 可含病态或混乱之意"}
+      },
+      "antonyms": {
+        "lucidity": {"translation": "神志清醒", "diffs": "指思维清晰、意识正常"}
+      },
+      "inflections": {}
+    }
+  ],
+  "etymology": {
+    "origin": "源自拉丁语 delirium，来自 delirare，意为“偏离直线”（de- 离开 + lira 犁沟、田垄），引申为“偏离理性”。",
+    "root": "拉丁语 lira（犁沟，直线）",
+    "affixes": ["de-（离开，偏离）", "-ium（名词后缀）"],
+    "history": "delirare 本指牛离开犁沟乱走，比喻人“偏离正轨、神志不清”。罗马人用此词形容精神错乱，英语 delirium 承袭此义。"
+  },
+  "related_words": {
+    "delirious": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "谵妄的；极度兴奋的",
+      "rule": "delirium 的形容词形式",
+      "sentences": [{"en": "The fever made him delirious.", "zh": "高烧使他神志不清。"}]
+    },
+    "delude": {
+      "class": {"en": "verb", "en_s": "v.", "ch": "动词"},
+      "translation": "欺骗，使错觉",
+      "rule": "与 delirium 同源（de- + ludere 玩），指使人偏离真相",
+      "sentences": [{"en": "Don't delude yourself into thinking it will be easy.", "zh": "别自欺欺人地以为这会很容易。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "a delirium",
+      "correct": "delirium / a state of delirium",
+      "explain": "delirium 通常作不可数名词；若要强调“一场/一次”可用 a state of delirium 或 an episode of delirium。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "de-（偏离）+ lira（犁沟）→ 牛偏离犁沟乱走 → 比喻人偏离理性、精神错乱 → 谵妄。"
+    }
+  ]
+}

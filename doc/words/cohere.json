@@ -1,0 +1,367 @@
+{
+  "word": "cohere",
+  "created_at": "2026-02-13T02:00:00Z",
+  "phonetic": {
+    "uk": "/kəʊˈhɪə/",
+    "us": "/koʊˈhɪr/"
+  },
+  "definitions": [
+    {
+      "translation": "粘合；粘结；（物理上）凝聚在一起",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "不及物动词。指两个或多个事物物理上粘在一起、紧密相连。常与 with 连用。过去式/过去分词：cohered；现在分词：cohering；第三人称：coheres。",
+      "sentences": [
+        {
+          "en": "The dry ingredients failed to cohere into a proper dough.",
+          "zh": "干性材料未能粘合成合适的面团。"
+        },
+        {
+          "en": "When wet, the clay particles cohere and form a solid mass.",
+          "zh": "潮湿时，粘土颗粒会粘合在一起形成固体块。"
+        },
+        {
+          "en": "The wax and resin cohere tightly when heated.",
+          "zh": "蜡和树脂加热后会紧密粘合。"
+        }
+      ],
+      "collocations": [
+        {
+          "collocation": "cohere with",
+          "translation": "与…粘合；与…凝聚",
+          "pattern": "动词+介词",
+          "explain": "表示某物与另一物物理上粘在一起",
+          "sentences": [
+            {
+              "en": "The layers of sediment cohere with one another under pressure.",
+              "zh": "沉积层在压力下相互粘合在一起。"
+            }
+          ]
+        },
+        {
+          "collocation": "fail to cohere",
+          "translation": "无法粘合；未能凝聚",
+          "pattern": "动词短语",
+          "explain": "指材料或成分无法结合在一起",
+          "sentences": [
+            {
+              "en": "Without a binding agent, the mixture failed to cohere.",
+              "zh": "没有粘合剂，混合物无法粘合。"
+            }
+          ]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "adhere": {
+          "translation": "粘附；附着",
+          "diffs": "adhere 指一物粘附于另一物（单向）；cohere 指多个部分相互粘合（互向、整体凝聚）",
+          "sentences": [
+            {
+              "en": "The sticker adheres to the glass surface.",
+              "zh": "贴纸粘附在玻璃表面上。"
+            }
+          ]
+        },
+        "bond": {
+          "translation": "结合；粘合",
+          "diffs": "bond 可用作及物或不及物；cohere 仅不及物，强调各部分自发凝聚成一体",
+          "sentences": [
+            {
+              "en": "The materials bond when the adhesive dries.",
+              "zh": "粘合剂干透后，材料就会结合在一起。"
+            }
+          ]
+        },
+        "unite": {
+          "translation": "联合；结合",
+          "diffs": "unite 多用于人或组织；cohere 多用于物质或抽象元素，强调自然凝聚",
+          "sentences": [
+            {
+              "en": "The colonies united to form a single nation.",
+              "zh": "各殖民地联合起来组成一个国家。"
+            }
+          ]
+        },
+        "connect": {
+          "translation": "连接",
+          "diffs": "connect 强调建立联系或纽带；cohere 强调内在凝聚力，无需外物连接",
+          "sentences": [
+            {
+              "en": "A bridge connects the two banks of the river.",
+              "zh": "一座桥连接河流的两岸。"
+            }
+          ]
+        }
+      },
+      "antonyms": {
+        "separate": {
+          "translation": "分离；分开",
+          "diffs": "separate 使原本一起的事物分开；cohere 使事物凝聚在一起",
+          "sentences": [
+            {
+              "en": "The mixture separates when left standing.",
+              "zh": "混合物静置后会分层分离。"
+            }
+          ]
+        },
+        "disintegrate": {
+          "translation": "瓦解；碎散",
+          "diffs": "disintegrate 指整体破碎成多个部分；cohere 指部分凝聚成整体",
+          "sentences": [
+            {
+              "en": "The old document disintegrated when touched.",
+              "zh": "这份旧文件一碰就碎散了。"
+            }
+          ]
+        }
+      },
+      "inflections": {
+        "past_tense": "cohered",
+        "past_participle": "cohered",
+        "present_participle": "cohering",
+        "third_person": "coheres"
+      }
+    },
+    {
+      "translation": "连贯；一致；形成统一整体；（逻辑上）前后一致",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "不及物动词。指论点、叙事、观点等在逻辑上连贯一致，各部分紧密衔接形成统一整体。常用于抽象语境。",
+      "sentences": [
+        {
+          "en": "Her argument doesn't cohere—the conclusion doesn't follow from the premises.",
+          "zh": "她的论点不连贯——结论无法从前提得出。"
+        },
+        {
+          "en": "The various strands of the novel cohere into a powerful narrative.",
+          "zh": "小说的多条线索连贯成一个有力的叙事整体。"
+        },
+        {
+          "en": "For the theory to work, all its components must cohere logically.",
+          "zh": "要让理论成立，其所有组成部分必须在逻辑上一致。"
+        }
+      ],
+      "collocations": [
+        {
+          "collocation": "cohere into",
+          "translation": "连贯成；凝聚成",
+          "pattern": "动词+介词",
+          "explain": "表示分散的部分形成统一的整体",
+          "sentences": [
+            {
+              "en": "The evidence coheres into a clear picture of what happened.",
+              "zh": "证据连贯起来，清楚地呈现出发生的一切。"
+            }
+          ]
+        },
+        {
+          "collocation": "fail to cohere",
+          "translation": "不连贯；缺乏一致性",
+          "pattern": "动词短语",
+          "explain": "指论述、叙事等在逻辑上无法形成统一整体",
+          "sentences": [
+            {
+              "en": "His ideas are interesting but fail to cohere into a coherent philosophy.",
+              "zh": "他的观点很有趣，但未能连贯成一套完整的哲学。"
+            }
+          ]
+        }
+      ],
+      "phrases": [
+        {
+          "phrase": "cohere with",
+          "translation": "与…一致；与…相吻合",
+          "sentences": [
+            {
+              "en": "His actions cohere with his stated principles.",
+              "zh": "他的行为与他所宣称的原则是一致的。"
+            }
+          ]
+        }
+      ],
+      "synonyms": {
+        "hang together": {
+          "translation": "前后一致；说得通",
+          "diffs": "hang together 较口语化；cohere 更正式，偏书面",
+          "sentences": [
+            {
+              "en": "Her story doesn't quite hang together.",
+              "zh": "她的说法前后不太一致。"
+            }
+          ]
+        },
+        "consist": {
+          "translation": "由…组成；一致",
+          "diffs": "consist 常用于 consist of（由…组成）；cohere 强调各部分内在逻辑上的统一",
+          "sentences": [
+            {
+              "en": "The report consists of three main sections.",
+              "zh": "报告由三个主要部分组成。"
+            }
+          ]
+        }
+      },
+      "antonyms": {
+        "diverge": {
+          "translation": "分歧；偏离",
+          "diffs": "diverge 指观点或路径分叉、不一致；cohere 指凝聚、一致",
+          "sentences": [
+            {
+              "en": "Their opinions diverge on this issue.",
+              "zh": "他们在这个问题上意见分歧。"
+            }
+          ]
+        },
+        "contradict": {
+          "translation": "与…矛盾",
+          "diffs": "contradict 指相互冲突；cohere 指和谐一致",
+          "sentences": [
+            {
+              "en": "The new evidence contradicts his earlier statement.",
+              "zh": "新证据与他先前的陈述相矛盾。"
+            }
+          ]
+        }
+      },
+      "inflections": {
+        "past_tense": "cohered",
+        "past_participle": "cohered",
+        "present_participle": "cohering",
+        "third_person": "coheres"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自拉丁语 cohaerēre（粘合、紧连），由 co-（together，一起）+ haerēre（to stick，粘、附着）构成。",
+    "root": "haer- / haes-（粘、附着）",
+    "affixes": [
+      "co-（拉丁语前缀：一起、共同）",
+      "haerēre（拉丁语：粘、附着）",
+      "-e（动词词尾）"
+    ],
+    "history": "haerēre 本义为「粘住、附着」，加 co- 表「一起粘着」，引申为物理上的粘合及逻辑上的连贯一致。"
+  },
+  "related_words": {
+    "coherent": {
+      "class": {
+        "en": "adjective",
+        "en_s": "adj.",
+        "ch": "形容词"
+      },
+      "translation": "连贯的；有条理的；一致的",
+      "rule": "cohere 的形容词形式，描述具有连贯性的状态",
+      "sentences": [
+        {
+          "en": "She gave a coherent account of what had happened.",
+          "zh": "她对所发生的事给出了连贯的叙述。"
+        },
+        {
+          "en": "The government lacks a coherent economic policy.",
+          "zh": "政府缺乏一套连贯的经济政策。"
+        }
+      ]
+    },
+    "coherence": {
+      "class": {
+        "en": "noun",
+        "en_s": "n.",
+        "ch": "名词"
+      },
+      "translation": "连贯性；一致性；条理性",
+      "rule": "cohere 的名词形式，指连贯、一致的性质或状态",
+      "sentences": [
+        {
+          "en": "The essay lacks coherence—the paragraphs don't flow logically.",
+          "zh": "这篇文章缺乏连贯性——各段落逻辑上不衔接。"
+        },
+        {
+          "en": "The coherence of his argument made it persuasive.",
+          "zh": "他论点的连贯性使其具有说服力。"
+        }
+      ]
+    },
+    "cohesion": {
+      "class": {
+        "en": "noun",
+        "en_s": "n.",
+        "ch": "名词"
+      },
+      "translation": "凝聚力；内聚力；团结",
+      "rule": "与 cohere 同源（拉丁语 cohaesio），多指群体或物质的凝聚力",
+      "sentences": [
+        {
+          "en": "Team cohesion is essential for success.",
+          "zh": "团队凝聚力对成功至关重要。"
+        },
+        {
+          "en": "The cohesion of the molecules determines the liquid's viscosity.",
+          "zh": "分子的内聚力决定了液体的粘度。"
+        }
+      ]
+    },
+    "cohesive": {
+      "class": {
+        "en": "adjective",
+        "en_s": "adj.",
+        "ch": "形容词"
+      },
+      "translation": "有凝聚力的；团结的；紧密结合的",
+      "rule": "cohesion 的形容词形式，描述具有凝聚力的",
+      "sentences": [
+        {
+          "en": "They formed a cohesive unit under the new manager.",
+          "zh": "在新经理的领导下，他们形成了一个团结的整体。"
+        }
+      ]
+    },
+    "incoherent": {
+      "class": {
+        "en": "adjective",
+        "en_s": "adj.",
+        "ch": "形容词"
+      },
+      "translation": "不连贯的；语无伦次的；缺乏条理的",
+      "rule": "coherent 的反义词，in-（否定）+ coherent",
+      "sentences": [
+        {
+          "en": "He was drunk and incoherent.",
+          "zh": "他喝醉了，说话语无伦次。"
+        },
+        {
+          "en": "The letter was full of incoherent ramblings.",
+          "zh": "这封信满是语无伦次的絮叨。"
+        }
+      ]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "confuse cohere with adhere",
+      "correct": "distinguish cohere from adhere",
+      "explain": "cohere 指多个部分相互粘合、凝聚成一体（互向）；adhere 指一物粘附于另一物（单向）。如：The paint adheres to the wall（漆粘在墙上）；The particles cohere（颗粒粘合在一起）。"
+    },
+    {
+      "wrong": "cohere something",
+      "correct": "cohere (intransitive)",
+      "explain": "cohere 是不及物动词，不能直接接宾语。不能说 cohere the parts，应说 the parts cohere 或 use a transitive alternative like bind/attach the parts together。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "co-（一起）+ haer-（粘）+ -e → 一起粘着 → 粘合、连贯。与 adhere（ad- 朝… + haer 粘）、cohesion（凝聚力）同源。"
+    },
+    {
+      "type": "联想记忆",
+      "content": "cohere 与 coherent、coherence 同族。记 coherent（连贯的）→ cohere 即「使具有连贯性」或「变得连贯」的动作。"
+    }
+  ]
+}

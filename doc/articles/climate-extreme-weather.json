@@ -1,0 +1,63 @@
+{
+    "title": "Extreme Weather in 2025: Unequal Impacts and Limits to Adaptation",
+    "title_zh": "2025年极端天气：不平等的影响与适应的局限",
+    "author": "World Weather Attribution",
+    "source": "World Weather Attribution / Copernicus Climate",
+    "created_at": "2025-12-15T00:00:00Z",
+    "difficulty": "easy",
+    "tags": ["climate change", "extreme weather", "heatwave", "adaptation", "Paris Agreement"],
+    "summary": "Although 2025 was slightly cooler than 2024 globally, it was still among the hottest years on record. Heatwaves, floods, storms, droughts and wildfires claimed thousands of lives and displaced millions. Since the Paris Agreement in 2015, global warming has increased by 0.3°C, adding approximately 11 extra hot days per year. The impacts fall disproportionately on marginalised communities.",
+    "summary_zh": "尽管2025年全球气温略低于2024年，仍是有记录以来最热的年份之一。热浪、洪水、风暴、干旱和野火夺去了数千人的生命，使数百万人流离失所。自2015年《巴黎协定》以来，全球变暖已增加0.3°C，平均每年多出约11个炎热日。影响不成比例地落在边缘化社区身上。",
+    "paragraphs": [
+        {
+            "en": "Every December we are asked the same question: was it a bad year for extreme weather? And each year, the answer becomes more unequivocal: yes. Fossil fuel emissions continue to rise, driving global temperatures upward and fueling increasingly destructive climate extremes across every continent. Although 2025 was slightly cooler than 2024 globally, it was still far hotter than almost any other year on record, and the impacts of this hotness were unmistakable.",
+            "zh": "每年十二月我们都会被问到同一个问题：今年极端天气是否严重？每年的答案都更加明确：是的。化石燃料排放持续上升，推动全球气温升高，并在每个大陆引发日益破坏性的气候极端事件。尽管2025年全球气温略低于2024年，但仍远高于几乎所有其他有记录的年份，这种高温的影响显而易见。",
+            "keywords": ["unequivocal", "fueling", "unmistakable", "extremes"],
+            "notes": [{"phrase": "fuel increasingly destructive", "explain": "引发日益破坏性的，fuel 作动词表示助长、加剧"}, {"phrase": "unmistakable", "explain": "显而易见的， unmistakable 表示无法误认的、明显的"}]
+        },
+        {
+            "en": "In 2025, extreme weather events continued to occur at concerning levels. Although natural modes of climate variability, such as El Niño, were in a cooler phase, human-driven greenhouse gas emissions meant global temperatures remained exceptionally high. These elevated temperatures intensified prolonged heatwaves, worsened drought conditions and fire weather, and increased the extreme rainfall and winds associated with severe storms and floods that resulted in thousands of fatalities and displaced millions of people.",
+            "zh": "2025年，极端天气事件继续以令人担忧的水平发生。尽管厄尔尼诺等气候变化的自然模式处于较冷阶段，但人类排放的温室气体使全球气温保持异常高位。这些升高的气温加剧了持久的热浪，恶化了干旱条件和火灾天气，并增加了与严重风暴和洪水相关的极端降雨和风力，导致数千人死亡、数百万人流离失所。",
+            "keywords": ["variability", "fatalities", "displaced", "intensified"],
+            "notes": [{"phrase": "natural modes of variability", "explain": "气候变化的自然模式，如厄尔尼诺、拉尼娜"}, {"phrase": "fire weather", "explain": "火灾天气，指有利于野火发生的高温干燥条件"}]
+        },
+        {
+            "en": "Since 2015, when the Paris Agreement was signed, global warming has increased by 0.3°C. This seemingly small rise has already made extreme heat significantly more frequent, adding 11 extra hot days per year on average, and is projected to dramatically escalate with further warming. If policies are fully implemented, the Paris Agreement has helped lower projected warming from 4°C to 2.6°C—a substantial decrease that would nonetheless create a dangerously hot world.",
+            "zh": "自2015年《巴黎协定》签署以来，全球变暖已增加0.3°C。这一看似微小的上升已使极端高温显著更频繁，平均每年多出11个炎热日，预计随着进一步变暖将急剧升级。如果政策得到全面实施，《巴黎协定》已将预测的变暖从4°C降至2.6°C——这是一个实质性的下降，但仍将创造一个危险炎热的世界。",
+            "keywords": ["escalate", "projected", "substantial", "nonetheless"],
+            "notes": [{"phrase": "dramatically escalate", "explain": "急剧升级， escalate 表示逐步升级"}, {"phrase": "nonetheless", "explain": "尽管如此，表示转折"}]
+        },
+        {
+            "en": "The impacts of 2025's extreme events are driven by local, context-specific vulnerabilities, but in many cases we find the same patterns across the world. A study in South Sudan highlighted that women are disproportionately affected by extreme heat due to their concentration in informal, heat-exposed work such as agriculture and street vending, along with having limited resources and low literacy rates. Globally, women carry an unequal burden due to their underrepresentation in leadership and unpaid caring responsibilities, often increasing their exposure to dangerously high temperatures.",
+            "zh": "2025年极端事件的影响由局部的、特定情境下的脆弱性所驱动，但在许多案例中我们在全球发现了相同的模式。南苏丹的一项研究强调，妇女不成比例地受到极端高温影响，因为她们集中于农业和街头贩卖等非正式、暴露于高温的工作，且资源有限、识字率低。在全球范围内，妇女因在领导层中代表性不足和无酬护理责任而承担不成比例的负担，往往增加她们暴露于危险高温的机会。",
+            "keywords": ["vulnerability", "disproportionately", "literacy", "exposure"],
+            "notes": [{"phrase": "disproportionately affected", "explain": "不成比例地受影响，指某些群体受害更深"}, {"phrase": "unpaid caring responsibilities", "explain": "无酬护理责任，指家庭照护等 unpaid 工作"}]
+        },
+        {
+            "en": "This year highlighted again, in stark terms, how unfairly the consequences of human-induced climate change are distributed, consistently hitting those who are already marginalised within their societies the hardest. But the inequity goes deeper: the scientific evidence base itself is uneven. Many studies focused on heavy rainfall events in the Global South, and time and again gaps in observational data and the reliance on climate models developed primarily for the Global North prevented researchers from drawing confident conclusions.",
+            "zh": "今年再次以严峻的方式凸显了人类引起的气候变化后果分配得多么不公，持续对那些在社会中本已边缘化的人打击最重。但不平等更为深远：科学证据基础本身就不均衡。许多研究关注南半球的强降雨事件，而观测数据的缺口以及对主要为北半球开发的气候模型的依赖，屡次阻碍研究人员得出有把握的结论。",
+            "keywords": ["stark", "marginalised", "inequity", "observational"],
+            "notes": [{"phrase": "in stark terms", "explain": "以严峻的方式，stark 表示 stark、赤裸裸"}, {"phrase": "evidence base", "explain": "证据基础，指支撑结论的科学数据"}]
+        },
+        {
+            "en": "The events of 2025 make it clear that while we urgently need to transition away from fossil fuels, we also must invest in adaptation measures. Many deaths and other impacts could be prevented with timely action. But events like Hurricane Melissa highlight the limits of preparedness and adaptation: when an intense storm strikes small islands such as Jamaica and other Caribbean nations, even relatively high levels of preparedness cannot prevent extreme losses and damage. Adaptation alone is not enough; rapid emission reductions remain essential to avoid the worst impacts of climate change.",
+            "zh": "2025年的事件明确表明，我们既迫切需要从化石燃料转型，也必须投资适应措施。许多死亡和其他影响可通过及时行动得以预防。但梅利莎飓风等事件凸显了准备工作和适应的局限：当强风暴袭击牙买加等小岛屿和加勒比其他国家时，即使准备工作水平相对较高，也无法避免极端损失和破坏。仅靠适应是不够的；快速减排对于避免气候变化的最严重影响仍然至关重要。",
+            "keywords": ["adaptation", "preparedness", "transition", "emission"],
+            "notes": [{"phrase": "limits of adaptation", "explain": "适应的局限，指有些损失无法通过适应来避免"}, {"phrase": "transition away from", "explain": "从...转型离开，指逐步摒弃某种能源或做法"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "unequivocal", "phonetic": "/ˌʌnɪˈkwɪvəkl/", "meaning": "明确的；毫不含糊的", "partOfSpeech": "adj.", "example": "The answer becomes more unequivocal each year: yes."},
+        {"word": "fatalities", "phonetic": "/fəˈtælətiz/", "meaning": "死亡人数", "partOfSpeech": "n.", "example": "Severe storms resulted in thousands of fatalities."},
+        {"word": "escalate", "phonetic": "/ˈeskəleɪt/", "meaning": "升级；加剧", "partOfSpeech": "v.", "example": "Extreme heat is projected to dramatically escalate with further warming."},
+        {"word": "vulnerability", "phonetic": "/ˌvʌlnərəˈbɪləti/", "meaning": "脆弱性", "partOfSpeech": "n.", "example": "Impacts are driven by local, context-specific vulnerabilities."},
+        {"word": "disproportionately", "phonetic": "/ˌdɪsprəˈpɔːʃənətli/", "meaning": "不成比例地", "partOfSpeech": "adv.", "example": "Women are disproportionately affected by extreme heat."},
+        {"word": "marginalised", "phonetic": "/ˈmɑːdʒɪnəlaɪzd/", "meaning": "被边缘化的", "partOfSpeech": "adj.", "example": "Those already marginalised within their societies are hit the hardest."},
+        {"word": "adaptation", "phonetic": "/ˌædæpˈteɪʃn/", "meaning": "适应", "partOfSpeech": "n.", "example": "We must invest in adaptation measures alongside emission cuts."}
+    ],
+    "discussion_questions": [
+        {"en": "The report says 0.3°C of warming since 2015 has added 11 extra hot days per year. Why might such a \"small\" temperature increase have such significant effects?", "zh": "报告称自2015年以来0.3°C的变暖使每年多出11个炎热日。为什么这样「微小」的升温可能产生如此显著的影响？"},
+        {"en": "Women and marginalised communities are disproportionately affected by extreme heat. What policies could help address this inequity?", "zh": "妇女和边缘化社区不成比例地受极端高温影响。什么政策可以帮助解决这种不平等？"},
+        {"en": "Hurricane Melissa showed that even high preparedness cannot prevent extreme losses on small islands. What does this suggest about the limits of adaptation versus the need for emission cuts?", "zh": "梅利莎飓风表明，即使高水平准备也无法避免小岛屿上的极端损失。这说明适应局限与减排需求之间有什么关系？"}
+    ]
+}

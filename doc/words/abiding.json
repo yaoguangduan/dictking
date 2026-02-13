@@ -1,0 +1,92 @@
+{
+  "word": "abiding",
+  "created_at": "2026-02-12T08:00:00.000Z",
+  "phonetic": {
+    "uk": "/əˈbaɪdɪŋ/",
+    "us": "/əˈbaɪdɪŋ/"
+  },
+  "definitions": [
+    {
+      "translation": "持久的；永久的；不变的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "仅作定语。形容经久不变、持续存在的感情、信念、记忆等。常与 interest, faith, memory 等连用。",
+      "sentences": [
+        {"en": "She has an abiding love for classical music.", "zh": "她对古典音乐有着持久的喜爱。"},
+        {"en": "He left an abiding impression on all who met him.", "zh": "他给所有见过他的人留下了持久的印象。"},
+        {"en": "Their abiding friendship lasted for more than fifty years.", "zh": "他们持久的友谊延续了五十多年。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "abiding interest",
+          "translation": "持久的兴趣",
+          "pattern": "形容词+名词",
+          "explain": "常用搭配",
+          "sentences": [{"en": "He has an abiding interest in history.", "zh": "他对历史有着持久的兴趣。"}]
+        },
+        {
+          "collocation": "abiding faith",
+          "translation": "坚定的信念",
+          "pattern": "形容词+名词",
+          "explain": "常用于信仰、信念",
+          "sentences": [{"en": "Her abiding faith in justice never wavered.", "zh": "她对正义的坚定信念从未动摇。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "lasting": {
+          "translation": "持久的；永恒的",
+          "diffs": "lasting 较通用；abiding 更正式，多用于感情、信念",
+          "sentences": [{"en": "The war had a lasting effect on the region.", "zh": "战争对该地区产生了持久影响。"}]
+        },
+        "enduring": {
+          "translation": "持久的；耐久的",
+          "diffs": "enduring 强调经受考验而持久；abiding 强调持续不变",
+          "sentences": [{"en": "Their enduring love inspired many.", "zh": "他们持久的爱情激励了许多人。"}]
+        }
+      },
+      "antonyms": {
+        "fleeting": {"translation": "短暂的；转瞬即逝的", "diffs": "指很快消失"},
+        "temporary": {"translation": "暂时的", "diffs": "指非持久的"}
+      },
+      "inflections": {}
+    }
+  ],
+  "etymology": {
+    "origin": "来自动词 abide（持续、忍受）的现在分词，用作形容词。abide 源自古英语 ābīdan（等待、停留）。",
+    "root": "bid-（等待、停留，日耳曼语根）",
+    "affixes": ["a-（加强前缀）", "-ing（现在分词作形容词）"],
+    "history": "abide 原义为“等待、停留”，引申为“持续存在、遵守”。abiding 为其现在分词，用作形容词表“持久的”。"
+  },
+  "related_words": {
+    "abide": {
+      "class": {"en": "verb", "en_s": "v.", "ch": "动词"},
+      "translation": "遵守；忍受；持续",
+      "rule": "abiding 的动词原形",
+      "sentences": [{"en": "We must abide by the rules.", "zh": "我们必须遵守规则。"}]
+    },
+    "abode": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "住所；住处",
+      "rule": "abide 的旧式过去式/过去分词，现多作名词",
+      "sentences": [{"en": "He had no fixed abode.", "zh": "他没有固定住所。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "abiding the rules",
+      "correct": "abide by the rules（遵守规则）",
+      "explain": "abiding 作形容词意为“持久的”，不接宾语。表示“遵守”时用动词 abide by，不用 abiding。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "联想记忆",
+      "content": "abide（持续）+ -ing（形容词）→ 持续存在的 → 持久的。abiding 与 “a bid to last”（持续下去的尝试）联想。"
+    }
+  ]
+}

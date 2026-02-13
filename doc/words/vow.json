@@ -1,0 +1,123 @@
+{
+  "word": "vow",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/vaʊ/",
+    "us": "/vaʊ/"
+  },
+  "definitions": [
+    {
+      "translation": "誓言；誓约",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。指郑重许下的承诺，常用于婚姻、宗教、献身等语境。",
+      "sentences": [
+        {"en": "The couple exchanged vows in a traditional ceremony.", "zh": "这对夫妇在传统仪式上交换了誓言。"},
+        {"en": "He made a solemn vow to never lie again.", "zh": "他郑重发誓不再说谎。"},
+        {"en": "Monks take vows of poverty, chastity, and obedience.", "zh": "僧侣立下贫困、贞洁和服从的誓约。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "take/make a vow",
+          "translation": "立誓，发誓",
+          "pattern": "动词+名词",
+          "explain": "常用搭配",
+          "sentences": [{"en": "She took a vow of silence for a year.", "zh": "她立下一年内禁言的誓约。"}]
+        },
+        {
+          "collocation": "wedding vows",
+          "translation": "结婚誓言",
+          "pattern": "名词+名词",
+          "explain": "婚礼常用",
+          "sentences": [{"en": "They wrote their own wedding vows.", "zh": "他们自己撰写了结婚誓言。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "oath": {"translation": "誓言，宣誓", "diffs": "oath 常用于法律、公务；vow 多用于宗教、婚姻、个人承诺"},
+        "pledge": {"translation": "誓言，承诺", "diffs": "pledge 可较 informal；vow 通常更庄重"}
+      },
+      "antonyms": {},
+      "inflections": {"plural": "vows"}
+    },
+    {
+      "translation": "发誓；立誓",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "及物或不及物动词。指郑重承诺做某事或不做某事。",
+      "sentences": [
+        {"en": "He vowed to find the truth.", "zh": "他发誓要查明真相。"},
+        {"en": "She vowed never to speak to him again.", "zh": "她发誓再也不跟他说话。"},
+        {"en": "They vowed eternal love to each other.", "zh": "他们彼此发誓永远相爱。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "vow to do something",
+          "translation": "发誓做某事",
+          "pattern": "动词+不定式",
+          "explain": "常见结构",
+          "sentences": [{"en": "He vowed to change his ways.", "zh": "他发誓要改过自新。"}]
+        },
+        {
+          "collocation": "vow revenge",
+          "translation": "发誓复仇",
+          "pattern": "动词+名词",
+          "explain": "常见搭配",
+          "sentences": [{"en": "She vowed revenge on those who wronged her.", "zh": "她发誓要向那些冤枉她的人报仇。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "swear": {"translation": "发誓", "diffs": "swear 可更口语；vow 略正式、庄重"},
+        "pledge": {"translation": "承诺，发誓", "diffs": "pledge 作动词时与 vow 接近"}
+      },
+      "antonyms": {},
+      "inflections": {
+        "past_tense": "vowed",
+        "past_participle": "vowed",
+        "present_participle": "vowing",
+        "third_person": "vows"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "源自拉丁语 votum（愿望，誓约），来自 vovere（发誓，许愿）。经古法语 vou 传入英语。",
+    "root": "拉丁语 vov-（发誓，许愿）",
+    "affixes": [],
+    "history": "votum 在拉丁语中指向神许下的愿或誓言，vow 承袭此义，后扩大至一般性郑重承诺。"
+  },
+  "related_words": {
+    "devote": {
+      "class": {"en": "verb", "en_s": "v.", "ch": "动词"},
+      "translation": "致力于，献身于",
+      "rule": "与 vow 同根（拉丁语 devovere，de- + vovere），指以誓约般的态度投入",
+      "sentences": [{"en": "She devoted her life to helping the poor.", "zh": "她毕生致力于帮助穷人。"}]
+    },
+    "votive": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "还愿的，许愿的",
+      "rule": "与 vow 同根，描述与誓愿相关的事物",
+      "sentences": [{"en": "Pilgrims leave votive offerings at the shrine.", "zh": "朝圣者在神龛留下还愿供品。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "vow that he will do",
+      "correct": "vow to do / vow that he would do",
+      "explain": "vow 后接 that 从句时，从句动词常用 would（与主句时态一致）；更常见的是 vow to do。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根联想",
+      "content": "vow 与 devote（献身）同源 → 献身前需“发誓” → vow 即誓言、发誓。"
+    }
+  ]
+}

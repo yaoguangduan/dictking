@@ -1,0 +1,63 @@
+{
+    "title": "Can You Ban Kids From Social Media? Australia Tries, But Teens Stay Ahead",
+    "title_zh": "你能禁止孩子使用社交媒体吗？澳大利亚正在尝试，但青少年早已应对自如",
+    "author": "Tiffanie Turnbull",
+    "source": "BBC News",
+    "created_at": "2025-12-06",
+    "difficulty": "easy",
+    "tags": ["social media", "mental health", "regulation", "teens", "Australia"],
+    "summary": "Australia's landmark social media ban for under-16s faces serious implementation challenges. A 13-year-old bypassed age verification in minutes, while experts warn the policy could isolate vulnerable children and push others into less-regulated corners of the web.",
+    "summary_zh": "澳大利亚针对16岁以下人群的社交媒体禁令面临严峻执行挑战。一名13岁少年在几分钟内就绕过了年龄验证，而专家警告该政策可能孤立弱势儿童，并迫使其他人流向监管较少的网络角落。",
+    "paragraphs": [
+        {
+            "en": "It took 13-year-old Isobel less than five minutes to outsmart Australia's \"world-leading\" social media ban for children. A notification from Snapchat, one of the ten platforms affected, had lit up her screen, warning she would be booted off when the law kicked in—if she could not prove she was over 16. \"I got a photo of my mum, and I stuck it in front of the camera and it just let me through. It said thanks for verifying your age,\" Isobel claims.",
+            "zh": "13岁的伊莎贝尔用了不到五分钟就绕过了澳大利亚的「世界领先」儿童社交媒体禁令。受影响的十大平台之一 Snapchat 发来通知，提醒她若无法证明自己已满16岁，法律生效时就会被踢出。伊莎贝尔说：「我用妈妈的照片对着摄像头，它就让我通过了，还说感谢您验证年龄。」",
+            "keywords": ["social media ban", "outsmart", "age verification", "Snapchat", "platforms"],
+            "notes": [{"phrase": "kick in", "explain": "生效；开始起作用"}, {"phrase": "boot off", "explain": "踢出、强制下线"}]
+        },
+        {
+            "en": "Though her mother Mel had let Isobel use TikTok and Snapchat with tight supervision—preferring that to the teenager using it covertly—she had been hoping the ban would help parents like her protect children from the dangers of the online world. That hope has now wavered, as a series of experts and kids themselves sound the alarm on the viability and safety of the landmark policy, which is being closely watched around the globe.",
+            "zh": "尽管伊莎贝尔的母亲梅尔在严格监督下允许她使用 TikTok 和 Snapchat，认为这比孩子偷偷使用更好，但她曾希望禁令能帮助像她这样的父母保护孩子免受网络世界的危险。随着众多专家和孩子们自己对这项里程碑政策的可行性和安全性敲响警钟，这一希望已经动摇。全球正密切关注这一政策。",
+            "keywords": ["tight supervision", "viability", "landmark policy", "experts", "online dangers"],
+            "notes": [{"phrase": "sound the alarm", "explain": "发出警告、敲响警钟"}, {"phrase": "wavered", "explain": "动摇；变得犹豫"}]
+        },
+        {
+            "en": "There is concern about the reliability of the technology enforcing the ban, along with fears it could isolate vulnerable children and push others into darker, less-regulated corners of the web. A government-funded trial reported that all age assurance methods were technically possible—but none were foolproof and all carried risks. Face scans, already rolled out by Meta and Snapchat, falter for people two to three years either side of 16.",
+            "zh": "人们担心执行禁令的技术可靠性，同时也担心它可能孤立弱势儿童，并促使他人流向监管较少、更为阴暗的网络角落。一项政府资助的试验报告称，所有年龄验证方法在技术上都是可行的，但没有一种是万无一失的，且都伴随风险。Meta 和 Snapchat 已部署的人脸扫描，对 16 岁上下两到三岁的人群准确率会下降。",
+            "keywords": ["age assurance", "foolproof", "vulnerable children", "face scans", "enforcement"],
+            "notes": [{"phrase": "either side of", "explain": "在……的两边；这里指16岁前后"}, {"phrase": "roll out", "explain": "推出、部署"}]
+        },
+        {
+            "en": "Tips have flooded social media: signing up with a parent's email, moving to platforms not on the government's list, or using VPNs. Polling in May indicated a third of parents intended to help their kids circumvent the ban. An experiment by the University of Melbourne showed that a $22 Halloween mask was enough to defeat facial assessment technology in some cases.",
+            "zh": "规避方法在社交媒体上大量传播：用父母的邮箱注册、迁移到政府名单之外的平台，或使用 VPN。五月的民调显示，三分之一的父母打算帮助孩子绕过禁令。墨尔本大学的一项实验表明，在某些情况下，22 美元的面具足以骗过人脸识别技术。",
+            "keywords": ["circumvent", "VPN", "Halloween mask", "facial assessment", "bypass"],
+            "notes": [{"phrase": "flood", "explain": "大量涌入；这里指各种规避方法大量出现"}, {"phrase": "defeat", "explain": "击败；这里指骗过、绕过"}]
+        },
+        {
+            "en": "First, there is concern that this policy pushes children into darker parts of the web. Will it be gaming site chatrooms, which Australian Federal Police have warned are hotbeds for radicalisation but are excluded from the ban? Will it be sites like Omegle, which allowed users to video chat randomly selected strangers? Children can still browse TikTok and YouTube without accounts, a potentially riskier minefield of unfiltered content.",
+            "zh": "首先，有人担心该政策会把儿童推向网络更阴暗的角落。会是澳大利亚联邦警察曾警告为激进化温床、却未被列入禁令的游戏网站聊天室吗？还是会像 Omegle 那样允许用户与随机陌生人视频聊天的网站？孩子们仍可在不注册的情况下浏览 TikTok 和 YouTube，这可能是更危险的、充斥着无过滤内容的雷区。",
+            "keywords": ["radicalisation", "hotbeds", "unfiltered content", "chatrooms", "browse"],
+            "notes": [{"phrase": "hotbeds", "explain": "温床；滋生某事物的场所"}, {"phrase": "minefield", "explain": "雷区；比喻充满危险的情况"}]
+        },
+        {
+            "en": "The science on social media and health is complex and still evolving. Alongside studies linking it to poor outcomes is evidence it can be a lifeline for some children, particularly those from LGBTQ+, neurodivergent or rural communities. Former children's commissioner Anne Hollonds says: \"There's nothing magical about the age of 16. This really does nothing on its own.\" Many experts suggest the focus should be on forcing platforms to better police harmful content and limit the power of algorithms.",
+            "zh": "关于社交媒体与健康的研究复杂且仍在发展。在将其与负面结果联系起来的研宄之外，也有证据表明它对部分儿童可能是救命稻草，尤其是 LGBTQ+、神经多样性或农村社区的孩子。前儿童事务专员安妮·霍伦兹说：「16 岁并没有魔力。单靠这一点什么都不解决。」许多专家建议，重点应放在迫使平台更好地管控有害内容并限制算法权力上。",
+            "keywords": ["lifeline", "neurodivergent", "algorithms", "content moderation", "commissioner"],
+            "notes": [{"phrase": "lifeline", "explain": "救命稻草；维持生命或希望的途径"}, {"phrase": "police", "explain": "管控；这里作动词，表示监督、管理"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "outsmart", "phonetic": "/ˌaʊtˈsmɑːrt/", "meaning": "智胜；比……更聪明", "partOfSpeech": "v.", "example": "Teens quickly found ways to outsmart the age verification system."},
+        {"word": "viability", "phonetic": "/ˌvaɪəˈbɪləti/", "meaning": "可行性；生存能力", "partOfSpeech": "n.", "example": "Experts questioned the viability of the social media ban."},
+        {"word": "circumvent", "phonetic": "/ˌsɜːrkəmˈvent/", "meaning": "绕过；规避", "partOfSpeech": "v.", "example": "Some parents intend to help their kids circumvent the ban."},
+        {"word": "foolproof", "phonetic": "/ˈfuːlpruːf/", "meaning": "万无一失的；不会出错的", "partOfSpeech": "adj.", "example": "No age verification method was foolproof in the trial."},
+        {"word": "radicalisation", "phonetic": "/ˌrædɪkəlaɪˈzeɪʃn/", "meaning": "激进化；极端化", "partOfSpeech": "n.", "example": "Chatrooms can be hotbeds for radicalisation."},
+        {"word": "lifeline", "phonetic": "/ˈlaɪflaɪn/", "meaning": "生命线；救命稻草", "partOfSpeech": "n.", "example": "Social media can be a lifeline for isolated LGBTQ+ youth."},
+        {"word": "algorithm", "phonetic": "/ˈælɡərɪðəm/", "meaning": "算法", "partOfSpeech": "n.", "example": "Limiting the power of algorithms could reduce harmful content."}
+    ],
+    "discussion_questions": [
+        {"en": "Should governments ban teenagers from social media, or is education and parental supervision a better approach?", "zh": "政府是否应该禁止青少年使用社交媒体？还是教育和家长监督是更好的方法？"},
+        {"en": "How might age verification technology affect the privacy of both teenagers and adults?", "zh": "年龄验证技术可能如何影响青少年和成人的隐私？"},
+        {"en": "What role should tech companies play in protecting young users from harmful content?", "zh": "科技公司应在保护年轻用户免受有害内容影响方面扮演什么角色？"}
+    ]
+}

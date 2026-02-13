@@ -1,0 +1,95 @@
+{
+  "word": "noted",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈnəʊtɪd/",
+    "us": "/ˈnoʊtɪd/"
+  },
+  "definitions": [
+    {
+      "translation": "著名的；知名的；以…闻名",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "多作定语或表语。指因成就、才能、品质等而为人所知。常与 for 搭配表示“以…著称”。",
+      "sentences": [
+        {"en": "She is a noted expert in climate science.", "zh": "她是气候科学领域的知名专家。"},
+        {"en": "The restaurant is noted for its seafood dishes.", "zh": "这家餐馆以海鲜菜肴闻名。"},
+        {"en": "The noted architect designed several landmark buildings.", "zh": "这位著名建筑师设计了好几座地标建筑。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "noted for",
+          "translation": "以…著称",
+          "pattern": "形容词+介词",
+          "explain": "说明闻名的原因",
+          "sentences": [{"en": "The region is noted for its fine wines.", "zh": "该地区以优质葡萄酒著称。"}]
+        },
+        {
+          "collocation": "a noted scholar",
+          "translation": "著名学者",
+          "pattern": "冠词+形容词+名词",
+          "explain": "常见搭配",
+          "sentences": [{"en": "A noted scholar gave a lecture at the university.", "zh": "一位著名学者在大学作了讲座。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "famous": {
+          "translation": "著名的",
+          "diffs": "famous 更通用；noted 略显正式，侧重因专业或成就知名",
+          "sentences": [{"en": "He became famous for his inventions.", "zh": "他因发明而闻名。"}]
+        },
+        "renowned": {
+          "translation": "声誉卓著的",
+          "diffs": "renowned 语气更强；noted 较适中",
+          "sentences": [{"en": "She is a renowned pianist.", "zh": "她是一位声誉卓著的钢琴家。"}]
+        }
+      },
+      "antonyms": {
+        "unknown": {"translation": "不为人知的", "diffs": "与 noted 相对"},
+        "obscure": {"translation": "默默无闻的", "diffs": "指不出名的"}
+      },
+      "inflections": {
+        "comparative": "more noted",
+        "superlative": "most noted"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "源自 note（记录、注意）的过去分词，引申为“被记录下来的、为人所知的”。",
+    "root": "not-（知道、标记）",
+    "affixes": ["-ed（过去分词/形容词后缀）"],
+    "history": "note 来自拉丁语 nota（标记），noted 原义“被标记的”，后引申为“著名的”。"
+  },
+  "related_words": {
+    "note": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "笔记；注释；注意",
+      "rule": "noted 的词根词",
+      "sentences": [{"en": "She took notes during the meeting.", "zh": "她在会议期间做了笔记。"}]
+    },
+    "notable": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "值得注意的；显著的",
+      "rule": "与 noted 近义，notable 侧重值得关注",
+      "sentences": [{"en": "There was a notable improvement in her health.", "zh": "她的健康状况有显著改善。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "noted as",
+      "correct": "noted for",
+      "explain": "表示“以…闻名”用 noted for，不用 noted as。noted as 可用于“被认定为…”，但“以…著称”用 for。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "note（记录、注意）+ -ed → 被记录下来的、为人所知的 → 著名的。"
+    }
+  ]
+}

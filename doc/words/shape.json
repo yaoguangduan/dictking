@@ -1,0 +1,156 @@
+{
+  "word": "shape",
+  "created_at": "2026-02-12T08:00:00.000Z",
+  "phonetic": {
+    "uk": "/ʃeɪp/",
+    "us": "/ʃeɪp/"
+  },
+  "definitions": [
+    {
+      "translation": "形状；外形；形态",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数或不可数。指物体或概念的轮廓、形式。引申可指身体状况、发展状况。",
+      "sentences": [
+        {"en": "The room is rectangular in shape.", "zh": "这个房间是长方形的。"},
+        {"en": "She cut the dough into various shapes.", "zh": "她把面团切成各种形状。"},
+        {"en": "The project is starting to take shape.", "zh": "这个项目开始成形了。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "in good shape",
+          "translation": "身体状况良好；状态良好",
+          "pattern": "介词+形容词+名词",
+          "explain": "常指身体或事物状态",
+          "sentences": [{"en": "He's in good shape for his age.", "zh": "就他的年龄而言，他身体状况不错。"}]
+        },
+        {
+          "collocation": "take shape",
+          "translation": "成形；初具规模",
+          "pattern": "动词+名词",
+          "explain": "指计划、想法逐渐具体化",
+          "sentences": [{"en": "The new policy is beginning to take shape.", "zh": "新政策开始成形。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "form": {
+          "translation": "形式；形态",
+          "diffs": "form 可兼指抽象形式；shape 多指可见的外形",
+          "sentences": [{"en": "Water can exist in different forms.", "zh": "水可以以不同形式存在。"}]
+        },
+        "figure": {
+          "translation": "外形；轮廓",
+          "diffs": "figure 常用于人体或几何图形；shape 泛指各种形状",
+          "sentences": [{"en": "She has a slim figure.", "zh": "她身材苗条。"}]
+        }
+      },
+      "antonyms": {
+        "formlessness": {"translation": "无形；无定形", "diffs": "指缺乏形状"}
+      },
+      "inflections": {
+        "plural": "shapes"
+      }
+    },
+    {
+      "translation": "使成形；塑造；决定…的形式",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "及物动词。指使某物具有特定形状，或影响、决定某事物的发展方向。",
+      "sentences": [
+        {"en": "She shaped the clay into a vase.", "zh": "她把黏土塑成花瓶。"},
+        {"en": "His childhood experiences shaped his worldview.", "zh": "他童年的经历塑造了他的世界观。"},
+        {"en": "The wind has shaped these rocks over millions of years.", "zh": "风在数百万年间塑造了这些岩石。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "shape the future",
+          "translation": "塑造未来",
+          "pattern": "动词+冠词+名词",
+          "explain": "抽象用法",
+          "sentences": [{"en": "Young people will shape the future of our society.", "zh": "年轻人将塑造我们社会的未来。"}]
+        },
+        {
+          "collocation": "shape one's thinking",
+          "translation": "塑造某人的思想",
+          "pattern": "动词+代词/名词+名词",
+          "explain": "引申用法",
+          "sentences": [{"en": "Education shapes our thinking.", "zh": "教育塑造我们的思想。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "mold": {
+          "translation": "塑造；使成形",
+          "diffs": "mold 多指物理塑形；shape 可兼指抽象影响",
+          "sentences": [{"en": "They molded the plastic into bottles.", "zh": "他们把塑料塑成瓶子。"}]
+        },
+        "influence": {
+          "translation": "影响",
+          "diffs": "influence 侧重施加影响；shape 强调形成或决定形态",
+          "sentences": [{"en": "Her teacher influenced her career choice.", "zh": "她的老师影响了她的职业选择。"}]
+        }
+      },
+      "antonyms": {},
+      "inflections": {
+        "past": "shaped",
+        "past_participle": "shaped",
+        "present_participle": "shaping",
+        "third_person": "shapes"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自古英语 sceap（外形、创造），与古英语 scieppan（创造、塑造）同源。",
+    "root": "日耳曼语根 *skap-（切削、形成）",
+    "affixes": [],
+    "history": "与 ship（船，原指“被切削而成的物体”）同源。shape 既作名词“形状”，也作动词“塑造”。"
+  },
+  "related_words": {
+    "shapeless": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "无定形的；不成形的",
+      "rule": "shape + -less（无）",
+      "sentences": [{"en": "A shapeless mass of clay sat on the table.", "zh": "桌上放着一团不成形的黏土。"}]
+    },
+    "reshape": {
+      "class": {"en": "verb", "en_s": "v.", "ch": "动词"},
+      "translation": "重新塑造；改组",
+      "rule": "re-（再）+ shape",
+      "sentences": [{"en": "The company is being reshaped under new management.", "zh": "公司在新管理层的领导下正在进行重组。"}]
+    }
+  },
+  "idioms": [
+    {
+      "idiom": "in shape",
+      "translation": "健康状况好；身体健美",
+      "explain": "指身体处于良好状态",
+      "sentences": [{"en": "She exercises daily to stay in shape.", "zh": "她每天锻炼以保持身材。"}]
+    },
+    {
+      "idiom": "out of shape",
+      "translation": "身体状况不佳；身材走样",
+      "explain": "与 in shape 相对",
+      "sentences": [{"en": "I'm out of shape after the holidays.", "zh": "假期过后我身材走样了。"}]
+    }
+  ],
+  "common_mistakes": [
+    {
+      "wrong": "in a good shape",
+      "correct": "in good shape",
+      "explain": "in good shape 为固定表达，通常不加冠词 a。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "联想记忆",
+      "content": "shape 与 ship（船）同源：船是“被塑造出来的物体”。shape = 形状，引申为“塑造”。"
+    }
+  ]
+}

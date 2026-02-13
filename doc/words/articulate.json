@@ -1,0 +1,67 @@
+{
+  "word": "articulate",
+  "created_at": "2026-02-13T03:00:00Z",
+  "phonetic": { "uk": "/ɑːˈtɪkjʊlət/ (adj.), /ɑːˈtɪkjʊleɪt/ (v.)", "us": "/ɑːrˈtɪkjələt/ (adj.), /ɑːrˈtɪkjəleɪt/ (v.)" },
+  "definitions": [
+    {
+      "translation": "善于表达的；口齿清晰的",
+      "partOfSpeech": { "en": "adjective", "en_simple": "adj.", "ch": "形容词" },
+      "usage_note": "形容词发音以 /-lət/ 结尾。形容能清楚、有条理地表达想法的人或事物。",
+      "sentences": [
+        { "en": "She is one of the most articulate speakers I have ever heard.", "zh": "她是我听过的最善于表达的人之一。" },
+        { "en": "He gave an articulate defense of his position.", "zh": "他对自己的立场做了清晰有力的辩护。" },
+        { "en": "The child was surprisingly articulate for her age.", "zh": "以她的年龄来说，这孩子表达得异常清晰。" }
+      ],
+      "collocations": [
+        { "collocation": "articulate speaker", "translation": "善于表达的演讲者", "sentences": [{ "en": "We need an articulate speaker to present our case.", "zh": "我们需要一位善于表达的演讲者来陈述我们的情况。" }] },
+        { "collocation": "well-articulated", "translation": "表达清晰的", "sentences": [{ "en": "The proposal was well-articulated and easy to follow.", "zh": "提案表述清晰，易于理解。" }] }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "eloquent": { "translation": "雄辩的；有说服力的", "diffs": "eloquent 强调说服力与感染力；articulate 强调清晰有条理", "sentences": [{ "en": "His eloquent speech moved the audience to tears.", "zh": "他雄辩的演讲让听众潸然泪下。" }] },
+        "fluent": { "translation": "流利的", "diffs": "fluent 多指语言流畅；articulate 强调思想表达清楚", "sentences": [{ "en": "She is fluent in three languages.", "zh": "她精通三种语言。" }] }
+      },
+      "antonyms": {
+        "inarticulate": { "translation": "口齿不清的；不善表达的", "diffs": "articulate 的反义词", "sentences": [{ "en": "He was so nervous that he became inarticulate.", "zh": "他紧张得说不出话来。" }] }
+      },
+      "inflections": { "comparative": "more articulate", "superlative": "most articulate" }
+    },
+    {
+      "translation": "清楚地表达；清晰地发音",
+      "partOfSpeech": { "en": "verb", "en_simple": "v.", "ch": "动词" },
+      "usage_note": "动词发音以 /-leɪt/ 结尾。及物动词，可接想法、愿景、观点等作宾语。",
+      "sentences": [
+        { "en": "She struggled to articulate her feelings.", "zh": "她难以清楚地表达自己的感受。" },
+        { "en": "The leader articulated a bold vision for the future.", "zh": "这位领导人清晰地阐述了对未来的远大愿景。" },
+        { "en": "Please articulate each syllable clearly when you speak.", "zh": "说话时请清晰地发准每一个音节。" }
+      ],
+      "collocations": [
+        { "collocation": "articulate a vision", "translation": "阐明愿景", "sentences": [{ "en": "The CEO articulated a vision of sustainable growth.", "zh": "首席执行官阐明了可持续增长的愿景。" }] },
+        { "collocation": "articulate a thought", "translation": "表达想法", "sentences": [{ "en": "He found it hard to articulate his thoughts under pressure.", "zh": "他发现在压力下很难表达自己的想法。" }] }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "express": { "translation": "表达", "diffs": "express 较通用；articulate 强调清晰、有条理地表达", "sentences": [{ "en": "Words cannot express how grateful I am.", "zh": "言语无法表达我的感激之情。" }] },
+        "enunciate": { "translation": "清晰地发音；阐明", "diffs": "enunciate 偏重发音清晰；articulate 既可指发音也可指思想表达", "sentences": [{ "en": "The teacher asked the students to enunciate clearly.", "zh": "老师要求学生清晰发音。" }] }
+      },
+      "antonyms": {
+        "mumble": { "translation": "含糊地说", "diffs": "与清晰表达相对", "sentences": [{ "en": "He mumbled an apology and left.", "zh": "他含糊地道歉后离开了。" }] }
+      },
+      "inflections": { "past": "articulated", "past_participle": "articulated", "present_participle": "articulating", "third_person": "articulates" }
+    }
+  ],
+  "etymology": {
+    "origin": "来自拉丁语 articulatus（有关节的、分节的），源自 articulus（小关节、小节）。",
+    "root": "art-（关节、连接，拉丁语 artus）",
+    "affixes": ["-cul-（指小后缀）", "-ate（动词/形容词后缀）"],
+    "history": "原指“分成节、有关节的”，引申为“清晰划分的”，再引申为“清晰表达的”，因清晰表达如同将思想分成可辨的单元。"
+  },
+  "related_words": {
+    "articulation": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "表达；发音；关节连接", "rule": "articulate 的名词形式", "sentences": [{ "en": "Clear articulation is essential for public speaking.", "zh": "清晰的发音对公共演讲至关重要。" }] },
+    "articulately": { "class": { "en": "adverb", "en_s": "adv.", "ch": "副词" }, "translation": "清晰地；善于表达地", "rule": "articulate 的副词形式", "sentences": [{ "en": "She spoke articulately about the issue.", "zh": "她就这一问题发表了清晰的见解。" }] },
+    "inarticulate": { "class": { "en": "adjective", "en_s": "adj.", "ch": "形容词" }, "translation": "口齿不清的；不善表达的", "rule": "articulate 加否定前缀", "sentences": [{ "en": "He was inarticulate with rage.", "zh": "他气得说不出话来。" }] }
+  },
+  "idioms": [],
+  "common_mistakes": [{ "wrong": "articulate (v.) pronounced like adj.", "correct": "verb: /-leɪt/; adjective: /-lət/", "explain": "形容词与动词发音不同：形容词以轻读的 /-lət/ 结尾，动词以重读的 /-leɪt/ 结尾。" }],
+  "mnemonics": [{ "type": "发音记忆", "content": "形容词 articulate（adj.）— 像 “articulate” 短促收尾；动词 articulate（v.）— 像 “articulATE” 强调最后的元音。" }]
+}

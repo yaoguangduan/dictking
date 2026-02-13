@@ -1,0 +1,149 @@
+{
+    "word": "giraffe",
+    "created_at": "2026-02-13T02:00:00Z",
+    "phonetic": {
+        "uk": "/dʒɪˈrɑːf/",
+        "us": "/dʒɪˈræf/"
+    },
+    "definitions": [
+        {
+            "translation": "长颈鹿",
+            "partOfSpeech": {
+                "en": "noun",
+                "en_simple": "n.",
+                "ch": "名词"
+            },
+            "usage_note": "可数名词。指非洲的大型草食哺乳动物，以极长的脖颈和腿著称，是现存最高的陆生动物。复数形式：giraffes。",
+            "sentences": [
+                {
+                    "en": "The giraffe stretched its long neck to reach the leaves on the top of the acacia tree.",
+                    "zh": "长颈鹿伸长脖子去够金合欢树顶端的叶子。"
+                },
+                {
+                    "en": "Giraffes are the tallest living terrestrial animals, with adult males reaching up to 5.5 metres in height.",
+                    "zh": "长颈鹿是现存最高的陆生动物，成年雄性可达 5.5 米高。"
+                },
+                {
+                    "en": "At the safari park, we watched a herd of giraffes gracefully crossing the savanna.",
+                    "zh": "在野生动物园里，我们看着一群长颈鹿优雅地穿过热带草原。"
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "baby giraffe",
+                    "translation": "幼年长颈鹿；小长颈鹿",
+                    "sentences": [
+                        {
+                            "en": "The baby giraffe stood beside its mother, already over two metres tall at birth.",
+                            "zh": "小长颈鹿站在母亲身边，出生时已经超过两米高。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "wild giraffe",
+                    "translation": "野生长颈鹿",
+                    "sentences": [
+                        {
+                            "en": "Wild giraffes are found primarily in sub-Saharan Africa.",
+                            "zh": "野生长颈鹿主要分布于撒哈拉以南的非洲。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "giraffe pattern",
+                    "translation": "长颈鹿纹；斑块图案",
+                    "sentences": [
+                        {
+                            "en": "She wore a dress with a giraffe pattern that reminded me of the animal's distinctive coat.",
+                            "zh": "她穿了一条长颈鹿纹的裙子，让我想起这种动物特有的斑纹。"
+                        }
+                    ]
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "giraffe neck",
+                    "translation": "长颈鹿般的脖子；极长的脖子",
+                    "sentences": [
+                        {
+                            "en": "The basketball player has a giraffe neck that helps him see over the defence.",
+                            "zh": "那位篮球运动员的脖子像长颈鹿一样长，便于他越过防守观察场上局势。"
+                        }
+                    ]
+                },
+                {
+                    "phrase": "tower like a giraffe",
+                    "translation": "像长颈鹿一样高耸；鹤立鸡群",
+                    "sentences": [
+                        {
+                            "en": "Among the crowd, he towered like a giraffe, easily six feet tall.",
+                            "zh": "他在人群中像长颈鹿一样高耸，足有六英尺高。"
+                        }
+                    ]
+                }
+            ],
+            "synonyms": {
+                "Giraffa camelopardalis": {
+                    "translation": "长颈鹿（学名）",
+                    "diffs": "Giraffa camelopardalis 为 giraffe 的拉丁学名，用于科学分类与正式文献。",
+                    "sentences": [
+                        {
+                            "en": "Giraffa camelopardalis is native to Africa.",
+                            "zh": "长颈鹿（Giraffa camelopardalis）原产于非洲。"
+                        }
+                    ]
+                }
+            },
+            "antonyms": {}
+        }
+    ],
+    "etymology": {
+        "origin": "源自阿拉伯语 zarāfa（زارافا，意为「快步行走者」或「优雅步态者」），经意大利语 giraffa 传入英语，约 16 世纪进入英语词汇。",
+        "root": "阿拉伯语 zarāfa（长颈鹿；快步行走者）",
+        "affixes": []
+    },
+    "related_words": {
+        "giraffe-like": {
+            "class": {
+                "en": "adjective",
+                "en_s": "adj.",
+                "ch": "形容词"
+            },
+            "translation": "像长颈鹿的；长颈鹿般的",
+            "rule": "由 giraffe 加 -like 构成，形容外形或姿态类似长颈鹿",
+            "sentences": [
+                {
+                    "en": "The new building has a giraffe-like silhouette with its tall, slender tower.",
+                    "zh": "这座新建筑高耸细长的塔楼轮廓，有几分长颈鹿般的形态。"
+                }
+            ]
+        }
+    },
+    "idioms": [],
+    "common_mistakes": [
+        {
+            "wrong": "ji-RAFF (/ˈdʒaɪˌræf/)",
+            "correct": "jə-RAFF (/dʒɪˈræf/ 或 /dʒɪˈrɑːf/)",
+            "explain": "常见误读是将第一音节读成「ji」（与「I」押韵）。正确发音第一音节为弱读的 /dʒɪ/（类似「jə」），重音在第二音节。"
+        },
+        {
+            "wrong": "girafe",
+            "correct": "giraffe",
+            "explain": "英语拼写为双 f：giraffe。法语为 girafe（单 f），易混淆。"
+        }
+    ],
+    "mnemonics": [
+        {
+            "type": "发音联想",
+            "content": "giraffe 读如「杰辣夫」→ 长颈鹿（杰）出地高，（辣）眼睛的斑纹，（夫）子般的优雅步态 → 联想到长颈鹿。"
+        },
+        {
+            "type": "词源联想",
+            "content": "阿拉伯语 zarāfa（快步行走者）→ 长颈鹿步态优雅、步伐从容 → 与「优雅的步态」相关联。"
+        },
+        {
+            "type": "形象记忆",
+            "content": "giraffe 中有两个 f，像长颈鹿两条细长的前腿站立；g 与 f 之间的 iraf 可联想为「I reach」（我够得到）→ 长颈鹿用长脖子够树叶。"
+        }
+    ]
+}

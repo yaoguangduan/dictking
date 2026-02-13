@@ -30,3 +30,6 @@ npm-debug.log*
 .cache/
 .temp/
 .tmp/
+
+# Upload script temp files
+doc/_tmp_*.json

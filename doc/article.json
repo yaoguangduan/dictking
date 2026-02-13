@@ -1,0 +1,46 @@
+{
+    "title": "文章英文标题",
+    "title_zh": "文章中文标题",
+    "author": "作者（可选）",
+    "source": "来源（可选，如：BBC / The Economist / 原创）",
+    "created_at": "发布时间，ISO 8601 UTC格式（如：2026-02-10T08:00:00Z）",
+    "difficulty": "难度等级：easy / medium / hard",
+    "tags": ["标签1", "标签2"],
+    "cover_image": "封面图片URL（可选）",
+    "summary": "文章英文摘要，2~3句",
+    "summary_zh": "文章中文摘要，2~3句",
+    "paragraphs": [
+        {
+            "en": "英文段落内容，原文",
+            "zh": "对应中文翻译",
+            "keywords": ["该段落中值得学习的关键词"],
+            "notes": [
+                {
+                    "phrase": "段落中出现的短语或句式",
+                    "explain": "用法解释"
+                }
+            ]
+        },
+        {
+            "en": "第二段英文内容",
+            "zh": "对应中文翻译",
+            "keywords": [],
+            "notes": []
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "文章中出现的重点单词",
+            "phonetic": "/音标/",
+            "meaning": "中文含义",
+            "partOfSpeech": "词性（n. / v. / adj. / adv. 等）",
+            "example": "文中原句或补充例句"
+        }
+    ],
+    "discussion_questions": [
+        {
+            "en": "基于文章内容的讨论问题（英文）",
+            "zh": "讨论问题（中文翻译）"
+        }
+    ]
+}

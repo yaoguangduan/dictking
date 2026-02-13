@@ -1,0 +1,53 @@
+{
+    "word": "autonomous",
+    "created_at": "2026-02-13T03:00:00Z",
+    "phonetic": { "uk": "/ɔːˈtɒnəməs/", "us": "/ɔːˈtɑːnəməs/" },
+    "definitions": [
+        {
+            "translation": "自治的；自主的；独立的；自动的",
+            "partOfSpeech": { "en": "adjective", "en_simple": "adj.", "ch": "形容词" },
+            "usage_note": "可修饰名词。主要有三义：1）自治的（地区、领土）；2）独立自主的（人、行为）；3）自动驾驶或自主运行的（车辆、系统）。比较级：more autonomous；最高级：most autonomous。",
+            "sentences": [
+                { "en": "Tibet is an autonomous region of China.", "zh": "西藏是中国的一个自治区。" },
+                { "en": "She values being autonomous and making her own decisions.", "zh": "她重视自主性，自己做决定。" },
+                { "en": "The company is developing fully autonomous vehicles.", "zh": "该公司正在研发全自动驾驶汽车。" },
+                { "en": "Universities need to remain autonomous from political interference.", "zh": "大学需要保持独立，不受政治干预。" }
+            ],
+            "collocations": [
+                { "collocation": "autonomous region", "translation": "自治区", "sentences": [{ "en": "Xinjiang is the largest autonomous region in China.", "zh": "新疆是中国最大的自治区。" }] },
+                { "collocation": "autonomous vehicle", "translation": "自动驾驶汽车", "sentences": [{ "en": "Autonomous vehicles could revolutionize urban transport.", "zh": "自动驾驶汽车可能彻底改变城市交通。" }] },
+                { "collocation": "autonomous decision", "translation": "自主决定", "sentences": [{ "en": "Employees are encouraged to make autonomous decisions within their scope.", "zh": "鼓励员工在其职责范围内自主决策。" }] },
+                { "collocation": "autonomous system", "translation": "自主系统；自治系统", "sentences": [{ "en": "The drone operates as an autonomous system once launched.", "zh": "无人机一旦发射，即可作为自主系统运行。" }] }
+            ],
+            "phrases": [
+                { "phrase": "politically autonomous", "translation": "政治上自治的", "sentences": [{ "en": "The island seeks to become politically autonomous.", "zh": "该岛寻求在政治上实现自治。" }] }
+            ],
+            "synonyms": {
+                "independent": { "translation": "独立的", "diffs": "independent 通用；autonomous 强调自我管理、自我 governing 的能力", "sentences": [{ "en": "She has been financially independent since college.", "zh": "她从大学起就经济独立了。" }] },
+                "self-governing": { "translation": "自治的", "diffs": "self-governing 多指政治实体；autonomous 还可指人、机器、系统", "sentences": [{ "en": "The colony became a self-governing territory in 1947.", "zh": "该殖民地于1947年成为自治领地。" }] },
+                "sovereign": { "translation": "主权的；独立的", "diffs": "sovereign 强调最高权力，多用于国家；autonomous 可指在更大实体内的自治", "sentences": [{ "en": "Each state in the federation is sovereign.", "zh": "联邦中的各州拥有主权。" }] },
+                "self-sufficient": { "translation": "自给自足的", "diffs": "self-sufficient 侧重不依赖外界供给；autonomous 侧重自我管理、自我运行", "sentences": [{ "en": "The farm is largely self-sufficient.", "zh": "这个农场基本自给自足。" }] }
+            },
+            "antonyms": {
+                "dependent": { "translation": "依赖的", "diffs": "dependent 需依靠外界；autonomous 可自主运作", "sentences": [{ "en": "The child is still dependent on her parents.", "zh": "这个孩子仍然依赖父母。" }] },
+                "controlled": { "translation": "受控的", "diffs": "controlled 被外部控制；autonomous 自我控制", "sentences": [{ "en": "The experiment was conducted under controlled conditions.", "zh": "实验在受控条件下进行。" }] },
+                "subordinate": { "translation": "从属的", "diffs": "subordinate 处于下级、从属地位；autonomous 独立自主", "sentences": [{ "en": "The department is subordinate to the main office.", "zh": "该部门隶属于总部。" }] }
+            },
+            "inflections": { "comparative": "more autonomous", "superlative": "most autonomous" }
+        }
+    ],
+    "etymology": { "origin": "源自希腊语 autonomos，由 auto-（self，自己）和 nomos（law，法则）组成，意为 \"自立法则\"、\"自我治理\"。", "root": "nomos（法则、法律）", "affixes": ["auto-（前缀：自己）", "-ous（形容词后缀）"] },
+    "related_words": {
+        "autonomy": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "自治权；自主权；自主性", "rule": "autonomous 的名词形式", "sentences": [{ "en": "The university fought to preserve its autonomy.", "zh": "大学努力维护其自治权。" }] },
+        "autonomously": { "class": { "en": "adverb", "en_s": "adv.", "ch": "副词" }, "translation": "自治地；自主地", "rule": "autonomous + -ly 构成副词", "sentences": [{ "en": "The robot can navigate autonomously through the building.", "zh": "机器人可以自主地在建筑物内导航。" }] }
+    },
+    "idioms": [],
+    "common_mistakes": [
+        { "wrong": "autonimous", "correct": "autonomous", "explain": "正确拼写为 autonomous，nom 不是 nim。" },
+        { "wrong": "autonomous from", "correct": "autonomous 或 independent from", "explain": "autonomous 作形容词时不直接接 from；表示 \"不受...控制\" 时可用 independent from 或 free from。" }
+    ],
+    "mnemonics": [
+        { "type": "词根记忆", "content": "auto-（自己）+ nom-（法则）+ -ous（形容词后缀）→ 自立法则的 → 自治的、自主的。" },
+        { "type": "联想记忆", "content": "auto 如 automobile（汽车），nom 如 economics（经济，来自 oikos + nomos）；autonomous = 自己管自己的法则 → 自治。" }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "title": "AI Has Entered the Classroom—But Is It the Solution for Overworked Teachers?",
+    "title_zh": "人工智能已进入课堂——但它是解决教师超负荷工作的答案吗？",
+    "author": "Hayley Clarke",
+    "source": "BBC News",
+    "created_at": "2025-12-11T00:00:00Z",
+    "difficulty": "medium",
+    "tags": ["AI", "education", "teachers", "technology", "classroom"],
+    "summary": "Schools across the UK are trialling deepfake teachers and remote instructors to address recruitment issues. While the government promotes AI to reduce teacher workload, teachers and unions remain divided. Some see potential in AI for marking and personalised feedback; others warn that virtual teachers cannot replicate the essential teacher-student relationship.",
+    "summary_zh": "英国各地的学校正在试点深度伪造教师和远程教师以解决招聘问题。政府推动人工智能以减轻教师工作量，但教师和工会意见不一。有人认为AI在批改和个性化反馈方面有潜力； 另一些人警告虚拟教师无法复制师生关系的核心价值。",
+    "paragraphs": [
+        {
+            "en": "Schools across the UK are trialling the use of deepfake teachers and even employing remote staff to deliver lessons hundreds of miles away from the classroom. The use of AI is becoming increasingly prevalent in schools. The government says AI has the power to transform education and improve teacher workload, particularly around administrative tasks. The BBC has spoken to teachers, school leaders and unions who seem divided on what the future of the UK's classrooms should look like.",
+            "zh": "英国各地的学校正在试用深度伪造教师，甚至雇用远程教师在数百英里外授课。人工智能在学校中的使用日益普及。政府表示，人工智能有能力变革教育并减轻教师的工作负担，尤其是在行政任务方面。BBC采访了教师、学校领导和工会，他们对于英国课堂的未来似乎意见不一。",
+            "keywords": ["deepfake", "prevalent", "administrative", "workload", "trialling"],
+            "notes": [{"phrase": "deepfake teachers", "explain": "深度伪造教师，指用AI生成的仿真形象"}, {"phrase": "workload", "explain": "工作量"}]
+        },
+        {
+            "en": "Emily Cooke is a maths teacher at The Valley Leadership Academy in Lancashire, which has hired a virtual maths teacher—a decision Mrs Cooke is strongly against. \"Will your virtual teacher be there to dance with you at prom, hug your mum during results day, or high-five you in the corridor because they know you won the match last night?\" she says. Since September, top set pupils in Year 9, 10 and 11 have been taught by the remote maths teacher based 300 miles away in Devon. Teachers went on strike over the move last week.",
+            "zh": "艾米莉·库克是兰开夏郡山谷领导学院的数学教师，该学院聘请了一名虚拟数学教师——库克夫人强烈反对这一决定。「你的虚拟教师会在毕业舞会上陪你跳舞吗？在放榜日拥抱你妈妈吗？还是在走廊里因为知道你昨晚比赛赢了而跟你击掌？」她说。自九月以来，9、10、11年级的优秀学生一直由远在300英里外德文郡的远程数学教师授课。上周教师为此举行了罢工。",
+            "keywords": ["virtual", "strike", "remote", "corridor", "prom"],
+            "notes": [{"phrase": "top set pupils", "explain": "优秀学生，成绩最好的班级学生"}, {"phrase": "went on strike", "explain": "举行罢工"}]
+        },
+        {
+            "en": "The school said it was a \"small-scale initiative\" but the National Education Union called it an \"unacceptable situation.\" Mrs Cooke says that as a parent and teacher, she does not think that teacher-student relationship—which is so important—can be formed or replicated over a screen. The school told the BBC that its approach is a \"win-win,\" where pupils benefit from lessons delivered by an outstanding specialist teacher online who is supported in the classroom by a second teacher.",
+            "zh": "学校称这是「小规模试点」，但英国全国教育工会称这是「不可接受的情况」。库克夫人表示，作为家长和教师，她认为如此重要的师生关系无法在屏幕上建立或复制。学校向BBC表示，这种方式是「双赢」，学生可以从优秀专家在线授课中受益，教室里还有另一位教师协助。",
+            "keywords": ["initiative", "replicated", "specialist", "win-win", "outstanding"],
+            "notes": [{"phrase": "win-win", "explain": "双赢，双方都受益"}, {"phrase": "replicated", "explain": "被复制、重现"}]
+        },
+        {
+            "en": "At a different academy, AI experiments are going further. Shane Ierston, CEO of Great Schools Trust, says giving children in his schools a \"top class, world-quality education\" is his priority. Mr Ierston believes clever use of AI can help free up teachers' time to focus on building students' character, leadership and resilience. Teachers there can already use its AI system to mark assessments and mock exams, which they say is more accurate. The AI technology can identify gaps in students' learning and help teachers plan future lessons.",
+            "zh": "在另一所学院，人工智能实验走得更远。大校信托首席执行官谢恩·伊尔斯顿表示，为学校里的孩子提供「一流的世界级教育」是他的首要任务。伊尔斯顿先生认为，明智地使用人工智能可以腾出教师的时间，让他们专注于培养学生的品格、领导力和韧性。那里的教师已经可以使用其AI系统批改作业和模拟考试，据称更加准确。该技术还能识别学生的学习差距并帮助教师规划未来课程。",
+            "keywords": ["resilience", "assessments", "mock exams", "gaps", "identify"],
+            "notes": [{"phrase": "free up teachers' time", "explain": "腾出教师的时间"}, {"phrase": "mock exams", "explain": "模拟考试"}]
+        },
+        {
+            "en": "After marking, the AI deepfake will produce a bespoke feedback video for each child. Using AI \"as a leveller\" will make sure every child gets personalised tuition, with the teacher in the room making sure they understand. Having a deepfake will be \"completely voluntary for teachers,\" he adds. \"What we're not trying to do is replace teachers,\" says Mr Ierston. \"We're trying to use technology—things that have got a bad reputation—and see how it can be used to benefit society. That's the future.\"",
+            "zh": "批改后，AI深度伪造将为每个孩子制作个性化的反馈视频。将AI用作「公平工具」可确保每个孩子获得个性化辅导，教室里的教师确保他们理解。他补充说，拥有深度伪造形象对教师来说将是「完全自愿的」。「我们不是要取代教师，」伊尔斯顿先生说。「我们试图利用技术——那些声誉不佳的东西——看看如何让它造福社会。这就是未来。」",
+            "keywords": ["bespoke", "leveller", "tuition", "voluntary", "reputation"],
+            "notes": [{"phrase": "as a leveller", "explain": "作为公平工具，缩小差距"}, {"phrase": "bespoke", "explain": "定制的、量身打造的"}]
+        },
+        {
+            "en": "Technology, screens and AI in the classroom are divisive topics, particularly among parents. Frank Young, chief policy officer of charity Parentkind, says it is fair to say that parents are deeply sceptical about AI. Just 12% think AI should be used in the classroom, according to its annual survey of over 5,000 parents. \"But I think we can get there if parents are provided with reassurance over how this AI will be used and how it will benefit the children,\" Mr Young says.",
+            "zh": "课堂中的技术、屏幕和人工智能是存在分歧的话题，尤其是在家长中。慈善机构家长之声的首席政策官弗兰克·杨表示，说家长对人工智能深感怀疑是公平的。根据对5000多名家长的年度调查，只有12%认为AI应该用于课堂。「但我认为，如果家长能获得关于AI如何被使用以及如何有益于孩子的保证，我们可以达成共识，」杨先生说。",
+            "keywords": ["divisive", "sceptical", "reassurance", "survey", "annual"],
+            "notes": [{"phrase": "divisive topics", "explain": "引起分歧的话题"}, {"phrase": "get there", "explain": "达成目标、取得共识"}]
+        },
+        {
+            "en": "Data from Teacher Tapp found that in October 2024, 31% of teachers said they had used AI in the past week to help with their work. By October 2025, that had risen to 58%. The Department for Education says technology must be \"carefully managed to enhance—not replace—the deep thinking, creativity and critical engagement that underpin effective learning.\" But the National Education Union says it will \"never tolerate the imposition of a virtual teacher.\"",
+            "zh": "教师Tapp的数据显示，2024年10月有31%的教师表示过去一周曾使用AI辅助工作。到2025年10月，这一比例上升到58%。教育部表示，技术必须「精心管理，以增强而非取代支撑有效学习的深度思考、创造力和批判性参与」。但全国教育工会表示，将「绝不容忍强制推行虚拟教师」。",
+            "keywords": ["underpin", "imposition", "critical engagement", "enhance", "tolerate"],
+            "notes": [{"phrase": "underpin", "explain": "支撑、奠定基础"}, {"phrase": "imposition", "explain": "强加、强制推行"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "deepfake", "phonetic": "/ˈdiːpfeɪk/", "meaning": "深度伪造，AI生成的仿真", "partOfSpeech": "n.", "example": "The school is trialling deepfake avatars for feedback."},
+        {"word": "prevalent", "phonetic": "/ˈprevələnt/", "meaning": "普遍的、盛行的", "partOfSpeech": "adj.", "example": "AI use is becoming increasingly prevalent in schools."},
+        {"word": "replicate", "phonetic": "/ˈreplɪkeɪt/", "meaning": "复制、重现", "partOfSpeech": "v.", "example": "Human connection cannot be replicated over a screen."},
+        {"word": "resilience", "phonetic": "/rɪˈzɪliəns/", "meaning": "韧性、恢复力", "partOfSpeech": "n.", "example": "Schools aim to build students' character and resilience."},
+        {"word": "bespoke", "phonetic": "/bɪˈspəʊk/", "meaning": "定制的、量身打造的", "partOfSpeech": "adj.", "example": "The AI produces bespoke feedback for each student."},
+        {"word": "sceptical", "phonetic": "/ˈskeptɪkl/", "meaning": "怀疑的", "partOfSpeech": "adj.", "example": "Parents are deeply sceptical about AI in the classroom."},
+        {"word": "underpin", "phonetic": "/ˌʌndəˈpɪn/", "meaning": "支撑、奠定基础", "partOfSpeech": "v.", "example": "Critical thinking underpins effective learning."},
+        {"word": "imposition", "phonetic": "/ˌɪmpəˈzɪʃn/", "meaning": "强加、强制推行", "partOfSpeech": "n.", "example": "The union opposes the imposition of virtual teachers."}
+    ],
+    "discussion_questions": [
+        {"en": "Do you think AI can ever replace the emotional connection between teachers and students? Why or why not?", "zh": "你认为人工智能能取代师生之间的情感联系吗？为什么？"},
+        {"en": "What administrative tasks do you think AI could most usefully handle in education?", "zh": "你认为AI在教育领域最能有效处理哪些行政任务？"},
+        {"en": "How should schools balance the benefits of technology with concerns about screen time and human relationships?", "zh": "学校应如何平衡技术的好处与对屏幕时间和人际关系的担忧？"}
+    ]
+}

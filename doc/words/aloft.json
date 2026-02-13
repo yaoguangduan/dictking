@@ -1,0 +1,86 @@
+{
+  "word": "aloft",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/əˈlɒft/",
+    "us": "/əˈlɔːft/"
+  },
+  "definitions": [
+    {
+      "translation": "在高处；在空中；向上",
+      "partOfSpeech": {
+        "en": "adverb",
+        "en_simple": "adv.",
+        "ch": "副词"
+      },
+      "usage_note": "正式或文学用词。指在高空、高处或向上，常用于航海、航空、建筑等语境。",
+      "sentences": [
+        {"en": "The flag waved aloft in the breeze.", "zh": "旗帜在微风中高高飘扬。"},
+        {"en": "The balloon rose aloft and soon disappeared from view.", "zh": "气球升向高空，很快消失在视野中。"},
+        {"en": "They held their glasses aloft in a toast.", "zh": "他们举杯祝酒。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "hold aloft",
+          "translation": "高举",
+          "pattern": "动词+副词",
+          "explain": "指高举某物",
+          "sentences": [{"en": "The crowd held their phones aloft to film the concert.", "zh": "观众高举手机拍摄演唱会。"}]
+        },
+        {
+          "collocation": "rise aloft",
+          "translation": "向上升起",
+          "pattern": "动词+副词",
+          "explain": "指升空或升起",
+          "sentences": [{"en": "Smoke rose aloft from the chimney.", "zh": "烟从烟囱向上升起。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "upward": {
+          "translation": "向上",
+          "diffs": "upward 侧重方向；aloft 侧重位置在高处",
+          "sentences": [{"en": "The birds flew upward into the sky.", "zh": "鸟儿向上飞入天空。"}]
+        },
+        "overhead": {
+          "translation": "在头顶上方",
+          "diffs": "overhead 多指正上方；aloft 可泛指高处",
+          "sentences": [{"en": "The plane passed overhead.", "zh": "飞机从头顶飞过。"}]
+        }
+      },
+      "antonyms": {
+        "below": {"translation": "在下方", "diffs": "与 aloft 相对"},
+        "downward": {"translation": "向下", "diffs": "与上升方向相反"}
+      },
+      "inflections": {}
+    }
+  ],
+  "etymology": {
+    "origin": "源自古诺尔斯语 á lopt（在空中），lopt 意为“空气、天空”。经中世纪英语传入。",
+    "root": "loft（空气、高处）",
+    "affixes": ["a-（前缀：在...上、向...）"],
+    "history": "loft 原指“空气、天空”，a- 表“在...上”，合为“在空中、在高处”。"
+  },
+  "related_words": {
+    "loft": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "阁楼；顶楼",
+      "rule": "aloft 的同源词，都含“高”义",
+      "sentences": [{"en": "They converted the loft into a bedroom.", "zh": "他们把阁楼改成了卧室。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "aloft the building",
+      "correct": "above the building / high above",
+      "explain": "aloft 为副词，不能作介词后接名词。表示“在建筑物上方”用 above the building 或 high above。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "联想记忆",
+      "content": "a-（在...上）+ loft（阁楼、高处）→ 在阁楼般的高处 → 在高处、在空中。"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Burnout Report 2026: High Stress Pushing Workers Into Sick Leave",
+    "title_zh": "2026年倦怠报告：高压力迫使员工请病假",
+    "author": "Mental Health UK",
+    "source": "Mental Health UK",
+    "created_at": "2026-01-16T00:00:00Z",
+    "difficulty": "medium",
+    "tags": ["mental health", "workplace", "burnout", "stress", "wellbeing"],
+    "summary": "Mental Health UK's Burnout Report 2026 reveals that one in five workers took time off due to stress-related mental health issues, with young adults disproportionately affected. The report highlights a gap between employer claims and actual support, with only one in four workers feeling mental health is genuinely prioritised in the workplace. Chronic workplace stress and inadequate recovery support remain stubborn challenges.",
+    "summary_zh": "英国心理健康组织的2026年倦怠报告显示，五分之一的员工因压力相关的心理健康问题请假，其中年轻成年人受到的影响尤为严重。报告指出雇主承诺与实际支持之间存在差距，只有四分之一的员工感到心理健康在工作场所得到真正的重视。慢性工作压力和缺乏足够的康复支持仍然是顽固的挑战。",
+    "paragraphs": [
+        {
+            "en": "High stress levels and mental health-related sick leave persist in the UK workforce, Mental Health UK's latest Burnout Report reveals, with chronic pressures going unaddressed and too few employers supporting recovery from burnout. The report finds one in five workers (20%) took time off due to poor mental health caused by stress, rising to two in five (39%) among young adults aged 18-24. The findings raise concerns that a lack of support with recovery could be increasing risk of relapse and pushing staff into repeated absence.",
+            "zh": "英国心理健康组织最新的倦怠报告揭示，英国劳动力中的高压力水平和与心理健康相关的病假持续存在，慢性压力得不到解决，支持员工从倦怠中康复的雇主太少。报告发现，五分之一的员工（20%）因压力导致的心理健康问题请假，而在18至24岁的年轻成年人中，这一比例升至五分之二（39%）。调查结果令人担忧的是，缺乏康复支持可能增加复发风险，促使员工反复缺勤。",
+            "keywords": ["burnout", "relapse", "workforce", "chronic", "recovery"],
+            "notes": [
+                {"phrase": "one in five", "explain": "五分之一，常用于描述比例或统计数据"},
+                {"phrase": "raise concerns", "explain": "引发担忧，表示调查结果带来的警示"}
+            ]
+        },
+        {
+            "en": "The Burnout Report provides an annual snapshot of the nation's stress levels and how mental health is being supported in the workplace, based on YouGov polling of over 4,500 UK adults. This year's report reveals the risk of burnout remains stubbornly high, with nine in ten (91%) adults experiencing high or extreme levels of pressure and stress in the last year, the same level as in the previous two years. Yet at the same time, the discomfort around discussing stress levels in the workplace shows no signs of improvement and in fact has slightly worsened.",
+            "zh": "倦怠报告基于YouGov对超过4500名英国成年人的民意调查，提供了全国压力水平以及工作场所心理健康支持情况的年度快照。今年的报告显示，倦怠风险仍然居高不下，十分之九（91%）的成年人在过去一年经历了高或极高水平的压力和紧张，与前两年的水平相同。然而与此同时，在工作场所讨论压力水平的不适感丝毫没有改善的迹象，事实上略有恶化。",
+            "keywords": ["snapshot", "stubbornly", "discomfort", "polling", "extreme"],
+            "notes": [
+                {"phrase": "nine in ten", "explain": "十分之九，表示极高比例"},
+                {"phrase": "no signs of improvement", "explain": "没有改善的迹象，表示问题持续存在"}
+            ]
+        },
+        {
+            "en": "Over one in three (35%) workers said they did not feel comfortable discussing high or extreme levels of stress with a manager, an increase of 3% compared with the 2025 report. For younger workers aged 18-24, 39% would not feel comfortable discussing stress with a manager, an increase of 5% on the previous year. What is more, workers are being put at risk of burnout relapse and sustained work absence, with some employers failing to adequately support recovery. One in four (27%) workers who took time off due to extreme pressure said they did not receive any support after returning to work.",
+            "zh": "超过三分之一（35%）的员工表示，他们不习惯与经理讨论高或极高水平的压力，比2025年报告增加了3%。对于18至24岁的年轻员工，39%的人不愿意与经理讨论压力问题，比上一年增加了5%。更重要的是，员工面临倦怠复发和持续缺勤的风险，因为一些雇主未能充分支持康复。因极端压力请假的员工中有四分之一（27%）表示，返回工作岗位后没有得到任何支持。",
+            "keywords": ["relapse", "sustained", "adequately", "manager", "absence"],
+            "notes": [
+                {"phrase": "what is more", "explain": "更重要的是，用于递进补充信息"},
+                {"phrase": "put at risk", "explain": "使……面临风险，表示暴露于危险之中"}
+            ]
+        },
+        {
+            "en": "Almost one in five (18%) said mental health is treated as a tick-box exercise at work, while just one in four (27%) workers said mental health is genuinely prioritised and supported through action and resources. Workers also report a gap between good intentions and concrete efforts, with almost one in three (29%) saying their employer raises awareness about mental health but managers lack the time, training and resources to provide meaningful support. Only 17% had a formal return-to-work plan put in place.",
+            "zh": "几乎五分之一（18%）的人表示，心理健康在工作中被视为敷衍了事的勾选框练习，而只有四分之一（27%）的员工表示，心理健康通过实际行动和资源得到了真正的重视和支持。员工还报告了良好意愿与具体努力之间的差距，近三分之一（29%）的人表示，雇主提高了对心理健康的认识，但经理缺乏时间、培训和资源来提供有意义的支持。只有17%的人制定了正式的返岗计划。",
+            "keywords": ["tick-box", "prioritised", "concrete", "formal", "resources"],
+            "notes": [
+                {"phrase": "tick-box exercise", "explain": "敷衍了事的程序，指只做表面工夫不办实事"},
+                {"phrase": "gap between A and B", "explain": "A与B之间的差距，常用于指出矛盾"}
+            ]
+        },
+        {
+            "en": "The top drivers of stress among those in the workplace were a high or increased workload, experienced by 42% of workers, followed by regularly working unpaid overtime beyond contracted hours (33%), and fears around redundancy and job security (32%). Poor sleep (59%), money worries (48%) and poor physical health (38%) were the top factors driving stress outside of work for adults in the UK. Younger workers aged 18-24 were most likely to agree they had experienced stress due to a high workload (57%), regularly working unpaid overtime (47%), feeling isolated at work (45%) and fear of redundancy (43%).",
+            "zh": "职场人士压力的主要驱动因素是工作量大或增加，42%的员工经历过这种情况，其次是经常在合同工时之外无偿加班（33%），以及对裁员和工作保障的担忧（32%）。睡眠质量差（59%）、金钱忧虑（48%）和身体健康不佳（38%）是英国成年人工作外压力的主要因素。18至24岁的年轻员工最有可能同意他们因工作量大（57%）、经常无偿加班（47%）、在工作中感到孤立（45%）以及对裁员的恐惧（43%）而经历过压力。",
+            "keywords": ["workload", "overtime", "redundancy", "isolated", "contract"],
+            "notes": [
+                {"phrase": "drivers of stress", "explain": "压力的驱动因素，指导致压力的原因"},
+                {"phrase": "beyond contracted hours", "explain": "超出合同规定的工作时间"}
+            ]
+        },
+        {
+            "en": "Burnout is recognised by the World Health Organization as an occupational phenomenon — a state of physical, emotional, and mental exhaustion caused by prolonged exposure to stress that exceeds capacity to cope. Unlike temporary stress, burnout develops gradually and erodes motivation, confidence, and wellbeing, potentially leading to long-term absence and depression or anxiety. Employers have a vital role in helping people stay in work. As the Keep Britain Working review makes clear, managers often feel unsure about starting conversations on stress and mental health.",
+            "zh": "世界卫生组织将倦怠认定为一种职业现象——一种由长期承受超出应对能力的压力而导致的身体、情绪和精神耗竭状态。与暂时的压力不同，倦怠会逐渐发展，侵蚀动力、信心和幸福感，可能导致长期缺勤以及抑郁或焦虑。雇主在帮助人们保住工作方面发挥着至关重要的作用。正如「让英国继续工作」审查所指出的，经理们往往对如何开始关于压力和心理健康对话感到不确定。",
+            "keywords": ["occupational", "exhaustion", "prolonged", "capacity", "vital"],
+            "notes": [
+                {"phrase": "exceeds capacity to cope", "explain": "超出应对能力，表示压力超过个人能处理的范围"},
+                {"phrase": "erodes motivation", "explain": "侵蚀动力，比喻性地描述倦怠对心理的逐渐削弱"}
+            ]
+        },
+        {
+            "en": "If we want to see a thriving workforce, organisations must move faster in supporting managers to act early, before stress and poor mental health turns into burnout and people are pushed out of work. Young people are often seen as championing better attitudes towards mental health at work, yet our survey shows many are staying silent about their own stress levels. Regular check-ins on workload and wellbeing, when managers create the right environment for discussion, are valued by young workers.",
+            "zh": "如果我们想看到一个蓬勃发展的劳动力，组织必须加快行动，支持经理及早采取行动，在压力和心理健康问题转变为倦怠、人们被挤出工作岗位之前进行干预。年轻人通常被视为在工作场所倡导更好心理健康态度的先锋，但我们的调查显示，许多人对自己压力水平保持沉默。当经理创造合适的讨论环境时，定期检查工作量和生活状态会受到年轻员工的重视。",
+            "keywords": ["thriving", "championing", "check-ins", "wellbeing", "intervention"],
+            "notes": [
+                {"phrase": "move faster", "explain": "加快行动，表示需要更紧迫地采取行动"},
+                {"phrase": "pushed out of work", "explain": "被挤出工作岗位，指因健康问题无法继续工作"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "burnout", "phonetic": "/ˈbɜːnaʊt/", "meaning": "倦怠；精疲力竭", "partOfSpeech": "n.", "example": "Burnout is an occupational phenomenon of physical and mental exhaustion."},
+        {"word": "relapse", "phonetic": "/rɪˈlæps/", "meaning": "复发；再次出现", "partOfSpeech": "n.", "example": "Lack of support could increase risk of burnout relapse."},
+        {"word": "stubbornly", "phonetic": "/ˈstʌbənli/", "meaning": "顽固地；难以改变地", "partOfSpeech": "adv.", "example": "The risk of burnout remains stubbornly high."},
+        {"word": "redundancy", "phonetic": "/rɪˈdʌndənsi/", "meaning": "裁员；冗余", "partOfSpeech": "n.", "example": "Fears around redundancy drive stress among workers."},
+        {"word": "occupational", "phonetic": "/ˌɒkjʊˈpeɪʃənl/", "meaning": "职业的；工作相关的", "partOfSpeech": "adj.", "example": "Burnout is an occupational phenomenon."},
+        {"word": "exhaustion", "phonetic": "/ɪɡˈzɔːstʃən/", "meaning": "耗竭；筋疲力尽", "partOfSpeech": "n.", "example": "Burnout is a state of physical and mental exhaustion."},
+        {"word": "tick-box", "phonetic": "/ˈtɪk bɒks/", "meaning": "打勾的；敷衍了事的", "partOfSpeech": "adj.", "example": "Mental health is treated as a tick-box exercise at work."},
+        {"word": "check-in", "phonetic": "/ˈtʃek ɪn/", "meaning": "定期沟通；检查", "partOfSpeech": "n.", "example": "Regular check-ins on workload are valued by young workers."}
+    ],
+    "discussion_questions": [
+        {"en": "Have you or someone you know experienced workplace burnout? What were the main contributing factors?", "zh": "你或你认识的人是否经历过职场倦怠？主要促成因素是什么？"},
+        {"en": "Why do you think so many workers feel uncomfortable discussing stress with their managers? How could this be improved?", "zh": "你认为为什么这么多员工不愿意与经理讨论压力？如何才能改善这种情况？"},
+        {"en": "The report shows a gap between employer awareness and meaningful support. What specific actions could organisations take to bridge this gap?", "zh": "报告显示雇主认知与有意义的支持之间存在差距。组织可以采取哪些具体行动来弥合这一差距？"}
+    ]
+}

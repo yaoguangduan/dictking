@@ -1,0 +1,114 @@
+{
+    "title": "CRISPR Gene Editing: Medical Breakthroughs Transform Disease Treatment",
+    "title_zh": "CRISPR基因编辑：医学突破改变疾病治疗",
+    "author": "Elie Dolgin",
+    "source": "Nature",
+    "created_at": "2025-09-05T12:00:00Z",
+    "difficulty": "hard",
+    "tags": ["CRISPR", "gene therapy", "diabetes", "sickle cell", "medical breakthrough"],
+    "summary": "CRISPR gene editing has transitioned from laboratory research to clinical reality. Researchers have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes, with cells producing insulin for months without immune-suppressing drugs. Regulatory approvals for sickle cell and beta thalassemia treatments mark another milestone in this revolutionary technology.",
+    "summary_zh": "CRISPR基因编辑已从实验室研究走向临床应用。研究人员已将CRISPR编辑的胰腺细胞植入1型糖尿病患者体内，这些细胞在数月内产生胰岛素且无需免疫抑制药物。镰状细胞病和地中海贫血疗法的监管批准标志着这一革命性技术的又一里程碑。",
+    "paragraphs": [
+        {
+            "en": "In a medical first, researchers have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells pumped out sugar-regulating insulin for months without the need for the recipient to take immune-dampening drugs, thanks to gene edits that allowed the cells, collected from a deceased donor, to evade detection by the recipient's immune system. This breakthrough represents a pivotal moment in the history of regenerative medicine.",
+            "zh": "在一项医学首创中，研究人员将CRISPR编辑的胰腺细胞植入了1型糖尿病患者体内。由于基因编辑使这些来自已故捐赠者的细胞能够逃避受体免疫系统的检测，这些细胞在数月内持续分泌调节血糖的胰岛素，而受体无需服用免疫抑制药物。这一突破代表了再生医学史上的关键时刻。",
+            "keywords": ["CRISPR", "implanted", "insulin", "immune-dampening", "evade"],
+            "notes": [
+                {"phrase": "pump out", "explain": "大量分泌/泵出，常用于描述细胞或器官持续产生某种物质"},
+                {"phrase": "evade detection", "explain": "逃避检测，evade 表示巧妙地躲开，避免被识别"}
+            ]
+        },
+        {
+            "en": "The most significant regulatory breakthrough has been the approval of exa-cel, a CRISPR gene therapy for sickle cell disease and beta thalassemia. The United Kingdom approved it first in November 2023, followed by FDA approval in December 2023. Most recently, NHS England approved exa-cel for use in January 2025 for older children and adults with severe sickle cell disease. Clinical trials showed a functional cure in 96.6% of participants, with the therapy stopping painful sickle cell crises.",
+            "zh": "最重要的监管突破是exa-cel的批准，这是一种针对镰状细胞病和地中海贫血的CRISPR基因疗法。英国于2023年11月率先批准，美国FDA于2023年12月紧随其后。最近，英格兰NHS于2025年1月批准exa-cel用于患有严重镰状细胞病的较大儿童和成人。临床试验显示96.6%的参与者实现了功能性治愈，该疗法阻止了痛苦的镰状细胞危象。",
+            "keywords": ["exa-cel", "sickle cell", "thalassemia", "functional cure", "clinical trials"],
+            "notes": [
+                {"phrase": "functional cure", "explain": "功能性治愈，指症状消失或疾病得到控制，但可能未完全根除病原"},
+                {"phrase": "sickle cell crises", "explain": "镰状细胞危象，指镰状细胞病患者的急性疼痛发作"}
+            ]
+        },
+        {
+            "en": "The diabetes trial builds on decades of research into cell transplantation. Traditionally, transplanting cells from donors requires recipients to take immunosuppressive drugs for life, which carry serious side effects including increased infection risk and organ toxicity. The gene edits create an invisibility cloak that allows donated cells to survive in the recipient's body without triggering an immune attack. Researchers used CRISPR to modify genes responsible for immune recognition, effectively making the cells invisible to the body's defense system.",
+            "zh": "这项糖尿病试验建立在数十年的细胞移植研究基础上。传统上，移植捐赠者的细胞需要受体终身服用免疫抑制药物，这些药物会产生严重副作用，包括感染风险增加和器官毒性。基因编辑创造出一种隐形斗篷，使捐赠细胞能够在受体体内存活而不触发免疫攻击。研究人员使用CRISPR修改负责免疫识别的基因，有效地使细胞对身体防御系统隐形。",
+            "keywords": ["transplantation", "immunosuppressive", "invisibility cloak", "immune recognition"],
+            "notes": [
+                {"phrase": "invisibility cloak", "explain": "隐形斗篷，源自《哈利·波特》，这里形象地比喻使细胞逃避免疫识别的技术"},
+                {"phrase": "trigger an immune attack", "explain": "触发免疫攻击，trigger 表示引发、启动某种反应"}
+            ]
+        },
+        {
+            "en": "As of May 2025, a baby boy became the first known person to receive a personalized, bespoke CRISPR therapy designed to correct his specific disease-causing genetic mutation. The treatment appears to have been effective, though questions remain about the scalability of such custom therapies. Each patient would require a unique editing strategy, making mass production challenging. Nevertheless, the case demonstrates that CRISPR can be tailored to address rare genetic disorders that affect only a handful of individuals worldwide.",
+            "zh": "截至2025年5月，一名男婴成为已知第一位接受个性化定制CRISPR疗法的人，该疗法旨在纠正他特定的致病基因突变。治疗似乎有效，但关于此类定制疗法的可扩展性仍存在疑问。每位患者都需要独特的编辑策略，这使得大规模生产具有挑战性。尽管如此，该案例表明CRISPR可以量身定制来解决仅影响全球少数人的罕见遗传病。",
+            "keywords": ["bespoke", "genetic mutation", "scalability", "tailored"],
+            "notes": [
+                {"phrase": "bespoke therapy", "explain": "定制疗法，bespoke 源自高级定制服装，指为特定对象专门制作"},
+                {"phrase": "a handful of", "explain": "少数几个，handful 原意是一把，这里比喻数量极少"}
+            ]
+        },
+        {
+            "en": "These developments represent the transition of CRISPR from research tool to clinical medical treatment across multiple genetic and metabolic diseases. The technology, which allows precise editing of DNA sequences, was first developed in 2012 and has since revolutionized biological research. What began as a method to study gene function in bacteria has now become a platform for treating inherited blood disorders, diabetes, and potentially dozens of other conditions. Scientists and ethicists continue to debate the appropriate boundaries for genome editing, particularly regarding germline modifications that could be passed to future generations.",
+            "zh": "这些进展代表了CRISPR从研究工具向多种遗传和代谢疾病临床治疗的转变。这种能够精确编辑DNA序列的技术于2012年首次开发，此后彻底改变了生物研究。最初作为研究细菌基因功能的方法，现在已成为治疗遗传性血液病、糖尿病以及可能数十种其他疾病的平台。科学家和伦理学家继续争论基因组编辑的适当边界，特别是关于可能遗传给后代的种系修饰。",
+            "keywords": ["metabolic", "germline", "inherited", "platform"],
+            "notes": [
+                {"phrase": "transition from A to B", "explain": "从A向B的转变/过渡，描述事物发展阶段的变化"},
+                {"phrase": "appropriate boundaries", "explain": "适当的边界，指伦理或使用上的合理范围"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "CRISPR",
+            "phonetic": "/ˈkrɪspər/",
+            "meaning": "成簇规律间隔短回文重复序列（一种基因编辑技术）",
+            "partOfSpeech": "n.",
+            "example": "Researchers have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes."
+        },
+        {
+            "word": "evade",
+            "phonetic": "/ɪˈveɪd/",
+            "meaning": "逃避；规避",
+            "partOfSpeech": "v.",
+            "example": "Gene edits allowed the cells to evade detection by the recipient's immune system."
+        },
+        {
+            "word": "immunosuppressive",
+            "phonetic": "/ˌɪmjʊnəʊsəˈpresɪv/",
+            "meaning": "免疫抑制的",
+            "partOfSpeech": "adj.",
+            "example": "Transplanting cells from donors traditionally requires recipients to take immunosuppressive drugs."
+        },
+        {
+            "word": "thalassemia",
+            "phonetic": "/ˌθæləˈsiːmiə/",
+            "meaning": "地中海贫血（一种遗传性血液病）",
+            "partOfSpeech": "n.",
+            "example": "Exa-cel is a CRISPR gene therapy for sickle cell disease and beta thalassemia."
+        },
+        {
+            "word": "bespoke",
+            "phonetic": "/bɪˈspəʊk/",
+            "meaning": "定制的；量身打造的",
+            "partOfSpeech": "adj.",
+            "example": "A baby became the first to receive a personalized, bespoke CRISPR therapy."
+        },
+        {
+            "word": "scalability",
+            "phonetic": "/ˌskeɪləˈbɪlɪti/",
+            "meaning": "可扩展性；规模化能力",
+            "partOfSpeech": "n.",
+            "example": "Questions remain about the scalability of such custom therapies."
+        },
+        {
+            "word": "germline",
+            "phonetic": "/ˈdʒɜːmlaɪn/",
+            "meaning": "种系（可遗传的生殖细胞）",
+            "partOfSpeech": "n.",
+            "example": "Scientists debate boundaries for genome editing, particularly regarding germline modifications."
+        }
+    ],
+    "discussion_questions": [
+        {"en": "What ethical considerations should govern the use of CRISPR in treating genetic diseases? Should germline editing ever be permitted?", "zh": "在利用CRISPR治疗遗传病时，应该考虑哪些伦理因素？种系编辑是否应该被允许？"},
+        {"en": "How might personalized gene therapies like the one given to the baby differ from mass-produced treatments in terms of cost and accessibility?", "zh": "像给予婴儿的这类个性化基因疗法，在成本和可获得性方面与批量生产的疗法有何不同？"},
+        {"en": "The article mentions both diabetes and blood disorder treatments. What common challenge did researchers solve to make cell transplantation work without immunosuppression?", "zh": "文章提到了糖尿病和血液病治疗。研究人员解决了什么共同挑战，使细胞移植在没有免疫抑制的情况下得以实现？"}
+    ]
+}

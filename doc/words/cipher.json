@@ -1,0 +1,112 @@
+{
+  "word": "cipher",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈsaɪfə(r)/",
+    "us": "/ˈsaɪfər/"
+  },
+  "definitions": [
+    {
+      "translation": "密码；加密文字",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。指用于保密通信的编码系统或经加密的信息，常用于密码学、情报、安全等语境。",
+      "sentences": [
+        {"en": "The message was written in cipher and could not be read without the key.", "zh": "信息用密码写成，没有密钥无法阅读。"},
+        {"en": "Ancient kings used ciphers to protect secret communications.", "zh": "古代君主使用密码保护秘密通信。"},
+        {"en": "Breaking the enemy's cipher was crucial to winning the battle.", "zh": "破解敌方的密码是赢得战役的关键。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "secret cipher",
+          "translation": "秘密密码",
+          "pattern": "形容词+名词",
+          "explain": "指保密用途的编码",
+          "sentences": [{"en": "They communicated using a secret cipher known only to the inner circle.", "zh": "他们使用只有内部人员知晓的秘密密码进行交流。"}]
+        },
+        {
+          "collocation": "break/decode a cipher",
+          "translation": "破解密码",
+          "pattern": "动词+名词",
+          "explain": "密码学常用搭配",
+          "sentences": [{"en": "The cryptographers worked for months to break the cipher.", "zh": "密码专家花了数月时间才破解了该密码。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "code": {"translation": "密码，代码", "diffs": "code 可指任何编码系统；cipher 更侧重加密文字或数学变换"},
+        "cryptogram": {"translation": "密文", "diffs": "cryptogram 指已加密的文本本身；cipher 可指方法或文本"}
+      },
+      "antonyms": {
+        "plaintext": {"translation": "明文", "diffs": "指未经加密的原始文字"}
+      },
+      "inflections": {"plural": "ciphers"}
+    },
+    {
+      "translation": "无足轻重的人；零",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。喻指无足轻重的人，或旧时表示数字零（源自阿拉伯语 ṣifr）。",
+      "sentences": [
+        {"en": "He considered himself a cipher in the grand scheme of things.", "zh": "他认为自己在宏大计划中微不足道。"},
+        {"en": "She refused to be treated as a cipher in the negotiation.", "zh": "她拒绝在谈判中被当作无足轻重的人对待。"},
+        {"en": "In Arabic numerals, the cipher represents nothing.", "zh": "在阿拉伯数字中，零表示空无。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "a cipher in",
+          "translation": "在...中无足轻重",
+          "pattern": "名词+介词",
+          "explain": "喻指某人无影响力",
+          "sentences": [{"en": "He felt like a cipher in his own company.", "zh": "他感觉在自己的公司里像个无足轻重的人。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "nobody": {"translation": "小人物，无名之辈", "diffs": "nobody 更口语；cipher 略带书面或讽刺意味"}
+      },
+      "antonyms": {},
+      "inflections": {"plural": "ciphers"}
+    }
+  ],
+  "etymology": {
+    "origin": "源自阿拉伯语 ṣifr（零，空），经中古拉丁语 cifra 传入古法语 cifre，后进入英语。原意为“零”，因零在数学中可代表“空位”，引申为密码（将信息变为“不可读”）。",
+    "root": "阿拉伯语 ṣifr（空的，零）",
+    "affixes": [],
+    "history": "cipher 与 zero 同源，均来自阿拉伯语。零的概念由阿拉伯数学家传入欧洲，cipher 一词随之传播；密码学中“将文字变为不可识别的形式”与“零表示空位”的概念相通。"
+  },
+  "related_words": {
+    "encipher": {
+      "class": {"en": "verb", "en_s": "v.", "ch": "动词"},
+      "translation": "编码，加密",
+      "rule": "cipher 加前缀 en- 构成动词",
+      "sentences": [{"en": "The message was enciphered before transmission.", "zh": "信息在传输前被加密。"}]
+    },
+    "decipher": {
+      "class": {"en": "verb", "en_s": "v.", "ch": "动词"},
+      "translation": "破译，解读",
+      "rule": "de-（除去）+ cipher → 解除密码",
+      "sentences": [{"en": "Archaeologists deciphered the ancient inscriptions.", "zh": "考古学家破译了古代铭文。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "cipher code",
+      "correct": "cipher / secret code",
+      "explain": "cipher 本身即指密码，与 code 连用冗余；用 cipher 或 secret code 即可。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词源联想",
+      "content": "cipher 与 zero 同源（阿拉伯语 ṣifr）→ 零代表“空”→ 密码将信息“清空”为不可读形式 → 密码。"
+    }
+  ]
+}

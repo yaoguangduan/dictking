@@ -1,0 +1,132 @@
+{
+    "title": "After Nearly 100 Years, Scientists May Have Detected Dark Matter",
+    "title_zh": "近百年来，科学家或首次探测到暗物质",
+    "author": "Tomonori Totani",
+    "source": "Phys.org / University of Tokyo",
+    "created_at": "2025-11-25T12:00:00Z",
+    "difficulty": "hard",
+    "tags": ["dark matter", "astronomy", "physics", "Fermi telescope", "WIMPs"],
+    "summary": "NASA's Fermi Gamma-ray Space Telescope may have provided direct evidence of dark matter after nearly a century of searching. Researchers detected gamma rays matching predictions for dark matter particle annihilation in the Milky Way's center, potentially allowing the invisible matter to be \"seen\" for the very first time.",
+    "summary_zh": "在近一个世纪的搜寻之后，NASA的费米伽马射线太空望远镜可能提供了暗物质的直接证据。研究人员在银河系中心探测到与暗物质粒子湮灭预测相符的伽马射线，可能首次让这种不可见物质被「看见」。",
+    "paragraphs": [
+        {
+            "en": "In the early 1930s, Swiss astronomer Fritz Zwicky observed galaxies in space moving faster than their mass should allow, prompting him to infer the presence of some invisible scaffolding—dark matter—holding the galaxies together. Nearly 100 years later, NASA's Fermi Gamma-ray Space Telescope may have provided direct evidence of dark matter, allowing the invisible matter to be \"seen\" for the very first time.",
+            "zh": "20世纪30年代初，瑞士天文学家弗里茨·兹威基观察到太空中的星系移动速度超过了其质量所允许的范围，这促使他推断存在某种看不见的支架——暗物质——将星系维系在一起。近100年后，NASA的费米伽马射线太空望远镜可能提供了暗物质的直接证据，首次让这种不可见物质得以被「看见」。",
+            "keywords": ["scaffolding", "infer", "Fermi", "direct evidence"],
+            "notes": [
+                {"phrase": "invisible scaffolding", "explain": "看不见的支架，scaffolding 原指脚手架，这里比喻支撑结构的暗物质"},
+                {"phrase": "prompting him to infer", "explain": "促使他推断，prompt 表示推动、促使"}
+            ]
+        },
+        {
+            "en": "Dark matter has remained largely a mystery since it was proposed so many years ago. Up to this point, scientists have only been able to indirectly observe dark matter through its effects on observable matter, such as its ability to generate enough gravitational force to hold galaxies together. The reason dark matter can't be observed directly is that the particles that make up dark matter don't interact with electromagnetic force—meaning dark matter doesn't absorb, reflect or emit light.",
+            "zh": "自多年前被提出以来，暗物质在很大程度上一直是个谜。迄今为止，科学家只能通过暗物质对可见物质的影响来间接观察它，例如它产生足够引力将星系维系在一起的能力。暗物质无法直接观察的原因是构成暗物质的粒子不与电磁力相互作用——这意味着暗物质不吸收、反射或发射光。",
+            "keywords": ["gravitational", "electromagnetic", "indirectly", "emit"],
+            "notes": [
+                {"phrase": "up to this point", "explain": "迄今为止，表示到现在为止"},
+                {"phrase": "don't interact with", "explain": "不与...相互作用，科学中描述粒子行为的常用表达"}
+            ]
+        },
+        {
+            "en": "Theories abound, but many researchers hypothesize that dark matter is made up of something called weakly interacting massive particles, or WIMPs, which are heavier than protons but interact very little with other matter. Despite this lack of interaction, when two WIMPs collide, it is predicted that the two particles will annihilate one another and release other particles, including gamma ray photons. Researchers have targeted regions where dark matter is concentrated, such as the center of the Milky Way, through astronomical observations for years in search of these specific gamma rays.",
+            "zh": "理论众多，但许多研究人员推测暗物质由一种称为弱相互作用大质量粒子（WIMP）的物质组成，它们比质子重但与其它物质相互作用很少。尽管缺乏相互作用，当两个WIMP碰撞时，据预测这两个粒子会相互湮灭并释放包括伽马射线光子在内的其它粒子。多年来，研究人员一直通过天文观测将目标对准暗物质集中的区域，例如银河系中心，以寻找这些特定的伽马射线。",
+            "keywords": ["WIMPs", "annihilate", "hypothesize", "photons"],
+            "notes": [
+                {"phrase": "theories abound", "explain": "理论众多，abound 表示大量存在"},
+                {"phrase": "annihilate one another", "explain": "相互湮灭，粒子物理学中物质与反物质相遇时转化为能量的过程"}
+            ]
+        },
+        {
+            "en": "Using the latest data from the Fermi Gamma-ray Space Telescope, Professor Tomonori Totani from the University of Tokyo believes he has finally detected the specific gamma rays predicted by the annihilation of theoretical dark matter particles. Totani's study is published in the Journal of Cosmology and Astroparticle Physics. \"We detected gamma rays with a photon energy of 20 gigaelectronvolts extending in a halolike structure toward the center of the Milky Way galaxy,\" said Totani. \"The gamma-ray emission component closely matches the shape expected from the dark matter halo.\"",
+            "zh": "使用费米伽马射线太空望远镜的最新数据，东京大学的户谷友则教授认为他终于探测到了理论暗物质粒子湮灭所预测的特定伽马射线。户谷的研究发表在《宇宙学和天体粒子物理学杂志》上。「我们探测到了光子能量为20千兆电子伏特的伽马射线，以类晕状结构延伸向银河系中心」，户谷说。「伽马射线发射成分与暗物质晕预期形状非常吻合。」",
+            "keywords": ["gigaelectronvolts", "halolike", "emission", "halo"],
+            "notes": [
+                {"phrase": "halolike structure", "explain": "类晕状结构，halo 指围绕星系的光环状分布"},
+                {"phrase": "closely matches", "explain": "非常吻合，表示与预期高度一致"}
+            ]
+        },
+        {
+            "en": "The observed energy spectrum, or range of gamma-ray emission intensities, matches the emission predicted from the annihilation of hypothetical WIMPs with a mass approximately 500 times that of a proton. The frequency of WIMP annihilation estimated from the measured gamma-ray intensity also falls within the range of theoretical predictions. Importantly, these gamma-ray measurements are not easily explained by other, more common astronomical phenomena or gamma-ray emissions. Therefore, Totani considers these data a strong indication of gamma-ray emission from dark matter.",
+            "zh": "观测到的能谱，即伽马射线发射强度的范围，与质量为质子约500倍的假设WIMP湮灭所预测的发射相符。根据测量的伽马射线强度估计的WIMP湮灭频率也落在理论预测范围内。重要的是，这些伽马射线测量结果无法轻易用其他更常见的天文现象或伽马射线发射来解释。因此，户谷认为这些数据强烈表明伽马射线来自暗物质。",
+            "keywords": ["spectrum", "hypothetical", "frequency", "indication"],
+            "notes": [
+                {"phrase": "falls within the range", "explain": "落在...范围内，表示在预期区间内"},
+                {"phrase": "strong indication", "explain": "强烈迹象，表示有力的证据指向某结论"}
+            ]
+        },
+        {
+            "en": "\"If this is correct, to the extent of my knowledge, it would mark the first time humanity has 'seen' dark matter,\" said Totani. \"And it turns out that dark matter is a new particle not included in the current standard model of particle physics. This signifies a major development in astronomy and physics.\" The standard model describes the known fundamental particles and forces but does not account for dark matter, which is thought to make up about 85% of all matter in the universe.",
+            "zh": "「如果这是正确的，据我所知，这将标志着人类首次『看见』暗物质」，户谷说。「而且事实证明，暗物质是当前粒子物理学标准模型中未包含的新粒子。这标志着天文学和物理学的重大发展。」标准模型描述了已知的基本粒子和力，但无法解释暗物质，而暗物质被认为构成了宇宙中约85%的物质。",
+            "keywords": ["standard model", "signifies", "fundamental", "accounts for"],
+            "notes": [
+                {"phrase": "to the extent of my knowledge", "explain": "据我所知，谨慎表述个人知识范围的谦逊说法"},
+                {"phrase": "accounts for", "explain": "解释；占（比例），这里指标准模型未包含暗物质"}
+            ]
+        },
+        {
+            "en": "While Totani is confident that his gamma-ray measurements are detecting dark matter particles, his results must be verified through independent analysis by other researchers. Even with this confirmation, scientists will want additional proof that the halolike radiation is indeed the result of dark matter annihilation rather than originating from some other astronomical phenomena. Detecting the same energy gamma-ray emissions from dwarf galaxies within the Milky Way halo would bolster these initial results.",
+            "zh": "尽管户谷相信他的伽马射线测量正在探测暗物质粒子，但他的结果必须通过其他研究人员的独立分析来验证。即使得到这一确认，科学家仍需要额外的证据证明类晕状辐射确实是暗物质湮灭的结果，而非源于其他天文现象。从银河系晕内的矮星系探测到相同能量的伽马射线发射将支持这些初步结果。",
+            "keywords": ["verified", "dwarf galaxies", "bolster", "originating"],
+            "notes": [
+                {"phrase": "bolster", "explain": "支持；加强，指提供额外证据使结论更可信"},
+                {"phrase": "rather than", "explain": "而非；而不是，用于排除另一种可能性"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "scaffolding",
+            "phonetic": "/ˈskæfəldɪŋ/",
+            "meaning": "支架；脚手架",
+            "partOfSpeech": "n.",
+            "example": "Zwicky inferred the presence of invisible scaffolding—dark matter—holding galaxies together."
+        },
+        {
+            "word": "annihilate",
+            "phonetic": "/əˈnaɪəleɪt/",
+            "meaning": "湮灭；彻底摧毁",
+            "partOfSpeech": "v.",
+            "example": "When two WIMPs collide, the particles will annihilate one another and release gamma rays."
+        },
+        {
+            "word": "WIMP",
+            "phonetic": "/wɪmp/",
+            "meaning": "弱相互作用大质量粒子（暗物质候选粒子）",
+            "partOfSpeech": "n.",
+            "example": "Dark matter may be made up of weakly interacting massive particles, or WIMPs."
+        },
+        {
+            "word": "photon",
+            "phonetic": "/ˈfəʊtɒn/",
+            "meaning": "光子",
+            "partOfSpeech": "n.",
+            "example": "WIMP annihilation releases gamma ray photons that scientists can detect."
+        },
+        {
+            "word": "spectrum",
+            "phonetic": "/ˈspektrəm/",
+            "meaning": "光谱；范围",
+            "partOfSpeech": "n.",
+            "example": "The observed energy spectrum matches the emission predicted from WIMP annihilation."
+        },
+        {
+            "word": "bolster",
+            "phonetic": "/ˈbəʊlstə/",
+            "meaning": "支持；加强",
+            "partOfSpeech": "v.",
+            "example": "Detecting gamma rays from dwarf galaxies would bolster these initial results."
+        },
+        {
+            "word": "hypothetical",
+            "phonetic": "/ˌhaɪpəˈθetɪkl/",
+            "meaning": "假设的；假想的",
+            "partOfSpeech": "adj.",
+            "example": "The emission matches predictions from hypothetical WIMPs with mass 500 times that of a proton."
+        }
+    ],
+    "discussion_questions": [
+        {"en": "Why has dark matter remained undetectable for nearly 100 years despite strong indirect evidence of its existence? What makes the Fermi telescope findings potentially different?", "zh": "尽管有强有力的间接证据证明暗物质的存在，为什么近100年来一直无法探测到它？费米望远镜的发现有什么潜在的不同之处？"},
+        {"en": "The article emphasizes that results need independent verification. Why is scientific replication and peer review so important for breakthrough claims?", "zh": "文章强调结果需要独立验证。为什么科学复现和同行评审对突破性声称如此重要？"},
+        {"en": "If dark matter is confirmed as a new particle beyond the standard model, what implications might this have for our understanding of the universe?", "zh": "如果暗物质被确认为标准模型之外的新粒子，这对我们对宇宙的理解可能产生什么影响？"}
+    ]
+}

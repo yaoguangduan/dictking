@@ -1,0 +1,47 @@
+{
+    "word": "stylistic",
+    "created_at": "2026-02-13T03:00:00Z",
+    "phonetic": { "uk": "/staɪˈlɪstɪk/", "us": "/staɪˈlɪstɪk/" },
+    "definitions": [
+        {
+            "translation": "文体的；风格上的；与风格相关的",
+            "partOfSpeech": { "en": "adjective", "en_simple": "adj.", "ch": "形容词" },
+            "usage_note": "指与风格（尤指文学、艺术或表达风格）有关的。",
+            "sentences": [
+                { "en": "The critic noted several stylistic differences between the novelist's early and later works.", "zh": "评论家指出这位小说家早期与后期作品在文体上有数处差异。" },
+                { "en": "The director made a bold stylistic choice in shooting the film in black and white.", "zh": "导演在风格上做出大胆选择，用黑白方式拍摄了这部影片。" },
+                { "en": "Stylistic analysis helps readers appreciate how the author achieves certain effects.", "zh": "文体分析有助于读者理解作者如何达到特定效果。" }
+            ],
+            "collocations": [
+                { "collocation": "stylistic device", "translation": "修辞手法；文体手段", "sentences": [{ "en": "Metaphor and irony are common stylistic devices in literature.", "zh": "隐喻和反讽是文学中常见的修辞手法。" }, { "en": "The poet relies on various stylistic devices to create rhythm.", "zh": "诗人运用多种文体手段营造韵律。" }] },
+                { "collocation": "stylistic choice", "translation": "风格选择", "sentences": [{ "en": "Using short sentences was a deliberate stylistic choice.", "zh": "使用短句是一种刻意为之的风格选择。" }] },
+                { "collocation": "stylistic analysis", "translation": "文体分析；风格分析", "sentences": [{ "en": "Stylistic analysis reveals the author's distinctive voice.", "zh": "文体分析能揭示作者独特的文风。" }] },
+                { "collocation": "stylistic features", "translation": "风格特征", "sentences": [{ "en": "The Baroque period is known for its ornate stylistic features.", "zh": "巴洛克时期以其华丽的风格特征著称。" }] }
+            ],
+            "phrases": [],
+            "synonyms": {
+                "aesthetic": { "translation": "美学的；审美的", "diffs": "aesthetic 侧重美感与审美；stylistic 侧重表达方式与形式特征。", "sentences": [{ "en": "The room was designed with aesthetic appeal in mind.", "zh": "房间的设计考虑了审美效果。" }] },
+                "artistic": { "translation": "艺术的", "diffs": "artistic 范围更广；stylistic 专指与风格（style）相关。", "sentences": [{ "en": "She has great artistic talent.", "zh": "她极具艺术才华。" }] },
+                "rhetorical": { "translation": "修辞的", "diffs": "rhetorical 侧重说服与修辞技巧；stylistic 涵盖更广的文体与表现方式。", "sentences": [{ "en": "The speech employed various rhetorical techniques.", "zh": "演讲运用了多种修辞技巧。" }] }
+            },
+            "antonyms": {
+                "substantive": { "translation": "实质的；内容的", "diffs": "substantive 指内容实质；stylistic 指形式与风格。", "sentences": [{ "en": "The substantive issues were more important than the wording.", "zh": "实质性问题比措辞更重要。" }] }
+            },
+            "inflections": {}
+        }
+    ],
+    "etymology": { "origin": "来自 style（风格）+ 希腊语后缀 -istikos（-istic），表“与…相关的”。", "root": "styl-（风格，源自拉丁语 stilus）", "affixes": ["-istic（形容词后缀，表“属于…的”）"] },
+    "related_words": {
+        "style": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "风格；文体；式样", "rule": "stylistic 的词根词", "sentences": [{ "en": "Her writing style is clear and concise.", "zh": "她的写作风格清晰简洁。" }] },
+        "stylistically": { "class": { "en": "adverb", "en_s": "adv.", "ch": "副词" }, "translation": "在风格上；从文体角度", "rule": "stylistic 的副词形式", "sentences": [{ "en": "The two novels differ stylistically.", "zh": "这两部小说在风格上有所不同。" }] },
+        "stylist": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "风格家；文体家；造型师", "rule": "style + -ist", "sentences": [{ "en": "He is widely regarded as a great stylist of the English language.", "zh": "他被广泛认为是英语的伟大文体家。" }] },
+        "stylistics": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "文体学", "rule": "stylistic 的学科名词", "sentences": [{ "en": "Stylistics examines how linguistic choices create meaning and effect.", "zh": "文体学研究语言选择如何创造意义与效果。" }] }
+    },
+    "idioms": [],
+    "common_mistakes": [
+        { "wrong": "stylistic of writing", "correct": "stylistic features of writing / style of writing", "explain": "“写作风格”通常说 style of writing；若用 stylistic，需说 stylistic features 或 stylistic aspects。" }
+    ],
+    "mnemonics": [
+        { "type": "词根联想", "content": "style（风格）+ -istic → 与风格相关的 → stylistic（文体的；风格上的）。" }
+    ]
+}

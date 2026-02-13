@@ -6,8 +6,8 @@ import All from '../views/All.vue'
 import WordDetail from '../views/WordDetail.vue'
 import User from '../views/User.vue'
 import WordCloudSentences from '../views/WordCloudSentences.vue'
-import ImportWord from '../views/ImportWord.vue'
-import ImportTaskDetail from '../views/ImportTaskDetail.vue'
+import Articles from '../views/Articles.vue'
+import ArticleDetail from '../views/ArticleDetail.vue'
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -49,20 +49,20 @@ const routes: Array<RouteRecordRaw> = [
     component: WordCloudSentences
   },
   {
-    path: '/import-word',
-    name: 'ImportWord',
-    component: ImportWord,
-    meta: { keepAlive: false }
-  },
-  {
-    path: '/import-task/:id',
-    name: 'ImportTaskDetail',
-    component: ImportTaskDetail
-  },
-  {
     path: '/word/:word',
     name: 'WordDetail',
     component: WordDetail
+  },
+  {
+    path: '/articles',
+    name: 'Articles',
+    component: Articles,
+    meta: { keepAlive: true }
+  },
+  {
+    path: '/article/:id',
+    name: 'ArticleDetail',
+    component: ArticleDetail
   }
 ]
 

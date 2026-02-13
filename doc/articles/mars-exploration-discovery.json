@@ -1,0 +1,125 @@
+{
+    "title": "NASA's Curiosity Rover Detects Largest Organic Molecules Found on Mars",
+    "title_zh": "NASA好奇号火星车检测到火星上发现的最大有机分子",
+    "author": "Lonnie Shekhtman",
+    "source": "NASA JPL",
+    "created_at": "2025-03-24T12:00:00Z",
+    "difficulty": "medium",
+    "tags": ["Mars", "NASA", "Curiosity rover", "organic molecules", "astrobiology"],
+    "summary": "Scientists analyzing rock onboard NASA's Curiosity rover have found the largest organic compounds on Mars to date: decane, undecane, and dodecane. These molecules suggest prebiotic chemistry may have advanced further on Mars than previously observed, and increase hopes that biosignatures could be preserved for the Mars Sample Return mission.",
+    "summary_zh": "在NASA好奇号火星车上分析岩石的科学家发现了迄今为止火星上最大的有机化合物：癸烷、十一烷和十二烷。这些分子表明火星上的生命前化学可能比之前观察到的更进一步，并增加了生物特征可能为火星样本返回任务保存下来的希望。",
+    "paragraphs": [
+        {
+            "en": "Scientists analyzing pulverized rock onboard NASA's Curiosity rover have found the largest organic compounds on the Red Planet to date. The finding, published in the Proceedings of the National Academy of Sciences, suggests prebiotic chemistry may have advanced further on Mars than previously observed. Scientists probed an existing rock sample inside Curiosity's Sample Analysis at Mars (SAM) mini-lab and found the molecules decane, undecane, and dodecane.",
+            "zh": "在NASA好奇号火星车上分析粉碎岩石的科学家发现了这颗红色星球上迄今为止最大的有机化合物。这一发表于《美国国家科学院院刊》的发现表明，火星上的生命前化学可能比之前观察到的更进一步。科学家在好奇号火星样本分析（SAM）迷你实验室内的现有岩石样本中探测到了癸烷、十一烷和十二烷分子。",
+            "keywords": ["pulverized", "prebiotic", "probed", "dodecane"],
+            "notes": [
+                {"phrase": "the Red Planet", "explain": "红色星球，火星的别称，因其表面氧化铁呈现红色"},
+                {"phrase": "prebiotic chemistry", "explain": "生命前化学，指生命出现之前可能存在的化学反应"}
+            ]
+        },
+        {
+            "en": "These compounds, which are made up of 10, 11, and 12 carbons respectively, are thought to be the fragments of fatty acids that were preserved in the sample. Fatty acids are among the organic molecules that on Earth are chemical building blocks of life. Living things produce fatty acids to help form cell membranes and perform various other functions. But fatty acids also can be made without life, through chemical reactions triggered by various geological processes, including the interaction of water with minerals in hydrothermal vents.",
+            "zh": "这些分别由10、11和12个碳原子组成的化合物，被认为是样本中保存的脂肪酸片段。在地球上，脂肪酸是生命的化学组成成分之一。生物体产生脂肪酸以帮助形成细胞膜并执行各种其他功能。但脂肪酸也可以在没有生命的情况下产生，通过各种地质过程引发的化学反应，包括热液喷口中水与矿物质的相互作用。",
+            "keywords": ["fatty acids", "cell membranes", "hydrothermal vents", "geological"],
+            "notes": [
+                {"phrase": "building blocks", "explain": "基本组成单元，比喻构成某物的基础成分"},
+                {"phrase": "triggered by", "explain": "由...引发，trigger 作动词表示启动、引发"}
+            ]
+        },
+        {
+            "en": "While there's no way to confirm the source of the molecules identified, finding them at all is exciting for Curiosity's science team for a couple of reasons. Curiosity scientists had previously discovered small, simple organic molecules on Mars, but finding these larger compounds provides the first evidence that organic chemistry advanced toward the kind of complexity required for an origin of life on Mars. The new study also increases the chances that large organic molecules that can be made only in the presence of life, known as biosignatures, could be preserved on Mars.",
+            "zh": "虽然无法确认所识别分子的来源，但发现它们本身对好奇号科学团队来说令人兴奋，原因有几个。好奇号科学家此前曾在火星上发现过小而简单的有机分子，但发现这些较大的化合物首次证明有机化学已经朝着火星生命起源所需的那种复杂程度发展。这项新研究还增加了仅在生命存在的情况下才能产生的大型有机分子（称为生物特征）可能在火星上保存下来的可能性。",
+            "keywords": ["biosignatures", "complexity", "organic chemistry", "preserved"],
+            "notes": [
+                {"phrase": "biosignatures", "explain": "生物特征，指表明过去或现在存在生命的化学或物理证据"},
+                {"phrase": "origin of life", "explain": "生命起源，科学上对生命如何首次出现的研究领域"}
+            ]
+        },
+        {
+            "en": "The sample has been analyzed many times with SAM using different techniques. Nicknamed \"Cumberland,\" it was drilled by Curiosity in May 2013 from an area in Mars' Gale Crater called Yellowknife Bay. Scientists were so intrigued by Yellowknife Bay, which looked like an ancient lakebed, they sent the rover there before heading to its primary destination of Mount Sharp. The detour was worth it: Cumberland turns out to be jam-packed with tantalizing chemical clues to Gale Crater's 3.7-billion-year past.",
+            "zh": "该样本已使用SAM以不同技术分析过多次。绰号「坎伯兰」的样本于2013年5月由好奇号从火星盖尔陨石坑一个称为黄刀湾的区域钻取。科学家对看起来像古代湖床的黄刀湾如此着迷，以至于在前往其主要目的地夏普山之前就派火星车去了那里。这次绕行是值得的：坎伯兰原来充满了有关盖尔陨石坑37亿年过去的诱人化学线索。",
+            "keywords": ["Gale Crater", "lakebed", "detour", "tantalizing"],
+            "notes": [
+                {"phrase": "jam-packed with", "explain": "挤满、充满，非正式表达，强调数量多"},
+                {"phrase": "the detour was worth it", "explain": "绕道是值得的，表示额外的努力带来了回报"}
+            ]
+        },
+        {
+            "en": "Perhaps most important, scientists determined that Yellowknife Bay was indeed the site of an ancient lake, providing an environment that could concentrate organic molecules and preserve them in fine-grained sedimentary rock called mudstone. \"There is evidence that liquid water existed in Gale Crater for millions of years and probably much longer, which means there was enough time for life-forming chemistry to happen in these crater-lake environments on Mars,\" said Daniel Glavin, senior scientist for sample return at NASA's Goddard Space Flight Center.",
+            "zh": "也许最重要的是，科学家确定黄刀湾确实是古代湖泊的所在地，提供了一个可以浓缩有机分子并在称为泥岩的细粒沉积岩中保存它们的环境。「有证据表明，液态水在盖尔陨石坑中存在了数百万年，可能更长，这意味着火星上这些陨石坑湖泊环境有足够的时间发生生命形成化学」，NASA戈达德太空飞行中心样本返回高级科学家丹尼尔·格拉文说。",
+            "keywords": ["mudstone", "sedimentary", "crater-lake", "life-forming"],
+            "notes": [
+                {"phrase": "fine-grained", "explain": "细粒的，指岩石颗粒非常细小"},
+                {"phrase": "life-forming chemistry", "explain": "生命形成化学，指可能导致生命诞生的化学反应"}
+            ]
+        },
+        {
+            "en": "The recent organic compounds discovery was a side effect of an unrelated experiment to probe Cumberland for signs of amino acids. After heating the sample twice in SAM's oven and measuring the mass of the molecules released, the team saw no evidence of amino acids. But they noticed that the sample released small amounts of decane, undecane, and dodecane. Because these compounds could have broken off from larger molecules during heating, scientists worked backward to figure out what structures they may have come from.",
+            "zh": "最近的有机化合物发现是一项不相关实验的意外收获——该实验旨在探测坎伯兰样本中是否存在氨基酸的迹象。在SAM的烤箱中两次加热样本并测量释放分子的质量后，团队没有发现氨基酸的证据。但他们注意到样本释放了少量癸烷、十一烷和十二烷。由于这些化合物可能在加热过程中从更大的分子上断裂，科学家逆向推断它们可能来自什么结构。",
+            "keywords": ["amino acids", "side effect", "work backward", "structures"],
+            "notes": [
+                {"phrase": "side effect", "explain": "副作用/意外结果，这里指非预期的发现"},
+                {"phrase": "work backward", "explain": "逆向推理，从结果反推原因或来源"}
+            ]
+        },
+        {
+            "en": "\"We are ready to take the next big step and bring Mars samples home to our labs to settle the debate about life on Mars,\" said Glavin. Scientists say that ultimately there's a limit to how much they can infer from molecule-hunting instruments that can be sent to Mars. The Mars Sample Return mission aims to bring carefully selected rocks and soil from the Red Planet back to Earth, where the most sophisticated instruments available could perform definitive analyses.",
+            "zh": "「我们已准备好迈出下一大步，将火星样本带回我们的实验室，以解决关于火星生命的争论」，格拉文说。科学家表示，从可以送往火星的分子探测仪器所能推断的信息最终是有限的。火星样本返回任务旨在将精心挑选的岩石和土壤从这颗红色星球带回地球，在那里可以使用最先进的仪器进行决定性分析。",
+            "keywords": ["infer", "Mars Sample Return", "sophisticated", "definitive"],
+            "notes": [
+                {"phrase": "settle the debate", "explain": "解决争论，指给出明确的答案或结论"},
+                {"phrase": "definitive analyses", "explain": "决定性分析，指能给出最终结论的权威检测"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "pulverized",
+            "phonetic": "/ˈpʌlvəraɪzd/",
+            "meaning": "粉碎的；磨成粉末的",
+            "partOfSpeech": "adj.",
+            "example": "Scientists analyzing pulverized rock onboard NASA's Curiosity rover have found organic compounds."
+        },
+        {
+            "word": "prebiotic",
+            "phonetic": "/ˌpriːbaɪˈɒtɪk/",
+            "meaning": "生命前期的；生命出现之前的",
+            "partOfSpeech": "adj.",
+            "example": "The finding suggests prebiotic chemistry may have advanced further on Mars."
+        },
+        {
+            "word": "biosignature",
+            "phonetic": "/ˌbaɪəʊˈsɪɡnətʃə/",
+            "meaning": "生物特征；生命迹象",
+            "partOfSpeech": "n.",
+            "example": "Large organic molecules made only in the presence of life are known as biosignatures."
+        },
+        {
+            "word": "hydrothermal",
+            "phonetic": "/ˌhaɪdrəˈθɜːməl/",
+            "meaning": "热液的；热泉的",
+            "partOfSpeech": "adj.",
+            "example": "Fatty acids can be made through the interaction of water with minerals in hydrothermal vents."
+        },
+        {
+            "word": "mudstone",
+            "phonetic": "/ˈmʌdstəʊn/",
+            "meaning": "泥岩；泥质岩",
+            "partOfSpeech": "n.",
+            "example": "Organic molecules could be preserved in fine-grained sedimentary rock called mudstone."
+        },
+        {
+            "word": "infer",
+            "phonetic": "/ɪnˈfɜː/",
+            "meaning": "推断；推论",
+            "partOfSpeech": "v.",
+            "example": "There's a limit to how much scientists can infer from instruments sent to Mars."
+        }
+    ],
+    "discussion_questions": [
+        {"en": "Why is finding fatty acid fragments on Mars significant even though they can be produced without life? What would constitute definitive evidence of past life?", "zh": "即使脂肪酸可以在没有生命的情况下产生，在火星上发现脂肪酸片段为什么仍然重要？什么才能构成过去生命的确凿证据？"},
+        {"en": "The Curiosity team made a detour to Yellowknife Bay before Mount Sharp. How does this illustrate the balance between planned objectives and opportunistic science in exploration?", "zh": "好奇号团队在前往夏普山之前绕道去了黄刀湾。这如何说明探索中计划目标与应变科学之间的平衡？"},
+        {"en": "What challenges does the Mars Sample Return mission face, and why can't we simply send more sophisticated instruments to Mars instead?", "zh": "火星样本返回任务面临哪些挑战？为什么我们不能简单地向火星发送更先进的仪器？"}
+    ]
+}

@@ -1,5 +1,5 @@
 <template>
-  <div class="random-page">
+  <div class="random-page" :style="themeVars">
     <!-- 顶部栏 -->
     <div class="page-header">
       <div class="header-actions">
@@ -19,7 +19,7 @@
       <!-- 单词区域 -->
       <div class="word-section" @click="toggleWord">
         <h1 v-if="!hideWord || revealWord" class="word">{{ currentWord.word }}</h1>
-        <div v-else class="word-hidden">点击显示单词</div>
+        <div v-else class="word-hidden">Tap to reveal word</div>
       </div>
       
       <!-- 分割线 -->
@@ -37,10 +37,10 @@
             <span class="trans">{{ def.translation }}</span>
           </div>
           <div class="detail-link" @click.stop="goToDetail">
-            查看完整释义 →
+            View full definition →
           </div>
         </div>
-        <div v-else class="meaning-hidden">点击显示释义</div>
+        <div v-else class="meaning-hidden">Tap to reveal meaning</div>
       </div>
       
       <!-- 导航按钮 -->
@@ -64,16 +64,16 @@
     >
       <div class="display-dialog">
         <div class="dialog-header">
-          <h3>显示设置</h3>
+          <h3>Display Settings</h3>
           <van-icon name="cross" @click="showDisplayDialog = false" />
         </div>
         <van-cell-group>
-          <van-cell title="隐藏单词">
+          <van-cell title="Hide Word">
             <template #right-icon>
               <van-switch v-model="hideWord" @change="saveDisplayPrefs" />
             </template>
           </van-cell>
-          <van-cell title="隐藏释义">
+          <van-cell title="Hide Meaning">
             <template #right-icon>
               <van-switch v-model="hideMeaning" @change="saveDisplayPrefs" />
             </template>
@@ -85,18 +85,18 @@
     <!-- 权重设置弹窗 -->
     <van-dialog
       v-model:show="showWeightDialog"
-      title="权重设置"
+      title="Weight Settings"
       show-cancel-button
       @confirm="saveCurrentWeight"
     >
       <div class="weight-dialog-content" v-if="currentWord">
         <div class="current-word-info">
           <h3>{{ currentWord.word }}</h3>
-          <p class="weight-desc">权重越低，越容易出现</p>
+          <p class="weight-desc">Lower weight = less likely to appear</p>
         </div>
         <div class="weight-slider">
           <div class="weight-info">
-            <span>当前权重</span>
+            <span>Current Weight</span>
             <span class="weight-value">{{ currentWeight }}</span>
           </div>
           <van-slider 
@@ -110,7 +110,7 @@
     </van-dialog>
 
     <van-loading v-if="loading" class="loading" size="24px" vertical>
-      加载中...
+      Loading...
     </van-loading>
   </div>
 </template>
@@ -122,13 +122,47 @@ export default {
 </script>
 
 <script setup>
-import { ref, onMounted, onActivated } from 'vue'
+import { ref, computed, onMounted, onActivated } from 'vue'
 import { useRouter, onBeforeRouteLeave } from 'vue-router'
 import { Field, Button, Dialog, Popup, Slider, Icon, Loading, Cell, CellGroup, Switch, showToast } from 'vant'
 import { wordAPI, weightAPI } from '../api'
 import { currentDict as userCurrentDict } from '../store/user'
 
 const router = useRouter()
+
+// Premium color palettes — same as ArticleDetail
+const themes = [
+  { name: 'cream',     bg: '#faf6ef', card: '#f5efe5', border: '#e8e0d4', accent: '#9a7b4f', text: '#3d3225', textSub: '#7a6a55', muted: '#a99b88', noteBg: '#f0e8da', highlight: '#8b6914', tagBorder: '#d9ccb8' },
+  { name: 'linen',     bg: '#f8f5f0', card: '#f2ede6', border: '#e4dcd2', accent: '#8a7560', text: '#302820', textSub: '#70604e', muted: '#a09080', noteBg: '#ece4da', highlight: '#7a5c36', tagBorder: '#d4c4b0' },
+  { name: 'sandstone', bg: '#f8f6f1', card: '#f2efe8', border: '#e4dfd5', accent: '#9a8060', text: '#302a20', textSub: '#706450', muted: '#a09480', noteBg: '#ece6da', highlight: '#886830', tagBorder: '#d4c8b0' },
+  { name: 'olive',     bg: '#f6f7f3', card: '#eff2eb', border: '#dde2d6', accent: '#6a7a56', text: '#272e22', textSub: '#5a6650', muted: '#8a967e', noteBg: '#e7ece0', highlight: '#4e6a35', tagBorder: '#c0ccb4' },
+  { name: 'paper',     bg: '#f9f7f4', card: '#f3f0eb', border: '#e4dfd8', accent: '#6b7c6b', text: '#2d2d2d', textSub: '#666b66', muted: '#8f9a8f', noteBg: '#eceae4', highlight: '#4a6b4a', tagBorder: '#c8d0c8' },
+  { name: 'aqua',      bg: '#f4f8f8', card: '#edf3f3', border: '#dae4e4', accent: '#4a8888', text: '#1e3030', textSub: '#4a6868', muted: '#7a9a9a', noteBg: '#e2ecec', highlight: '#2a7070', tagBorder: '#b0cccc' },
+  { name: 'mist',      bg: '#f5f6f8', card: '#eef0f3', border: '#dfe2e8', accent: '#6e7b8b', text: '#242830', textSub: '#5a6370', muted: '#8e96a4', noteBg: '#e6e9ef', highlight: '#4a5d78', tagBorder: '#c0c8d4' },
+  { name: 'arctic',    bg: '#f6f8fa', card: '#eff2f5', border: '#dde3ea', accent: '#5882a4', text: '#1f2d3d', textSub: '#516478', muted: '#8298ae', noteBg: '#e4eaf2', highlight: '#3670a0', tagBorder: '#b4c8dc' },
+  { name: 'slate',     bg: '#f4f5f7', card: '#eceef1', border: '#dde0e5', accent: '#5c6678', text: '#232730', textSub: '#4e5566', muted: '#848d9e', noteBg: '#e2e5eb', highlight: '#3e5080', tagBorder: '#b8c0cc' },
+  { name: 'violet',    bg: '#f7f5fa', card: '#f0edf5', border: '#e2dce8', accent: '#7b68a0', text: '#28203a', textSub: '#6a5880', muted: '#9888aa', noteBg: '#eae4f2', highlight: '#6650a0', tagBorder: '#c8b8d8' },
+  { name: 'dawn',      bg: '#faf6f5', card: '#f5efed', border: '#e8dfd9', accent: '#a07060', text: '#352825', textSub: '#7a635a', muted: '#ab968e', noteBg: '#f0e7e3', highlight: '#8a5040', tagBorder: '#d8c4bc' },
+  { name: 'rosewood',  bg: '#f9f5f6', card: '#f4edef', border: '#e6dcdf', accent: '#946070', text: '#321e24', textSub: '#785060', muted: '#a88898', noteBg: '#efe4e8', highlight: '#884060', tagBorder: '#d4b8c4' },
+]
+
+const currentTheme = ref(themes[Math.floor(Math.random() * themes.length)])
+
+const themeVars = computed(() => {
+  const t = currentTheme.value
+  return {
+    '--bg': t.bg,
+    '--card': t.card,
+    '--border': t.border,
+    '--accent': t.accent,
+    '--text': t.text,
+    '--text-sub': t.textSub,
+    '--muted': t.muted,
+    '--note-bg': t.noteBg,
+    '--highlight': t.highlight,
+    '--tag-border': t.tagBorder,
+  }
+})
 
 const HIDE_WORD_KEY = 'random_hide_word'
 const HIDE_MEANING_KEY = 'random_hide_meaning'
@@ -155,7 +189,7 @@ const loadWeights = async () => {
     // 只存储修改过的权重
     weights.value = response.data.weights || {}
   } catch (error) {
-    console.error('加载权重失败:', error)
+    console.error('Failed to load weights:', error)
   }
 }
 
@@ -168,8 +202,8 @@ const loadRandomWord = async () => {
     revealWord.value = false
     revealMeaning.value = false
   } catch (error) {
-    console.error('加载单词失败:', error)
-    showToast(error.response?.data?.message || error.message || '加载单词失败')
+    console.error('Failed to load word:', error)
+    showToast(error.response?.data?.message || error.message || 'Load failed')
   } finally {
     loading.value = false
   }
@@ -196,11 +230,11 @@ const saveCurrentWeight = async () => {
     await weightAPI.updateWeights(userCurrentDict.value, {
       [wordName]: currentWeight.value
     })
-    showToast('保存成功')
+    showToast('Saved')
     showWeightDialog.value = false
   } catch (error) {
-    console.error('保存权重失败:', error)
-    showToast(error.response?.data?.message || error.message || '保存权重失败')
+    console.error('Failed to save weight:', error)
+    showToast(error.response?.data?.message || error.message || 'Save failed')
   }
 }
 
@@ -233,7 +267,7 @@ const showHistory = () => {
     revealWord.value = false
     revealMeaning.value = false
   } else {
-    showToast('没有历史记录')
+    showToast('No history')
   }
 }
 
@@ -302,7 +336,7 @@ onActivated(() => {
   height: 100%;
   display: flex;
   flex-direction: column;
-  background: #f8f9fa;
+  background: var(--bg, #f8f9fa);
   overflow: hidden;
 }
 
@@ -311,8 +345,8 @@ onActivated(() => {
   justify-content: space-between;
   align-items: center;
   padding: 12px 16px;
-  background: white;
-  border-bottom: 1px solid #f0f0f0;
+  background: var(--card, white);
+  border-bottom: 1px solid var(--border, #f0f0f0);
   flex-shrink: 0;
 }
 
@@ -323,7 +357,7 @@ onActivated(() => {
 
 .page-header :deep(.van-icon) {
   font-size: 20px;
-  color: #666;
+  color: var(--muted, #666);
   cursor: pointer;
 }
 
@@ -346,18 +380,18 @@ onActivated(() => {
 .word {
   font-size: 48px;
   font-weight: 700;
-  color: #1a1a1a;
+  color: var(--text, #1a1a1a);
   margin: 0;
 }
 
 .word-hidden {
   font-size: 16px;
-  color: #ccc;
+  color: var(--muted, #ccc);
 }
 
 .divider {
   height: 1px;
-  background: #e5e5e5;
+  background: var(--border, #e5e5e5);
   margin: 0 20px;
 }
 
@@ -382,34 +416,34 @@ onActivated(() => {
   align-items: baseline;
   gap: 12px;
   padding: 12px 16px;
-  background: white;
+  background: var(--card, white);
   border-radius: 8px;
 }
 
 .pos {
   font-size: 12px;
-  color: #667eea;
+  color: var(--accent, #667eea);
   font-weight: 600;
   min-width: 40px;
 }
 
 .trans {
   font-size: 16px;
-  color: #333;
+  color: var(--text, #333);
 }
 
 .detail-link {
   margin-top: 12px;
   text-align: left;
   font-size: 14px;
-  color: #667eea;
+  color: var(--accent, #667eea);
   cursor: pointer;
   padding-left: 16px;
 }
 
 .meaning-hidden {
   font-size: 16px;
-  color: #ccc;
+  color: var(--muted, #ccc);
   text-align: center;
 }
 
@@ -428,7 +462,7 @@ onActivated(() => {
   justify-content: center;
   gap: 8px;
   padding: 12px 24px;
-  background: #f5f5f5;
+  background: var(--note-bg, #f5f5f5);
   border-radius: 24px;
   cursor: pointer;
   user-select: none;
@@ -438,20 +472,20 @@ onActivated(() => {
 .nav-btn span {
   font-size: 16px;
   font-weight: 500;
-  color: #667eea;
+  color: var(--accent, #667eea);
 }
 
 .nav-btn :deep(.van-icon) {
   font-size: 18px;
-  color: #667eea;
+  color: var(--accent, #667eea);
 }
 
 .nav-btn:active {
-  background: #e8e8e8;
+  background: var(--border, #e8e8e8);
 }
 
 .display-dialog {
-  background: white;
+  background: var(--card, white);
   border-radius: 16px;
   overflow: hidden;
 }
@@ -461,13 +495,13 @@ onActivated(() => {
   justify-content: space-between;
   align-items: center;
   padding: 16px 20px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid var(--border, #eee);
 }
 
 .dialog-header h3 {
   font-size: 16px;
   font-weight: 600;
-  color: #1a1a1a;
+  color: var(--text, #1a1a1a);
   margin: 0;
 }
 

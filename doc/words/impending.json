@@ -1,0 +1,47 @@
+{
+  "word": "impending",
+  "created_at": "2026-02-13T03:00:00Z",
+  "phonetic": { "uk": "/ɪmˈpendɪŋ/", "us": "/ɪmˈpendɪŋ/" },
+  "definitions": [
+    {
+      "translation": "即将发生的；迫在眉睫的",
+      "partOfSpeech": { "en": "adjective", "en_simple": "adj.", "ch": "形容词" },
+      "usage_note": "多指即将发生的威胁性或重大事件。常作定语，置于名词前。",
+      "sentences": [
+        { "en": "There was a sense of impending doom as the storm approached.", "zh": "风暴临近时，有一种厄运将至的不祥预感。" },
+        { "en": "The impending deadline forced everyone to work overtime.", "zh": "迫在眉睫的截止日期迫使大家加班。" },
+        { "en": "She could feel the impending arrival of winter in the cold air.", "zh": "她能从寒冷的空气中感受到冬天即将到来。" }
+      ],
+      "collocations": [
+        { "collocation": "impending doom", "translation": "即将来临的厄运", "sentences": [{ "en": "The film creates an atmosphere of impending doom.", "zh": "这部电影营造出一种厄运将至的氛围。" }] },
+        { "collocation": "impending disaster", "translation": "迫在眉睫的灾难", "sentences": [{ "en": "They fled the city to escape the impending disaster.", "zh": "他们逃离城市以躲避迫在眉睫的灾难。" }] },
+        { "collocation": "impending deadline", "translation": "迫近的截止日期", "sentences": [{ "en": "With the impending deadline, stress levels rose.", "zh": "随着截止日期的临近，压力随之上升。" }] },
+        { "collocation": "impending crisis", "translation": "即将到来的危机", "sentences": [{ "en": "The government tried to avert the impending crisis.", "zh": "政府试图避免即将到来的危机。" }] }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "imminent": { "translation": "即将发生的；临近的", "diffs": "imminent 与 impending 非常接近；impending 略强调“悬于头顶”的压迫感", "sentences": [{ "en": "War seemed imminent.", "zh": "战争似乎迫在眉睫。" }] },
+        "approaching": { "translation": "临近的", "diffs": "approaching 较中性；impending 多含不祥、紧迫之意", "sentences": [{ "en": "The approaching winter worried the farmers.", "zh": "临近的冬天让农民担忧。" }] },
+        "looming": { "translation": "隐约逼近的", "diffs": "looming 强调隐约可见、逐渐逼近；impending 强调即将发生", "sentences": [{ "en": "A recession was looming on the horizon.", "zh": "经济衰退隐约可见。" }] }
+      },
+      "antonyms": {
+        "distant": { "translation": "遥远的", "diffs": "指时间或空间上远", "sentences": [{ "en": "The prospect of change seemed distant.", "zh": "变革的前景似乎还很遥远。" }] },
+        "remote": { "translation": "遥远的；渺茫的", "diffs": "指可能性小或时间远", "sentences": [{ "en": "The chance of success was remote.", "zh": "成功的可能性很渺茫。" }] }
+      },
+      "inflections": {}
+    }
+  ],
+  "etymology": {
+    "origin": "来自拉丁语 impendere（悬挂于…之上），由 in-（在上）+ pendere（悬挂）组成。",
+    "root": "pend-（拉丁语：悬挂）",
+    "affixes": ["in-（在上、朝向）", "-ing（现在分词作形容词）"],
+    "history": "字面意为“悬挂在上方”，引申为“即将降临、迫在眉睫”，如同某物悬于头顶即将落下。"
+  },
+  "related_words": {
+    "impend": { "class": { "en": "verb", "en_s": "v.", "ch": "动词" }, "translation": "即将发生；悬而未决", "rule": "impending 的动词原形，较罕见", "sentences": [{ "en": "Danger impended over the expedition.", "zh": "危险威胁着这次探险。" }] },
+    "impendence": { "class": { "en": "noun", "en_s": "n.", "ch": "名词" }, "translation": "迫近；即将发生", "rule": "impend 的名词形式", "sentences": [] }
+  },
+  "idioms": [],
+  "common_mistakes": [{ "wrong": "impending with", "correct": "impending (no preposition for the event)", "explain": "impending 作形容词修饰名词，不说 impending with；正确用法为 the impending storm，不是 impending with storm。" }],
+  "mnemonics": [{ "type": "词根记忆", "content": "im-（在上）+ pend（悬挂）+ -ing → 悬挂在上方 → 即将落下 → 迫在眉睫。与 pending（待定的）同含 pend。" }]
+}

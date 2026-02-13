@@ -1,0 +1,94 @@
+{
+  "word": "figurative",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈfɪɡərətɪv/",
+    "us": "/ˈfɪɡərətɪv/"
+  },
+  "definitions": [
+    {
+      "translation": "比喻的；非字面义的；象征的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "指使用比喻、象征或引申义的，而非字面本义。常用于语言、文学、艺术分析。",
+      "sentences": [
+        {"en": "When she said her heart was breaking, she meant it in a figurative sense.", "zh": "当她说心碎了时，她用的是比喻意义。"},
+        {"en": "The poet uses figurative language throughout the poem.", "zh": "诗人在整首诗中都使用了比喻语言。"},
+        {"en": "The phrase \"raining cats and dogs\" is figurative, not literal.", "zh": "“倾盆大雨”这一说法是比喻性的，非字面意思。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "figurative language",
+          "translation": "比喻语言；修辞语言",
+          "pattern": "形容词+名词",
+          "explain": "文学术语，指隐喻、明喻等",
+          "sentences": [{"en": "Children gradually learn to understand figurative language.", "zh": "儿童逐渐学会理解比喻语言。"}]
+        },
+        {
+          "collocation": "in a figurative sense",
+          "translation": "在比喻意义上",
+          "pattern": "介词短语",
+          "explain": "强调非字面义",
+          "sentences": [{"en": "He is, in a figurative sense, a giant in his field.", "zh": "在比喻意义上，他是该领域的巨人。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "metaphorical": {
+          "translation": "隐喻的",
+          "diffs": "metaphorical 侧重隐喻；figurative 更宽泛，含比喻、象征",
+          "sentences": [{"en": "The metaphorical meaning of the story is profound.", "zh": "这个故事的隐喻意义深刻。"}]
+        },
+        "symbolic": {
+          "translation": "象征的",
+          "diffs": "symbolic 侧重象征；figurative 可兼指比喻与象征",
+          "sentences": [{"en": "The dove is symbolic of peace.", "zh": "鸽子象征和平。"}]
+        }
+      },
+      "antonyms": {
+        "literal": {"translation": "字面的；逐字的", "diffs": "指按字面意思理解的"}
+      },
+      "inflections": {
+        "comparative": "more figurative",
+        "superlative": "most figurative"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "源自拉丁语 figūrātīvus，来自 figūra（形象、形状），figūrāre（形成、塑造）。",
+    "root": "fig-（形，塑造）",
+    "affixes": ["-ure（名词后缀）", "-ive（形容词后缀）"],
+    "history": "figūra 本义为“塑形、形象”，引申为“比喻的形象”，figurative 即“用形象表达的、比喻的”。"
+  },
+  "related_words": {
+    "figure": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "图形；形象；人物",
+      "rule": "figurative 的词根词",
+      "sentences": [{"en": "The figure of speech made the text more vivid.", "zh": "修辞手法使文本更加生动。"}]
+    },
+    "figuratively": {
+      "class": {"en": "adverb", "en_s": "adv.", "ch": "副词"},
+      "translation": "比喻地；象征地",
+      "rule": "figurative 的副词形式",
+      "sentences": [{"en": "Speaking figuratively, he said the project was a marathon.", "zh": "他打比方说，这个项目是一场马拉松。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "figurative speaking",
+      "correct": "figuratively speaking / in a figurative sense",
+      "explain": "表示“比喻地说”需用 figuratively speaking 或 in a figurative sense，不用 figurative speaking。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "figur-（形象）+ -ative → 用形象表达的 → 比喻的（非字面义）。"
+    }
+  ]
+}

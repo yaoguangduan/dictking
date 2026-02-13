@@ -8,9 +8,10 @@
       </router-view>
     </div>
     <van-tabbar v-if="showTabbar" v-model="active" route fixed border placeholder>
-      <van-tabbar-item replace to="/all" icon="apps-o">所有</van-tabbar-item>
-      <van-tabbar-item replace to="/random" icon="fire">随机</van-tabbar-item>
-      <van-tabbar-item replace to="/user" icon="user-o">我的</van-tabbar-item>
+      <van-tabbar-item replace to="/all" icon="apps-o">All</van-tabbar-item>
+      <van-tabbar-item replace to="/random" icon="fire">Random</van-tabbar-item>
+      <van-tabbar-item replace to="/articles" icon="description">Read</van-tabbar-item>
+      <van-tabbar-item replace to="/user" icon="user-o">Me</van-tabbar-item>
     </van-tabbar>
   </div>
 </template>
@@ -35,13 +36,14 @@ const showTabbar = computed(() => {
 })
 
 // 需要缓存的页面列表
-const keepAlivePages = ['All', 'Random']
+const keepAlivePages = ['All', 'Random', 'Articles']
 
 // 监听路由变化来更新 active 状态
 watch(() => route.path, (newPath) => {
   if (newPath.includes('/all')) active.value = 0
   else if (newPath.includes('/random')) active.value = 1
-  else if (newPath.includes('/user')) active.value = 2
+  else if (newPath.includes('/articles')) active.value = 2
+  else if (newPath.includes('/user')) active.value = 3
 }, { immediate: true })
 </script>
 

@@ -4,6 +4,7 @@
  * RestBase 统一响应格式：{ code: "OK", data: T, pageNo?, pageSize?, total? }
  * 错误时 code 为非 "OK"（AUTH_ERROR / QUERY_ERROR / ...）
  */
+import RestBase from '@dtdyq/restbase-client';
 import axios, { type AxiosInstance, type AxiosResponse } from 'axios';
 
 /* ═══════════ Axios 实例 ═══════════ */
@@ -208,34 +209,34 @@ export const wordAPI = {
 
   /** 获取随机单词（基于权重） — 在前端实现 */
   async getRandom(dictId: string) {
-    // 1. 获取所有单词
-    const wordsRes = await api.post('/query/words', {
-      select: ['word', 'data'],
-      where: [['dictionary_id', dictId]],
-      pageSize: 1000,
-    });
+    // 1. 只获取单词名称列表（不查 data，避免全量返回几十 KB 数据）
+    const [wordsRes, wRes] = await Promise.all([
+      api.post('/query/words', {
+        select: ['word'],
+        where: [['dictionary_id', dictId]],
+        pageSize: 1000,
+      }),
+      api.post('/query/user_word_weights', {
+        where: [['dictionary_id', dictId]],
+        pageSize: 1000,
+      }).catch(() => ({ data: { data: [] } })),  // 无权重数据，使用空数组
+    ]);
+
     const allWords: any[] = wordsRes.data?.data || [];
     if (allWords.length === 0) {
       throw Object.assign(new Error('No words in dictionary'), { response: { data: { error: '词典中没有单词' } } });
     }
 
-    // 2. 获取用户权重
-    let weightMap = new Map<string, number>();
-    try {
-      const wRes = await api.post('/query/user_word_weights', {
-        where: [['dictionary_id', dictId]],
-        pageSize: 1000,
-      });
-      const weights: any[] = wRes.data?.data || [];
-      weightMap = new Map(weights.map((w: any) => [w.word, w.weight]));
-    } catch { /* 无权重数据，使用默认值 */ }
+    // 2. 构建权重映射
+    const weights: any[] = wRes.data?.data || [];
+    const weightMap = new Map<string, number>(weights.map((w: any) => [w.word, w.weight]));
 
-    // 3. 加权随机
+    // 3. 加权随机选择
     let totalWeight = 0;
     const wordWeights = allWords.map((w: any) => {
       const weight = weightMap.get(w.word) ?? 100;
       totalWeight += weight;
-      return { word: w.word, data: w.data, weight };
+      return { word: w.word, weight };
     });
 
     let random = Math.random() * totalWeight;
@@ -248,13 +249,22 @@ export const wordAPI = {
       random -= item.weight;
     }
 
-    // 4. 记录历史
-    try {
-      await api.post('/data/user_history', { word: selected.word, dictionary_id: dictId });
-    } catch { /* 记录失败不影响主流程 */ }
+    // 4. 根据选中的单词查询完整详情（只查一条）
+    const detailRes = await api.post('/query/words', {
+      where: [['dictionary_id', dictId], ['word', selected.word]],
+      pageSize: 1,
+    });
+    const detailRows = detailRes.data?.data || [];
+    if (detailRows.length === 0) {
+      throw Object.assign(new Error('Word not found'), { response: { data: { error: '单词详情未找到' } } });
+    }
 
-    // 5. 返回完整 wordData
-    const wordData = typeof selected.data === 'string' ? JSON.parse(selected.data) : selected.data;
+    // 5. 记录历史（不阻塞主流程）
+    api.post('/data/user_history', { word: selected.word, dictionary_id: dictId }).catch(() => {});
+
+    // 6. 返回完整 wordData
+    const row = detailRows[0];
+    const wordData = typeof row.data === 'string' ? JSON.parse(row.data) : row.data;
     return { data: wordData };
   },
 };
@@ -312,8 +322,92 @@ export const weightAPI = {
   },
 };
 
-/* ═══════════ 导入任务 & 用户词典 — 从 import-task.ts 导出 ═══════════ */
+/* ═══════════ 文章 API ═══════════ */
 
-export { importTaskAPI, userDictionaryAPI } from './import-task';
+/**
+ * articles 表结构（全局，不按词典分）:
+ *   id          int AUTO_INCREMENT
+ *   title       varchar(512)
+ *   title_cn    varchar(800)   — 中文标题
+ *   tags        varchar(500)   — 逗号分隔的标签
+ *   difficulty  varchar(20)    — easy / medium / hard
+ *   content     MEDIUMTEXT     — JSON 格式的文章完整内容
+ *   created_at  datetime(3)
+ */
+export const articleAPI = {
+  /**
+   * 获取文章列表（分页 + 搜索）
+   * 返回格式：{ articles, total, page, pageSize, hasMore }
+   */
+  async getList(params?: { page?: number; pageSize?: number; search?: string }) {
+    const p = params || {};
+    const pageNo = p.page || 1;
+    const pageSize = p.pageSize || 20;
+
+    const where: any[] = [];
+    if (p.search) {
+      where.push(['title', 'like', `%${p.search}%`]);
+    }
+
+    const body: any = {
+      select: ['id', 'title', 'title_cn', 'tags', 'difficulty', 'created_at'],
+      order: [{ field: 'created_at', dir: 'desc' }],
+      pageNo,
+      pageSize,
+    };
+    if (where.length > 0) {
+      body.where = where;
+    }
+
+    const res = await api.post('/query/articles', body);
+    const resBody = res.data;
+    const rows: any[] = resBody.data || [];
+    const total = resBody.total || rows.length;
+
+    const articles = rows.map((r: any) => ({
+      id: r.id,
+      title: r.title || '无标题',
+      title_cn: r.title_cn || '',
+      difficulty: r.difficulty || 'medium',
+      tags: r.tags ? r.tags.split(',').map((t: string) => t.trim()).filter(Boolean) : [],
+      created_at: r.created_at || '',
+    }));
+
+    return {
+      data: {
+        articles,
+        total,
+        page: pageNo,
+        pageSize,
+        hasMore: pageNo * pageSize < total,
+      },
+    };
+  },
+
+  /** 获取文章详情（返回 content JSON） */
+  async getDetail(articleId: number | string) {
+    const res = await api.post('/query/articles', {
+      where: [['id', articleId]],
+      pageSize: 1,
+    });
+    const rows = res.data?.data || [];
+    if (rows.length === 0) {
+      throw Object.assign(new Error('Article not found'), { response: { data: { error: 'Article not found' } } });
+    }
+    const row = rows[0];
+    const content = typeof row.content === 'string' ? JSON.parse(row.content) : row.content;
+    return {
+      data: {
+        ...content,
+        id: row.id,
+        title: row.title,
+        title_cn: row.title_cn || '',
+        tags: row.tags ? row.tags.split(',').map((t: string) => t.trim()).filter(Boolean) : [],
+        difficulty: row.difficulty,
+        created_at: row.created_at,
+      },
+    };
+  },
+};
 
 export default api;

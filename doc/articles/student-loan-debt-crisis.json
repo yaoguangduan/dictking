@@ -1,0 +1,64 @@
+{
+    "title": "Millions of Student Loan Borrowers Are at Risk of Defaulting",
+    "title_zh": "数百万助学贷款借款人面临违约风险",
+    "author": "Cory Turner",
+    "source": "NPR",
+    "created_at": "2025-09-05T00:00:00Z",
+    "difficulty": "easy",
+    "tags": ["student loans", "debt", "higher education", "finance", "default"],
+    "summary": "New data reveals a growing problem with federal student loans. Millions of borrowers are at serious risk of defaulting. More than 10% of balances are past due, one in three borrowers in repayment are delinquent, and 4.3 million are dangerously close to default. The crisis worsened after pandemic-era safeguards ended.",
+    "summary_zh": "新数据显示联邦助学贷款存在日益严重的问题。数百万借款人面临严重违约风险。超过10%的贷款余额逾期，三分之一正在还款的借款人违约，430万人濒临违约。疫情时期的保护措施结束后，危机进一步恶化。",
+    "paragraphs": [
+        {
+            "en": "New data shows a growing problem with federal student loans. Millions of borrowers are at serious risk of defaulting. Every three months, the Federal Reserve Bank of New York releases its quarterly report on household debt and credit. The latest report for the second quarter of 2025 tells a worrying story about federal student loan borrowers.",
+            "zh": "新数据显示联邦助学贷款存在日益严重的问题。数百万借款人面临严重违约风险。纽约联邦储备银行每季度发布家庭债务和信贷报告。2025年第二季度最新报告揭示了联邦助学贷款借款人令人担忧的状况。",
+            "keywords": ["federal", "defaulting", "quarterly", "household debt", "borrowers"],
+            "notes": [{"phrase": "at risk of defaulting", "explain": "面临违约风险"}, {"phrase": "household debt", "explain": "家庭债务"}]
+        },
+        {
+            "en": "Joelle Scally, a policy economist at the New York Fed, explains: \"More than 10% of balances were past due. That means that they've missed at least three payments.\" Considering the overall federal loan portfolio is now $1.6 trillion, 10% is a lot of money. And it is up from about 8% the quarter before. There is also another trove of new data that tells a similar story.",
+            "zh": "纽约联储政策经济学家乔尔·斯卡利解释说：「超过10%的贷款余额逾期。这意味着他们至少漏还了三期付款。」考虑到联邦贷款组合总额现为1.6万亿美元，10%是一笔巨款。且较上一季度的约8%有所上升。另一批新数据也讲述了类似的故事。",
+            "keywords": ["past due", "portfolio", "trove", "economist", "balances"],
+            "notes": [{"phrase": "past due", "explain": "逾期的、过期的"}, {"phrase": "loan portfolio", "explain": "贷款组合"}]
+        },
+        {
+            "en": "According to the Department of Education's latest release, one in three federal student loan borrowers that are in repayment right now are in some stage of delinquency. Especially worrying are the borrowers in late-stage delinquency because they are so close to defaulting on their loans. Default happens after at least nine months of missed payments. The new Education Department data shows a lot of borrowers are dangerously close to that.",
+            "zh": "根据教育部最新发布的数据，目前正在还款的联邦助学贷款借款人中有三分之一处于某种程度的违约状态。尤其令人担忧的是处于晚期违约阶段的借款人，他们非常接近贷款违约。连续至少九个月未还款即构成违约。教育部新数据显示，许多借款人危险地接近这一临界点。",
+            "keywords": ["delinquency", "default", "missed payments", "critical", "release"],
+            "notes": [{"phrase": "late-stage delinquency", "explain": "晚期违约，接近正式违约"}, {"phrase": "default", "explain": "违约，未履行还款义务"}]
+        },
+        {
+            "en": "Research economist Daniel Mangrum at the New York Fed says: \"Four-point-three million student loan borrowers nearing default is, of course, concerning.\" It is hard to know how concerning because millions of borrowers likely would have defaulted during the pandemic, but temporary safeguards prevented it. Those safeguards are now gone.",
+            "zh": "纽约联储研究经济学家丹尼尔·曼格鲁姆表示：「430万助学贷款借款人濒临违约，这当然令人担忧。」难以衡量其严重程度，因为在疫情期间，数百万借款人本可能违约，但临时保护措施阻止了这一情况。这些保护措施现已取消。",
+            "keywords": ["safeguards", "pandemic", "concerning", "temporary", "prevented"],
+            "notes": [{"phrase": "safeguards", "explain": "保护措施"}, {"phrase": "temporary", "explain": "临时的"}]
+        },
+        {
+            "en": "If you add to that the Americans who are already in long-term default, you get a nearly 10 million borrower problem. And it is likely to get even worse. Mangrum says another 7 million to 8 million are in legal limbo and do not have to make payments yet. \"But eventually, they'll have payments due. And those people will be able to potentially go past due and add to the stock of delinquency if they don't make payments.\"",
+            "zh": "如果加上已经长期违约的美国人，就构成近1000万借款人的问题。而且情况可能变得更糟。曼格鲁姆说，另有700万至800万人处于法律悬而未决的状态，暂时无需还款。「但最终他们将需要还款。如果不还款，这些人可能会逾期，增加违约存量。」",
+            "keywords": ["limbo", "stock", "eventually", "potentially", "due"],
+            "notes": [{"phrase": "legal limbo", "explain": "法律悬而未决的状态"}, {"phrase": "stock of delinquency", "explain": "违约存量"}]
+        },
+        {
+            "en": "Many of these borrowers are lower-income, too, making it even harder for them to keep up and avoid joining the flood of borrowers headed for default. Defaulting on federal student loans can trash a borrower's credit score and lead to wage garnishment, where the government can withhold up to 15% of a person's wages. The crisis shows no signs of easing.",
+            "zh": "其中许多借款人收入较低，这使得他们更难跟上还款并避免加入涌向违约的借款人洪流。联邦助学贷款违约会严重损害借款人的信用评分，并可能导致工资扣押，政府可扣留高达15%的工资。这场危机没有缓解的迹象。",
+            "keywords": ["credit score", "wage garnishment", "withhold", "easing", "lower-income"],
+            "notes": [{"phrase": "wage garnishment", "explain": "工资扣押，从工资中扣除还款"}, {"phrase": "trash", "explain": "口语中表示严重损害"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "default", "phonetic": "/dɪˈfɔːlt/", "meaning": "违约", "partOfSpeech": "n./v.", "example": "Defaulting on loans can damage your credit."},
+        {"word": "delinquency", "phonetic": "/dɪˈlɪŋkwənsi/", "meaning": "违约、拖欠", "partOfSpeech": "n.", "example": "Late-stage delinquency leads to default."},
+        {"word": "portfolio", "phonetic": "/pɔːtˈfəʊliəʊ/", "meaning": "组合、投资组合", "partOfSpeech": "n.", "example": "The federal loan portfolio totals $1.6 trillion."},
+        {"word": "garnishment", "phonetic": "/ˈɡɑːnɪʃmənt/", "meaning": "扣押（工资等）", "partOfSpeech": "n.", "example": "Wage garnishment can withhold up to 15% of pay."},
+        {"word": "borrower", "phonetic": "/ˈbɒrəʊə/", "meaning": "借款人", "partOfSpeech": "n.", "example": "Millions of borrowers are at risk of default."},
+        {"word": "safeguard", "phonetic": "/ˈseɪfɡɑːd/", "meaning": "保护措施", "partOfSpeech": "n.", "example": "Pandemic safeguards prevented mass defaults."},
+        {"word": "withhold", "phonetic": "/wɪðˈhəʊld/", "meaning": "扣留、保留", "partOfSpeech": "v.", "example": "The government can withhold wages for loan repayment."},
+        {"word": "past due", "phonetic": "/pɑːst djuː/", "meaning": "逾期的", "partOfSpeech": "adj.", "example": "Borrowers with past due balances risk default."}
+    ],
+    "discussion_questions": [
+        {"en": "What do you think governments should do to help borrowers who cannot afford their loan payments?", "zh": "你认为政府应该采取什么措施帮助负担不起贷款还款的借款人？"},
+        {"en": "Should college education be free or heavily subsidised? What are the trade-offs?", "zh": "大学教育应该免费或大幅补贴吗？利弊是什么？"},
+        {"en": "How does student loan debt affect young people's life choices, such as buying a home or starting a family?", "zh": "助学贷款债务如何影响年轻人的人生选择，如买房或组建家庭？"}
+    ]
+}

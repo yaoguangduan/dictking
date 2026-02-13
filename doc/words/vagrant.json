@@ -1,0 +1,113 @@
+{
+  "word": "vagrant",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈveɪɡrənt/",
+    "us": "/ˈveɪɡrənt/"
+  },
+  "definitions": [
+    {
+      "translation": "流浪者；无业游民",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。指无固定住所、四处漂泊的人，有时含贬义或法律色彩。",
+      "sentences": [
+        {"en": "Vagrants often seek shelter in abandoned buildings.", "zh": "流浪者常在废弃建筑中寻求栖身之所。"},
+        {"en": "The city has programs to help vagrants find housing.", "zh": "该市有项目帮助流浪者寻找住房。"},
+        {"en": "He was arrested for vagrancy after sleeping in the park.", "zh": "他因在公园睡觉而被以流浪罪逮捕。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "vagrant beggar",
+          "translation": "流浪乞丐",
+          "pattern": "名词+名词",
+          "explain": "形容无固定居所的乞讨者",
+          "sentences": [{"en": "Vagrant beggars were common in Victorian London.", "zh": "流浪乞丐在维多利亚时代的伦敦很常见。"}]
+        },
+        {
+          "collocation": "arrest a vagrant",
+          "translation": "逮捕流浪者",
+          "pattern": "动词+名词",
+          "explain": "法律/警务语境",
+          "sentences": [{"en": "Police used to arrest vagrants for loitering.", "zh": "警察过去常以游荡罪逮捕流浪者。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "tramp": {"translation": "流浪汉", "diffs": "tramp 更口语，可指徒步旅行者；vagrant 多带法律或贬义"},
+        "homeless person": {"translation": "无家可归者", "diffs": "homeless person 更中性；vagrant 有时含“游荡、不务正业”之意"}
+      },
+      "antonyms": {},
+      "inflections": {"plural": "vagrants"}
+    },
+    {
+      "translation": "流浪的；漂泊不定的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "描述无固定居所、四处游荡的人或物；也可喻指思绪、目光等飘忽不定。",
+      "sentences": [
+        {"en": "Vagrant winds swept across the plains.", "zh": "阵阵风掠过平原。"},
+        {"en": "He led a vagrant life, never staying in one place long.", "zh": "他过着漂泊的生活，从未在一地久留。"},
+        {"en": "Her vagrant thoughts wandered from one topic to another.", "zh": "她的思绪飘忽不定，从一个话题跳到另一个。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "vagrant life",
+          "translation": "漂泊的生活",
+          "pattern": "形容词+名词",
+          "explain": "形容居无定所的生活",
+          "sentences": [{"en": "Poets sometimes romanticize the vagrant life.", "zh": "诗人有时会浪漫化漂泊的生活。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "nomadic": {"translation": "游牧的，流浪的", "diffs": "nomadic 多指有传统的游牧生活方式；vagrant 含更多无根、漂泊之意"},
+        "itinerant": {"translation": "巡回的，流动的", "diffs": "itinerant 可指为工作而流动；vagrant 多指无目的的漂泊"}
+      },
+      "antonyms": {
+        "settled": {"translation": "定居的", "diffs": "指有固定住所和稳定生活"}
+      },
+      "inflections": {}
+    }
+  ],
+  "etymology": {
+    "origin": "源自拉丁语 vagari（漫游，漂泊），vagrant 为拉丁语 vagāre 的现在分词 vagāns 经古法语传入英语的形式，意为“四处游荡的”。",
+    "root": "拉丁语 vag-（ wander，漫游）",
+    "affixes": ["-ant（形容词/名词后缀，表“...者”）"],
+    "history": "vag- 表“漫游”，与 vague（模糊）、extravagant（奢侈的）等同根。vagrant 原指“到处走的人”，后专指无固定住所的流浪者。"
+  },
+  "related_words": {
+    "vagrancy": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "流浪；流浪罪",
+      "rule": "vagrant 的名词形式，指流浪状态或（法律）流浪罪",
+      "sentences": [{"en": "Vagrancy was once a criminal offense in many places.", "zh": "流浪曾在许多地方是刑事犯罪。"}]
+    },
+    "vague": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "模糊的，不明确的",
+      "rule": "与 vagrant 同根（vag- 漫游），漫游之物“难以捉摸”→ 模糊",
+      "sentences": [{"en": "She gave a vague answer to the question.", "zh": "她对问题给出了模糊的回答。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "vagrant people",
+      "correct": "vagrants / homeless people / vagrant population",
+      "explain": "vagrant 本身可作名词指人，vagrant people 冗余；用 vagrants 或 vagrant population（流浪人口）即可。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "vag-（漫游）+ -ant（...者）→ 四处漫游的人 → 流浪者；vagrant 与 vague（模糊）同根，流浪者行踪“飘忽不定”。"
+    }
+  ]
+}

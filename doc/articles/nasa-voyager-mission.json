@@ -1,0 +1,201 @@
+{
+    "title": "NASA Reconnects with Voyager, Longest Serving Mission in History",
+    "title_zh": "NASA重新与旅行者号取得联系——史上服役时间最长的太空任务",
+    "author": "Bryan Lynn",
+    "source": "VOA Learning English",
+    "difficulty": "medium",
+    "tags": "science,space,NASA,technology,exploration",
+    "summary": "NASA's Voyager 1 and Voyager 2 spacecraft, launched in 1977, have been operating for over 47 years. After facing multiple communication issues, engineers managed to reconnect and the mission continues to explore interstellar space.",
+    "summary_zh": "NASA的旅行者1号和2号探测器于1977年发射，已运行超过47年。在遭遇多次通信问题后，工程师们成功恢复了联系，任务继续探索星际空间。",
+    "paragraphs": [
+        {
+            "en": "NASA has once again reconnected with its Voyager spacecraft, marking a continuation of the American space agency's longest mission in history. The two spacecraft — Voyager 1 and Voyager 2 — launched within weeks of each other in 1977. So they have been operating for more than 47 years.",
+            "zh": "NASA再次与其旅行者号探测器恢复了联系，标志着这个美国航天局历史上持续时间最长的任务得以延续。两艘探测器——旅行者1号和旅行者2号——于1977年相隔数周先后发射。因此，它们已经运行了超过47年。",
+            "keywords": ["reconnected", "continuation", "spacecraft"],
+            "notes": [
+                {
+                    "phrase": "marking a continuation of",
+                    "explain": "Present participle phrase used to add information about the significance of an event. 'Mark' here means 'represent' or 'signify.'"
+                },
+                {
+                    "phrase": "within weeks of each other",
+                    "explain": "'Within X of each other' expresses a small time gap between two events. Example: 'The two earthquakes happened within hours of each other.'"
+                }
+            ]
+        },
+        {
+            "en": "NASA officials have reported several difficulties with the spacecraft in recent years, mainly communication issues. The most recent problems involved the Voyager 1 spacecraft. NASA said in a statement in April it had remained out of touch with the spacecraft for the previous five months.",
+            "zh": "近年来，NASA官员报告了探测器的多项困难，主要是通信问题。最近的问题涉及旅行者1号探测器。NASA在4月的一份声明中表示，在之前的五个月里一直与探测器失去联系。",
+            "keywords": ["officials", "difficulties", "communication"],
+            "notes": [
+                {
+                    "phrase": "out of touch with",
+                    "explain": "Unable to communicate with someone or something. Can be used literally (as here with a spacecraft) or figuratively ('out of touch with reality')."
+                },
+                {
+                    "phrase": "for the previous five months",
+                    "explain": "Using 'previous' instead of 'last' in formal/news writing to refer to the period before a stated time point."
+                }
+            ]
+        },
+        {
+            "en": "Agency officials said they later learned the problem was linked to a chip inside one of Voyager 1's onboard computers. The issue made data being sent by the spacecraft unreadable. NASA said its engineers were able to fix that problem by making changes to how the spacecraft stores and reads data.",
+            "zh": "该机构官员表示，他们后来了解到问题与旅行者1号上一台机载计算机内的芯片有关。这个问题导致探测器发送的数据无法读取。NASA表示，其工程师通过改变探测器存储和读取数据的方式解决了这个问题。",
+            "keywords": ["chip", "onboard", "unreadable"],
+            "notes": [
+                {
+                    "phrase": "was linked to",
+                    "explain": "'Be linked to' means to be connected with or caused by. Frequently used in news reporting to describe cause-and-effect relationships."
+                },
+                {
+                    "phrase": "were able to fix",
+                    "explain": "'Were able to' (past of 'be able to') emphasizes the successful completion of a difficult task, whereas 'could' merely states possibility."
+                }
+            ]
+        },
+        {
+            "en": "Then, in October, NASA reported another communication issue that resulted in a brief delay in receiving data from Voyager 1. That problem turned out to be linked to the spacecraft's radio transmitter system. The agency said that Voyager 1's fault protection system was activated when NASA sent a command for the spacecraft to turn on one of its heaters. This activation — meant to save power — led Voyager 1 to start sending signals to a different radio transmitter system than it normally uses.",
+            "zh": "随后在10月，NASA报告了另一个通信问题，导致接收旅行者1号数据出现短暂延迟。该问题最终被发现与探测器的无线电发射系统有关。该机构表示，当NASA发送命令让探测器打开一个加热器时，旅行者1号的故障保护系统被激活。这一激活——旨在节省电力——导致旅行者1号开始向一个不同于其正常使用的无线电发射系统发送信号。",
+            "keywords": ["transmitter", "activated", "fault protection"],
+            "notes": [
+                {
+                    "phrase": "turned out to be",
+                    "explain": "'Turn out to be' means 'was eventually discovered to be.' Used when the truth becomes clear after investigation. Example: 'The noise turned out to be just the wind.'"
+                },
+                {
+                    "phrase": "meant to save power",
+                    "explain": "A past participle phrase used as an aside to explain the purpose. 'Meant to' = 'intended to.' Dashes (—) set it off as a parenthetical."
+                }
+            ]
+        },
+        {
+            "en": "Voyager 1 and Voyager 2 are NASA's most distant operating spacecraft. The agency has reported Voyager 1 is exploring space from about 24 billion kilometers from Earth, while Voyager 2 is operating from about 20.5 billion kilometers away. Because of this great distance, NASA says its communication with the two Voyagers takes about one day to receive data, and another day to send information back from Earth.",
+            "zh": "旅行者1号和旅行者2号是NASA距离最远的在役探测器。该机构报告称，旅行者1号正在距地球约240亿公里的太空中探索，而旅行者2号则在约205亿公里外运行。由于距离如此遥远，NASA表示与两艘旅行者号的通信需要约一天时间来接收数据，再需要一天时间从地球发回信息。",
+            "keywords": ["distant", "billion", "communication"],
+            "notes": [
+                {
+                    "phrase": "from about 24 billion kilometers",
+                    "explain": "'About' before a large number softens it to an approximation. In scientific reporting, exact figures are often replaced with approximations for readability."
+                }
+            ]
+        },
+        {
+            "en": "The two Voyagers were first designed to explore Jupiter and Saturn. Both spacecraft successfully carried out studies of those planets. Later, Voyager 2 made the first-ever close observations of Uranus and Neptune in 1989. The two spacecraft then began a new mission to explore distant areas of space. In 2013, NASA announced Voyager 1 had crossed over the border dividing our solar system from interstellar space. The term \"interstellar\" means \"between stars.\"",
+            "zh": "两艘旅行者号最初被设计用于探索木星和土星。两艘探测器成功完成了对这些行星的研究。后来，旅行者2号在1989年首次近距离观测了天王星和海王星。两艘探测器随后开始了探索遥远太空区域的新任务。2013年，NASA宣布旅行者1号已跨越太阳系与星际空间的分界线。「星际」一词意为「星与星之间」。",
+            "keywords": ["observations", "interstellar", "solar system"],
+            "notes": [
+                {
+                    "phrase": "carried out studies",
+                    "explain": "'Carry out' means to perform or conduct. A formal alternative to 'do.' Common in academic and news writing: 'carry out research/experiments/studies.'"
+                },
+                {
+                    "phrase": "first-ever",
+                    "explain": "Compound adjective meaning 'the first time something has ever happened.' Adds emphasis to the historic nature of an event."
+                }
+            ]
+        },
+        {
+            "en": "Suzanne Dodd is the current project manager for the Voyager mission at NASA's Jet Propulsion Laboratory in California. She recently said in a statement the agency has no plans to retire the two Voyagers as long as they are communicating with mission members back on Earth. \"We wouldn't be doing Voyager if it wasn't taking science data,\" she added. Dodd noted one reason the Voyagers have been operating for so long is that the engineers who built them provided multiple backup systems to avoid future problems.",
+            "zh": "苏珊·多德是NASA加州喷气推进实验室旅行者号任务的现任项目经理。她最近在一份声明中表示，只要旅行者号还在与地球上的任务成员通信，该机构就没有计划让两艘探测器退役。「如果旅行者号没有在采集科学数据，我们就不会继续运行它了，」她补充说。多德指出，旅行者号能运行如此之久的一个原因是，建造它们的工程师提供了多个备份系统以避免未来的问题。",
+            "keywords": ["retire", "backup", "multiple"],
+            "notes": [
+                {
+                    "phrase": "as long as",
+                    "explain": "'As long as' introduces a condition — meaning 'on the condition that' or 'provided that.' Example: 'You can stay as long as you keep quiet.'"
+                },
+                {
+                    "phrase": "wouldn't be doing...if it wasn't",
+                    "explain": "Second conditional (unreal present). Used to explain that the current action depends on a current condition being true."
+                }
+            ]
+        },
+        {
+            "en": "She said some who worked on Voyager in its earliest days have even come back from retirement to pass on knowledge to the next generation of scientists and engineers. \"From where I sit as a project manager, it's really very exciting to see young engineers be excited to work on Voyager,\" Dodd said. \"To take on the challenges of an old mission and to work side by side with some of the masters, the people that built the spacecraft — they want to learn from each other.\"",
+            "zh": "她说，一些在旅行者号最初几年工作过的人甚至从退休中回来，将知识传授给下一代科学家和工程师。「从我作为项目经理的角度来看，看到年轻工程师对参与旅行者号任务感到兴奋，这真的非常令人激动，」多德说。「去接受一个老任务的挑战，与一些大师——那些建造了这艘探测器的人——并肩工作——他们想要互相学习。」",
+            "keywords": ["retirement", "generation", "challenges"],
+            "notes": [
+                {
+                    "phrase": "pass on knowledge to",
+                    "explain": "'Pass on' means to transfer or hand down something (knowledge, traditions, skills) to others, usually the next generation."
+                },
+                {
+                    "phrase": "from where I sit",
+                    "explain": "An idiom meaning 'from my perspective' or 'from my point of view.' Often used before sharing a personal opinion."
+                },
+                {
+                    "phrase": "side by side",
+                    "explain": "Working closely together, next to each other. Emphasizes collaboration and partnership."
+                }
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "spacecraft",
+            "phonetic": "/ˈspeɪskræft/",
+            "meaning": "宇宙飞船，航天器",
+            "partOfSpeech": "n.",
+            "example": "NASA has once again reconnected with its Voyager spacecraft."
+        },
+        {
+            "word": "transmitter",
+            "phonetic": "/trænsˈmɪtər/",
+            "meaning": "发射器，发射机",
+            "partOfSpeech": "n.",
+            "example": "The problem was linked to the spacecraft's radio transmitter system."
+        },
+        {
+            "word": "interstellar",
+            "phonetic": "/ˌɪntərˈstelər/",
+            "meaning": "星际的，恒星之间的",
+            "partOfSpeech": "adj.",
+            "example": "Voyager 1 had crossed over into interstellar space."
+        },
+        {
+            "word": "heliosphere",
+            "phonetic": "/ˈhiːlioʊsfɪr/",
+            "meaning": "太阳圈，日球层",
+            "partOfSpeech": "n.",
+            "example": "The spacecraft have provided data on the heliosphere."
+        },
+        {
+            "word": "retire",
+            "phonetic": "/rɪˈtaɪər/",
+            "meaning": "退役，退休",
+            "partOfSpeech": "v.",
+            "example": "The agency has no plans to retire the two Voyagers."
+        },
+        {
+            "word": "backup",
+            "phonetic": "/ˈbækʌp/",
+            "meaning": "备份，后备（系统）",
+            "partOfSpeech": "n./adj.",
+            "example": "Engineers provided multiple backup systems to avoid future problems."
+        },
+        {
+            "word": "activated",
+            "phonetic": "/ˈæktɪveɪtɪd/",
+            "meaning": "激活，启动",
+            "partOfSpeech": "v.",
+            "example": "Voyager 1's fault protection system was activated."
+        }
+    ],
+    "discussion_questions": [
+        {
+            "en": "The Voyager spacecraft have been operating for over 47 years. What do you think is the most impressive aspect of this mission?",
+            "zh": "旅行者号探测器已经运行了超过47年。你认为这次任务最令人印象深刻的方面是什么？"
+        },
+        {
+            "en": "Communication with Voyager takes about two days for a round trip. How do you think this delay affects the engineers' ability to solve problems?",
+            "zh": "与旅行者号的通信一个来回大约需要两天。你认为这种延迟如何影响工程师解决问题的能力？"
+        },
+        {
+            "en": "The article mentions retired engineers coming back to help. Why is it important for experienced professionals to pass on knowledge to younger generations?",
+            "zh": "文章提到退休工程师回来帮忙。为什么有经验的专业人士将知识传递给年轻一代很重要？"
+        },
+        {
+            "en": "If you could send a message into interstellar space, what would you want to say to a potential alien civilization?",
+            "zh": "如果你能向星际空间发送一条信息，你想对潜在的外星文明说什么？"
+        }
+    ]
+}

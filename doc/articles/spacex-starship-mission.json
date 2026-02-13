@@ -1,0 +1,71 @@
+{
+    "title": "SpaceX Starship Completes Eleventh Flight Test, Paving Way for Moon and Mars",
+    "title_zh": "SpaceX星舰完成第十一次飞行测试，为登月和火星任务铺平道路",
+    "author": "SpaceX",
+    "source": "SpaceX / Space.com",
+    "created_at": "2025-10-14T12:00:00Z",
+    "difficulty": "easy",
+    "tags": ["SpaceX", "Starship", "rocket", "NASA", "moon landing"],
+    "summary": "On October 13, 2025, SpaceX successfully completed Starship's eleventh flight test from Starbase, Texas. This was the final flight of the second-generation Starship, achieving all major objectives including Super Heavy booster landing, Starlink satellite deployment, in-space engine relight, and a soft splashdown in the Indian Ocean. The success paves the way for the next-generation Starship and NASA's Artemis Moon missions.",
+    "summary_zh": "2025年10月13日，SpaceX在德克萨斯州星舰基地成功完成了星舰的第十一次飞行测试。这是第二代星舰的最后一次飞行，实现了所有主要目标，包括超重型助推器着陆、星链卫星部署、在轨发动机重新点火以及在印度洋的软溅落。这一成功为下一代星舰和NASA的阿耳忒弥斯登月任务铺平了道路。",
+    "paragraphs": [
+        {
+            "en": "On Monday, October 13, 2025, at 6:23 p.m. CT, Starship lifted off from Starbase, Texas on its eleventh flight test. This was the final flight of the second-generation Starship and first generation Super Heavy booster, as well as the final launch from the current configuration of Pad 1. Every major objective of the flight test was achieved, providing valuable data as SpaceX prepares the next generation of Starship and Super Heavy for orbital flights and beyond.",
+            "zh": "2025年10月13日星期一美国中部时间下午6:23，星舰从德克萨斯州星舰基地进行了第十一次飞行测试。这是第二代星舰和第一代超重型助推器的最后一次飞行，也是从1号发射台当前配置进行的最后一次发射。飞行测试的每一项主要目标都已达成，为SpaceX研制下一代星舰和超重型助推器进行轨道飞行及更远任务提供了宝贵数据。",
+            "keywords": ["lifted off", "flight test", "objectives", "booster"],
+            "notes": [
+                {"phrase": "lifted off", "explain": "起飞、升空，火箭发射的常用表达"},
+                {"phrase": "Starbase", "explain": "星舰基地，SpaceX在德克萨斯州博卡奇卡的火箭发射和制造设施"}
+            ]
+        },
+        {
+            "en": "The flight test began with Super Heavy igniting all 33 Raptor engines and ascending over the Gulf of Mexico. The successful first-stage ascent was followed by a hot-staging maneuver, with Starship's upper stage igniting its six Raptor engines to continue its flight to space. Following stage separation, the Super Heavy booster completed its boostback burn using 12 of the 13 planned engines to put it on course for a pre-planned splashdown zone off the coast of Texas.",
+            "zh": "飞行测试以超重型助推器点燃全部33台猛禽发动机并在墨西哥湾上空升空开始。成功的第一级爬升之后是热分离机动，星舰上级点燃其六台猛禽发动机继续飞向太空。级分离后，超重型助推器使用13台计划发动机中的12台完成了反推燃烧，使其朝向德克萨斯州海岸外的预定溅落区域飞行。",
+            "keywords": ["igniting", "hot-staging", "boostback burn", "splashdown"],
+            "notes": [
+                {"phrase": "hot-staging", "explain": "热分离，上级发动机在分离时点火，与冷分离相对"},
+                {"phrase": "boostback burn", "explain": "反推燃烧，助推器改变轨迹返回着陆点的发动机点火"}
+            ]
+        },
+        {
+            "en": "The booster successfully executed a unique landing burn planned for use on the next generation booster. Super Heavy hovered above the water before shutting down its engines and splashing down. After completing a full-duration ascent burn, Starship achieved its planned velocity and trajectory. During flight, Starship successfully deployed eight Starlink simulators and executed the third in-space relight of a Raptor engine, demonstrating a critical capability for future deorbit burns.",
+            "zh": "助推器成功执行了计划用于下一代助推器的独特着陆燃烧。超重型在水面上方悬停，然后关闭发动机并溅落。在完成全时长爬升燃烧后，星舰达到了计划的速度和轨迹。在飞行期间，星舰成功部署了八颗星链模拟卫星，并第三次执行了猛禽发动机在轨重新点火，展示了未来脱轨燃烧所需的关键能力。",
+            "keywords": ["hovered", "deployed", "in-space relight", "deorbit"],
+            "notes": [
+                {"phrase": "deorbit burns", "explain": "脱轨燃烧，飞船降低轨道重返大气层所需的发动机点火"},
+                {"phrase": "Starlink simulators", "explain": "星链模拟卫星，用于测试载荷部署的模拟设备"}
+            ]
+        },
+        {
+            "en": "Starship re-entered the Earth's atmosphere and was able to gather extensive data on the performance of its heatshield as it was intentionally stressed to test the limits of the vehicle's capabilities. In the final minutes of flight, Starship performed a dynamic banking maneuver to mimic the trajectory that future missions returning to Starbase will fly. Starship then guided itself using its four flaps to the pre-planned splashdown zone in the Indian Ocean, successfully executing a landing flip, landing burn, and soft splashdown.",
+            "zh": "星舰重新进入地球大气层，并能够收集其隔热罩性能的大量数据，因为其被有意施压以测试飞行器能力的极限。在飞行的最后几分钟，星舰执行了动态倾侧机动，以模拟未来返回星舰基地任务将飞行的轨迹。然后，星舰使用其四个襟翼将自己引导至印度洋的预定溅落区域，成功执行了着陆翻转、着陆燃烧和软溅落。",
+            "keywords": ["heatshield", "banking maneuver", "landing flip", "soft splashdown"],
+            "notes": [
+                {"phrase": "heatshield", "explain": "隔热罩，保护航天器在再入大气层时免受高温损害的防护层"},
+                {"phrase": "landing flip", "explain": "着陆翻转，星舰从水平姿态转为垂直姿态以便着陆的机动"}
+            ]
+        },
+        {
+            "en": "Focus now turns to the next generation of Starship and Super Heavy, with multiple vehicles currently in active build and preparing for tests. This next iteration will be used for the first Starship orbital flights, operational payload missions, propellant transfer, and more as SpaceX iterates to a fully and rapidly reusable vehicle with service to Earth orbit, the Moon, Mars, and beyond.",
+            "zh": "现在的重点转向下一代星舰和超重型助推器，多架飞行器目前正在积极建造并准备测试。这一下一代型号将用于首批星舰轨道飞行、运营有效载荷任务、推进剂转移等，随着SpaceX迭代开发出可充分、快速重复使用的飞行器，服务于地球轨道、月球、火星及更远的任务。",
+            "keywords": ["iteration", "propellant transfer", "reusable", "payload"],
+            "notes": [
+                {"phrase": "propellant transfer", "explain": "推进剂转移，在轨道上为飞船加注燃料，对深空任务至关重要"},
+                {"phrase": "iterate", "explain": "迭代，通过不断改进版本来逐步完善产品"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "ascent", "phonetic": "/əˈsent/", "meaning": "上升；爬升", "partOfSpeech": "n.", "example": "The rocket's ascent was smooth and steady."},
+        {"word": "maneuver", "phonetic": "/məˈnuːvər/", "meaning": "机动；操纵", "partOfSpeech": "n.", "example": "The pilot executed a perfect banking maneuver."},
+        {"word": "splashdown", "phonetic": "/ˈsplæʃdaʊn/", "meaning": "溅落（航天器落入水中）", "partOfSpeech": "n.", "example": "The capsule made a soft splashdown in the ocean."},
+        {"word": "heatshield", "phonetic": "/ˈhiːtʃiːld/", "meaning": "隔热罩；防热层", "partOfSpeech": "n.", "example": "The heatshield protects the spacecraft during re-entry."},
+        {"word": "payload", "phonetic": "/ˈpeɪloʊd/", "meaning": "有效载荷；运载的货物", "partOfSpeech": "n.", "example": "The rocket carried a payload of eight satellites."},
+        {"word": "reusable", "phonetic": "/riːˈjuːzəbl/", "meaning": "可重复使用的", "partOfSpeech": "adj.", "example": "SpaceX aims to build fully reusable spacecraft."}
+    ],
+    "discussion_questions": [
+        {"en": "Why is the in-space engine relight capability important for future Starship missions?", "zh": "在轨发动机重新点火能力为什么对未来星舰任务很重要？"},
+        {"en": "What challenges do you think SpaceX faces in developing a fully reusable spacecraft?", "zh": "你认为SpaceX在开发完全可重复使用航天器方面面临哪些挑战？"},
+        {"en": "How might Starship's success impact NASA's Artemis Moon landing plans?", "zh": "星舰的成功可能如何影响NASA的阿耳忒弥斯登月计划？"}
+    ]
+}

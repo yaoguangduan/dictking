@@ -1,0 +1,116 @@
+{
+    "title": "Britain Brings Cryptocurrencies Under Compulsory Regulation",
+    "title_zh": "英国将加密货币纳入强制监管框架",
+    "author": "David Milliken",
+    "source": "Reuters",
+    "created_at": "2025-04-29",
+    "difficulty": "medium",
+    "tags": ["cryptocurrency", "regulation", "UK", "bitcoin", "finance"],
+    "summary": "Britain will bring cryptocurrencies under compulsory regulation, extending existing financial rules to crypto exchanges and dealers. The UK is aligning with the U.S. approach rather than the EU's industry-tailored MiCAR regime. Around 12% of British adults own or have owned crypto assets.",
+    "summary_zh": "英国将把加密货币纳入强制监管，将现有金融法规延伸至加密货币交易所和经纪商。英国选择与美国的监管思路一致，而非欧盟针对行业定制的 MiCA 制度。约12%的英国成年人持有或曾持有加密资产。",
+    "paragraphs": [
+        {
+            "en": "Britain will bring cryptocurrencies under compulsory regulation, finance minister Rachel Reeves said on Tuesday as the government signalled it would cooperate closely with the United States on the best approach towards digital assets. The new draft laws will extend existing financial regulation to companies involved in crypto, aligning Britain with the U.S., rather than the European Union which has built rules tailored to the industry.",
+            "zh": "英国财政大臣瑞秋·里夫斯周二表示，英国将对加密货币实行强制监管，政府表示将在数字资产的最佳监管路径上与美国密切合作。新草案将把现有金融法规延伸至涉足加密货币的企业，使英国与美国思路一致，而非采用欧盟为行业量身定制的规则。",
+            "keywords": ["compulsory", "aligning", "tailored", "draft laws", "digital assets"],
+            "notes": [
+                {"phrase": "compulsory regulation", "explain": "强制监管；compulsory 表示必须遵守的、强制的"},
+                {"phrase": "tailored to the industry", "explain": "为行业量身定制的；tailor 原指裁缝，引申为针对特定对象设计"}
+            ]
+        },
+        {
+            "en": "Britain's first set of draft rules for the sector comes as U.S. President Donald Trump has embraced crypto and vowed to roll back regulatory curbs on the industry, worrying critics. Euro zone finance ministers said last month they were concerned the U.S. embrace could affect euro zone monetary sovereignty and financial stability.",
+            "zh": "英国公布该行业首套监管草案之际，美国总统特朗普已表态支持加密货币并誓言放松对该行业的监管限制，这令批评者担忧。欧元区财长上月表示，担心美国对加密资产的支持可能影响欧元区货币主权和金融稳定。",
+            "keywords": ["roll back", "regulatory curbs", "monetary sovereignty", "embraced", "vowed"],
+            "notes": [
+                {"phrase": "roll back regulatory curbs", "explain": "取消/放松监管限制；roll back 意为撤回、撤销"},
+                {"phrase": "monetary sovereignty", "explain": "货币主权；指一国对本国货币政策的自主决定权"}
+            ]
+        },
+        {
+            "en": "Under the new rules, crypto exchanges, dealers and agents will be brought into the regulatory perimeter, cracking down on bad actors while supporting legitimate innovation. Crypto firms with UK customers will also have to meet clear standards on transparency, consumer protection, and operational resilience.",
+            "zh": "根据新规，加密货币交易所、经纪商和代理商将被纳入监管范围，在打击不法行为的同时支持合规创新。服务英国客户的加密企业还需满足透明度、消费者保护和运营韧性方面的明确标准。",
+            "keywords": ["regulatory perimeter", "legitimate", "operational resilience", "transparency", "cracking down"],
+            "notes": [
+                {"phrase": "regulatory perimeter", "explain": "监管范围；perimeter 原指边界，此处指受监管的领域"},
+                {"phrase": "cracking down on bad actors", "explain": "打击不法行为者；crack down on 意为严厉打击"}
+            ]
+        },
+        {
+            "en": "Around 12% of British adults own or have owned cryptocurrencies such as bitcoin or ethereum, up from 4% in 2021, the government said. Bank of England Governor Andrew Bailey has long warned of the risks to investors from bitcoin, which he does not view as a secure store of value like mainstream currencies.",
+            "zh": "政府数据显示，约12%的英国成年人持有或曾持有比特币或以太坊等加密货币，高于2021年的4%。英国央行行长安德鲁·贝利长期警告比特币对投资者的风险，认为它不像主流货币那样是可靠的价值储存手段。",
+            "keywords": ["ethereum", "store of value", "mainstream currencies", "Governor", "risks"],
+            "notes": [
+                {"phrase": "store of value", "explain": "价值储存；指能保值、可长期持有的资产"},
+                {"phrase": "mainstream currencies", "explain": "主流货币；指法币等被广泛接受的货币"}
+            ]
+        },
+        {
+            "en": "However, Bailey has seen more of a case to regulate so-called stablecoins, a type of digital currency that seeks to keep a fixed value relative to U.S. dollars or other assets. The government's draft rules said stablecoin issuers would be subject to regulation, but only if the issuers are based in the UK.",
+            "zh": "然而，贝利认为更有必要对所谓稳定币进行监管。稳定币是一类试图相对于美元或其他资产保持固定价值的数字货币。政府草案规定，稳定币发行方将受监管，但仅限在英国设立实体的发行方。",
+            "keywords": ["stablecoins", "issuers", "fixed value", "subject to", "digital currency"],
+            "notes": [
+                {"phrase": "subject to regulation", "explain": "受监管约束；subject to 表示须遵守、受……制约"},
+                {"phrase": "fixed value relative to", "explain": "相对于……保持固定价值；relative to 表示与……相比"}
+            ]
+        },
+        {
+            "en": "Nick Price, financial services and crypto specialist at law firm Osborne Clarke, called it a simple and straightforward piece of legislation that would bring a great deal of certainty and stability and consumer protection. The move explicitly aligns the UK with the U.S. approach of crypto as securities, representing a divergence with the EU's more tailored approach under the MiCAR regime.",
+            "zh": "欧华律师事务所金融服务与加密专家尼克·普赖斯称，这是一部简洁清晰的立法，将带来更多确定性、稳定性及消费者保护。此举明确将英国与美国将加密货币视作证券的监管取向对齐，而与欧盟在 MiCA 框架下更细分的做法形成分歧。",
+            "keywords": ["legislation", "divergence", "securities", "explicitly", "regime"],
+            "notes": [
+                {"phrase": "a great deal of", "explain": "大量、许多；与 much、a lot of 类似，后接不可数名词"},
+                {"phrase": "divergence with", "explain": "与……的分歧；divergence 指观点或做法上的差异"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "compulsory",
+            "phonetic": "/kəmˈpʌlsəri/",
+            "meaning": "强制的；必须的",
+            "partOfSpeech": "adj.",
+            "example": "Britain will bring cryptocurrencies under compulsory regulation."
+        },
+        {
+            "word": "stablecoin",
+            "phonetic": "/ˈsteɪbəlkɔɪn/",
+            "meaning": "稳定币（与法币等挂钩的数字货币）",
+            "partOfSpeech": "n.",
+            "example": "The government's draft rules said stablecoin issuers would be subject to regulation."
+        },
+        {
+            "word": "perimeter",
+            "phonetic": "/pəˈrɪmɪtər/",
+            "meaning": "边界；范围",
+            "partOfSpeech": "n.",
+            "example": "Crypto exchanges will be brought into the regulatory perimeter."
+        },
+        {
+            "word": "resilience",
+            "phonetic": "/rɪˈzɪliəns/",
+            "meaning": "韧性；恢复力",
+            "partOfSpeech": "n.",
+            "example": "Crypto firms must meet standards on operational resilience."
+        },
+        {
+            "word": "divergence",
+            "phonetic": "/daɪˈvɜːrdʒəns/",
+            "meaning": "分歧；背离",
+            "partOfSpeech": "n.",
+            "example": "The move represents a divergence with the EU's approach under the MiCAR regime."
+        },
+        {
+            "word": "legitimacy",
+            "phonetic": "/lɪˈdʒɪtɪməsi/",
+            "meaning": "合法性；正当性",
+            "partOfSpeech": "n.",
+            "example": "The rules aim to support legitimate innovation while cracking down on bad actors."
+        }
+    ],
+    "discussion_questions": [
+        {"en": "Should cryptocurrencies be regulated like traditional securities? What are the pros and cons?", "zh": "加密货币是否应像传统证券一样被监管？利弊何在？"},
+        {"en": "How might different regulatory approaches in the US, UK, and EU affect the global crypto industry?", "zh": "美国、英国和欧盟不同的监管 approach 会如何影响全球加密货币行业？"},
+        {"en": "Do you think stablecoins pose less risk than volatile cryptocurrencies like Bitcoin? Why?", "zh": "你认为稳定币是否比比特币等波动性加密货币风险更低？为什么？"}
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Criminalise Malicious AI Deepfakes, Says MP",
+    "title_zh": "议员呼吁将恶意AI深度伪造定为犯罪",
+    "author": "Matt Precey",
+    "source": "BBC",
+    "created_at": "2025-11-18",
+    "difficulty": "medium",
+    "tags": ["deepfake", "AI", "cybersecurity", "legislation", "identity theft"],
+    "summary": "A Conservative MP is pushing to change the law after becoming a victim of an AI-generated deepfake video that depicted him defecting to another party. Police ruled the video was not illegal under current legislation, prompting calls for new laws to criminalise malicious deepfakes.",
+    "summary_zh": "一位保守党议员在成为AI生成的深度伪造视频受害者后，正在推动修改法律。该视频描绘他叛逃到另一政党。警方裁定该视频根据现行法律不构成犯罪，促使人们呼吁制定新法律将恶意深度伪造定为犯罪。",
+    "paragraphs": [
+        {
+            "en": "A Conservative MP says he will seek to change the law over AI deepfake videos after he became the victim of one. It comes after George Freeman, who represents Mid Norfolk, was told by police that a bogus video of him announcing his defection to Reform UK was not illegal.",
+            "zh": "一位保守党议员表示，在他成为AI深度伪造视频的受害者后，他将寻求修改相关法律。此前，代表诺福克中部的乔治·弗里曼被告知，一段假冒他宣布叛逃到英国改革党的虚假视频并不违法。",
+            "keywords": ["Conservative", "deepfake", "bogus", "defection", "illegal"],
+            "notes": [
+                {"phrase": "seek to", "explain": "寻求；力图"},
+                {"phrase": "bogus", "explain": "假的；伪造的"}
+            ]
+        },
+        {
+            "en": "He had initially reported the deepfake as an offence of sending false communications. Freeman told the BBC it was time to \"criminalise the dissemination of malicious deepfake videos—whether for fraud, democratic disruption or other serious crime\". He was left furious after the video was widely shared online.",
+            "zh": "他最初将深度伪造视频作为发送虚假通信的犯罪进行举报。弗里曼告诉BBC，是时候\"将恶意深度伪造视频的传播定为犯罪——无论是为了欺诈、破坏民主还是其他严重犯罪\"。在这段视频在网上被广泛分享后，他感到非常愤怒。",
+            "keywords": ["dissemination", "malicious", "fraud", "democratic disruption", "furious"],
+            "notes": [
+                {"phrase": "criminalise", "explain": "将...定为犯罪；使...非法"},
+                {"phrase": "democratic disruption", "explain": "破坏民主进程；指干扰选举、操纵舆论等行为"}
+            ]
+        },
+        {
+            "en": "The former tech minister was forced to issue a disclaimer denouncing it, stating the incident was \"highly damaging for our democracy\". Freeman has been wary of the use of AI and as minister, he opposed tech companies being granted free access to text and data mining.",
+            "zh": "这位前科技部长被迫发表声明予以谴责，称这一事件\"对我们的民主造成了严重损害\"。弗里曼一直对人工智能的使用持谨慎态度，在担任部长期间，他反对给予科技公司免费获取文本和数据挖掘的权限。",
+            "keywords": ["disclaimer", "denouncing", "democracy", "wary", "data mining"],
+            "notes": [
+                {"phrase": "issue a disclaimer", "explain": "发表声明；发布免责声明"},
+                {"phrase": "be wary of", "explain": "对...持谨慎态度；警惕"}
+            ]
+        },
+        {
+            "en": "Norfolk Police launched an inquiry after Freeman passed on the AI-generated footage. The force initially treated it as a potential false communications offence under the Online Safety Act 2023. But in a statement a spokesperson said it did not meet the legal test for a crime.",
+            "zh": "弗里曼将这段AI生成的视频转发给警方后，诺福克警方展开了调查。警方最初根据2023年《网络安全法》将其视为潜在的虚假通信犯罪。但发言人在一份声明中表示，它不符合犯罪的法律门槛。",
+            "keywords": ["inquiry", "footage", "Online Safety Act", "legal test", "offence"],
+            "notes": [
+                {"phrase": "pass on", "explain": "转发；传递"},
+                {"phrase": "meet the legal test", "explain": "符合法律门槛；达到定罪标准"}
+            ]
+        },
+        {
+            "en": "The 2023 act is aimed at protecting adults and children online and states that \"sending false information intended to cause non-trivial harm\" could be considered a criminal offence. Freeman said he considered the video to be a form of identity theft and that current legislation did not go far enough.",
+            "zh": "2023年的法案旨在保护网上成人和儿童，规定\"意图造成非轻微损害而发送虚假信息\"可被视为刑事犯罪。弗里曼表示，他认为这段视频是一种身份盗窃形式，现行立法还不够完善。",
+            "keywords": ["non-trivial harm", "identity theft", "legislation", "offence", "intended"],
+            "notes": [
+                {"phrase": "identity theft", "explain": "身份盗窃；冒充他人身份"},
+                {"phrase": "go far enough", "explain": "足够完善；足够彻底"}
+            ]
+        },
+        {
+            "en": "Freeman said he would now \"use my time in Parliament to help legislate for the law that is needed\". \"If we allow deepfake AI identity theft to grow unchecked we will be encouraging damage to our democratic traditions of free speech, fair debate, democratic accountability and trust in our political system. As an MP I have an opportunity to do something about it.\"",
+            "zh": "弗里曼表示，他现在将\"利用在议会的时间帮助制定所需的法律\"。\"如果我们任由深度伪造AI身份盗窃 unchecked 发展，我们将助长对言论自由、公平辩论、民主问责和对政治体制信任等民主传统的损害。作为议员，我有机会为此做些什么。\"",
+            "keywords": ["legislate", "unchecked", "accountability", "democratic traditions", "political system"],
+            "notes": [
+                {"phrase": "grow unchecked", "explain": "不受控制地发展；unchecked 表示未受约束"},
+                {"phrase": "democratic accountability", "explain": "民主问责；政客对选民的负责任"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "deepfake", "phonetic": "/ˈdiːpfeɪk/", "meaning": "深度伪造；AI换脸/换声", "partOfSpeech": "n.", "example": "The MP became a victim of an AI deepfake video."},
+        {"word": "disseminate", "phonetic": "/dɪˈsemɪneɪt/", "meaning": "传播；散布", "partOfSpeech": "v.", "example": "He called to criminalise the dissemination of malicious deepfakes."},
+        {"word": "malicious", "phonetic": "/məˈlɪʃəs/", "meaning": "恶意的；有害的", "partOfSpeech": "adj.", "example": "Malicious deepfake videos can damage democracy."},
+        {"word": "disclaimer", "phonetic": "/dɪsˈkleɪmər/", "meaning": "声明；免责声明", "partOfSpeech": "n.", "example": "He was forced to issue a disclaimer denouncing the video."},
+        {"word": "legislate", "phonetic": "/ˈledʒɪsleɪt/", "meaning": "立法；制定法律", "partOfSpeech": "v.", "example": "He will use his time to help legislate for the law needed."},
+        {"word": "unchecked", "phonetic": "/ʌnˈtʃekt/", "meaning": "未受约束的；未遏制的", "partOfSpeech": "adj.", "example": "Deepfake identity theft must not grow unchecked."}
+    ],
+    "discussion_questions": [
+        {"en": "How can lawmakers balance free speech with the need to prevent harmful deepfakes?", "zh": "立法者如何平衡言论自由与防范有害深度伪造的需求？"},
+        {"en": "What role should tech platforms play in preventing the spread of malicious deepfakes?", "zh": "科技平台在防止恶意深度伪造传播方面应发挥什么作用？"},
+        {"en": "Why might current laws struggle to address AI-generated content?", "zh": "为什么现行法律可能难以应对AI生成的内容？"}
+    ]
+}

@@ -1,7 +1,7 @@
 <template>
   <div class="word-detail-page">
     <van-nav-bar
-      title="单词详情"
+      title="Word Detail"
       left-arrow
       @click-left="goBack"
       fixed
@@ -15,17 +15,17 @@
         <h1 class="word-name">{{ word.word }}</h1>
         <div class="phonetics">
           <van-tag v-if="word.phonetic?.uk" type="primary" plain class="phonetic-tag">
-            英 {{ word.phonetic.uk }}
+            UK {{ word.phonetic.uk }}
           </van-tag>
           <van-tag v-if="word.phonetic?.us" type="primary" plain class="phonetic-tag">
-            美 {{ word.phonetic.us }}
+            US {{ word.phonetic.us }}
           </van-tag>
         </div>
       </div>
 
       <!-- 词源 -->
       <div v-if="word.etymology" class="info-block">
-        <div class="block-title">词源</div>
+        <div class="block-title">Etymology</div>
         <div class="block-content etymology-text">
           {{ word.etymology.origin }}
         </div>
@@ -33,7 +33,7 @@
 
       <!-- 释义（包含搭配、短语、同/反义词） -->
       <div class="info-block">
-        <div class="block-title">释义</div>
+        <div class="block-title">Definitions</div>
         <div 
           v-for="(def, index) in word.definitions" 
           :key="index"
@@ -50,7 +50,7 @@
 
           <!-- 例句 -->
           <div v-if="def.sentences && def.sentences.length" class="sub-section">
-            <div class="sub-title">例句</div>
+            <div class="sub-title">Examples</div>
             <div 
               v-for="(sentence, sIndex) in def.sentences" 
               :key="sIndex"
@@ -63,7 +63,7 @@
 
           <!-- 常用搭配（属于该释义） -->
           <div v-if="def.collocations && def.collocations.length" class="sub-section">
-            <div class="sub-title">常用搭配</div>
+            <div class="sub-title">Collocations</div>
             <div 
               v-for="(col, cIndex) in def.collocations" 
               :key="cIndex"
@@ -84,7 +84,7 @@
 
           <!-- 固定短语（属于该释义） -->
           <div v-if="def.phrases && def.phrases.length" class="sub-section">
-            <div class="sub-title">固定短语</div>
+            <div class="sub-title">Phrases</div>
             <div 
               v-for="(phrase, pIndex) in def.phrases" 
               :key="pIndex"
@@ -105,7 +105,7 @@
 
           <!-- 同义词（属于该释义） -->
           <div v-if="def.synonyms && Object.keys(def.synonyms).length" class="sub-section">
-            <div class="sub-title">同义词</div>
+            <div class="sub-title">Synonyms</div>
             <div class="synonym-list">
               <div v-for="(syn, sWord) in def.synonyms" :key="sWord" class="synonym-item">
                 <div class="syn-header">
@@ -125,7 +125,7 @@
 
           <!-- 反义词（属于该释义） -->
           <div v-if="def.antonyms && Object.keys(def.antonyms).length" class="sub-section">
-            <div class="sub-title">反义词</div>
+            <div class="sub-title">Antonyms</div>
             <div class="antonym-list">
               <div v-for="(ant, aWord) in def.antonyms" :key="aWord" class="antonym-item">
                 <div class="ant-header">
@@ -147,7 +147,7 @@
 
       <!-- 相关词汇 -->
       <div v-if="word.related_words && Object.keys(word.related_words).length" class="info-block">
-        <div class="block-title">相关词汇</div>
+        <div class="block-title">Related Words</div>
         <div 
           v-for="(related, relWord) in word.related_words" 
           :key="relWord"
@@ -170,7 +170,7 @@
 
       <!-- 习语表达 -->
       <div v-if="word.idioms && word.idioms.length" class="info-block">
-        <div class="block-title">习语表达</div>
+        <div class="block-title">Idioms</div>
         <div 
           v-for="(idiom, index) in word.idioms" 
           :key="index"
@@ -192,7 +192,7 @@
 
       <!-- 常见错误 -->
       <div v-if="word.common_mistakes && word.common_mistakes.length" class="info-block">
-        <div class="block-title">常见错误</div>
+        <div class="block-title">Common Mistakes</div>
         <div 
           v-for="(mistake, index) in word.common_mistakes" 
           :key="index"
@@ -212,7 +212,7 @@
 
       <!-- 记忆技巧 -->
       <div v-if="word.mnemonics && word.mnemonics.length" class="info-block">
-        <div class="block-title">记忆技巧</div>
+        <div class="block-title">Mnemonics</div>
         <div 
           v-for="(mnemonic, index) in word.mnemonics" 
           :key="index"
@@ -225,7 +225,7 @@
     </div>
 
     <van-loading v-else class="loading" size="24px" vertical>
-      加载中...
+      Loading...
     </van-loading>
   </div>
 </template>
@@ -247,8 +247,8 @@ const loadWord = async () => {
     const response = await wordAPI.getDetail(userCurrentDict.value, wordName)
     word.value = response.data
   } catch (error) {
-    console.error('加载失败:', error)
-    showToast(error.response?.data?.message || error.message || '加载失败')
+    console.error('Load failed:', error)
+    showToast(error.response?.data?.message || error.message || 'Load failed')
     router.back()
   }
 }
@@ -274,6 +274,8 @@ onMounted(() => {
   padding: 24px 20px 40px;
   max-width: 640px;
   margin: 0 auto;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  letter-spacing: 0.01em;
 }
 
 .word-header {
@@ -288,7 +290,6 @@ onMounted(() => {
   color: #1a1a1a;
   margin-bottom: 16px;
   letter-spacing: -0.5px;
-  font-family: ui-monospace, 'SF Mono', Monaco, 'Cascadia Code', Consolas, Menlo, monospace;
 }
 
 .phonetics {
@@ -326,7 +327,7 @@ onMounted(() => {
 .etymology-text {
   color: #57606a;
   font-size: 15px;
-  line-height: 1.65;
+  line-height: 1.7;
 }
 
 .definition-item {
@@ -364,7 +365,7 @@ onMounted(() => {
   background: #fcf4e3;
   padding: 14px 16px;
   margin-bottom: 20px;
-  line-height: 1.55;
+  line-height: 1.6;
   border-left: 3px solid #e6b800;
 }
 
@@ -401,12 +402,11 @@ onMounted(() => {
   padding-left: 16px;
 }
 
-/* 英文：等宽、非斜体，便于阅读 */
+/* English text */
 .quote-item .en {
   font-size: 15px;
   color: #24292f;
-  line-height: 1.65;
-  font-family: ui-monospace, 'SF Mono', Monaco, 'Cascadia Code', Consolas, Menlo, monospace;
+  line-height: 1.75;
   margin-bottom: 10px;
 }
 
@@ -444,7 +444,6 @@ onMounted(() => {
 .bold {
   font-weight: 600;
   color: #24292f;
-  font-family: ui-monospace, 'SF Mono', Monaco, Consolas, Menlo, monospace;
 }
 
 .gray {

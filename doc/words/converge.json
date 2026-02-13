@@ -1,0 +1,91 @@
+{
+  "word": "converge",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/kənˈvɜːdʒ/",
+    "us": "/kənˈvɜːrdʒ/"
+  },
+  "definitions": [
+    {
+      "translation": "汇聚；集中于；趋同",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "不及物动词，常与 at、on、toward 等介词连用。可指物理上的汇聚，也可指观点、利益等的趋同。",
+      "sentences": [
+        {"en": "Thousands of protesters converged on the square.", "zh": "数千名抗议者聚集在广场上。"},
+        {"en": "The two roads converge at the bridge.", "zh": "两条道路在桥头汇聚。"},
+        {"en": "Our opinions seem to converge on this issue.", "zh": "我们在这个问题上的观点似乎趋于一致。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "converge on",
+          "translation": "汇聚于；集中于",
+          "pattern": "动词+介词",
+          "explain": "指向某地点或某主题汇聚",
+          "sentences": [{"en": "Reporters converged on the scene of the accident.", "zh": "记者们涌向事故现场。"}]
+        },
+        {
+          "collocation": "converge at",
+          "translation": "在…处汇合",
+          "pattern": "动词+介词",
+          "explain": "多指道路、线条在某点汇合",
+          "sentences": [{"en": "The rivers converge at the delta.", "zh": "这些河流在三角洲处汇合。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "meet": {
+          "translation": "相遇；会合",
+          "diffs": "meet 更通俗；converge 强调从不同方向汇聚到一点",
+          "sentences": [{"en": "We agreed to meet at the station.", "zh": "我们约好在车站见面。"}]
+        }
+      },
+      "antonyms": {
+        "diverge": {"translation": "分歧；分叉", "diffs": "朝不同方向分散，与 converge 相反"}
+      },
+      "inflections": {
+        "past_tense": "converged",
+        "past_participle": "converged",
+        "present_participle": "converging",
+        "third_person": "converges"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自拉丁语 convergere，源于 con-（一起）+ vergere（转向、倾斜），意为\"一起转向\"。",
+    "root": "verg-（转向，倾斜）",
+    "affixes": ["con-（前缀：一起）", "-e（动词词尾）"],
+    "history": "vergere 表\"转向\"，con- 表\"一起\"，组合为\"一起转向同一点\"即汇聚。"
+  },
+  "related_words": {
+    "convergence": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "汇聚；趋同；收敛",
+      "rule": "converge 的名词形式",
+      "sentences": [{"en": "The convergence of technology and media has changed how we consume news.", "zh": "技术与媒体的融合改变了我们消费新闻的方式。"}]
+    },
+    "diverge": {
+      "class": {"en": "verb", "en_s": "v.", "ch": "动词"},
+      "translation": "分歧；分叉",
+      "rule": "di-（分开）+ vergere，与 converge 含义相反",
+      "sentences": [{"en": "Our opinions diverge on this matter.", "zh": "我们在这个问题上意见分歧。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "converge together",
+      "correct": "converge",
+      "explain": "converge 本身已含\"汇聚\"之意，不必再加 together，属于冗余。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "con-（一起）+ verg-（转向）+ -e → 一起转向同一方向 → 汇聚、趋同。"
+    }
+  ]
+}

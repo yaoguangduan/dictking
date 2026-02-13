@@ -1,0 +1,91 @@
+{
+    "title": "Mediterranean Diet Linked to Living Longer and Lower Cancer Risk",
+    "title_zh": "地中海饮食与长寿和降低患癌风险相关",
+    "author": "Julie Corliss, Sandee LaMotte",
+    "source": "Harvard Health / CNN",
+    "created_at": "2025-02-25T00:00:00Z",
+    "difficulty": "easy",
+    "tags": ["nutrition", "diet", "longevity", "cancer prevention", "heart health"],
+    "summary": "The Mediterranean diet, emphasising olive oil, vegetables, fruits and whole grains, is linked to longer life and reduced cancer risk. A large 2024 study found women who closely followed the diet had up to 23% lower risk of dying, with benefits partly explained by improvements in heart-related biomarkers. A 2025 study suggests the diet reduces obesity-related cancer risk through mechanisms beyond weight loss, including reduced inflammation and improved metabolic health.",
+    "summary_zh": "强调橄榄油、蔬菜、水果和全谷物的地中海饮食与寿命延长和患癌风险降低相关。2024年的一项大型研究发现，严格遵循该饮食的女性死亡风险降低高达23%，部分原因在于心脏相关生物标志物的改善。2025年的一项研究表明，地中海饮食通过体重减轻以外的机制降低肥胖相关癌症风险，包括减少炎症和改善代谢健康。",
+    "paragraphs": [
+        {
+            "en": "Women in a recent study who followed a Mediterranean eating pattern lived longer — a finding at least partly explained by improvements in certain heart-related risks. Long touted as heart-friendly, the Mediterranean diet emphasises olive oil, vegetables, fruits, whole grains, legumes, and nuts. The study, published in JAMA Network Open, tracked more than 25,000 women for up to 25 years. Those who closely followed the Mediterranean diet had up to a 23% lower risk of dying from any cause during the study period.",
+            "zh": "近期一项研究中，遵循地中海饮食模式的女性寿命更长——这一发现至少部分可由某些心脏相关风险的改善来解释。长期以来被誉为有益心脏的地中海饮食强调橄榄油、蔬菜、水果、全谷物、豆类和坚果。发表在《美国医学会杂志网络开放版》上的这项研究对超过2.5万名女性进行了长达25年的跟踪。在研究期间，严格遵循地中海饮食的人因任何原因死亡的风险降低高达23%。",
+            "keywords": ["Mediterranean", "longevity", "legumes", "biomarkers", "cardiovascular"],
+            "notes": [
+                {"phrase": "long touted as", "explain": "长期以来被誉为……，表示持续获得的认可"},
+                {"phrase": "at least partly", "explain": "至少部分地，表示因果关系的谨慎表述"}
+            ]
+        },
+        {
+            "en": "Researchers analysed 33 blood biomarkers associated with different metabolic pathways and risk factors linked to heart disease. Their findings suggest that the diet helps lower body mass index, inflammation, triglyceride-rich lipoproteins, and insulin resistance. Those changes appeared to contribute to the improved longevity seen in women who most closely followed the Mediterranean diet, according to the study authors. The diet's benefits extend beyond weight management to fundamental metabolic improvements.",
+            "zh": "研究人员分析了与不同代谢通路和心脏病风险因素相关的33种血液生物标志物。他们的发现表明，该饮食有助于降低体重指数、炎症、富含甘油三酯的脂蛋白和胰岛素抵抗。研究作者指出，这些变化似乎促成了最严格遵循地中海饮食的女性所表现出的寿命延长。该饮食的益处超越体重管理，延伸至基本代谢改善。",
+            "keywords": ["biomarkers", "metabolic", "lipoproteins", "insulin resistance", "inflammation"],
+            "notes": [
+                {"phrase": "according to the study authors", "explain": "根据研究作者的说法，学术引用常用语"},
+                {"phrase": "contribute to", "explain": "促成；有助于，表示因果关系"}
+            ]
+        },
+        {
+            "en": "Meals from the sunny Mediterranean have been shown to reduce the risk of developing prostate, cervical, and colorectal cancer, while also decreasing women's risk of dying from any cancer by 17%. The Mediterranean diet also wins gold medals for healthy weight loss and lowering obesity. Obesity is a leading risk factor for cancer and many other chronic diseases such as type 2 diabetes, heart and kidney disease, stroke and more. Now, a large observational study sheds light on the ways in which the Mediterranean diet may reduce cancer risk — and it is not just via weight loss.",
+            "zh": "来自阳光充沛的地中海地区的饮食已被证明可降低患前列腺癌、宫颈癌和结直肠癌的风险，同时还将女性因任何癌症死亡的风险降低17%。地中海饮食在健康减重和降低肥胖方面也获得金牌评价。肥胖是癌症以及2型糖尿病、心脏病和肾病、中风等许多慢性疾病的主要风险因素。目前，一项大型观察性研究揭示了地中海饮食可能降低患癌风险的方式——而不仅仅是通过减重。",
+            "keywords": ["colorectal", "observational", "chronic disease", "obesity", "stroke"],
+            "notes": [
+                {"phrase": "sheds light on", "explain": "揭示；阐明，比喻性地表示提供新见解"},
+                {"phrase": "leading risk factor", "explain": "主要风险因素，指最重要的致病条件"}
+            ]
+        },
+        {
+            "en": "This was somewhat surprising. Adherence to the Mediterranean diet was associated with lower obesity-related cancer risk regardless of body mass index or fat distribution. This suggests that other mechanisms — such as reduced inflammation, improved metabolic health, or dietary interactions with the microbiome — may be responsible for the protective effects. The Mediterranean diet features simple, plant-based cooking, with much of each meal focused on fruits and vegetables, whole grains, beans and seeds, with a few nuts and a heavy emphasis on extra-virgin olive oil.",
+            "zh": "这有些出乎意料。无论体重指数或脂肪分布如何，坚持地中海饮食都与较低的肥胖相关癌症风险相关。这表明其他机制——如减少炎症、改善代谢健康或饮食与微生物组的相互作用——可能是保护作用的原因。地中海饮食的特点是简单的植物性烹饪，每餐大部分以水果和蔬菜、全谷物、豆类和种子为主，辅以少量坚果并特别强调特级初榨橄榄油。",
+            "keywords": ["adherence", "microbiome", "mechanisms", "protective", "extra-virgin"],
+            "notes": [
+                {"phrase": "regardless of", "explain": "无论……如何，表示不受某因素影响"},
+                {"phrase": "heavy emphasis on", "explain": "特别强调，表示重点突出"}
+            ]
+        },
+        {
+            "en": "Fiber contributes to fullness and supports a healthy microbiome. Plants are also packed with antioxidants and phytonutrients, which appear to reduce inflammation in the body. We have to eat a variety of plants to get the different nutrients and antioxidants that may help reduce overall cancer risk. In the Mediterranean diet, red meat is used sparingly, often only to flavour a dish. Eating healthy, oily fish, which are packed with omega-3 fatty acids, is encouraged, while eggs, dairy and poultry are eaten in much smaller portions than in the traditional Western diet.",
+            "zh": "纤维有助于饱腹感并支持健康的微生物组。植物还富含抗氧化剂和植物营养素，似乎能减少体内炎症。我们必须食用多种植物以获得可能有助于降低整体患癌风险的不同营养素和抗氧化剂。在地中海饮食中，红肉很少使用，通常仅用于调味。鼓励食用富含omega-3脂肪酸的健康油脂鱼类，而鸡蛋、乳制品和家禽的食用量远低于传统西方饮食。",
+            "keywords": ["antioxidants", "phytonutrients", "omega-3", "sparingly", "microbiome"],
+            "notes": [
+                {"phrase": "packed with", "explain": "富含；充满，非正式表达"},
+                {"phrase": "contributes to fullness", "explain": "有助于饱腹感，营养学术语"}
+            ]
+        },
+        {
+            "en": "The study, published in JAMA Network Open, analysed diet and medical data on more than 450,000 people taking part in the European Prospective Investigation into Cancer and Nutrition, or EPIC study. People who most closely adhered to the Mediterranean diet had about a 6% lower risk of developing obesity-related cancers compared to those with less adherence. While that number may appear small, the significance grows when applied to larger populations. Even a small reduction in risk at the individual level can translate into thousands of preventable cancer cases when applied at the population level.",
+            "zh": "发表在《美国医学会杂志网络开放版》上的这项研究分析了参与欧洲癌症与营养前瞻性研究（EPIC研究）的超过45万人的饮食和医学数据。与坚持程度较低的人相比，最严格遵循地中海饮食的人患肥胖相关癌症的风险约低6%。虽然这个数字可能看起来很小，但当应用于更大的人群时，意义就会增长。在个人层面上，即使是小的风险降低，在人群层面上应用时也可能转化为数千例可预防的癌症病例。",
+            "keywords": ["prospective", "adherence", "preventable", "population", "significance"],
+            "notes": [
+                {"phrase": "translate into", "explain": "转化为，表示一种情况导致另一种结果"},
+                {"phrase": "applied at the population level", "explain": "在人群层面应用，流行病学术语"}
+            ]
+        },
+        {
+            "en": "Having occasional breaks from the diet also helped keep cancer at bay, although not as much as fully embracing the Mediterranean style of eating. In other words, it is ok to have a cheat meal here and there. The diet had an even higher protective effect for smokers. Americans are used to eating ultra-processed foods, which populate up to 70% of all grocery store shelves, so moving to a plant-based diet can appear difficult at first. Set small goals: add blueberries to your morning meal, munch on a handful of nuts for a snack, and eat a salad with lunch.",
+            "zh": "偶尔偏离饮食也有助于预防癌症，尽管效果不如完全采用地中海饮食方式。换句话说，偶尔吃一顿「作弊餐」是可以的。该饮食对吸烟者的保护作用甚至更高。美国人习惯于食用超加工食品，这类食品占据了超市货架多达70%的空间，因此转向植物性饮食起初可能显得困难。设定小目标：在早餐中加入蓝莓，零食吃一把坚果，午餐配一份沙拉。",
+            "keywords": ["occasional", "embracing", "ultra-processed", "sustainable", "goals"],
+            "notes": [
+                {"phrase": "keep at bay", "explain": "使……远离；控制住，习语"},
+                {"phrase": "cheat meal", "explain": "作弊餐，指偶尔放纵的饮食"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "legumes", "phonetic": "/ˈleɡjuːmz/", "meaning": "豆类；豆科植物", "partOfSpeech": "n.", "example": "The Mediterranean diet emphasises legumes and nuts."},
+        {"word": "biomarker", "phonetic": "/ˈbaɪəʊˌmɑːkə/", "meaning": "生物标志物", "partOfSpeech": "n.", "example": "Researchers analysed 33 blood biomarkers."},
+        {"word": "adherence", "phonetic": "/ədˈhɪərəns/", "meaning": "坚持；遵循", "partOfSpeech": "n.", "example": "Adherence to the Mediterranean diet was associated with lower cancer risk."},
+        {"word": "microbiome", "phonetic": "/maɪˈkrəʊbaɪəʊm/", "meaning": "微生物组", "partOfSpeech": "n.", "example": "Dietary interactions with the microbiome may explain protective effects."},
+        {"word": "phytonutrient", "phonetic": "/ˌfaɪtəʊˈnjuːtriənt/", "meaning": "植物营养素", "partOfSpeech": "n.", "example": "Plants are packed with antioxidants and phytonutrients."},
+        {"word": "colorectal", "phonetic": "/ˌkəʊləˈrektəl/", "meaning": "结直肠的", "partOfSpeech": "adj.", "example": "The diet reduces risk of colorectal cancer."},
+        {"word": "lipoprotein", "phonetic": "/ˌlɪpəˈprəʊtiːn/", "meaning": "脂蛋白", "partOfSpeech": "n.", "example": "The diet helps lower triglyceride-rich lipoproteins."},
+        {"word": "prospective", "phonetic": "/prəˈspektɪv/", "meaning": "前瞻性的", "partOfSpeech": "adj.", "example": "The EPIC study is a prospective investigation."}
+    ],
+    "discussion_questions": [
+        {"en": "What aspects of the Mediterranean diet do you find most appealing or challenging to adopt?", "zh": "你觉得地中海饮食的哪些方面最吸引人或最难以采纳？"},
+        {"en": "The article says even small risk reductions matter at the population level. How does this change how we think about personal health choices?", "zh": "文章说即使是小的风险降低在人群层面也很重要。这如何改变我们对个人健康选择的看法？"},
+        {"en": "Why do you think the diet had a higher protective effect for smokers? What might this suggest about diet and lifestyle interactions?", "zh": "你认为为什么该饮食对吸烟者的保护作用更高？这可能暗示饮食与生活方式之间有怎样的相互作用？"}
+    ]
+}

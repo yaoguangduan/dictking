@@ -1,0 +1,130 @@
+{
+  "word": "engage",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ɪnˈɡeɪdʒ/",
+    "us": "/ɪnˈɡeɪdʒ/"
+  },
+  "definitions": [
+    {
+      "translation": "吸引；占用（注意力、时间等）",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "及物动词。指使某人专注或投入于某事物，常用于 engage sb/sth 或 engage one's attention/interest 等搭配。",
+      "sentences": [
+        {"en": "The game engages children for hours.", "zh": "这个游戏能让孩子专注好几个小时。"},
+        {"en": "Her storytelling quickly engaged the audience.", "zh": "她的讲述很快吸引了听众。"},
+        {"en": "The professor tried to engage his students in lively debate.", "zh": "教授试图让学生们参与热烈的讨论。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "engage with",
+          "translation": "与…互动；认真对待",
+          "pattern": "动词+介词",
+          "explain": "engage with 常用于表示与人或思想的互动",
+          "sentences": [{"en": "Politicians need to engage with voters on important issues.", "zh": "政客需要在重要问题上与选民互动。"}]
+        },
+        {
+          "collocation": "engage in",
+          "translation": "参与；从事",
+          "pattern": "动词+介词",
+          "explain": "engage in 后接活动、行为",
+          "sentences": [{"en": "They refused to engage in violence.", "zh": "他们拒绝参与暴力。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "involve": {
+          "translation": "使参与",
+          "diffs": "involve 强调牵连进来；engage 更强调吸引或占用注意力",
+          "sentences": [{"en": "The project involves many departments.", "zh": "这个项目牵涉多个部门。"}]
+        },
+        "occupy": {
+          "translation": "占用",
+          "diffs": "occupy 多指占用时间或空间；engage 侧重吸引注意力",
+          "sentences": [{"en": "Work occupies most of his time.", "zh": "工作占用了他的大部分时间。"}]
+        }
+      },
+      "antonyms": {
+        "disengage": {"translation": "脱离；松开", "diffs": "engage 的反义词"}
+      },
+      "inflections": {
+        "past": "engaged",
+        "past_participle": "engaged",
+        "present_participle": "engaging",
+        "third_person": "engages"
+      }
+    },
+    {
+      "translation": "聘用；雇用",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "及物动词，正式用语。engage sb (as/to do sth) 表示聘请某人担任某职或做某事。",
+      "sentences": [
+        {"en": "The company engaged a consultant to review its strategy.", "zh": "公司聘请了一位顾问审查其战略。"},
+        {"en": "She was engaged as an editor for the magazine.", "zh": "她被聘为该杂志的编辑。"},
+        {"en": "They engaged a lawyer to handle the case.", "zh": "他们聘请了律师处理此案。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "engage sb to do sth",
+          "translation": "聘请某人做某事",
+          "pattern": "动词+宾语+不定式",
+          "explain": "正式聘用时常用",
+          "sentences": [{"en": "We engaged an architect to design the building.", "zh": "我们聘请了一位建筑师设计这栋建筑。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "hire": {"translation": "雇用", "diffs": "hire 较口语；engage 更正式", "sentences": [{"en": "They hired a new assistant.", "zh": "他们雇用了一位新助理。"}]}
+      },
+      "antonyms": {},
+      "inflections": {
+        "past": "engaged",
+        "past_participle": "engaged",
+        "present_participle": "engaging",
+        "third_person": "engages"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自古法语 engager，源自 en-（使）+ gage（ pledges 誓言、抵押），原意为“以誓言或抵押约束”。",
+    "root": "gage（古法语：承诺、抵押）",
+    "affixes": ["en-（前缀：使、置于）", "-age（名词/动词后缀）"],
+    "history": "原指“以抵押约束”，后引申为“投入、参与、聘用”等义。"
+  },
+  "related_words": {
+    "engagement": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "参与；订婚；约定；聘用",
+      "rule": "engage 的名词形式",
+      "sentences": [{"en": "She announced her engagement to John.", "zh": "她宣布与约翰订婚。"}]
+    },
+    "engaged": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "忙碌的；已订婚的；投入的",
+      "rule": "engage 的过去分词作形容词",
+      "sentences": [{"en": "The line is engaged. Please try again later.", "zh": "电话占线，请稍后再试。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "engage with the activity",
+      "correct": "engage in the activity",
+      "explain": "参与活动用 engage in；engage with 多接人、思想或话题。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "en-（使）+ gage（承诺）→ 使做出承诺 → 投入、参与、聘用。"
+    }
+  ]
+}

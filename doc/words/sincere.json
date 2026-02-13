@@ -1,0 +1,89 @@
+{
+  "word": "sincere",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/sɪnˈsɪə(r)/",
+    "us": "/sɪnˈsɪr/"
+  },
+  "definitions": [
+    {
+      "translation": "真诚的；诚挚的；真实的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "形容人、感情、意图等真实无伪、发自内心。",
+      "sentences": [
+        {"en": "Please accept my sincere apologies for the inconvenience.", "zh": "请接受我对给您带来不便的诚挚歉意。"},
+        {"en": "She gave a sincere smile when she heard the good news.", "zh": "听到好消息时，她露出了真诚的微笑。"},
+        {"en": "I have sincere respect for his achievements.", "zh": "我由衷敬佩他的成就。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "sincere thanks",
+          "translation": "诚挚的感谢",
+          "pattern": "形容词+名词",
+          "explain": "正式表达感谢",
+          "sentences": [{"en": "Please accept our sincere thanks for your support.", "zh": "请接受我们对您支持的诚挚感谢。"}]
+        },
+        {
+          "collocation": "sincere apologies",
+          "translation": "诚挚的歉意",
+          "pattern": "形容词+名词",
+          "explain": "正式道歉用语",
+          "sentences": [{"en": "I offer my sincere apologies for the delay.", "zh": "我为延误致以诚挚的歉意。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "genuine": {
+          "translation": "真实的；真诚的",
+          "diffs": "genuine 强调非伪造、真实；sincere 更侧重情感或意图的真诚",
+          "sentences": [{"en": "She showed genuine concern for his welfare.", "zh": "她对他的处境表现出真切的关心。"}]
+        }
+      },
+      "antonyms": {
+        "insincere": {"translation": "不真诚的；虚伪的", "diffs": "sincere 的直接反义词"}
+      },
+      "inflections": {
+        "comparative": "more sincere",
+        "superlative": "most sincere"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自拉丁语 sincerus，意为“干净的、纯粹的、未掺假的”。有说法认为源自 sine（无）+ cera（蜡），即“无蜡的”，指未用蜡修补过的；另有说法认为源自单一词根。",
+    "root": "sincer-（纯粹，清洁）",
+    "affixes": ["无典型前缀后缀，为词根词"],
+    "history": "sincerus 原指物质上的纯净，后引申为情感、意图上的真实无伪，即“真诚”。"
+  },
+  "related_words": {
+    "sincerely": {
+      "class": {"en": "adverb", "en_s": "adv.", "ch": "副词"},
+      "translation": "真诚地；诚挚地",
+      "rule": "sincere 的副词形式",
+      "sentences": [{"en": "I sincerely hope you will recover soon.", "zh": "我衷心希望你早日康复。"}]
+    },
+    "sincerity": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "真诚；诚意",
+      "rule": "sincere 的名词形式",
+      "sentences": [{"en": "I doubt his sincerity in making that promise.", "zh": "我怀疑他做出那个承诺的诚意。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "I am sincere to help you",
+      "correct": "I sincerely want to help you / I am sincere in my desire to help you",
+      "explain": "sincere 是形容词，不接不定式；表“真诚想做某事”用 sincerely want to do 或 be sincere in one's desire to do。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词源记忆",
+      "content": "拉丁语 sincerus（纯净的）→ 心灵纯净、无伪装 → 真诚。可与 since 区分：sincere 强调“真心”。"
+    }
+  ]
+}

@@ -1,16 +1,16 @@
 <template>
   <div class="user-page">
-    <van-nav-bar title="个人中心" border fixed placeholder />
+    <van-nav-bar title="Profile" border fixed placeholder />
     
     <div class="content">
       <!-- 用户信息 -->
-      <van-cell-group title="用户信息" class="cell-group-section">
-        <van-cell title="用户名" :value="username">
+      <van-cell-group title="Account" class="cell-group-section">
+        <van-cell title="Username" :value="username">
           <template #icon>
             <van-icon name="user-o" class="cell-icon" />
           </template>
         </van-cell>
-        <van-cell title="注册时间" :value="formatDate(createdAt)" v-if="createdAt">
+        <van-cell title="Registered" :value="formatDate(createdAt)" v-if="createdAt">
           <template #icon>
             <van-icon name="clock-o" class="cell-icon" />
           </template>
@@ -18,9 +18,9 @@
       </van-cell-group>
 
       <!-- 词库设置 -->
-      <van-cell-group title="词库设置" class="cell-group-section">
+      <van-cell-group title="Dictionary" class="cell-group-section">
         <van-cell 
-          title="当前词库" 
+          title="Current Dictionary" 
           :value="currentDict" 
           is-link 
           @click="showDictPicker = true"
@@ -32,20 +32,10 @@
       </van-cell-group>
 
       <!-- 词汇增强 -->
-      <van-cell-group title="词汇增强" class="cell-group-section">
+      <van-cell-group title="Vocabulary" class="cell-group-section">
         <van-cell 
-          title="AI单词录入" 
-          label="使用百炼AI智能查询并录入单词" 
-          is-link 
-          @click="goToImportWord"
-        >
-          <template #icon>
-            <van-icon name="add-o" class="cell-icon" />
-          </template>
-        </van-cell>
-        <van-cell 
-          title="词云例句" 
-          label="由已学单词组成的复杂长难句，强化联想记忆" 
+          title="Word Cloud Sentences" 
+          label="Complex sentences with learned words for memory reinforcement" 
           is-link 
           @click="goToWordCloud"
         >
@@ -58,7 +48,7 @@
       <!-- 退出登录 -->
       <van-cell-group class="cell-group-section">
         <van-cell 
-          title="退出登录" 
+          title="Log Out" 
           is-link 
           @click="logout"
           title-class="logout-text"
@@ -73,7 +63,7 @@
     <!-- 词库选择弹窗 -->
     <van-popup v-model:show="showDictPicker" position="bottom" round>
       <van-picker
-        title="选择词库"
+        title="Select Dictionary"
         :columns="dictColumns"
         @confirm="onDictConfirm"
         @cancel="showDictPicker = false"
@@ -112,7 +102,7 @@ onMounted(() => {
 const formatDate = (dateStr) => {
   if (!dateStr) return ''
   const date = new Date(dateStr)
-  return date.toLocaleDateString('zh-CN')
+  return date.toLocaleDateString('en-US')
 }
 
 const loadDicts = async () => {
@@ -122,8 +112,8 @@ const loadDicts = async () => {
     dicts.value = data
     dictColumns.value = data.map(dict => ({ text: dict.name, value: dict.id }))
   } catch (error) {
-    console.error('加载词库列表失败:', error)
-    showToast(error.response?.data?.message || error.message || '加载词库列表失败')
+    console.error('Failed to load dictionaries:', error)
+    showToast(error.response?.data?.message || error.message || 'Failed to load dictionaries')
   }
 }
 
@@ -132,16 +122,12 @@ const onDictConfirm = async ({ selectedOptions }) => {
   try {
     await updateCurrentDict(newDict)
     showDictPicker.value = false
-    showToast(`已切换至词库: ${newDict}`)
+    showToast(`Switched to: ${newDict}`)
     // 触发全局刷新或通知其他页面
     window.location.reload() 
   } catch (error) {
-    showToast(error.response?.data?.message || error.message || '切换词库失败')
+    showToast(error.response?.data?.message || error.message || 'Switch failed')
   }
-}
-
-const goToImportWord = () => {
-  router.push('/import-word')
 }
 
 const goToWordCloud = () => {
@@ -150,8 +136,8 @@ const goToWordCloud = () => {
 
 const logout = async () => {
   showConfirmDialog({
-    title: '退出登录',
-    message: '确定要退出登录吗？',
+    title: 'Log Out',
+    message: 'Are you sure you want to log out?',
   }).then(() => {
     localStorage.removeItem('auth_token')
     localStorage.removeItem('user_info')

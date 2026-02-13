@@ -1,0 +1,58 @@
+{
+    "word": "yelp",
+    "created_at": "2026-02-13T03:00:00Z",
+    "phonetic": { "uk": "/jelp/", "us": "/jelp/" },
+    "definitions": [
+        {
+            "translation": "尖叫；发出短促的叫声",
+            "partOfSpeech": { "en": "verb", "en_simple": "v.", "ch": "动词" },
+            "usage_note": "动词，可及物也可不及物。指因疼痛、惊吓或惊讶而发出尖锐短促的叫声。常用于人、狗等动物。过去式/过去分词：yelped。",
+            "sentences": [
+                { "en": "The dog yelped when I accidentally stepped on its tail.", "zh": "我不小心踩到狗尾巴时，它尖叫了一声。" },
+                { "en": "She yelped in pain as the needle went in.", "zh": "针扎进去时她痛得尖叫起来。" },
+                { "en": "The child yelped with delight when she saw the presents.", "zh": "看到礼物时，孩子高兴得叫了起来。" }
+            ],
+            "collocations": [
+                { "collocation": "yelp in pain", "translation": "因疼痛尖叫", "sentences": [{ "en": "He yelped in pain when he stubbed his toe.", "zh": "他脚趾撞到时痛得叫了起来。" }] },
+                { "collocation": "yelp with surprise", "translation": "因惊讶尖叫", "sentences": [{ "en": "She yelped with surprise when he jumped out from behind the door.", "zh": "他从门后跳出来时，她惊讶地叫了一声。" }] },
+                { "collocation": "let out a yelp", "translation": "发出一声尖叫", "sentences": [{ "en": "The puppy let out a yelp when the door slammed.", "zh": "门砰地关上时，小狗发出一声尖叫。" }] }
+            ],
+            "phrases": [],
+            "synonyms": {
+                "cry": { "translation": "叫喊；哭", "diffs": "cry 较泛；yelp 特指尖锐、短促的叫声", "sentences": [{ "en": "The baby cried for attention.", "zh": "婴儿哭闹着要人关注。" }] },
+                "shriek": { "translation": "尖声惊叫", "diffs": "shriek 更尖锐、持续时间可能更长；yelp 更短促", "sentences": [{ "en": "She shrieked when she saw the spider.", "zh": "她看见蜘蛛时尖声惊叫。" }] },
+                "squeal": { "translation": "尖叫；发出刺耳叫声", "diffs": "squeal 多指兴奋或惊恐的尖叫；yelp 多与疼痛、惊吓有关", "sentences": [{ "en": "The children squealed with excitement on the roller coaster.", "zh": "孩子们坐过山车时兴奋地尖叫。" }] },
+                "whimper": { "translation": "呜咽；哀鸣", "diffs": "whimper 更低声、更可怜；yelp 更尖锐、突然", "sentences": [{ "en": "The injured animal whimpered quietly.", "zh": "受伤的动物轻声呜咽。" }] }
+            },
+            "antonyms": {},
+            "inflections": { "past_tense": "yelped", "past_participle": "yelped", "present_participle": "yelping", "third_person": "yelps" }
+        },
+        {
+            "translation": "短促的尖叫声",
+            "partOfSpeech": { "en": "noun (countable)", "en_simple": "n.", "ch": "可数名词" },
+            "usage_note": "可数名词。指因疼痛、惊吓或兴奋而发出的尖锐短促的叫声。",
+            "sentences": [
+                { "en": "A yelp came from the kitchen—someone had burned their finger.", "zh": "厨房传来一声尖叫——有人烫伤了手指。" },
+                { "en": "The dog gave a yelp and ran away.", "zh": "狗叫了一声就跑了。" },
+                { "en": "I heard a yelp of pain from the next room.", "zh": "我听到隔壁传来一声痛苦的尖叫。" }
+            ],
+            "collocations": [
+                { "collocation": "a yelp of pain", "translation": "一声痛苦的尖叫", "sentences": [{ "en": "There was a yelp of pain when the door closed on his hand.", "zh": "门夹到他手时传来一声痛苦的尖叫。" }] },
+                { "collocation": "a yelp of surprise", "translation": "一声惊讶的尖叫", "sentences": [{ "en": "She let out a yelp of surprise when the lights went on.", "zh": "灯亮时她发出一声惊讶的尖叫。" }] }
+            ],
+            "phrases": [],
+            "synonyms": {
+                "cry": { "translation": "叫声；喊声", "diffs": "cry 较泛；yelp 特指短促尖锐的叫声", "sentences": [{ "en": "A cry for help came from the alley.", "zh": "巷子里传来求救的喊声。" }] }
+            },
+            "antonyms": {},
+            "inflections": { "plural": "yelps" }
+        }
+    ],
+    "etymology": { "origin": "源自古英语 gielpan（夸耀、吹嘘），词义演变后指尖锐的叫声。可能受拟声影响。", "root": "gielpan（古英语：to boast）", "affixes": [] },
+    "related_words": {
+        "yelping": { "class": { "en": "noun / adjective", "en_s": "n./adj.", "ch": "名词/形容词" }, "translation": "尖叫声；发出尖叫的", "rule": "yelp 的现在分词作名词/形容词", "sentences": [{ "en": "The yelping of the puppies filled the air.", "zh": "小狗们的叫声此起彼伏。" }] }
+    },
+    "idioms": [],
+    "common_mistakes": [{ "wrong": "Yelp (platform) confused with yelp (cry)", "correct": "Context-dependent", "explain": "Yelp 也是美国评论平台名称。作动词/名词指尖叫时与平台无关，需根据语境区分。" }],
+    "mnemonics": [{ "type": "拟声记忆", "content": "yelp 发音近似\"叶——\"的短促叫声，拟声词，易记。" }]
+}

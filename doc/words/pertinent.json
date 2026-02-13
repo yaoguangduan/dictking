@@ -1,0 +1,87 @@
+{
+  "word": "pertinent",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈpɜːtɪnənt/",
+    "us": "/ˈpɜːrtənənt/"
+  },
+  "definitions": [
+    {
+      "translation": "相关的；切题的；恰当的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "用于形容与当前讨论、主题或情况直接相关的事物。常与介词 to 连用。",
+      "sentences": [
+        {"en": "The witness was asked to provide only pertinent information.", "zh": "证人被要求只提供相关信息。"},
+        {"en": "His comments were not pertinent to the discussion at hand.", "zh": "他的评论与当前讨论无关。"},
+        {"en": "Please submit all pertinent documents before the deadline.", "zh": "请在截止日期前提交所有相关文件。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "pertinent to",
+          "translation": "与…相关",
+          "pattern": "形容词+介词",
+          "explain": "最常用搭配，表示与某事物相关",
+          "sentences": [{"en": "The data is pertinent to our research findings.", "zh": "这些数据与我们的研究发现相关。"}]
+        },
+        {
+          "collocation": "pertinent question",
+          "translation": "切题的问题",
+          "pattern": "形容词+名词",
+          "explain": "指直接切中要害的问题",
+          "sentences": [{"en": "That's a very pertinent question we need to address.", "zh": "这是一个我们需要回答的非常切题的问题。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "relevant": {
+          "translation": "相关的",
+          "diffs": "relevant 更常用、更通俗；pertinent 更正式，强调\"切题\"的精准性",
+          "sentences": [{"en": "Relevant experience is required for this position.", "zh": "该职位需要相关经验。"}]
+        }
+      },
+      "antonyms": {
+        "irrelevant": {"translation": "无关的", "diffs": "指与主题或情况无关"},
+        "impertinent": {"translation": "无礼的；不恰当的", "diffs": "impertinent 多指无礼冒犯，亦可指不恰当"}
+      },
+      "inflections": {}
+    }
+  ],
+  "etymology": {
+    "origin": "来自拉丁语 pertinens（持续、延伸），源于 per-（完全）+ tenere（持有，保持），意为\"完全属于\"，引申为\"相关的\"。",
+    "root": "ten-（持有，保持）",
+    "affixes": ["per-（前缀：完全，贯穿）", "-ent（形容词后缀）"],
+    "history": "per- 表\"完全\"，tenere 表\"持有\"，组合后原指\"延伸至\"，后引申为\"与…相关\"。"
+  },
+  "related_words": {
+    "pertinence": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "相关性；切题",
+      "rule": "pertinent 的名词形式",
+      "sentences": [{"en": "The pertinence of his remarks was questioned.", "zh": "他的言论的相关性受到质疑。"}]
+    },
+    "impertinent": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "无礼的；鲁莽的",
+      "rule": "im-（否定）+ pertinent，与 pertinent 词形相近但含义相反",
+      "sentences": [{"en": "It was impertinent of him to ask such personal questions.", "zh": "他问如此私人的问题很无礼。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "pertinent with",
+      "correct": "pertinent to",
+      "explain": "表示\"与…相关\"时，应用 pertinent to，不用 pertinent with。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "per-（完全）+ tin-（tenere 持有）+ -ent → 完全属于的、延伸到的 → 相关的、切题的。"
+    }
+  ]
+}

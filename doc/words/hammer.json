@@ -1,0 +1,134 @@
+{
+  "word": "hammer",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈhæmə(r)/",
+    "us": "/ˈhæmər/"
+  },
+  "definitions": [
+    {
+      "translation": "锤子；榔头",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。一种用于敲击的工具，通常由金属锤头与木柄或塑料柄组成。",
+      "sentences": [
+        {"en": "He picked up the hammer and began nailing the boards.", "zh": "他拿起锤子开始钉木板。"},
+        {"en": "The hammer slipped from his hand and hit the floor.", "zh": "锤子从他手中滑落，砸在地板上。"},
+        {"en": "You'll need a hammer and some nails for this job.", "zh": "干这活你得需要锤子和钉子。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "hammer and sickle",
+          "translation": "锤子与镰刀",
+          "pattern": "名词+连词+名词",
+          "explain": "象征标志",
+          "sentences": [{"en": "The hammer and sickle was the symbol of the Soviet Union.", "zh": "锤子与镰刀曾是苏联的标志。"}]
+        },
+        {
+          "collocation": "under the hammer",
+          "translation": "被拍卖",
+          "pattern": "介词短语",
+          "explain": "拍卖时槌子落下表示成交",
+          "sentences": [{"en": "The antique will go under the hammer next week.", "zh": "这件古董将于下周拍卖。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "mallet": {
+          "translation": "木槌；槌",
+          "diffs": "mallet 多为木制或橡胶头，用于轻敲；hammer 多为金属头",
+          "sentences": [{"en": "The judge tapped the gavel, a type of mallet.", "zh": "法官敲了敲法槌，一种木槌。"}]
+        }
+      },
+      "antonyms": {},
+      "inflections": {
+        "plural": "hammers"
+      }
+    },
+    {
+      "translation": "用锤子敲击；锤打",
+      "partOfSpeech": {
+        "en": "verb",
+        "en_simple": "v.",
+        "ch": "动词"
+      },
+      "usage_note": "及物/不及物动词。hammer sth (in/into/down) 或 hammer (away) at sth。",
+      "sentences": [
+        {"en": "He hammered the nail into the wall.", "zh": "他把钉子锤进墙里。"},
+        {"en": "The workers hammered the metal sheets into shape.", "zh": "工人们把金属板锤成形。"},
+        {"en": "Someone was hammering on the door.", "zh": "有人在使劲敲门。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "hammer out",
+          "translation": "反复商讨达成（协议等）",
+          "pattern": "动词+小品词",
+          "explain": "由“锤打成形”引申为“敲定”",
+          "sentences": [{"en": "The two sides finally hammered out a deal.", "zh": "双方终于敲定了协议。"}]
+        },
+        {
+          "collocation": "hammer home",
+          "translation": "反复强调；使…深入人心",
+          "pattern": "动词+小品词",
+          "explain": "通过重复使观点被理解",
+          "sentences": [{"en": "The coach hammered home the importance of teamwork.", "zh": "教练反复强调团队合作的重要性。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "pound": {"translation": "猛击； pounding", "diffs": "pound 强调力度大；hammer 强调用锤子敲", "sentences": [{"en": "He pounded on the table with his fist.", "zh": "他用拳头猛捶桌子。"}]}
+      },
+      "antonyms": {},
+      "inflections": {
+        "past": "hammered",
+        "past_participle": "hammered",
+        "present_participle": "hammering",
+        "third_person": "hammers"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自古英语 hamor，源自原始日耳曼语 *hamaraz，与锤击的动作相关。",
+    "root": "原始日耳曼语 *hamaraz（石头、锤子）",
+    "affixes": [],
+    "history": "日耳曼语族常见词，可能与“石头”义相关，因早期锤头多用石制。"
+  },
+  "related_words": {
+    "hammered": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "锤打的；锻造的；（口语）醉醺醺的",
+      "rule": "hammer 的过去分词作形容词",
+      "sentences": [{"en": "The hammered copper bowl gleamed in the light.", "zh": "锻打的铜碗在光下闪闪发光。"}]
+    },
+    "hammering": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "锤击；猛烈的敲打",
+      "rule": "hammer 的动名词形式",
+      "sentences": [{"en": "The hammering from the construction site was unbearable.", "zh": "工地上的锤击声让人难以忍受。"}]
+    }
+  },
+  "idioms": [
+    {
+      "idiom": "bring a hammer to crack a nut",
+      "translation": "杀鸡用牛刀；小题大做",
+      "explain": "用锤子去砸坚果，比喻用过分的手段解决小问题",
+      "sentences": [{"en": "Using a supercomputer for this simple calculation is like bringing a hammer to crack a nut.", "zh": "用超级计算机做这么简单的计算，简直是杀鸡用牛刀。"}]
+    }
+  ],
+  "common_mistakes": [
+    {
+      "wrong": "hammer the nail on the wall",
+      "correct": "hammer the nail into the wall",
+      "explain": "钉钉子用 hammer sth into，不用 on。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "联想记忆",
+      "content": "Hammer 发音近似“汉默”，可联想“汉默敲锤”——汉默用锤子敲钉子。"
+    }
+  ]
+}

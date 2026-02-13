@@ -3,19 +3,19 @@
     <div class="search-bar">
       <van-search
         v-model="searchQuery"
-        placeholder="搜索单词..."
+        placeholder="Search words..."
       />
       <van-icon name="setting-o" @click="showSortDialog = true" class="setting-icon" />
     </div>
 
     <div v-if="totalWords > 0" class="word-count-info">
-      共收录 {{ totalWords }} 个单词
+      {{ totalWords }} words
     </div>
 
     <van-list
       v-model:loading="loading"
       :finished="finished"
-      finished-text="没有更多了"
+      finished-text="No more words"
       @load="onLoad"
     >
       <van-cell
@@ -34,33 +34,33 @@
     <!-- 排序设置弹窗 -->
     <van-dialog
       v-model:show="showSortDialog"
-      title="列表顺序"
+      title="Sort Order"
       show-cancel-button
       @confirm="applySortSettings"
     >
       <van-radio-group v-model="sortMethod">
         <van-cell-group>
-          <van-cell title="字母顺序（A-Z）" clickable @click="sortMethod = 'word_asc'">
+          <van-cell title="Alphabetical (A-Z)" clickable @click="sortMethod = 'word_asc'">
             <template #right-icon>
               <van-radio name="word_asc" />
             </template>
           </van-cell>
-          <van-cell title="字母倒序（Z-A）" clickable @click="sortMethod = 'word_desc'">
+          <van-cell title="Alphabetical (Z-A)" clickable @click="sortMethod = 'word_desc'">
             <template #right-icon>
               <van-radio name="word_desc" />
             </template>
           </van-cell>
-          <van-cell title="时间正序（旧→新）" clickable @click="sortMethod = 'time_asc'">
+          <van-cell title="Date (Oldest First)" clickable @click="sortMethod = 'time_asc'">
             <template #right-icon>
               <van-radio name="time_asc" />
             </template>
           </van-cell>
-          <van-cell title="时间倒序（新→旧）" clickable @click="sortMethod = 'time_desc'">
+          <van-cell title="Date (Newest First)" clickable @click="sortMethod = 'time_desc'">
             <template #right-icon>
               <van-radio name="time_desc" />
             </template>
           </van-cell>
-          <van-cell title="乱序（随机）" clickable @click="sortMethod = 'random'">
+          <van-cell title="Random" clickable @click="sortMethod = 'random'">
             <template #right-icon>
               <van-radio name="random" />
             </template>
@@ -131,8 +131,8 @@ const onLoad = async () => {
       page.value++
     }
   } catch (error) {
-    console.error('加载失败:', error)
-    showToast(error.response?.data?.message || error.message || '加载失败')
+    console.error('Load failed:', error)
+    showToast(error.response?.data?.message || error.message || 'Load failed')
     loading.value = false
     finished.value = true
   }
@@ -152,7 +152,7 @@ watch(searchQuery, async (newVal) => {
       })
       searchResults.value = response.data.words || []
     } catch (error) {
-      console.error('搜索失败:', error)
+      console.error('Search failed:', error)
     }
   } else {
     // 搜索框为空

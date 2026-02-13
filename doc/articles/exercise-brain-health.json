@@ -1,0 +1,100 @@
+{
+    "title": "Neuroprotective Mechanisms of Exercise: Fitness for Healthy Brain Ageing",
+    "title_zh": "运动的神经保护机制：健康大脑衰老的体能关键",
+    "author": "The Lancet",
+    "source": "The Lancet",
+    "created_at": "2025-01-01T00:00:00Z",
+    "difficulty": "medium",
+    "tags": ["exercise", "brain health", "cognition", "ageing", "neuroplasticity"],
+    "summary": "Physical inactivity is a key modifiable risk factor for accelerated ageing and dementia, while regular physical activity and high cardiorespiratory fitness can mitigate cognitive impairment and reduce dementia risk. A prospective study of over 30,000 people showed that maintaining or improving fitness was associated with a 40% reduced risk of dementia. Exercise benefits the brain through improved cerebral blood flow, reduced inflammation, enhanced neuroplasticity, and the release of exerkines.",
+    "summary_zh": "缺乏身体活动是加速衰老和痴呆的关键可改变风险因素，而规律的身体活动和高心肺适能可以减轻认知障碍并降低痴呆风险。一项对超过3万人的前瞻性研究表明，维持或改善体能与痴呆风险降低40%相关。运动通过改善脑血流、减少炎症、增强神经可塑性以及释放运动因子来有益于大脑。",
+    "paragraphs": [
+        {
+            "en": "Ageing is associated with cognitive decline and an increased risk of neurodegenerative diseases, such as Alzheimer's disease. Physical inactivity, however, is a key modifiable risk factor for accelerated ageing and dementia. Conversely, physical activity helps counteract structural and functional decline during ageing and is inversely linked to other dementia risk factors, including hypertension, obesity, diabetes, and depression. A meta-analysis revealed that high levels of physical activity reduce the risk of neurodegenerative dementia by 28%.",
+            "zh": "衰老与认知下降以及神经退行性疾病（如阿尔茨海默病）风险增加相关。然而，缺乏身体活动是加速衰老和痴呆的关键可改变风险因素。相反，身体活动有助于抵抗衰老期间的结构和功能衰退，并与高血压、肥胖、糖尿病和抑郁等其他痴呆风险因素呈负相关。一项荟萃分析显示，高水平的身体活动可将神经退行性痴呆的风险降低28%。",
+            "keywords": ["neurodegenerative", "cognitive", "meta-analysis", "hypertension", "inversely"],
+            "notes": [
+                {"phrase": "inversely linked", "explain": "呈负相关，表示一方增加时另一方减少"},
+                {"phrase": "modifiable risk factor", "explain": "可改变的风险因素，指可通过行为干预降低的因素"}
+            ]
+        },
+        {
+            "en": "Cardiorespiratory fitness, a clinical vital sign reflecting the maximal capacity of cardiovascular and respiratory systems to deliver oxygen and nutrition to organs including the brain, is a more robust predictor of longevity than physical activity alone. Although CRF declines with age and inactivity, it can be improved with exercise, and is inversely associated with dementia risk. A prospective study of 30,375 people showed that maintaining or improving CRF over time was associated with a reduced risk of developing dementia by 40% and dementia-related mortality by 44%, underscoring its crucial role in healthy brain ageing.",
+            "zh": "心肺适能是反映心血管和呼吸系统向包括大脑在内的器官输送氧气和营养的最大能力的临床生命体征，它是比单纯身体活动更可靠的寿命预测指标。尽管心肺适能会随年龄增长和缺乏活动而下降，但可以通过运动得到改善，并与痴呆风险呈负相关。一项对30375人的前瞻性研究表明，随着时间的推移维持或改善心肺适能与痴呆发病风险降低40%和痴呆相关死亡率降低44%相关，突显了其在健康大脑衰老中的关键作用。",
+            "keywords": ["cardiorespiratory", "longevity", "mortality", "prospective", "vital"],
+            "notes": [
+                {"phrase": "vital sign", "explain": "生命体征，临床基本指标"},
+                {"phrase": "robust predictor", "explain": "可靠的预测指标，强调预测力强"}
+            ]
+        },
+        {
+            "en": "Adequate cerebral blood flow is important for delivering oxygen, nutrients, neurotrophins, and other factors necessary for brain function. Systematic reviews show that both acute and chronic exercise increase cerebral blood flow in several brain regions, including the hippocampus. Exercise-induced increases in CBF have been observed in both young adults and older adults, correlating with changes in cardiorespiratory fitness. Endurance training in healthy middle-aged to older adults improved CBF and cognitive functions. Proposed mechanisms include increased production of nitric oxide, which supports vascular health, and increased permeability of the blood-brain barrier.",
+            "zh": "充足的脑血流对于向大脑输送氧气、营养素、神经营养因子和其他脑功能所需的因子至关重要。系统综述表明，急性和慢性运动都会增加包括海马体在内的多个脑区的脑血流。在年轻人和老年人中都观察到了运动诱导的脑血流增加，这与心肺适能的变化相关。健康中老年人的耐力训练改善了脑血流和认知功能。提出的机制包括增加一氧化氮的产生以支持血管健康，以及增加血脑屏障的通透性。",
+            "keywords": ["cerebral", "hippocampus", "neurotrophins", "permeability", "endurance"],
+            "notes": [
+                {"phrase": "blood-brain barrier", "explain": "血脑屏障，保护大脑的选择性渗透膜"},
+                {"phrase": "acute and chronic", "explain": "急性和慢性，分别指单次和长期效应"}
+            ]
+        },
+        {
+            "en": "Ageing is associated with a shrinkage in brain regions, such as the hippocampus, which is crucial for learning and memory, and enlargement of the cerebral ventricles. Brain atrophy during normal ageing can be mitigated by exercise, but not uniformly throughout all brain regions. The hippocampus is particularly sensitive to exercise-induced enhancement. A randomised controlled trial showed that one year of moderate-intensity endurance exercise increased hippocampal size and improved spatial memory in older adults. Even short periods of exercise, such as six weeks, were sufficient to enhance hippocampal volume in sedentary adults.",
+            "zh": "衰老与脑区（如对学习和记忆至关重要的海马体）萎缩以及脑室扩大相关。正常衰老期间的脑萎缩可以通过运动得到缓解，但并非所有脑区都均匀受益。海马体对运动诱导的增强特别敏感。一项随机对照试验表明，一年中强度耐力运动增加了老年人的海马体大小并改善了空间记忆。即使是短期的运动，如六周，也足以增强久坐成年人的海马体体积。",
+            "keywords": ["hippocampus", "atrophy", "ventricles", "spatial", "sedentary"],
+            "notes": [
+                {"phrase": "spatial memory", "explain": "空间记忆，指对位置和导航的记忆"},
+                {"phrase": "randomised controlled trial", "explain": "随机对照试验，医学研究的金标准"}
+            ]
+        },
+        {
+            "en": "A hallmark of accelerated ageing is chronic, low-grade inflammation, often termed inflammaging. In the brain, this process involves microglia, the primary immune cells of the brain that when activated can release pro-inflammatory cytokines. Endurance exercise broadly affects immune function, helping reduce chronic, low-grade inflammation by stabilising inflammatory cytokines and improving immune function. Numerous studies have shown an inverse association between increased physical activity and CRF and inflammatory biomarkers in older adults. Exercise also enhances antioxidant capacity.",
+            "zh": "加速衰老的一个标志是慢性、低度炎症，通常称为「炎症老化」。在大脑中，这一过程涉及小胶质细胞——大脑的主要免疫细胞，当被激活时可以释放促炎细胞因子。耐力运动广泛影响免疫功能，通过稳定炎症细胞因子和改善免疫功能来帮助减少慢性、低度炎症。 多项研究表明，老年人体力活动和心肺适能增加与炎症生物标志物之间呈负相关。运动还能增强抗氧化能力。",
+            "keywords": ["inflammaging", "microglia", "cytokines", "antioxidant", "biomarkers"],
+            "notes": [
+                {"phrase": "hallmark of", "explain": "……的标志，指典型特征"},
+                {"phrase": "low-grade inflammation", "explain": "低度炎症，慢性轻度炎症状态"}
+            ]
+        },
+        {
+            "en": "Neuroplasticity is the brain's ability to adapt structurally and functionally to changing demands, supporting learning, cognitive enhancement, and recovery from injury. BDNF is the most studied neurotrophin and a key mediator of synaptic plasticity and neuronal development. BDNF levels decline with age, contributing to synaptic loss, hippocampal atrophy, and cognitive decline. Voluntary running increases BDNF levels in the rodent brain, whereas acute exercise elevates circulating BDNF in humans. Exercise promoted mitochondrial function in neurons via a pathway involving BDNF.",
+            "zh": "神经可塑性是大脑在结构和功能上适应不断变化需求的能力，支持学习、认知增强和损伤后的恢复。BDNF是研究最多的神经营养因子，是突触可塑性和神经元发育的关键中介。BDNF水平随年龄下降，导致突触丧失、海马体萎缩和认知下降。自愿跑动增加了啮齿动物大脑中的BDNF水平，而急性运动则提高了人类循环中的BDNF。运动通过涉及BDNF的通路促进了神经元的线粒体功能。",
+            "keywords": ["neuroplasticity", "BDNF", "synaptic", "mitochondrial", "neurotrophin"],
+            "notes": [
+                {"phrase": "key mediator", "explain": "关键中介，指在过程中起核心作用的分子"},
+                {"phrase": "synaptic plasticity", "explain": "突触可塑性，指突触强度可改变的能力"}
+            ]
+        },
+        {
+            "en": "Exerkines are signalling molecules released in response to exercise that exert their effects via endocrine, paracrine, or autocrine pathways. These molecules are produced by various tissues including muscle (myokines), liver (hepatokines), and adipose tissue (adipokines). Exercise has been shown to increase the permeability of the human blood-brain barrier, allowing more efficient delivery of exerkines to the brain. Irisin, a myokine, can cross the blood-brain barrier to mediate the beneficial effects of exercise on synaptic plasticity, cognition, and the formation of new neurons.",
+            "zh": "运动因子是响应运动释放的信号分子，通过内分泌、旁分泌或自分泌途径发挥其作用。这些分子由包括肌肉（肌因子）、肝脏（肝因子）和脂肪组织（脂肪因子）在内的各种组织产生。研究表明，运动可以增加人血脑屏障的通透性，使运动因子更有效地输送到大脑。鸢尾素是一种肌因子，可以穿过血脑屏障，介导运动对突触可塑性、认知和新神经元形成的有益作用。",
+            "keywords": ["exerkines", "myokines", "irisin", "paracrine", "adipokines"],
+            "notes": [
+                {"phrase": "in response to", "explain": "响应……，作为……的反应"},
+                {"phrase": "cross the blood-brain barrier", "explain": "穿过血脑屏障"}
+            ]
+        },
+        {
+            "en": "Physical activity and cardiorespiratory fitness possess great potential as the most accessible prevention strategies in the global effort to combat age-related cognitive decline. However, there is an incomplete understanding of the determinants of these effects. Future studies should prioritise harmonised study designs across preclinical and clinical settings, using carefully controlled and repeatable exercise protocols. Starting physical activity at any age can provide cognitive benefits, but engaging in regular physical activity early in life offers the most long-term benefits.",
+            "zh": "身体活动和心肺适能作为全球抗击与年龄相关的认知衰退努力中最易获得的预防策略具有巨大潜力。然而，对这些效应决定因素的了解尚不完整。未来的研究应优先考虑在临床前和临床环境中采用统一的研究设计，使用精心控制和可重复的运动方案。在任何年龄开始身体活动都能带来认知益处，但在生命早期进行规律的身体活动能提供最长期的益处。",
+            "keywords": ["accessible", "harmonised", "protocols", "determinants", "preclinical"],
+            "notes": [
+                {"phrase": "possess great potential", "explain": "具有巨大潜力"},
+                {"phrase": "incomplete understanding", "explain": "不完全了解，表示知识空白"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "neurodegenerative", "phonetic": "/ˌnjʊərəʊdɪˈdʒenərətɪv/", "meaning": "神经退行性的", "partOfSpeech": "adj.", "example": "Alzheimer's is a neurodegenerative disease."},
+        {"word": "cardiorespiratory", "phonetic": "/ˌkɑːdiəʊrɪˈspɪrətri/", "meaning": "心肺的", "partOfSpeech": "adj.", "example": "Cardiorespiratory fitness predicts longevity."},
+        {"word": "neuroplasticity", "phonetic": "/ˌnjʊərəʊplæˈstɪsəti/", "meaning": "神经可塑性", "partOfSpeech": "n.", "example": "Neuroplasticity supports learning and recovery."},
+        {"word": "hippocampus", "phonetic": "/ˌhɪpəˈkæmpəs/", "meaning": "海马体", "partOfSpeech": "n.", "example": "The hippocampus is crucial for memory."},
+        {"word": "neurotrophin", "phonetic": "/ˌnjʊərəʊˈtrəʊfɪn/", "meaning": "神经营养因子", "partOfSpeech": "n.", "example": "BDNF is a key neurotrophin."},
+        {"word": "exerkine", "phonetic": "/ˈeksəkaɪn/", "meaning": "运动因子", "partOfSpeech": "n.", "example": "Exerkines are released in response to exercise."},
+        {"word": "myokine", "phonetic": "/ˈmaɪəkaɪn/", "meaning": "肌因子", "partOfSpeech": "n.", "example": "Irisin is a myokine from muscle."},
+        {"word": "inflammaging", "phonetic": "/ɪnˌflæmˈeɪdʒɪŋ/", "meaning": "炎症老化", "partOfSpeech": "n.", "example": "Inflammaging is chronic low-grade inflammation."}
+    ],
+    "discussion_questions": [
+        {"en": "What types of exercise do you find most beneficial for your mental clarity and focus?", "zh": "你发现哪种运动对你的思维清晰和专注最有益？"},
+        {"en": "The article says CRF is a better predictor than activity alone. Why might \"fitness\" matter more than just \"moving\"?", "zh": "文章说心肺适能比单纯活动更能预测。为什么「体能」可能比「动起来」更重要？"},
+        {"en": "How can societies make it easier for people of all ages to maintain cardiorespiratory fitness?", "zh": "社会如何能让所有年龄段的人更容易保持心肺适能？"}
+    ]
+}

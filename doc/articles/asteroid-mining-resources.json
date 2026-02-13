@@ -1,0 +1,81 @@
+{
+    "title": "The Cosmic Gold Rush: Asteroid Mining and the Race for Space Resources",
+    "title_zh": "宇宙淘金热：小行星采矿与太空资源竞逐",
+    "author": "William Steigerwald",
+    "source": "NASA / Multiple sources",
+    "created_at": "2025-08-15T12:00:00Z",
+    "difficulty": "hard",
+    "tags": ["asteroid mining", "space resources", "NASA", "Psyche", "commercial space"],
+    "summary": "Asteroids could one day be a vast new source of scarce materials, from water and organic compounds to precious metals like platinum and gold. NASA's OSIRIS-REx and Psyche missions, along with private ventures like AstroForge and China's Tianwen-2, are pioneering the technologies needed to explore and eventually exploit these cosmic leftovers. Legal frameworks like the Artemis Accords are establishing how extracted space resources may be owned.",
+    "summary_zh": "小行星有一天可能成为稀缺材料的巨大新来源，从水和有机化合物到铂和金等贵金属。NASA的OSIRIS-REx和Psyche任务，以及AstroForge和中国天问二号等私营企业，正在开创探索并最终开发这些宇宙遗留物所需的技术。阿尔忒弥斯协定等法律框架正在确立如何拥有开采的太空资源。",
+    "paragraphs": [
+        {
+            "en": "Over the last hundred years, the human population has exploded from about 1.5 billion to more than eight billion, driving an ever-increasing demand for resources. Asteroids could one day be a vast new source of scarce material if the financial and technological obstacles can be overcome. Asteroids are lumps of metals, rock and dust, sometimes laced with ices and tar, which are the cosmic \"leftovers\" from the solar system's formation about 4.5 billion years ago.",
+            "zh": "在过去一百年里，人口从约15亿猛增到超过80亿，推动了对资源的不断增长的需求。如果能够克服财务和技术障碍，小行星有一天可能成为稀缺材料的巨大新来源。小行星是由金属、岩石和尘埃组成的块状物，有时含有冰和焦油，它们是约45亿年前太阳系形成时的宇宙\"遗留物\"。",
+            "keywords": ["obstacles", "leftovers", "formation", "scarce"],
+            "notes": [
+                {"phrase": "cosmic leftovers", "explain": "宇宙遗留物，指太阳系形成时未被并入行星的小天体"},
+                {"phrase": "laced with", "explain": "掺杂着、含有，指混合物中包含某种成分"}
+            ]
+        },
+        {
+            "en": "There are different kinds of asteroids, grouped into three classes based on their spectral type. Dark, carbon-rich \"C-type\" asteroids have high abundances of water bound up as hydrated clay minerals. \"Water is a critical life-support item for a spacefaring civilization, and it takes a lot of energy to launch it into space,\" says Dante Lauretta, principal investigator for NASA's OSIRIS-REx mission. \"You could have fuel depots out there where you're mining these asteroids—break water into hydrogen and oxygen, and that becomes rocket fuel.\"",
+            "zh": "小行星根据光谱类型分为三类。黑暗、富含碳的\"C型\"小行星含有大量以水合粘土矿物形式存在的水。\"水是航天文明的生命支持关键物品，将其发射到太空需要大量能量\"，NASA OSIRIS-REx任务首席研究员丹特·劳雷塔说。\"你可以在那里建立燃料补给站，开采这些小行星——将水分解为氢和氧，那就是火箭燃料。\"",
+            "keywords": ["spectral type", "hydrated", "fuel depots", "spacefaring"],
+            "notes": [
+                {"phrase": "spectral type", "explain": "光谱类型，根据天体反射光的特征进行的分类"},
+                {"phrase": "fuel depots", "explain": "燃料补给站，在太空中为航天器提供燃料的设施"}
+            ]
+        },
+        {
+            "en": "Brighter \"S-type\" asteroids have a stony composition with little water but contain a significant fraction of metal—mostly iron, nickel and cobalt—plus trace elements like gold, platinum and rhodium. A small, 10-meter S-type asteroid contains about 650,000 kilograms of metal, with about 50 kilograms in the form of rare metals. Metallic \"M-class\" asteroids may have about ten times more metal. A single metal-rich asteroid like 16 Psyche is speculatively valued at $10,000 quadrillion.",
+            "zh": "较亮的\"S型\"小行星具有岩石成分，水分很少，但含有大量金属——主要是铁、镍和钴——以及金、铂和铑等微量元素。一颗直径10米的小型S型小行星含有约65万公斤金属，其中约50公斤为稀有金属。金属质的\"M级\"小行星的金属含量可能是其十倍。像灵神星这样的单颗富含金属的小行星，推测价值达10千万亿美元。",
+            "keywords": ["trace elements", "speculatively", "quadrillion", "composition"],
+            "notes": [
+                {"phrase": "trace elements", "explain": "微量元素，含量很少但对经济价值重要的元素"},
+                {"phrase": "16 Psyche", "explain": "灵神星，一颗富含金属的小行星，NASA Psyche任务的目标"}
+            ]
+        },
+        {
+            "en": "NASA's OSIRIS-REx mission successfully delivered 4.29 ounces of material from asteroid Bennu to Earth in 2023, proving that sample collection from asteroids is feasible. The Psyche spacecraft, launched in 2023, will reach the metal-rich asteroid 16 Psyche by 2026. China's Tianwen-2 mission, launched in May 2025, will collect samples from near-Earth asteroid Kamoʻoalewa in 2026, with Earth return planned for 2027.",
+            "zh": "NASA的OSIRIS-REx任务于2023年成功将从小行星本努采集的4.29盎司物质送回地球，证明了从小行星采集样本是可行的。2023年发射的Psyche航天器将于2026年抵达富含金属的小行星灵神星。中国于2025年5月发射的天问二号任务将于2026年从近地小行星 Kamoʻoalewa采集样本，计划2027年返回地球。",
+            "keywords": ["feasible", "near-Earth", "sample collection", "rendezvous"],
+            "notes": [
+                {"phrase": "near-Earth asteroid", "explain": "近地小行星，轨道接近地球的小行星，相对容易到达"},
+                {"phrase": "rendezvous", "explain": "交会，航天器与目标天体相遇的机动"}
+            ]
+        },
+        {
+            "en": "Private companies are entering the race. AstroForge earned the first-ever FCC deep-space license in late 2024 and launched its Odin probe in early 2025 to survey a near-Earth asteroid. Its larger Vestri spacecraft may attempt the first private asteroid landing later in 2025. The 2015 Commercial Space Launch Competitiveness Act legalized private ownership of extracted space resources in the U.S., with Luxembourg and the Artemis Accords following suit.",
+            "zh": "私营公司正在加入竞争。AstroForge在2024年底获得了有史以来第一个FCC深空许可证，并于2025年初发射了奥丁探测器以勘察一颗近地小行星。其更大的Vestri航天器可能在2025年下半年尝试首次私营小行星着陆。2015年《商业航天发射竞争力法案》在美国将开采的太空资源的私人所有权合法化，卢森堡和阿尔忒弥斯协定也相继跟进。",
+            "keywords": ["legalized", "Artemis Accords", "survey", "extracted"],
+            "notes": [
+                {"phrase": "Artemis Accords", "explain": "阿尔忒弥斯协定，NASA主导的多国太空探索合作框架"},
+                {"phrase": "extracted space resources", "explain": "开采的太空资源，从天体上获取的物质"}
+            ]
+        },
+        {
+            "en": "However, it currently costs hundreds of millions to billions of dollars to build and launch a space mission, so innovations that would make these costs fall dramatically are needed before it is profitable to mine asteroids for their metals alone. \"The mission will be a proof-of-concept—can you go to an asteroid, get material, and bring it back to Earth,\" said Lauretta. \"Next, people will have to industrialize it so that the economy works out.\"",
+            "zh": "然而，目前建造和发射太空任务需要数亿至数十亿美元，因此需要创新使这些成本大幅下降，才能仅靠开采小行星金属实现盈利。\"该任务将是一个概念验证——你能去小行星、获取材料并带回地球吗\"，劳雷塔说。\"接下来，人们必须将其工业化，使经济上可行。\"",
+            "keywords": ["proof-of-concept", "industrialize", "profitable", "innovations"],
+            "notes": [
+                {"phrase": "proof-of-concept", "explain": "概念验证，证明某项技术或想法可行的初步演示"},
+                {"phrase": "the economy works out", "explain": "经济上可行，指商业上能够盈利"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "spectral", "phonetic": "/ˈspektrəl/", "meaning": "光谱的", "partOfSpeech": "adj.", "example": "Spectral analysis reveals the asteroid's composition."},
+        {"word": "hydrated", "phonetic": "/ˈhaɪdreɪtɪd/", "meaning": "含水的；水合的", "partOfSpeech": "adj.", "example": "Hydrated clay minerals contain bound water."},
+        {"word": "feasible", "phonetic": "/ˈfiːzəbl/", "meaning": "可行的；可能的", "partOfSpeech": "adj.", "example": "Asteroid mining is becoming technologically feasible."},
+        {"word": "speculative", "phonetic": "/ˈspekjələtɪv/", "meaning": "推测的；投机的", "partOfSpeech": "adj.", "example": "The value of asteroid resources is highly speculative."},
+        {"word": "rendezvous", "phonetic": "/ˈrɒndeɪvuː/", "meaning": "会合；交会", "partOfSpeech": "n.", "example": "The spacecraft will rendezvous with the asteroid in 2026."},
+        {"word": "industrialize", "phonetic": "/ɪnˈdʌstriəlaɪz/", "meaning": "使工业化；大规模生产", "partOfSpeech": "v.", "example": "Space mining must be industrialized to become profitable."},
+        {"word": "extract", "phonetic": "/ɪkˈstrækt/", "meaning": "提取；开采", "partOfSpeech": "v.", "example": "Companies aim to extract metals from asteroids."}
+    ],
+    "discussion_questions": [
+        {"en": "What are the main obstacles—technological and economic—to making asteroid mining profitable?", "zh": "使小行星采矿盈利面临哪些主要的技术和经济障碍？"},
+        {"en": "Why might water from C-type asteroids be more valuable for space exploration than precious metals?", "zh": "为什么C型小行星上的水对太空探索可能比贵金属更有价值？"},
+        {"en": "How do international agreements like the Artemis Accords shape the future of space resource extraction?", "zh": "像阿尔忒弥斯协定这样的国际协议如何塑造太空资源开采的未来？"}
+    ]
+}

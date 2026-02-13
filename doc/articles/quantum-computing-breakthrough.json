@@ -1,0 +1,81 @@
+{
+    "title": "Amazon Says Its New Quantum Computing Chip Will Make Error Correction More Efficient",
+    "title_zh": "亚马逊称其新型量子计算芯片将使纠错更高效",
+    "author": "Emma Roth",
+    "source": "The Verge",
+    "created_at": "2025-02-27",
+    "difficulty": "hard",
+    "tags": ["quantum computing", "Amazon", "Ocelot", "error correction", "technology"],
+    "summary": "Amazon Web Services has launched the Ocelot quantum computing chip, which uses built-in \"cat qubits\" to reduce quantum error correction costs by up to 90 percent. The breakthrough addresses one of the industry's biggest challenges: the sensitivity of qubits to environmental noise.",
+    "summary_zh": "亚马逊网络服务发布了Ocelot量子计算芯片，该芯片使用内置\"猫比特\"可将量子纠错成本降低高达90%。这一突破解决了行业最大的挑战之一：量子比特对环境噪声的敏感性。",
+    "paragraphs": [
+        {
+            "en": "Amazon is making its foray into quantum computing with the launch of a new chip designed to make quantum error correction more efficient. In an announcement on Thursday, Amazon Web Services (AWS) said the chip, called Ocelot, can \"reduce the costs of implementing quantum error correction by up to 90%, compared to current approaches.\"",
+            "zh": "亚马逊正在通过推出一款旨在使量子纠错更高效的新型芯片进军量子计算领域。在周四的公告中，亚马逊网络服务（AWS）表示，这款名为Ocelot的芯片\"与当前方法相比，可将实施量子纠错的成本降低高达90%\"。",
+            "keywords": ["foray", "quantum computing", "error correction", "Ocelot", "efficient"],
+            "notes": [
+                {"phrase": "make one's foray into", "explain": "进军；初次涉足某领域"},
+                {"phrase": "up to 90%", "explain": "高达90%；up to 表示最多、最高达"}
+            ]
+        },
+        {
+            "en": "Quantum computing errors are one of the biggest challenges in the industry. Unlike traditional computers, quantum computing replaces binary 1s and 0s with qubits, a unit that can exist in multiple states at the same time. As noted by Amazon, qubits are \"sensitive to the smallest changes, or 'noise' in their environment,\" such as vibrations, heat, and electromagnetic interference.",
+            "zh": "量子计算误差是该行业最大的挑战之一。与传统计算机不同，量子计算用量子比特取代了二进制的1和0，量子比特是可以同时存在于多种状态的单位。正如亚马逊所指出的，量子比特\"对环境中最微小的变化或'噪声'非常敏感\"，如振动、热量和电磁干扰。",
+            "keywords": ["qubits", "binary", "noise", "electromagnetic", "sensitive"],
+            "notes": [
+                {"phrase": "binary 1s and 0s", "explain": "二进制的1和0；传统计算机的基本单位"},
+                {"phrase": "electromagnetic interference", "explain": "电磁干扰；缩写为EMI"}
+            ]
+        },
+        {
+            "en": "Instead of adding more qubits to correct these errors, Amazon built error correction into its Ocelot chip with what it calls \"cat qubits\" (named after the Schrödinger's cat experiment). These qubits are supposed to reduce the amount of energy and resources used for quantum error correction as they \"intrinsically suppress\" certain kinds of errors.",
+            "zh": "亚马逊没有通过增加更多量子比特来纠正这些错误，而是在其Ocelot芯片中内置了纠错功能，使用其所谓的\"猫比特\"（以薛定谔的猫实验命名）。这些量子比特据说可以\"从本质上抑制\"某些类型的错误，从而减少用于量子纠错所需的能源和资源。",
+            "keywords": ["cat qubits", "Schrödinger", "intrinsically", "suppress", "resources"],
+            "notes": [
+                {"phrase": "named after", "explain": "以...命名；源于"},
+                {"phrase": "intrinsically suppress", "explain": "从本质上抑制；intrinsically 表示 inherently"}
+            ]
+        },
+        {
+            "en": "\"We didn't take an existing architecture and then try to incorporate error correction afterwards,\" Oskar Painter, Amazon Web Services' director of quantum hardware, said in the press release. \"We selected our qubit and architecture with quantum error correction as the top requirement.\"",
+            "zh": "亚马逊网络服务量子硬件总监奥斯卡·佩因特在新闻稿中表示：\"我们不是采用现有架构然后试图事后加入纠错功能。我们选择量子比特和架构时，将量子纠错作为最高要求。\"",
+            "keywords": ["architecture", "incorporate", "press release", "top requirement", "selected"],
+            "notes": [
+                {"phrase": "incorporate", "explain": "纳入；合并；incorporate A into B"},
+                {"phrase": "top requirement", "explain": "最高要求；首要条件"}
+            ]
+        },
+        {
+            "en": "The approach differs from what Google and Microsoft are doing to reduce errors in quantum computing. In December, Google announced its Willow quantum computing chip, which can perform a computing challenge in less than five minutes. Microsoft recently announced its Majorana 1 quantum computing processor, which it claims can \"scale to a million qubits on a single chip\" while reducing errors.",
+            "zh": "这种方法与谷歌和微软减少量子计算错误的方法不同。12月，谷歌发布了其Willow量子计算芯片，该芯片可以在不到五分钟内完成一项计算挑战。微软最近发布了其Majorana 1量子计算处理器，声称可以\"在单个芯片上扩展到一百万个量子比特\"，同时减少错误。",
+            "keywords": ["Willow", "Majorana", "scale", "processor", "approach"],
+            "notes": [
+                {"phrase": "scale to", "explain": "扩展到；scale 作动词表示扩大规模"},
+                {"phrase": "computing challenge", "explain": "计算挑战；衡量量子计算机性能的测试"}
+            ]
+        },
+        {
+            "en": "Amazon says its Ocelot chip is still a prototype, but the chip's more efficient architecture could potentially allow for smaller quantum computers that use less resources. This represents a significant step toward practical, commercially viable quantum computing.",
+            "zh": "亚马逊表示，其Ocelot芯片仍处于原型阶段，但该芯片更高效的架构可能会使量子计算机更小、消耗更少资源。这代表了向实用化、商业化量子计算迈出的重要一步。",
+            "keywords": ["prototype", "architecture", "viable", "commercially", "resources"],
+            "notes": [
+                {"phrase": "allow for", "explain": "使...成为可能；允许"},
+                {"phrase": "commercially viable", "explain": "商业上可行的；有商业价值的"}
+            ]
+        }
+    ],
+    "vocabulary": [
+        {"word": "foray", "phonetic": "/ˈfɔːreɪ/", "meaning": "初步尝试；突击", "partOfSpeech": "n.", "example": "Amazon is making its foray into quantum computing."},
+        {"word": "qubit", "phonetic": "/ˈkjuːbɪt/", "meaning": "量子比特", "partOfSpeech": "n.", "example": "Qubits can exist in multiple states at the same time."},
+        {"word": "suppress", "phonetic": "/səˈpres/", "meaning": "抑制；压制", "partOfSpeech": "v.", "example": "Cat qubits intrinsically suppress certain kinds of errors."},
+        {"word": "incorporate", "phonetic": "/ɪnˈkɔːpəreɪt/", "meaning": "纳入；合并", "partOfSpeech": "v.", "example": "We didn't try to incorporate error correction afterwards."},
+        {"word": "prototype", "phonetic": "/ˈprəʊtətaɪp/", "meaning": "原型；雏形", "partOfSpeech": "n.", "example": "The Ocelot chip is still a prototype."},
+        {"word": "viable", "phonetic": "/ˈvaɪəbl/", "meaning": "可行的；能生存的", "partOfSpeech": "adj.", "example": "This is a step toward commercially viable quantum computing."},
+        {"word": "intrinsic", "phonetic": "/ɪnˈtrɪnsɪk/", "meaning": "内在的；本质的", "partOfSpeech": "adj.", "example": "The qubits intrinsically suppress certain errors."}
+    ],
+    "discussion_questions": [
+        {"en": "How might advances in quantum error correction change the timeline for practical quantum computers?", "zh": "量子纠错方面的进步可能如何改变实用量子计算机的时间表？"},
+        {"en": "What are the implications of different tech giants pursuing different quantum computing approaches?", "zh": "不同科技巨头采用不同量子计算方法有什么影响？"},
+        {"en": "Why is error correction considered the central challenge in quantum computing?", "zh": "为什么纠错被认为是量子计算的核心挑战？"}
+    ]
+}

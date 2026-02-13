@@ -9,26 +9,26 @@
         <van-field
           v-model="username"
           name="username"
-          label="用户名"
-          placeholder="请输入用户名"
-          :rules="[{ required: true, message: '请输入用户名' }]"
+          label="Username"
+          placeholder="Enter username"
+          :rules="[{ required: true, message: 'Please enter username' }]"
         />
         <van-field
           v-model="password"
           type="password"
           name="password"
-          label="密码"
-          placeholder="请输入密码"
-          :rules="[{ required: true, message: '请输入密码' }]"
+          label="Password"
+          placeholder="Enter password"
+          :rules="[{ required: true, message: 'Please enter password' }]"
         />
       </van-cell-group>
 
       <div class="login-actions">
         <van-button block type="primary" native-type="submit" :loading="loading">
-          登录
+          Sign In
         </van-button>
         <van-button block plain type="primary" @click="goRegister" style="margin-top: 12px;">
-          注册账号
+          Sign Up
         </van-button>
       </div>
     </van-form>
@@ -61,11 +61,11 @@ const onSubmit = async () => {
     // 直接设置用户信息到 store
     setUserInfo(user);
     
-    showToast('登录成功');
+    showToast('Login successful');
     router.replace('/');
   } catch (error: any) {
     console.error('Login error:', error);
-    showToast(error.response?.data?.message || error.message || '登录失败');
+    showToast(error.response?.data?.message || error.message || 'Login failed');
   } finally {
     loading.value = false;
   }

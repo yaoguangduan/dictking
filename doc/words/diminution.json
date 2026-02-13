@@ -1,0 +1,94 @@
+{
+  "word": "diminution",
+  "created_at": "2026-02-12T08:00:00.000Z",
+  "phonetic": {
+    "uk": "/ˌdɪmɪˈnjuːʃn/",
+    "us": "/ˌdɪmɪˈnuːʃn/"
+  },
+  "definitions": [
+    {
+      "translation": "减少；缩减；缩小",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "正式用语。可数或不可数。指数量、程度、规模等的减少。",
+      "sentences": [
+        {"en": "There has been a gradual diminution in the population of the region.", "zh": "该地区人口逐渐减少。"},
+        {"en": "The diminution of natural resources is a serious concern.", "zh": "自然资源的减少是一个严重问题。"},
+        {"en": "The treaty led to a diminution of military tensions.", "zh": "该条约导致军事紧张局势的缓和。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "diminution in",
+          "translation": "在…方面的减少",
+          "pattern": "名词+介词",
+          "explain": "常用搭配",
+          "sentences": [{"en": "We observed a diminution in the number of complaints.", "zh": "我们观察到投诉数量有所减少。"}]
+        },
+        {
+          "collocation": "diminution of",
+          "translation": "…的减少",
+          "pattern": "名词+介词",
+          "explain": "正式用法",
+          "sentences": [{"en": "The diminution of funds forced the project to stop.", "zh": "资金的减少迫使项目中止。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "reduction": {
+          "translation": "减少；缩减",
+          "diffs": "reduction 较通用；diminution 更正式、书面",
+          "sentences": [{"en": "The company announced a reduction in staff.", "zh": "公司宣布裁员。"}]
+        },
+        "decrease": {
+          "translation": "减少；下降",
+          "diffs": "decrease 较口语化；diminution 多用于正式文体",
+          "sentences": [{"en": "There was a decrease in sales last quarter.", "zh": "上一季度销售额有所下降。"}]
+        }
+      },
+      "antonyms": {
+        "increase": {"translation": "增加", "diffs": "指数量或程度的上升"},
+        "augmentation": {"translation": "增加；扩大", "diffs": "正式用语，与 diminution 相对"}
+      },
+      "inflections": {
+        "plural": "diminutions"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "来自古法语 diminution，源自拉丁语 diminutio，由 dis-（加强）+ minuere（减少）构成。",
+    "root": "minu-（小、减少，来自拉丁语 minuere）",
+    "affixes": ["dis-（前缀：分开、加强）", "-tion（名词后缀）"],
+    "history": "minuere 意为“使变小、减少”，与 minus（更少）、minor（较小的）同根。diminution 经法语传入英语。"
+  },
+  "related_words": {
+    "diminish": {
+      "class": {"en": "verb", "en_s": "v.", "ch": "动词"},
+      "translation": "减少；缩小；削弱",
+      "rule": "diminution 的动词形式",
+      "sentences": [{"en": "The pain will diminish over time.", "zh": "疼痛会随时间逐渐减轻。"}]
+    },
+    "diminutive": {
+      "class": {"en": "adjective", "en_s": "adj.", "ch": "形容词"},
+      "translation": "极小的；小型的",
+      "rule": "同根词，指“小的”",
+      "sentences": [{"en": "She has a diminutive figure.", "zh": "她身材娇小。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "diminution of the number",
+      "correct": "diminution in the number / a decrease in the number",
+      "explain": "diminution in 用于“在某方面的减少”；若用 diminution of，后面多接表示被减少之物本身的名词，如 diminution of resources。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "di-（加强）+ minu-（小、少）+ -tion（名词）→ 使其变少 → 减少。同根词：diminish（减少）、minus（减、负）。"
+    }
+  ]
+}

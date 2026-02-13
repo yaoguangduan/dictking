@@ -1,0 +1,249 @@
+{
+    "word": "epitomize",
+    "created_at": "2026-02-13T02:00:00Z",
+    "phonetic": {
+        "uk": "/ɪˈpɪtəmaɪz/",
+        "us": "/ɪˈpɪtəmaɪz/"
+    },
+    "definitions": [
+        {
+            "translation": "是…的典范；集中体现；概括",
+            "partOfSpeech": {
+                "en": "verb",
+                "en_simple": "v.",
+                "ch": "动词"
+            },
+            "usage_note": "及物动词。表示成为某事物的完美典型或集中体现。常用于 epitomize sth，无进行时态。过去式/过去分词：epitomized（美）/ epitomised（英）；现在分词：epitomizing/epitomising。",
+            "sentences": [
+                {
+                    "en": "She epitomizes elegance and grace.",
+                    "zh": "她是优雅与风度的典范。"
+                },
+                {
+                    "en": "This small town epitomizes traditional American values.",
+                    "zh": "这座小镇集中体现了传统美国价值观。"
+                },
+                {
+                    "en": "His career epitomizes the American dream.",
+                    "zh": "他的职业生涯是「美国梦」的最佳写照。"
+                },
+                {
+                    "en": "The painting epitomizes the artist's late period.",
+                    "zh": "这幅画概括了该艺术家晚期风格的精髓。"
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "epitomize sth",
+                    "translation": "成为…的典范；集中体现…",
+                    "sentences": [
+                        {
+                            "en": "The cathedral epitomizes Gothic architecture.",
+                            "zh": "这座大教堂是哥特式建筑的典范。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "epitomize the spirit of",
+                    "translation": "体现了…的精神",
+                    "sentences": [
+                        {
+                            "en": "Her courage epitomizes the spirit of the pioneers.",
+                            "zh": "她的勇气体现了开拓者的精神。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "epitomize an era",
+                    "translation": "代表/概括一个时代",
+                    "sentences": [
+                        {
+                            "en": "The film epitomizes the glamour of Hollywood's golden age.",
+                            "zh": "这部电影代表了好莱坞黄金时代的魅力。"
+                        }
+                    ]
+                },
+                {
+                    "collocation": "epitomize excellence",
+                    "translation": "是卓越的化身",
+                    "sentences": [
+                        {
+                            "en": "This product epitomizes excellence in design.",
+                            "zh": "这款产品是设计卓越的典范。"
+                        }
+                    ]
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "be epitomized by",
+                    "translation": "以…为典型代表；集中体现于…",
+                    "sentences": [
+                        {
+                            "en": "The era was epitomized by rapid technological change.",
+                            "zh": "那个时代以快速的技术变革为典型特征。"
+                        }
+                    ]
+                }
+            ],
+            "synonyms": {
+                "embody": {
+                    "translation": "体现；使具体化",
+                    "diffs": "embody 强调将抽象概念具象化；epitomize 强调成为完美典型或最佳代表",
+                    "sentences": [
+                        {
+                            "en": "The constitution embodies the nation's founding principles.",
+                            "zh": "宪法体现了国家的立国原则。"
+                        }
+                    ]
+                },
+                "exemplify": {
+                    "translation": "例证；是…的例证",
+                    "diffs": "exemplify 强调举例说明；epitomize 强调是最典型的代表",
+                    "sentences": [
+                        {
+                            "en": "Her work exemplifies the best in modern design.",
+                            "zh": "她的作品是现代设计中的典范。"
+                        }
+                    ]
+                },
+                "represent": {
+                    "translation": "代表",
+                    "diffs": "represent 较通用；epitomize 程度更强，指\"最典型地代表\"",
+                    "sentences": [
+                        {
+                            "en": "He represents the younger generation's views.",
+                            "zh": "他代表年轻一代的观点。"
+                        }
+                    ]
+                },
+                "typify": {
+                    "translation": "象征；是…的典型",
+                    "diffs": "typify 与 epitomize 接近，均可指典型代表；typify 稍偏\"具有某类特征\"",
+                    "sentences": [
+                        {
+                            "en": "Such attitudes typify the conservative approach.",
+                            "zh": "这种态度是保守做法的典型。"
+                        }
+                    ]
+                }
+            },
+            "antonyms": {
+                "contradict": {
+                    "translation": "与…矛盾；反驳",
+                    "diffs": "epitomize 意为\"完美代表\"；contradict 意为与之相反或相悖",
+                    "sentences": [
+                        {
+                            "en": "His actions contradict his words.",
+                            "zh": "他的行为与他的言语相矛盾。"
+                        }
+                    ]
+                },
+                "belie": {
+                    "translation": "与…不符；使人对…产生错觉",
+                    "diffs": "epitomize 是正面典型；belie 表示外表与实质不符，形成对比",
+                    "sentences": [
+                        {
+                            "en": "His calm demeanor belies his nervousness.",
+                            "zh": "他平静的外表掩盖了他的紧张。"
+                        }
+                    ]
+                }
+            },
+            "inflections": {
+                "past_tense": "epitomized",
+                "past_participle": "epitomized",
+                "present_participle": "epitomizing",
+                "third_person": "epitomizes"
+            }
+        }
+    ],
+    "etymology": {
+        "origin": "来自希腊语 epitomē（摘要、梗概），源自 epitemnein（削短、扼要），由 epi-（在…之上）+ temnein（切割）构成。",
+        "root": "epi-（upon）+ temnein（to cut）",
+        "affixes": [
+            "epi-（希腊语前缀：在…之上）",
+            "temnein（希腊语：切割）",
+            "-ize（动词后缀：使…化）"
+        ]
+    },
+    "related_words": {
+        "epitome": {
+            "class": {
+                "en": "noun",
+                "en_s": "n.",
+                "ch": "名词"
+            },
+            "translation": "典范；缩影；典型代表；梗概",
+            "rule": "epitomize 的名词形式，来自同一希腊语源",
+            "sentences": [
+                {
+                    "en": "She is the epitome of elegance.",
+                    "zh": "她是优雅的典范。"
+                },
+                {
+                    "en": "The village is an epitome of rural life.",
+                    "zh": "这个村庄是乡村生活的缩影。"
+                }
+            ]
+        },
+        "epitomization": {
+            "class": {
+                "en": "noun",
+                "en_s": "n.",
+                "ch": "名词"
+            },
+            "translation": "典型化；集中体现",
+            "rule": "epitomize 的名词化形式",
+            "sentences": [
+                {
+                    "en": "The epitomization of virtue in a single character.",
+                    "zh": "美德在单个人物身上的集中体现。"
+                }
+            ]
+        },
+        "epitomise": {
+            "class": {
+                "en": "verb",
+                "en_s": "v.",
+                "ch": "动词"
+            },
+            "translation": "同 epitomize（英式拼写）",
+            "rule": "epitomize 的英式拼写，-ise 为英式动词后缀",
+            "sentences": [
+                {
+                    "en": "She epitomises British reserve.",
+                    "zh": "她是英国式含蓄的典范。"
+                }
+            ]
+        }
+    },
+    "idioms": [],
+    "common_mistakes": [
+        {
+            "wrong": "epitomize (pronounced /ˈepɪtəmaɪz/)",
+            "correct": "epitomize (pronounced /ɪˈpɪtəmaɪz/)",
+            "explain": "重音在第二个音节 pit 上，不在第一个音节。常与 epitome /ɪˈpɪtəmi/ 混淆，epitome 也是第二音节重读。"
+        },
+        {
+            "wrong": "epitomize as",
+            "correct": "epitomize",
+            "explain": "epitomize 为及物动词，直接接宾语，无需 as。正确用法：epitomize sth，而非 epitomize as sth。"
+        },
+        {
+            "wrong": "epitomize with",
+            "correct": "epitomize",
+            "explain": "epitomize 直接接所代表的事物作宾语，不用 with。被动语态用 be epitomized by。"
+        }
+    ],
+    "mnemonics": [
+        {
+            "type": "词源记忆",
+            "content": "epi-（在…之上）+ temnein（切）→ 切出精华、摘要 → 成为典型、概括精髓。epitome 是名词\"典范\"，epitomize 即\"使成为典范\"。"
+        },
+        {
+            "type": "联想记忆",
+            "content": "epitomize ≈ \"是…的 epitome（典范）\"。epitome 是名词，加 -ize 变动词。"
+        }
+    ]
+}

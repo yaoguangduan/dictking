@@ -1,0 +1,57 @@
+{
+    "title": "Critics Are Wrong About AI Art: The Debate Over Creativity and Automation",
+    "title_zh": "批评者误解了AI艺术：关于创造力与自动化的辩论",
+    "author": "The Atlantic",
+    "source": "The Atlantic",
+    "created_at": "2024-09-15",
+    "difficulty": "medium",
+    "tags": ["artificial intelligence", "art", "creativity", "automation", "debate"],
+    "summary": "The debate over whether AI can create genuine art centers on fundamental disagreements about creativity. Science fiction writer Ted Chiang argues AI lacks intentional choices, while critics counter that his framework is too limiting and ignores how artists have historically used tools.",
+    "summary_zh": "关于AI能否创作真正艺术的辩论，围绕对创造力的根本分歧展开。科幻作家姜峯楠认为AI缺乏有意识的选择，而批评者则反驳称他的框架过于狭隘，忽略了艺术家历来如何使用工具。",
+    "paragraphs": [
+        {
+            "en": "The debate over whether AI can create genuine art centers on fundamental disagreements about creativity itself. Science fiction writer Ted Chiang argued in The New Yorker that AI \"isn't going to make art,\" claiming that art requires making numerous intentional choices. He contends that while photographers make sufficient decisions to be artists, AI users never will, and that generative AI lacks thought and intention.",
+            "zh": "关于AI能否创作真正艺术的辩论，围绕对创造力本身的根本分歧展开。科幻作家姜峯楠在《纽约客》上撰文称，AI「不会创造艺术」，因为艺术需要做出大量有意识的选择。他认为摄影师会做出足够的决定而成为艺术家，而AI使用者则永远不会，生成式AI缺乏思想和意图。",
+            "keywords": ["genuine art", "intentional choices", "generative AI", "thought", "photographers"],
+            "notes": [{"phrase": "centers on", "explain": "围绕……展开；以……为核心"}, {"phrase": "contends", "explain": "主张；声称"}]
+        },
+        {
+            "en": "The Atlantic critiques Chiang's position, arguing his framework is too limiting. The magazine points out that requiring extensive effort or numerous decisions to qualify as \"art\" impoverishes human creativity and ignores how artists have historically used tools. It notes that cameras, which automated realist painting, became legitimate artistic tools despite their automation.",
+            "zh": "《大西洋月刊》批评姜峯楠的立场，认为他的框架过于狭隘。该刊指出，将「艺术」的资格建立在大量努力或无数选择之上，会削弱人类创造力，并忽视艺术家历来如何使用工具。它提醒人们，相机曾使写实绘画自动化，但尽管其自动化性质，仍成为合法的艺术工具。",
+            "keywords": ["framework", "impoverish", "legitimate", "automation", "artistic tools"],
+            "notes": [{"phrase": "impoverish", "explain": "使……贫乏；削弱"}, {"phrase": "legitimate", "explain": "合法的；正当的"}]
+        },
+        {
+            "en": "Google researchers working on AI and creativity suggest these questions are not entirely new—artists have long debated attribution, sampling, and technique disclosure. They argue that the best AI-generated images often come from people with artistic backgrounds who understand composition and can envision desired outputs. Like other creative tools, AI is increasingly viewed as part of an artist's toolkit rather than a replacement for artistic skill.",
+            "zh": "研究AI与创造力的谷歌研究人员认为，这些问题并非全新——艺术家长期以来一直在争论归属、采样和技法披露。他们认为，最出色的AI生成图像往往来自具有艺术背景的人，他们理解构图并能够设想理想输出。与其他创意工具一样，AI越来越被视为艺术家工具包的一部分，而非艺术技能的替代品。",
+            "keywords": ["attribution", "composition", "envision", "toolkit", "artistic backgrounds"],
+            "notes": [{"phrase": "envision", "explain": "设想；预想"}, {"phrase": "toolkit", "explain": "工具包；一套可用工具"}]
+        },
+        {
+            "en": "The core tension lies in defining what makes art valuable. Is it the labour invested, the choices made, or the emotional response evoked in the audience? Critics of AI art often emphasise the absence of human agency—the machine merely follows prompts. Yet defenders argue that curation, refinement, and conceptual direction remain distinctly human acts that imbue AI-assisted works with meaning.",
+            "zh": "核心张力在于如何定义艺术的价值。是投入的劳动、做出的选择，还是激发观众的情感回应？AI艺术的批评者往往强调缺乏人类能动性——机器只是遵循指令。然而捍卫者认为，策展、精修和概念方向仍是人类特有的行为，为AI辅助作品赋予意义。",
+            "keywords": ["labour", "emotional response", "agency", "curation", "conceptual"],
+            "notes": [{"phrase": "evoke", "explain": "唤起；引发"}, {"phrase": "imbue", "explain": "灌输；使充满"}]
+        },
+        {
+            "en": "The debate ultimately reflects broader questions about what defines creativity and artistic value in an era of AI-assisted creation. As tools become more powerful, the boundary between human and machine contribution blurs. Some fear a future where \"art\" becomes mere algorithmic output; others welcome a democratisation of creative expression that allows more people to bring their visions to life.",
+            "zh": "这场辩论最终折射出在AI辅助创作时代，什么定义了创造力和艺术价值的更广泛问题。随着工具变得更加强大，人类与机器贡献的界限变得模糊。有人担心未来「艺术」沦为纯粹的算法输出；也有人欢迎创意表达的民主化，让更多人能够将自己的想象变为现实。",
+            "keywords": ["algorithmic", "democratisation", "boundary", "creative expression", "visions"],
+            "notes": [{"phrase": "blurs", "explain": "使模糊；变得不清晰"}, {"phrase": "democratisation", "explain": "民主化；使更多人能接触"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "genuine", "phonetic": "/ˈdʒenjuɪn/", "meaning": "真正的；真实的", "partOfSpeech": "adj.", "example": "The debate centres on whether AI can create genuine art."},
+        {"word": "contend", "phonetic": "/kənˈtend/", "meaning": "主张；声称", "partOfSpeech": "v.", "example": "Chiang contends that AI lacks thought and intention."},
+        {"word": "impoverish", "phonetic": "/ɪmˈpɒvərɪʃ/", "meaning": "使贫乏；削弱", "partOfSpeech": "v.", "example": "Narrow definitions can impoverish human creativity."},
+        {"word": "attribution", "phonetic": "/ˌætrɪˈbjuːʃn/", "meaning": "归属；作品归属权", "partOfSpeech": "n.", "example": "Artists have long debated attribution of creative works."},
+        {"word": "curation", "phonetic": "/kjʊəˈreɪʃn/", "meaning": "策展；精选", "partOfSpeech": "n.", "example": "Curation remains a distinctly human act in AI art."},
+        {"word": "evoke", "phonetic": "/ɪˈvəʊk/", "meaning": "唤起；引发", "partOfSpeech": "v.", "example": "Art aims to evoke emotional responses in the audience."},
+        {"word": "democratisation", "phonetic": "/dɪˌmɒkrətaɪˈzeɪʃn/", "meaning": "民主化", "partOfSpeech": "n.", "example": "AI could enable democratisation of creative expression."}
+    ],
+    "discussion_questions": [
+        {"en": "Does art require human intention and labour, or can AI-generated work that evokes emotion also be considered art?", "zh": "艺术是否必须有人类意图和劳动？还是能激发情感的AI生成作品也算艺术？"},
+        {"en": "How might AI art tools change the way we value and attribute creative work in the future?", "zh": "AI艺术工具可能如何改变我们未来对创意作品的价值与归属？"},
+        {"en": "Should AI-assisted art be labelled differently from fully human-created art?", "zh": "AI辅助艺术是否应与完全人类创作的艺术分开标注？"}
+    ]
+}

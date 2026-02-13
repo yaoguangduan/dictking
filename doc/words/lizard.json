@@ -1,0 +1,81 @@
+{
+  "word": "lizard",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈlɪzəd/",
+    "us": "/ˈlɪzərd/"
+  },
+  "definitions": [
+    {
+      "translation": "蜥蜴",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。指爬行纲蜥蜴目动物，四足、有尾、多为变温，常见于温暖干燥地区。",
+      "sentences": [
+        {"en": "A small lizard darted across the patio and hid under a rock.", "zh": "一只小蜥蜴窜过 patio，躲在石头下。"},
+        {"en": "Lizards are cold-blooded and often bask in the sun to regulate their temperature.", "zh": "蜥蜴是变温动物，常在阳光下晒太阳以调节体温。"},
+        {"en": "The desert is home to many species of lizard, including geckos and iguanas.", "zh": "沙漠是多种蜥蜴的家园，包括壁虎和鬣蜥。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "lizard skin",
+          "translation": "蜥蜴皮",
+          "pattern": "名词+名词",
+          "explain": "皮革或形容质感",
+          "sentences": [{"en": "The bag was made of lizard skin.", "zh": "这个包由蜥蜴皮制成。"}]
+        },
+        {
+          "collocation": "run like a lizard",
+          "translation": "像蜥蜴一样窜逃",
+          "pattern": "动词+介词短语",
+          "explain": "形容快速躲藏",
+          "sentences": [{"en": "When the cat appeared, the lizard ran like a lizard into the crack.", "zh": "猫一出现，蜥蜴就像蜥蜴一样窜进缝隙里。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "reptile": {"translation": "爬行动物", "diffs": "reptile 为上位词，泛指所有爬行动物；lizard 特指蜥蜴目"},
+        "gecko": {"translation": "壁虎", "diffs": "gecko 是 lizard 的一种，体型较小、能在墙面爬行"}
+      },
+      "antonyms": {},
+      "inflections": {"plural": "lizards"}
+    }
+  ],
+  "etymology": {
+    "origin": "源自拉丁语 lacertus（手臂，肌肉；古罗马也用来指蜥蜴），经古法语 lesard 传入中古英语为 lesarde，后演变为 lizard。",
+    "root": "拉丁语 lacerta（蜥蜴）",
+    "affixes": [],
+    "history": "lacerta 在拉丁语中既指蜥蜴，也与 lacertus（手臂/肌肉）有关，可能因蜥蜴的肢体形态而得名。经法语传入英语后拼写演变为 lizard。"
+  },
+  "related_words": {
+    "reptile": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "爬行动物",
+      "rule": "lizard 的上位词，蜥蜴属于爬行动物",
+      "sentences": [{"en": "Snakes and lizards are both reptiles.", "zh": "蛇和蜥蜴都是爬行动物。"}]
+    },
+    "gecko": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "壁虎",
+      "rule": "lizard 的一种，体型小、能爬墙",
+      "sentences": [{"en": "Geckos can climb smooth walls thanks to their specialized toe pads.", "zh": "壁虎凭借特殊的脚趾垫能爬上光滑的墙壁。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "a lizard animal",
+      "correct": "a lizard / a lizard species",
+      "explain": "lizard 本身即为动物名，不需再加 animal；若强调物种可用 lizard species。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "发音联想",
+      "content": "lizard 读如「利泽德」→ 蜥蜴身上鳞片光滑、色泽多变 → 联想到蜥蜴。"
+    }
+  ]
+}

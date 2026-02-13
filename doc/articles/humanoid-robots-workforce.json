@@ -1,0 +1,69 @@
+{
+    "title": "Humanoid Robots: Crossing the Chasm from Concept to Commercial Reality",
+    "title_zh": "人形机器人：从概念迈向商业现实的跨越",
+    "author": "McKinsey Advanced Industries",
+    "source": "McKinsey",
+    "created_at": "2025-10-15",
+    "difficulty": "medium",
+    "tags": ["robotics", "manufacturing", "automation", "humanoid", "workforce"],
+    "summary": "Humanoid robots have long captured imaginations but the gap between pilots and commercial scale remains wide. To cross the chasm, technology providers must build four bridges: safety for fenceless operations, sustained uptime, greater dexterity and mobility, and radical cost reduction.",
+    "summary_zh": "人形机器人长期以来激发了人们的想象，但试点与商业规模化之间仍存在巨大鸿沟。要跨越这一鸿沟，技术提供商必须搭建四座桥梁：无护栏操作的安全系统、持续运行时间、更高的灵巧性与移动性以及大幅成本削减。",
+    "paragraphs": [
+        {
+            "en": "Humanoid robots—machines that resemble people in size and shape—have long captured imaginations, offering visions of a future in which they seamlessly integrate into environments designed for humans. Unlike traditional robots optimized for single tasks, humanoids hold the promise of broad adaptability across a wide range of functions. In theory, they could one day serve many industries: assembling parts on production lines, transporting goods in warehouses, supporting nurses in hospitals, or stocking shelves in retail.",
+            "zh": "人形机器人——在尺寸和外形上与人类相似的机器——长期以来激发了人们的想象，描绘了它们无缝融入为人类设计环境的未来愿景。与传统只针对单一任务优化的机器人不同，人形机器人有望在广泛功能中实现适应性。理论上，它们有朝一日可服务于诸多行业：生产线装配零部件、仓库运输货物、医院辅助护士或零售店补货。",
+            "keywords": ["humanoid", "adaptability", "production lines", "warehouses", "retail"],
+            "notes": [{"phrase": "hold the promise of", "explain": "有望实现；具有...的潜力"}, {"phrase": "seamlessly integrate", "explain": "无缝融入；完美整合"}]
+        },
+        {
+            "en": "Today, however, the gap between what is technically demonstrated in pilots and what is commercially viable at scale remains wide. The prototypes capturing headlines are impressive but still far from delivering consistent, reliable, and economically justifiable performance in real-world settings. To cross the chasm from pilots to large-scale deployment, technology providers must build four bridges: safety systems for fenceless operations, sustained uptime, greater dexterity and mobility, and radical cost reduction.",
+            "zh": "然而，目前试点中技术展示的内容与商业规模化可行之间仍存在巨大鸿沟。占据头条的原型机令人印象深刻，但距离在真实场景中提供持续、可靠且经济上合理可行的表现仍相差甚远。要从试点走向大规模部署，技术提供商必须搭建四座桥梁：无护栏操作的安全系统、持续运行时间、更高灵巧性与移动性，以及大幅成本削减。",
+            "keywords": ["chasm", "pilots", "deployment", "fenceless", "uptime"],
+            "notes": [{"phrase": "cross the chasm", "explain": "跨越鸿沟；从早期采用者过渡到主流市场"}, {"phrase": "economically justifiable", "explain": "经济上合理；成本效益说得通"}]
+        },
+        {
+            "en": "The true promise of humanoids lies in coexisting freely alongside humans in workplaces and public spaces, rather than working behind barriers. That aspiration sets a higher bar for safety. The International Organization for Standardization has issued guidelines for robotics, but these focus on collaborative robot arms, not autonomous humanoids moving in unstructured settings. Stakeholders are now collaborating to create new guidelines—including ISO 25785-1—that define humanoid-specific requirements for fall mitigation, predictable behavior, and compliant interactions.",
+            "zh": "人形机器人的真正潜力在于在职场和公共空间中与人类自由共存，而非在护栏后工作。这一愿景对安全性提出了更高要求。国际标准化组织已发布机器人安全指南，但主要针对协作机械臂，而非在非结构化环境中移动的自主人形机器人。利益相关方现正合作制定新标准——包括ISO 25785-1——以定义跌倒缓解、可预测行为和合规交互的人形机器人专属要求。",
+            "keywords": ["coexisting", "barriers", "ISO", "unstructured", "compliance"],
+            "notes": [{"phrase": "sets a higher bar", "explain": "提高标准；设定更高门槛"}, {"phrase": "fall mitigation", "explain": "跌倒缓解；防止或减轻摔倒措施"}]
+        },
+        {
+            "en": "Most humanoids still run only two to four hours on a charge—far short of the eight to twelve hours that define real-world shifts. The primary blocker is the battery. Until OEMs can provide sustained uptime, humanoid deployments will be restricted to pilots. Two practical pathways are emerging: swappable battery packs that click in and out in minutes, and fast charging during planned breaks. Beyond the battery, more efficient transmissions, lighter structures, and better thermal design all help extend runtime.",
+            "zh": "大多数人形机器人的单次充电运行时间仅为两到四小时，远低于真实班次所需的八到十二小时。主要障碍在于电池。在原厂制造商能提供持续运行时间之前，人形机器人的部署将局限于试点。两条实用路径正在浮现：几分钟内即可拆卸更换的电池组，以及在计划休息期间的快速充电。除电池外，更高效的传动装置、更轻的结构和更好的热管理都有助于延长运行时间。",
+            "keywords": ["charge", "shift", "battery", "swappable", "thermal"],
+            "notes": [{"phrase": "primary blocker", "explain": "主要障碍；首要阻碍因素"}, {"phrase": "OEMs", "explain": "原厂制造商；Original Equipment Manufacturers 的缩写"}]
+        },
+        {
+            "en": "Dexterity and mobility remain the most technically daunting areas. Current humanoids fall far short of human capability. A human hand has roughly 20 to 27 degrees of freedom, enabling a wide repertoire of grasping and manipulation. Most robotic hands fall well short in effective DoF. Robotic actuators also lag far behind biological muscle in force density and control. The bottom line: until humanoids achieve greater mechanical bandwidth and smarter sensorimotor integration, they will remain confined to repetitive, low-complexity tasks in structured environments.",
+            "zh": "灵巧性与移动性仍是最具技术挑战性的领域。当前人形机器人远不及人类能力。人类手掌约有20至27个自由度，可实现多种抓握和操作。多数机械手在有效自由度上远远不足。机器人执行器在力量密度和控制方面也远落后于生物肌肉。结论是：在人形机器人实现更高机械带宽和更智能的感觉运动整合之前，它们将仅限于在结构化环境中执行重复、低复杂度的任务。",
+            "keywords": ["dexterity", "degrees of freedom", "actuators", "sensorimotor", "bandwidth"],
+            "notes": [{"phrase": "fall far short of", "explain": "远不及；相差甚远"}, {"phrase": "bottom line", "explain": "结论；要点总结"}]
+        },
+        {
+            "en": "If dexterity and safety define capability, cost defines viability. Driven by overengineered subsystems and immature supply chains, product costs for today's prototypes typically range from $150,000 to $500,000 per unit. For humanoids to compete with human labor across mainstream sectors, product costs must fall into the $20,000 to $50,000 range. Cost drivers include actuation (40–60 percent), perception and compute (10–20 percent), and mechanical structure (10–15 percent). Task-scoped architectures, modularized joints, and platform standardization could unlock broad commercial adoption.",
+            "zh": "如果说灵巧性和安全性决定能力，那么成本则决定可行性。由于过度设计的子系统和尚未成熟的供应链，当今原型的单台产品成本通常为15万至50万美元。人形机器人若要在主流行业与人工竞争，产品成本需降至2万至5万美元区间。成本驱动因素包括执行器（40–60%）、感知与计算（10–20%）和机械结构（10–15%）。任务定制的架构、模块化关节和平台标准化可能开启广泛的商业应用。",
+            "keywords": ["viability", "prototypes", "actuation", "supply chains", "modularized"],
+            "notes": [{"phrase": "overengineered", "explain": "过度设计；超出必要复杂程度的"}, {"phrase": "unlock", "explain": "开启；释放；使成为可能"}]
+        },
+        {
+            "en": "A wave of industrial pilots is defining where humanoids deliver value today. BMW pilots Figure AI's humanoid for intrafactory logistics. Mercedes-Benz uses Apptronik's Apollo for material transport. Amazon tests Agility's Digit in warehouse tote handling. In hazardous sites like refineries, humanoids perform inspection and monitoring—removing the need to place people in danger. Today's wins come from predictable routes and repeatable tasks, not from high-dexterity assembly. Crossing the chasm will not hinge solely on technology; it requires coordinated choices across OEMs, suppliers, end users, and investors.",
+            "zh": "一波工业试点正在界定人形机器人今天能创造价值的领域。宝马试用Figure AI的人形机器人进行厂内物流。梅赛德斯-奔驰使用Apptronik的Apollo进行物料运输。亚马逊在仓库试运行Agility的Digit进行料箱搬运。在炼油厂等危险场所，人形机器人承担巡检和监控，避免将人类置于危险之中。当前的成功来自可预测的路线和可重复的任务，而非高灵巧装配。跨越鸿沟不仅依赖技术，还需 OEM、供应商、终端用户和投资者之间的协调决策。",
+            "keywords": ["pilots", "logistics", "refineries", "inspection", "coordinated"],
+            "notes": [{"phrase": "hinge on", "explain": "取决于；关键在于"}, {"phrase": "tote handling", "explain": "料箱搬运；搬运周转箱"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "humanoid", "phonetic": "/ˈhjuːmənɔɪd/", "meaning": "类人的；人形的", "partOfSpeech": "adj./n.", "example": "Humanoid robots hold the promise of broad adaptability."},
+        {"word": "chasm", "phonetic": "/ˈkæzəm/", "meaning": "鸿沟；巨大差距", "partOfSpeech": "n.", "example": "Technology providers must cross the chasm from pilots to scale."},
+        {"word": "dexterity", "phonetic": "/dekˈsterəti/", "meaning": "灵巧；手巧", "partOfSpeech": "n.", "example": "Greater dexterity is needed for complex assembly tasks."},
+        {"word": "actuator", "phonetic": "/ˈæktʃueɪtər/", "meaning": "执行器；驱动装置", "partOfSpeech": "n.", "example": "Actuation accounts for 40–60% of humanoid robot costs."},
+        {"word": "uptime", "phonetic": "/ˈʌptaɪm/", "meaning": "正常运行时间；在线时间", "partOfSpeech": "n.", "example": "Sustained uptime is essential for shift-equivalent operation."},
+        {"word": "modularized", "phonetic": "/ˈmɒdjʊləraɪzd/", "meaning": "模块化的", "partOfSpeech": "adj.", "example": "Modularized joints reduce part count and assembly time."},
+        {"word": "pilot", "phonetic": "/ˈpaɪlət/", "meaning": "试点；试运行", "partOfSpeech": "n.", "example": "Humanoid deployments remain restricted to pilots."}
+    ],
+    "discussion_questions": [
+        {"en": "What are the four bridges humanoid robots must build to achieve commercial scale, and which do you think is hardest?", "zh": "人形机器人要实现商业规模化必须搭建哪四座桥梁？你认为哪一座最难？"},
+        {"en": "Why might humanoids be better suited for hazardous industrial sites than traditional robots?", "zh": "为何人形机器人可能比传统机器人更适合危险工业场所？"},
+        {"en": "How might regional ecosystems (China, North America, Europe) shape the race to deploy humanoids?", "zh": "不同地区生态系统（中国、北美、欧洲）可能如何影响人形机器人部署的竞争格局？"}
+    ]
+}

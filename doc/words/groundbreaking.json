@@ -1,0 +1,92 @@
+{
+  "word": "groundbreaking",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/ˈɡraʊndbreɪkɪŋ/",
+    "us": "/ˈɡraʊndbreɪkɪŋ/"
+  },
+  "definitions": [
+    {
+      "translation": "开创性的；突破性的；开拓性的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "形容在某一领域首次取得重大突破或开创先河的事物。常用于研究、技术、艺术等语境。",
+      "sentences": [
+        {"en": "Their groundbreaking research changed how we understand the disease.", "zh": "他们开创性的研究改变了我们对这种疾病的理解。"},
+        {"en": "The film was groundbreaking in its use of special effects.", "zh": "这部电影在特效运用上具有突破性。"},
+        {"en": "She published a groundbreaking paper on quantum computing.", "zh": "她发表了一篇关于量子计算的开创性论文。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "groundbreaking research",
+          "translation": "开创性研究",
+          "pattern": "形容词+名词",
+          "explain": "学术、科学领域常用",
+          "sentences": [{"en": "The team's groundbreaking research won international acclaim.", "zh": "该团队的开创性研究赢得了国际赞誉。"}]
+        },
+        {
+          "collocation": "groundbreaking work",
+          "translation": "开创性工作",
+          "pattern": "形容词+名词",
+          "explain": "泛指开创性成就",
+          "sentences": [{"en": "Einstein's groundbreaking work revolutionized physics.", "zh": "爱因斯坦的开创性工作彻底改变了物理学。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "pioneering": {
+          "translation": "开创性的；开拓的",
+          "diffs": "pioneering 强调率先探索；groundbreaking 强调打破常规、取得突破",
+          "sentences": [{"en": "Pioneering work in aviation paved the way for modern flight.", "zh": "航空领域的开创性工作为现代飞行铺平了道路。"}]
+        },
+        "innovative": {
+          "translation": "创新的",
+          "diffs": "innovative 泛指新方法；groundbreaking 程度更强，指开创全新领域",
+          "sentences": [{"en": "The company is known for its innovative products.", "zh": "这家公司以其创新产品闻名。"}]
+        }
+      },
+      "antonyms": {
+        "conventional": {"translation": "常规的；传统的", "diffs": "按既有方式，无突破"},
+        "unoriginal": {"translation": "缺乏独创性的", "diffs": "groundbreaking 的反面"}
+      },
+      "inflections": {}
+    }
+  ],
+  "etymology": {
+    "origin": "来自 ground（土地）+ break（破土）+ -ing，原指“破土动工”；引申为“开辟新领域、开创先河”。",
+    "root": "ground（地）+ break（破）",
+    "affixes": ["-ing（形容词后缀）"],
+    "history": "groundbreaking 原为建筑用语“破土”，后引申为“在某一领域开创新局面”。"
+  },
+  "related_words": {
+    "groundbreaker": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "开创者；开拓者",
+      "rule": "groundbreaking 的名词形式",
+      "sentences": [{"en": "She is a groundbreaker in the field of renewable energy.", "zh": "她是可再生能源领域的开创者。"}]
+    },
+    "break new ground": {
+      "class": {"en": "phrase", "en_s": "phr.", "ch": "短语"},
+      "translation": "开辟新领域；开创新局面",
+      "rule": "groundbreaking 对应的动词短语",
+      "sentences": [{"en": "The project broke new ground in medical imaging.", "zh": "该项目在医学影像领域开辟了新天地。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "ground-breaking",
+      "correct": "groundbreaking",
+      "explain": "groundbreaking 通常连写，不用连字符；若强调可接受 ground-breaking，但前者更常见。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词源记忆",
+      "content": "ground（土地）+ break（破土）+ -ing → 像建筑破土动工一样“破土”开创新领域 → 开创性的、突破性的。"
+    }
+  ]
+}

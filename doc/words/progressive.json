@@ -1,0 +1,129 @@
+{
+  "word": "progressive",
+  "created_at": "2026-02-12T08:00:00Z",
+  "phonetic": {
+    "uk": "/prəˈɡresɪv/",
+    "us": "/prəˈɡresɪv/"
+  },
+  "definitions": [
+    {
+      "translation": "进步的；渐进的；逐步发展的",
+      "partOfSpeech": {
+        "en": "adjective",
+        "en_simple": "adj.",
+        "ch": "形容词"
+      },
+      "usage_note": "可作定语或表语。指支持进步、改革，或指逐渐发生、累积的过程。常用于政治、教育、医学等语境。",
+      "sentences": [
+        {"en": "She holds progressive views on social issues.", "zh": "她在社会问题上持进步观点。"},
+        {"en": "The patient showed progressive improvement over the weeks.", "zh": "患者数周来呈现出逐步好转。"},
+        {"en": "Progressive taxation means higher earners pay more.", "zh": "累进税制意味着高收入者缴纳更多税款。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "progressive party",
+          "translation": "进步政党",
+          "pattern": "形容词+名词",
+          "explain": "政治常用",
+          "sentences": [{"en": "The progressive party advocates for environmental protection.", "zh": "该进步政党倡导环境保护。"}]
+        },
+        {
+          "collocation": "progressive disease",
+          "translation": "进行性疾病",
+          "pattern": "形容词+名词",
+          "explain": "医学术语，指逐渐恶化的疾病",
+          "sentences": [{"en": "Progressive diseases require long-term management.", "zh": "进行性疾病需要长期管理。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "gradual": {
+          "translation": "逐渐的",
+          "diffs": "gradual 仅指渐进；progressive 可兼指支持进步或 gradual",
+          "sentences": [{"en": "We made gradual progress on the project.", "zh": "我们在项目上取得了逐步进展。"}]
+        },
+        "liberal": {
+          "translation": "开明的，自由的",
+          "diffs": "liberal 侧重宽容开放；progressive 侧重改革、进步",
+          "sentences": [{"en": "The university has a liberal arts curriculum.", "zh": "该大学设有通识教育课程。"}]
+        }
+      },
+      "antonyms": {
+        "conservative": {"translation": "保守的", "diffs": "反对激进改革"},
+        "regressive": {"translation": "倒退的；退化的", "diffs": "与 progressive 相对"}
+      },
+      "inflections": {
+        "comparative": "more progressive",
+        "superlative": "most progressive"
+      }
+    },
+    {
+      "translation": "进步人士；进步派",
+      "partOfSpeech": {
+        "en": "noun",
+        "en_simple": "n.",
+        "ch": "名词"
+      },
+      "usage_note": "可数名词。指支持社会进步、改革的人。",
+      "sentences": [
+        {"en": "The progressives in the party pushed for climate action.", "zh": "党内进步人士推动气候行动。"},
+        {"en": "He has always been a progressive on civil rights.", "zh": "他在民权问题上一直是进步派。"},
+        {"en": "Progressives and conservatives often disagree on policy.", "zh": "进步派与保守派在政策上常有分歧。"}
+      ],
+      "collocations": [
+        {
+          "collocation": "a progressive",
+          "translation": "一位进步人士",
+          "pattern": "冠词+名词",
+          "explain": "泛指支持进步的人",
+          "sentences": [{"en": "She describes herself as a progressive.", "zh": "她自称是进步人士。"}]
+        }
+      ],
+      "phrases": [],
+      "synonyms": {
+        "reformer": {"translation": "改革派", "diffs": "侧重倡导改革"},
+        "liberal": {"translation": "自由派", "diffs": "可指政治立场相近者"}
+      },
+      "antonyms": {
+        "conservative": {"translation": "保守派", "diffs": "反对激进变革"}
+      },
+      "inflections": {
+        "plural": "progressives"
+      }
+    }
+  ],
+  "etymology": {
+    "origin": "源自拉丁语 progressīvus，来自 prōgredī（前进），由 prō-（向前）+ gradī（走）组成。",
+    "root": "gress-（走，步）",
+    "affixes": ["pro-（前缀：向前）", "-ive（形容词后缀）"],
+    "history": "pro- 表“向前”，gress 表“走”，合为“向前进”，引申为“进步的、渐进的”。"
+  },
+  "related_words": {
+    "progress": {
+      "class": {"en": "noun", "en_s": "n.", "ch": "名词"},
+      "translation": "进步；进展",
+      "rule": "progressive 的词根名词",
+      "sentences": [{"en": "We have made good progress on the research.", "zh": "我们在研究上取得了良好进展。"}]
+    },
+    "progressively": {
+      "class": {"en": "adverb", "en_s": "adv.", "ch": "副词"},
+      "translation": "逐渐地；越来越",
+      "rule": "progressive 的副词形式",
+      "sentences": [{"en": "The situation became progressively worse.", "zh": "局势变得越来越糟糕。"}]
+    }
+  },
+  "idioms": [],
+  "common_mistakes": [
+    {
+      "wrong": "progressive more",
+      "correct": "more progressive",
+      "explain": "progressive 为多音节形容词，比较级用 more progressive，不用 progressive-er。"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "词根记忆",
+      "content": "pro-（向前）+ gress（走）+ -ive → 向前走的 → 进步的、渐进的。"
+    }
+  ]
+}

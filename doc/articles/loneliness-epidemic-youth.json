@@ -1,0 +1,64 @@
+{
+    "title": "Teens Are the Loneliest People in the World: Understanding the Youth Loneliness Epidemic",
+    "title_zh": "青少年是世界上最孤独的群体：理解年轻人的孤独流行病",
+    "author": "Jennifer Vilcarino",
+    "source": "Education Week / WHO",
+    "created_at": "2025-08-05T00:00:00Z",
+    "difficulty": "medium",
+    "tags": ["loneliness", "mental health", "teens", "social media", "wellbeing"],
+    "summary": "Teenagers experience more loneliness than any other age group worldwide. A 2025 WHO report found 20.9% of 13- to 17-year-olds feel lonely. Lonely teens are 22% more likely to get lower grades. Contributing factors include pandemic aftermath, reduced in-person time with friends, and social media experiences like being unfriended or cyberbullied.",
+    "summary_zh": "青少年比全球任何其他年龄段更常感到孤独。2025年世卫组织报告发现，20.9%的13至17岁青少年感到孤独。孤独的青少年获得较低成绩的可能性高出22%。促成因素包括疫情余波、与朋友见面时间减少以及被取关或网络霸凌等社交媒体经历。",
+    "paragraphs": [
+        {
+            "en": "Loneliness affects people of any age, but rates are highest among teenagers. According to the latest report by the World Health Organization's Commission on Social Connection, one in six people worldwide are affected by loneliness, and the percentage is highest among 13- to 17-year-olds at 20.9%. Teens who reported feeling lonely were 22% more likely to get lower grades in school. This suggests that loneliness is not just an emotional experience but one with real academic consequences.",
+            "zh": "孤独影响任何年龄段的人，但青少年中的比例最高。根据世界卫生组织社会连接委员会的最新报告，全球六分之一的人受到孤独影响，13至17岁青少年的比例最高，达20.9%。报告感到孤独的青少年在学校获得较低成绩的可能性高出22%。这表明孤独不仅是情感体验，还会产生实际的学业后果。",
+            "keywords": ["loneliness", "prevalence", "academic", "consequences", "commission"],
+            "notes": [{"phrase": "Commission on Social Connection", "explain": "社会连接委员会"}, {"phrase": "academic consequences", "explain": "学业后果"}]
+        },
+        {
+            "en": "Some experts point to smartphones as a main culprit for the uptick in loneliness, but past research shows that owning one is not necessarily the issue. What matters more is how young people use their devices. Kids using their phones to be active on social media is what can result in mental health problems. For example, being unfriended on social media or getting bullied for posting a picture online could lead to feelings of depression or anxiety.",
+            "zh": "一些专家将智能手机指为孤独率上升的主要元凶，但过往研究表明，拥有手机本身不一定是问题。更重要的是年轻人如何使用设备。孩子用手机活跃于社交媒体可能导致心理健康问题。例如，在社交媒体上被取关或因为发照片而受到霸凌，可能导致抑郁或焦虑感。",
+            "keywords": ["uptick", "culprit", "unfriended", "cyberbullied", "depression"],
+            "notes": [{"phrase": "uptick", "explain": "上升、增加"}, {"phrase": "unfriended", "explain": "被取关、被删除好友"}]
+        },
+        {
+            "en": "Rates of loneliness have increased since the pandemic. Teenagers are spending less time hanging out with friends in person than they did a decade or two ago. Alana Officer, who worked on the WHO report, says loneliness \"has really serious impacts.\" It can harm both physical and mental health, and it reduces life expectancy. The disconnect between the social connections young people have and those they want or feel they need drives these high rates.",
+            "zh": "疫情以来孤独率有所上升。青少年与朋友面对面相处的时间比一二十年前减少。参与世卫组织报告的阿拉娜·奥菲瑟表示，孤独「具有非常严重的影响」。它可能损害身心健康，并缩短预期寿命。年轻人拥有的社会连接与他们想要或感觉需要的连接之间的脱节，推高了这些比例。",
+            "keywords": ["life expectancy", "disconnect", "physical", "mental", "impact"],
+            "notes": [{"phrase": "life expectancy", "explain": "预期寿命"}, {"phrase": "disconnect", "explain": "脱节，指社会连接与期望之间的差距"}]
+        },
+        {
+            "en": "It is important to distinguish between loneliness and social isolation. Social isolation is the objective state of having few relationships or few social interactions—something easily quantified, like how many friends you have. Loneliness is a more subjective state. It is a distressing experience that arises from the discrepancy between the social connections you do have and those you want or feel you really need. Young people tend to have more frequent social interactions at school, yet they report higher rates of loneliness.",
+            "zh": "区分孤独和社会隔离很重要。社会隔离是人际关系或社交互动少的客观状态——容易量化，如有多少朋友。孤独是一种更主观的状态。它是因现有社会连接与想要或感觉真正需要的连接之间的差距而产生的痛苦体验。年轻人往往在学校有更频繁的社交互动，却报告更高的孤独率。",
+            "keywords": ["isolation", "subjective", "discrepancy", "objective", "quantified"],
+            "notes": [{"phrase": "social isolation", "explain": "社会隔离，缺少社交接触"}, {"phrase": "discrepancy", "explain": "差距、不一致"}]
+        },
+        {
+            "en": "Excessive use of digital platforms might reduce the quality and quantity of in-person interactions, which are essential for healthy social development. There is evidence that frequent social media use can increase the likelihood of social isolation and loneliness. It can lead to unhealthy social comparisons, exposure to misinformation, and negative behaviours like cyberbullying. However, when used to connect with friends and family, digital technologies can strengthen existing relationships and provide a sense of belonging.",
+            "zh": "过度使用数字平台可能降低面对面互动的质量和数量，而这对健康的社会发展至关重要。有证据表明，频繁使用社交媒体可能增加社会隔离和孤独的可能性。它可能导致不健康的社会比较、接触错误信息以及网络霸凌等负面行为。然而，当用于与朋友和家人联系时，数字技术可以加强现有关系并带来归属感。",
+            "keywords": ["digital platforms", "misinformation", "cyberbullying", "belonging", "comparisons"],
+            "notes": [{"phrase": "social comparisons", "explain": "社会比较，与他人比较"}, {"phrase": "sense of belonging", "explain": "归属感"}]
+        },
+        {
+            "en": "Adolescence is a uniquely sensitive period for loneliness due to identity formation, changing relationship dynamics, and heightened sensitivity to peer evaluation. The U.S. Surgeon General has labelled loneliness and social isolation a national \"epidemic.\" Schools and families must ask critical questions: Are digital technologies needed for education? What do these tools bring to the learning process? Addressing the youth loneliness crisis will require coordinated efforts across communities.",
+            "zh": "由于身份形成、人际关系动态变化以及对同伴评价的高度敏感，青春期是孤独的独特敏感期。美国卫生局长将孤独和社会隔离列为国家「流行病」。学校和家庭必须提出关键问题：教育是否需要数字技术？这些工具为学习过程带来什么？解决青少年孤独危机需要社区之间的协调努力。",
+            "keywords": ["adolescence", "identity", "Surgeon General", "epidemic", "coordinated"],
+            "notes": [{"phrase": "Surgeon General", "explain": "卫生局长，美国最高公共卫生官员"}, {"phrase": "identity formation", "explain": "身份形成"}]
+        }
+    ],
+    "vocabulary": [
+        {"word": "loneliness", "phonetic": "/ˈləʊnlinəs/", "meaning": "孤独", "partOfSpeech": "n.", "example": "Loneliness affects people of all ages."},
+        {"word": "epidemic", "phonetic": "/ˌepɪˈdemɪk/", "meaning": "流行病、蔓延", "partOfSpeech": "n.", "example": "Loneliness has been called a national epidemic."},
+        {"word": "cyberbullying", "phonetic": "/ˈsaɪbəbʊliɪŋ/", "meaning": "网络霸凌", "partOfSpeech": "n.", "example": "Cyberbullying can cause depression and anxiety."},
+        {"word": "discrepancy", "phonetic": "/dɪsˈkrepənsi/", "meaning": "差距、不一致", "partOfSpeech": "n.", "example": "There is a discrepancy between expectation and reality."},
+        {"word": "subjective", "phonetic": "/səbˈdʒektɪv/", "meaning": "主观的", "partOfSpeech": "adj.", "example": "Loneliness is a subjective experience."},
+        {"word": "belonging", "phonetic": "/bɪˈlɒŋɪŋ/", "meaning": "归属感", "partOfSpeech": "n.", "example": "A sense of belonging is important for mental health."},
+        {"word": "uptick", "phonetic": "/ˈʌptɪk/", "meaning": "上升、增加", "partOfSpeech": "n.", "example": "There has been an uptick in teen loneliness."},
+        {"word": "adolescence", "phonetic": "/ˌædəˈlesns/", "meaning": "青春期", "partOfSpeech": "n.", "example": "Adolescence is a sensitive period for identity formation."}
+    ],
+    "discussion_questions": [
+        {"en": "Do you think social media helps or hurts young people's sense of connection? Give examples.", "zh": "你认为社交媒体是帮助还是伤害年轻人的连接感？举例说明。"},
+        {"en": "What can schools do to reduce loneliness among students?", "zh": "学校可以采取什么措施减少学生中的孤独感？"},
+        {"en": "Why might teenagers feel lonely even when they have many online \"friends\"?", "zh": "为什么青少年即使有很多在线「朋友」仍可能感到孤独？"}
+    ]
+}
